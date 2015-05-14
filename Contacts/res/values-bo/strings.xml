@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="contacts_group_name_exist">འབྲེལ་གཏུག་པ་ཚོ་བགོས་མིང་གནས་འདུག</string>
+  <string name="contactsList">འཕྲིན་སྐྱེལ་ཟིན་ཐོ།</string>
+  <string name="launcherDialer">ཁ་པར།</string>
+  <string name="shortcutContact">འབྲེལ་གཏུག་རྣམ་པ།</string>
+  <string name="shortcutDialContact">ཐད་ཀར་བརྒྱབ་པ།</string>
+  <string name="shortcutMessageContact">ཐད་ཀར་འཕྲིན་ཐུང་བསྐུར་སྐྱེལ།</string>
+  <string name="shortcutActivityTitle">འབྲེལ་གཏུ་པའི་མྱུར་ལམ་འདེམས་པ།</string>
+  <string name="callShortcutActivityTitle">ཐད་ཀར་ཨང་འབོད་ཐུབ་པའི་ཨང་གྲངས་ཞིག་འདེམས་པ།</string>
+  <string name="messageShortcutActivityTitle">ཐད་ཀར་འཕྲིན་ཐུང་བསྐུར་སྐྱེལ་ཐུབ་པའི་ཨང་གྲངས་ཞིག་འདེམས་པ།</string>
+  <string name="starredList">སྐར་རྟགས་སྣོན་ཟིན།</string>
+  <string name="frequentList">རྟག་ཏུ་འབྲེལ་གཏུག</string>
+  <string name="strequentList">བསྡུ་ཉར།</string>
+  <string name="viewContactTitle">འབྲེལ་གཏུག་པའི་ཞིབ་ཕྲའི་གནས་ཚུལ།</string>
+  <string name="viewContactDesription">འབྲེལ་གཏུག་པར་ལྟ་ཞིབ།</string>
+  <string name="editContactDescription">འབྲེལ་གཏུག་པ་རྩོམ་སྒྲིག</string>
+  <string name="insertContactDescription">འབྲེལ་གཏུག་པ་གསར་འཛུགས།</string>
+  <string name="searchHint">འབྲེལ་གཏུག་པ་འཚོལ་བཤེར།</string>
+  <string name="menu_newContact">འབྲེལ་གཏུག་པ་གསར་འཛུགས།</string>
+  <string name="menu_viewContact">འབྲེལ་གཏུག་པར་ལྟ་ཞིབ།</string>
+  <string name="menu_addStar">བསྡུ་ཉར་དུ་ཁ་སྣོན།</string>
+  <string name="menu_removeStar">བསྡུ་ཉར་ནས་སུབ་པ།</string>
+  <string name="menu_editContact">འབྲེལ་གཏུག་པ་རྩོམ་སྒྲིག</string>
+  <string name="menu_deleteContact">འབྲེལ་གཏུག་པ་སུབ་པ།</string>
+  <string name="menu_call">འབྲེལ་གཏུག་པར་སྐད་འབོད།</string>
+  <string name="menu_sendSMS">འབྲེལ་གཏུག་པར་འཕྲིན་ཐུང་བསྐུར་སྐྱེལ།</string>
+  <string name="menu_splitAggregate">འཕྲལ་བ།</string>
+  <string name="splitConfirmation_title">འབྲེལ་གཏུག་པ་འཕྲལ་བ།</string>
+  <string name="splitConfirmation">སྣ་གཅིག་འབྲེལ་གཏུག་པ་སྣ་མང་དུ་འཕྲལ་ལམ།（དེའི་ནང་ཚུད་པའི་འབྲེལ་གཏུག་ཆ་འཕྲིན་འབྲེལ་གཏུག་པ་རེར་ཐོད་གཏུག་བྱེད།）</string>
+  <string name="menu_joinAggregate">མཉམ་སྒྲིལ།</string>
+  <string name="titleJoinContactDataWith">འབྲེལ་གཏུག་པ་མཉམ་སྒྲིལ།</string>
+  <string name="blurbJoinContactDataWith"><xliff:g id="NAME">%s</xliff:g>དང་འབྲེལ་གཏུག་པ་མཉམ་སྒྲིལ་འདེམས་པ།</string>
+  <string name="showAllContactsJoinItem">འབྲེལ་གཏུག་པ་ཡོད་ཚད་མངོན་པ།</string>
+  <string name="separatorJoinAggregateSuggestions">བསམ་འཆར་གྱི་འབྲེལ་གཏུག་པ།</string>
+  <string name="separatorJoinAggregateAll">འབྲེལ་གཏུག་པ་ཡོད་ཚད།</string>
+  <string name="contactsJoinedMessage">འབྲེལ་གཏུག་པ་མཉམ་སྒྲིལ་བྱས་ཟིན།</string>
+  <string name="deleteConfirmation_title">སུབ་པ།</string>
+  <string name="readOnlyContactWarning">ཀློག་ཙམ་ཡིན་པའི་བཀོལ་མིང་ནང་གི་འབྲེལ་གཏུག་པ་སུབ་མི་ཐུབ། འོན་ཀྱང་ཁྱེད་ཀྱི་འབྲེལ་གཏུག་པའི་གསལ་ཐོའི་ནང་ཡིབ་ཐུབ།</string>
+  <string name="readOnlyContactDeleteConfirmation">འབྲེལ་གཏུག་པ་འདིའི་ཆ་འཕྲིན་ནང་བཀོལ་མིང་མང་པོ་ནས་ཡོང་བའི་ཆ་འཕྲིན་ཚུད་འདུག ཀློག་ཙམ་ཡིན་པའི་བཀོལ་མིང་གི་ཆ་འཕྲིན་ཁྱེད་ཀྱི་འབྲེལ་གཏུག་པའི་གསལ་ཐོའི་ནང་ཡིབ་པ་ལས་སུབ་ཀྱི་མ་རེད།</string>
+  <string name="multipleContactDeleteConfirmation">འབྲེལ་གཏུག་པ་འདི་སུབ་ན་བཀོལ་མིང་མང་པོའི་ཆ་འཕྲིན་ཡང་སུབ་ཀྱི་རེད།</string>
+  <string name="deleteConfirmation">འབྲེལ་གཏུག་པ་འདི་སུབ་རྒྱུ།</string>
+  <string name="invalidContactMessage">འབྲེལ་གཏུག་པ་འདི་མི་གནས།</string>
+  <string name="pickerNewContactHeader">འབྲེལ་གཏུག་པ་གསར་འཛུགས།</string>
+  <string name="customLabelPickerTitle">རང་བཟོས་གདོང་འཛར་གྱི་མིང་།</string>
+  <string name="send_to_voicemail_checkbox">ཁ་པར་ཡོང་བ་ཐད་ཀར་སྐད་འཇོག་སྒམ་ནང་དུ་སྤོ་བ།</string>
+  <string name="noContacts">འབྲེལ་གཏུག་པ་མེད།</string>
+  <string name="savingContact">འབྲེལ་གཏུག་པ་ཉར་ཚགས་བྱེབ་བཞིན་པ།...</string>
+  <string name="contactSavedToast">འབྲེལ་གཏུག་པ་འདི་ཉར་ཚགས་བྱས་ཟིན།</string>
+  <string name="contactSavedErrorToast">ནོར་འཁྲུལ་འདོན་སོང་བས་འབྲེལ་གཏུག་པའི་བཟོ་བཅོས་ཉར་ཚགས་མི་ཐུབ།</string>
+  <string name="listTotalPhoneContactsZero">མངོན་པའི་འབྲེལ་གཏུག་པ་ཚང་མར་ཨང་གྲངས་མི་འདུག</string>
+  <string name="listFoundAllContactsZero">འབྲེལ་གཏུག་པ་མ་རྙེད།</string>
+  <string name="recentCallsIconLabel">ཁ་པར་གཏོང་ལེན་ཟིན་ཐོ།</string>
+  <string name="recentCalls_empty">གཏོང་ལེན་ཟིན་ཐོ་སྟོང་པ་རེད།</string>
+  <string name="callBack">ཕྱིར་ལོག་ཁ་པར།</string>
+  <string name="callAgain">བསྐྱར་གཏོང་།</string>
+  <string name="returnCall">ཕྱིར་འབོད།</string>
+  <string name="add_contact_dlg_title">འབྲེལ་གཏུག་པ་ཁ་སྣོན།</string>
+  <string name="add_contact_dlg_message_fmt"><xliff:g id="EMAIL">%s</xliff:g>འབྲེལ་གཏུག་པའི་ནང་ཁ་སྣོན་བྱེད།?</string>
+  <string name="description_contact_photo">འབྲེལ་གཏུག་པའི་འདྲ་པར།</string>
+  <string name="description_plus_button">ཁ་སྣོན།</string>
+  <string name="searching_vcard_title">vCardའཚོལ་བཤེར་བྱེད་བཞིན་པ།</string>
+  <string name="exporting_contact_list_progress">འབྲེལ་གཏུག་པ་ཨང་<xliff:g id="CURRENT_NUMBER">%1$s</xliff:g> （ཁྱོན་ <xliff:g id="TOTAL_NUMBER">%2$s</xliff:g> ）</string>
+  <string name="search_settings_description">འབྲེལ་གཏུག་པའི་རུས་མིང་།</string>
+  <string name="quickcontact_missing_app">བཀོལ་སྤྱོད་འདི་ཐག་གཅོད་ཆོག་པའི་ཉེར་སྤྱོད་བྱ་རིམ་མ་རྙེད།</string>
+  <string name="menu_share">མཉམ་སྤྱོད།</string>
+  <string name="share_via">འབྲེལ་གཏུག་པ་མཉམ་སྤྱོད་བྱ་ཐབས།</string>
+  <string name="account_type_format"><xliff:g id="SOURCE">%1$s</xliff:g>འབྲེལ་གཏུག་པ།</string>
+  <string name="from_account_format"><xliff:g id="SOURCE">%1$s</xliff:g>ནས་ཡོང་བའི།</string>
+  <string name="use_photo_as_primary">འདྲ་པར་འདི་སྤྱོད་པ།</string>
+  <string name="contact_read_only"><xliff:g id="SOURCE">%1$s</xliff:g> འབྲེལ་གཏུག་པའི་ཆ་འཕྲིན་སྒྲིག་ཆས་འདིའི་ཐོག་རྩོམ་སྒྲི</string>
+  <string name="no_contact_details">འབྲེལ་གཏུག་པ་འདིའི་དེ་མིན་གྱི་ཆ་འཕྲིན་མི་འདུག</string>
+  <string name="display_options_sort_list_by">གསལ་ཐོ་རིམ་སྒྲིག་གཞི་འཛིན་ས།</string>
+  <string name="display_options_sort_by_given_name">མིང་།</string>
+  <string name="display_options_sort_by_family_name">རུས་མིང་།</string>
+  <string name="display_options_view_names_as">འབྲེལ་གཏུག་པའི་རུས་མིང་མངོན་ཐབས།</string>
+  <string name="display_options_view_given_name_first">མིང་སྔོན།</string>
+  <string name="display_options_view_family_name_first">རུས་མིང་རྗེས།</string>
+  <string name="search_bar_hint">འབྲེལ་གཏུག་པ་འཚོལ་བཤེར།</string>
+  <string name="take_photo">འདྲ་པར་ལེན་པ།</string>
+  <string name="pick_photo">པར་མཛོད་ནས་འདྲ་པར་འདེམས་པ།</string>
+  <string name="locale_change_in_progress">འབྲེལ་གཏུག་པའི་གསལ་ཐོ་གསར་སྒྱུར་བྱེད་བྱས་ནས་སྐད་ཡིག་དག་བཅོས་ཚུར་སྣང་ཡོང་བཞིན་པ། "\n\n"སྒུག་རོགས།...</string>
+  <string name="upgrade_in_progress">འབྲེལ་གཏུག་པའི་གསལ་ཐོ་གསར་སྒྱུར་བྱེད་བཞིན་པ། "\n\n"སྒུག་རོགས།...</string>
+  <string name="upgrade_out_of_memory">འབྲེལ་གཏུག་པ་རིམ་སྤར་བྱེད་བཞིན་ཡོད། "\n\n"རིམ་སྤར་བརྒྱུད་རིམ་ནང་ཁ་པར་ནང་གསོག་<xliff:g id="SIZE_IN_MEGABYTES">%d</xliff:g>Mbལྷག་དགོས། "\n\n"གཤམ་འོག་གདམ་ཚན་ནས་གཅིག་འདེམས་རོགས།</string>
+  <string name="upgrade_out_of_memory_uninstall">ཉེར་སྤྱོད་བྱ་རིམ་ཁ་ཤས་བཤིག་འདོན།</string>
+  <string name="upgrade_out_of_memory_retry">བསྐྱར་ནས་རིམ་སྤར་ཚོད་ལྟ།</string>
+  <string name="search_results_searching">འཚོལ་བཤེར་བྱེད་བཞིན་པ།...</string>
+  <string name="select_all">ཡོངས་འདེམས།</string>
+  <string name="export_to_sim">SIMཁཱ་རུ་ཕྱིར་འདྲེན།</string>
+  <string name="select_one">གཏོང་ལེན་ཟིན་ཐོ་གཅིག་འདེམས་དགོས།</string>
+  <string name="no_fast_dial">མིག་སྔའི་མཐེབ་གནོན་ལ་མྱུར་འབོད་ཨང་གྲངས་སྒྲིག་འགོད་བྱས་མེད།</string>
+  <string name="fast_dial_choose">མྱུར་འབོད་ཨང་གྲངས་བྱ་ཐབས་འདེམས་རོགས།</string>
+  <string name="fast_call">སྐད་གདངས་ཁ་པར།</string>
+  <string name="fast_vt_call">བརྙན་ཟློས་གཏོང་ལེན།</string>
+  <string name="export_contacts">འབྲེལ་གཏུག་པ་ཕྱིར་འདྲེན།</string>
+  <string name="people">འབྲེལ་གཏུག་མི་སྣ། </string>
+  <string name="contactPickerActivityTitle">འབྲེལ་གཏུག་མི་སྣ་འདམ།</string>
+  <string name="editGroupDescription">ཁྱུ་ཚོགས་བརྗེ་སྒྱུར།</string>
+  <string name="insertGroupDescription">ཚོགས་པ་གསར་བཟོ་བྱེད་པ། </string>
+  <string name="contactDetailAbout">འབྲེལ་ཡོད། </string>
+  <string name="contactDetailUpdates">རིམ་སྤར་གསར་ཤོས།</string>
+  <string name="video_callNumber_by_sim1">"བརྙན་ཟློས་འབོད་སྐུལ།<xliff:g id="NAME">%s</xliff:g> (SIM1)"</string>
+  <string name="video_callNumber_by_sim2">"བརྙན་ཟློས་འབོད་སྐུལ།<xliff:g id="NAME">%s</xliff:g> (SIM1)"</string>
+  <string name="video_menu_callNumber">"བརྙན་ཟློས་འབོད་སྐུལ།<xliff:g id="NAME">%s</xliff:g> "</string>
+  <string name="menu_add_favorite">ཉར་ཚགས་སུ་འབྲེལ་གཏུག་མི་སྣ་སྣོན།</string>
+  <string name="menu_copyToSim" msgid="9042415603857662633">SIM བྱང་བུར་འདྲ་བཤུས་རྒྱག</string>
+  <string name="menu_copyToPhone" msgid="9042415603857662633">ཁ་པར་དུ་འདྲ་བཤུས་རྒྱག</string>
+  <string name="menu_editGroup">རྩོམ་སྒྲིག</string>
+  <string name="menu_deleteGroup">སུབ་པ།</string>
+  <string name="menu_new_contact_action_bar">གསར་འཛུགས།</string>
+  <string name="menu_new_group_action_bar">གསར་འཛུགས།</string>
+  <string name="menu_set_ring_tone">དྲིལ་སྒྲ་སྒྲིག་འགོད་བྱེད།</string>
+  <string name="menu_redirect_calls_to_vm">སྐད་སྒྲའི་སྦྲག་སྒམ་དུ་སྦྲེལ།</string>
+  <string name="menu_discard">དོར་བ།</string>
+  <string name="pickerNewContactText">འབྲེལ་གཏུག་པ་གསར་འཛུགས།</string>
+  <string name="photoPickerNotFoundText" product="tablet">སྙོམས་ལེབ་གློག་ཀླད་སྟེང་དུ་འདོན་སྤྲོད་བྱས་ཆོག་པའི་འདྲ་པར་མི་འདུག</string>
+  <string name="photoPickerNotFoundText" product="default">ཁ་པར་ནང་འདྲ་པར་མི་འདུག</string>
+  <string name="attach_photo_dialog_title">འབྲེལ་གཏུག་པའི་འདྲ་པར།</string>
+  <string name="removePhoto">འདྲ་པར་སུབ།</string>
+  <string name="noGroups">ཁྱུ་ཚོགས་གང་ཡང་མེད།</string>
+  <string name="noAccounts">ཁྱུ་ཚོགས་འཛུགས་པར་རྩིས་ཐོ་དགོས།</string>
+  <string name="emptyGroup">ཁྱུ་ཚོགས་དེའི་ནང་དུ་འབྲེལ་གཏུག་མི་སྣ་མི་འདུག</string>
+  <string name="addPeopleToGroup">འབྲེལ་གཏུག་མི་སྣ་སྣོན་ཞིང་ཁྱུ་ཚོགས་སྒྲིག</string>
+  <string name="contactDeletedToast">འབྲེལ་གཏུག་མི་སྣ་དེ་བསུབས་ཟིན།</string>
+  <string name="groupSavedToast">ཁྱུ་ཚོགས་ཉར་ཚགས་བྱས་ཟིན།</string>
+  <string name="groupSavingToast">ཁྱུ་ཚོགས་ཀྱི་བརྗེ་སྒྱུར་ཨེན་ཙམ་གྱི་རྗེས་སུ་ཉར་ཚགས་བྱེད།</string>
+  <string name="groupSavedErrorToast">ཁྱུ་ཚོགས་ཀྱི་བརྗེ་སྒྱུར་ཉར་ཚགས་བྱེད་ཐབས་མི་འདུག</string>
+  <string name="listTotalEmailContactsZero">གློག་རྡུལ་སྦྲག་ཡིག་ཡོད་པའི་འབྲེལ་གཏུག་མི་སྣ་མི་འདུག</string>
+  <string name="listMaxContactsInAccount">སྤྱིའི་ཤོང་ཚད<xliff:g id="COUNT">%d</xliff:g>"</string>
+  <string name="contactsAllLabel">ཡོངས་འདེམས།</string>
+  <string name="contactsGroupsLabel">ཁྱུ་ཚོགས།</string>
+  <string name="copy">འདྲ་བཤུས།</string>
+  <string name="copy_to">རྩིས་ཐོ་རུ་འདྲ་བཤུས་རྒྱག</string>
+  <string name="reading_vcard_exception_title">vCard ཡི་དན་གྲངས་ཀློག་འབྲི་རྒྱུན་ལྡན་མ་བྱུང་།</string>
+  <string name="sqlite_full">འབྲེལ་གཏུག་མི་སྣའི་དན་གྲངས་མཛོད་དམ་སྡུད་སྡེར་ཁེངས་ཟིན།</string>
+  <string name="cancel_import_confirmation_title">vCard ནང་དུ་འདྲེན་པ་འདོར་རྒྱུ་ཡིན་ནམ།</string>
+  <string name="cancel_batch_import_confirmation">འབྲེལ་གཏུག་མི་སྣ་འདྲ་བཤུས་འདོར་རྒྱུ་ཡིན་ནམ།</string>
+  <string name="cancel_batch_delete_confirmation">འབྲེལ་གཏུག་མི་སྣ་བསུབས་པ་འདོར་རྒྱུ་ཡིན་ནམ།</string>
+  <string name="batch_operation_canceled">སྒྲིག་བཀོལ་དོར་ཟིན།</string>
+  <string name="cancel_export_confirmation_title">Vcard ནང་དུ་འདྲེན་པ་འདོར།</string>
+  <string name="menu_all_contacts">འབྲེལ་གཏུག་པ་ཡོད་ཚད།</string>
+  <string name="dialog_new_group_account">རྩིས་ཐོ་གང་གི་འོག་ཏུ་ཁྱུ་ཚོགས་འཛུགས་རྒྱུ་ཡིན།</string>
+  <string name="audio_chat">སྐད་སྒྲའི་ཁ་བརྡ།</string>
+  <string name="video_chat">བརྙན་ཟློས་ཁ་བརྡ།</string>
+  <string name="connections">སྦྲེལ་མཐུད།</string>
+  <string name="add_connection_button">སྦྲེལ་མཐུད་དམ་པོར་གཏོང་།</string>
+  <string name="recent" msgid="2062236709538790412">ཉེ་ལམ་གྱི་འགན་ཁུར།</string>
+  <string name="recent_updates" msgid="2018245636796411442">རིམ་སྤར་གསར་བ།</string>
+  <string name="group_read_only">སྒྲིག་ཆས་དེའི་སྟེང་དུ་སྒྱུར་བཅོས་གནང་ཐབས་མི་འདུག</string>
+  <string name="take_new_photo">པར་གསར་བ་ལེན།</string>
+  <string name="pick_new_photo">རིས་མཛོད་ནས་པར་རིས་གསར་བ་འདམ།</string>
+  <string name="menu_display_selected">བདམས་ཟིན་པའི་སྡུད་མཁན།</string>
+  <string name="menu_display_all">སྡུད་མཁན་ཚང་མ།</string>
+  <string name="menu_select_all">ཡོངས་སུ་འདེམས།</string>
+  <string name="menu_select_none">ཡོངས་སུ་བདམས་པ་འདོར།</string>
+  <string name="add_field">ཡིག་དུམ་གཞན་པ་སྣོན།</string>
+  <string name="add_new_entry_for_section">གསར་བ་སྣོན།</string>
+  <string name="add_organization">ལས་སྒྲུབ་ལས་ཁུངས་སྣོན།</string>
+  <string name="event_edit_field_hint_text">ཟླ་ཚེས། </string>
+  <string name="group_edit_field_hint_text">ཁྱུ་ཚོགས་མིང་།</string>
+  <string name="contact_status_update_attribution">ཐོན་ཁུངས <xliff:g id="source" example="Google Talk">%1$s</xliff:g></string>
+  <string name="contact_status_update_attribution_with_date"><xliff:g id="date" example="3 hours ago">%1$s</xliff:g> via <xliff:g id="source" example="Google Talk">%2$s</xliff:g></string>
+  <string name="description_star">ཉར་ཚགས།</string>
+  <string name="edit_contact">འབྲེལ་གཏུག་པ་རྩོམ་སྒྲིག</string>
+  <string name="aggregation_suggestion_join_dialog_title">འབྲེལ་གཏུག་པ་མཉམ་སྒྲིལ།</string>
+  <string name="aggregation_suggestion_join_dialog_message">མིག་མདུན་གྱི་འབྲེལ་གཏུག་མི་སྣ་དང་བདམས་པའི་འབྲེལ་གཏུག་མི་སྣ་མཉམ་སྒྲིག་བྱེད་དམ།</string>
+  <string name="aggregation_suggestion_edit_dialog_title">བདམས་པའི་འབྲེལ་གཏུག་མི་སྣ་སྒྲིག</string>
+  <string name="aggregation_suggestion_edit_dialog_message">བདམས་པའི་འབྲེལ་གཏུག་མི་སྣར་བརྗེ་སྤོར་བྱེད་རྒྱུ་ཡིན་ནམ། རྒྱུད་ཁོངས་ཀྱིས་ཁྱེད་ཀྱི་གཏགས་ཟིན་པའི་ཆ་འཕྲིན་ཡོད་ཚད་ལ་འདྲ་བཤུས་རྒྱག་ངེས་ཡིན།</string>
+  <string name="menu_copyContact">ངའི་འབྲེལ་གཏུག་མི་སྣའི་ཁྲོད་ལ་འདྲ་བཤུས་རྒྱག</string>
+  <string name="add_to_my_contacts">ངའི་འབྲེལ་གཏུག་མི་སྣར་སྣོན།</string>
+  <string name="contact_directory_description">དཀར་ཆག་རིགས <xliff:g id="type">%1$s</xliff:g></string>
+  <string name="toast_making_personal_copy">སྒེར་གྱི་འདྲ་བཤུས་འཛུགས་བཞིན་འདུག\u2026</string>
+  <string name="list_filter_custom">རང་འཇོག</string>
+  <string name="list_filter_emails">གློག་རྡུལ་སྦྲག་ཡིག་ཡོད་པའི་འབྲེལ་གཏུག་མི་སྣ་ཡོད་དགུ།</string>
+  <string name="list_filter_all_in_one">དན་གྲངས་ཡོད་པའི་འབྲེལ་གཏུག་མི་སྣ</string>
+  <string name="group_selection">འབྲེལ་གཏུག་ཁྱུ་ཚོགས་འདམ་ག</string>
+  <string name="contact_list_loading">ནང་འཇུག་བྱེད་བཞིན་པ།...</string>
+  <string name="activity_title_settings">སྒྲིག་འགོད།</string>
+  <string name="menu_settings" msgid="377929915873428211">སྒྲིག་འགོད།</string>
+  <string name="preference_displayOptions">Display options</string>
+  <string name="organization_company_and_title"><xliff:g id="company" example="Technical Program Manager">%2$s</xliff:g>, <xliff:g id="company" example="Google Inc.">%1$s</xliff:g></string>
+  <string name="non_phone_caption">ཁ་པར་ཨང་གྲངས། </string>
+  <string name="non_phone_add_to_contacts">འབྲེལ་གཏུག་པ་ཁ་སྣོན།</string>
+  <string name="activity_title_confirm_add_detail">འབྲེལ་གཏུག་མི་སྣའི་ཁྲོད་དུ་སྣོན།</string>
+  <string name="non_phone_close">ཁ་རྒྱག་པ།</string>
+  <string name="widget_name_and_phonetic"><xliff:g id="display_name" example="John Huber">%1$s</xliff:g> (<xliff:g id="phonetic_name">%2$s</xliff:g>)</string>
+  <string name="date_year_toggle">Provide a year</string>
+  <string name="social_widget_label">འབྲེལ་གཏུག་རྣམ་པ།</string>
+  <string name="social_widget_loading">ནང་འཇུག་བྱེད་བཞིན་པ།...</string>
+  <string name="contacts_unavailable_create_contact">འབྲེལ་གཏུག་མི་སྣ་གསར་བ་འཛུགས།</string>
+  <string name="contacts_unavailable_add_account">རྩི་ཐོ་ཐོ་འཇུག་བྱེད།</string>
+  <string name="contacts_unavailable_import_contacts">ཡིག་ཆ་ནས་འབྲེལ་གཏུག་མི་སྣ་ནང་དུ་འདྲེན</string>
+  <string name="create_group_dialog_title">ཁྱུ་ཚོགས་གསར་བ་འཛུགས</string>
+  <string name="create_group_item_label">[ཁྱུ་ཚོགས་གསར་བ་འཛུགས།]</string>
+  <string name="delete_group_dialog_title">ཁྱུ་ཚོགས་སུབ།</string>
+  <string name="delete_group_dialog_message">ཁྱུ་ཚོགས \"<xliff:g id="group_label" example="Friends">%1$s</xliff:g>\"སུབ་རྒྱུ་ཡིན་ནམ?
+      (འབྲེལ་གཏུག་མི་སྣ་རང་ཉིད་བསུབས་མི་སྲིད།)</string>
+  <string name="toast_join_with_empty_contact">འབྲེལ་གཏུག་མི་སྣའི་རུས་མིང་གཏགས་ནས་མི་གཞན་དང་མཉམ་སྒྲིལ་བྱེད།</string>
+  <string name="copy_text">དྲས་སྦྱར་པང་ལེབ་སྟེང་དུ་འདྲ་བཤུས་རྒྱག</string>
+  <string name="set_default">རང་ལེན་གྲངས་ཐང་སྒྲིག་འགོད་གནང་།</string>
+  <string name="clear_default">རང་ལེན་གྲངས་ཐང་གཙང་མར་སུབ།</string>
+  <string name="toast_text_copied">ཡིག་གཞིར་འདྲ་བཤུས་བརྒྱབས།</string>
+  <string name="cancel_confirmation_dialog_title">འདོར་རྒྱུ་ཡིན་ནམ།</string>
+  <string name="cancel_confirmation_dialog_message">ཁྱེད་ཀྱི་བརྗེ་སྒྱུར་འདོར་རྒྱུ་ཡིན་ནམ།</string>
+  <string name="call_type_and_date">
+        <xliff:g id="call_type" example="Friends">%1$s</xliff:g>  <xliff:g id="call_short_date" example="Friends">%2$s</xliff:g>
+    </string>
+  <string name="profile_display_name">རང་སྒེར་གྱི་ཡིག་ཆར་སྒྲིག་འགོད་གནང་།</string>
+  <string name="enter_contact_name">འབྲེལ་གཏུག་མི་སྣའི་རུས་མིང་གཏག</string>
+  <string name="group_name_hint">ཁྱུ་ཚོགས་མིང་།</string>
+  <string name="local_profile_title">ངའི་རང་སའི་སྒེར་གྱི་ཡིག་ཆ།</string>
+  <string name="external_profile_title">ངའི <xliff:g id="external_source">%1$s</xliff:g> སྒེར་གྱི་ཡིག་ཆ།</string>
+  <string name="toast_displaying_all_contacts">འབྲེལ་གཏུག་མི་སྣ་མཐའ་དག་འཆར།</string>
+  <string name="no_account_prompt">Google རྩིས་ཐོ་ཡོད་ན་བགོས་རོལ་གནང་བྱའི་རྩོལ་ནུས་དྲག་ཏུ་གཏོང་ཐུབ།\n\n\u2022 ཡིས་དྲ་རྒྱ་གང་རུང་གི་ལྟ་རགས་བརྒྱུད་ནས་བགོས་རོལ་བྱ་ཡུལ་རྙེད་ཐུབ།  \n\u2022 ཡིས་བདེ་འཇགས་ཀྱིས་ཁྱེད་ཀྱི་འབྲེལ་གཏུག་མི་སྣར་འདྲ་བཤུས་རྒྱག</string>
+  <string name="generic_no_account_prompt">ཁ་པར་བོར་ཡང་ཁྱེད་ཀྱི་འབྲེལ་གཏུག་མི་སྣའི་ཆ་འཕྲིན་གྱི་བདེ་འཇགས་རང་བཞིན་ལ་ཁག་ཐེག་བྱེད་དགོས ：སྐུད་གནས་འགྲོས་བསྟུན་གནང་།</string>
+  <string name="generic_no_account_prompt_title">རྩིས་ཐོ་སྣོན་པ། </string>
+  <string name="contact_editor_prompt_zero_accounts">རྒྱུད་ཁོངས་ཀྱིས་ཁྱེད་ཀྱི་འབྲེལ་གཏུག་མི་གསར་བར་འདྲ་བཤུས་རྒྱག་མི་སྲིད། སྐུད་གནས་འབྲེལ་གཏུག་མི་སྣར་སྣོན་དགོས་སམ།</string>
+  <string name="contact_editor_prompt_one_account">རྒྱུད་ཁོང་གིས་ཁྱེད་ཀྱི་འབྲེལ་གཏུག་མི་སྣ་དང་ <xliff:g id="account_name">%1$s</xliff:g>འགྲོས་བསྟུན་དུ་གཏོང་།</string>
+  <string name="contact_editor_prompt_multiple_accounts">ཁྱེད་ཀྱི་འབྲེལ་གཏུག་མི་སྣ་དང་གཤམ་གྱི་རྩིས་ཐོ་འགྲོས་བསྟུན་དུ་གཏོང་ཆོག སྤྱོད་དགོས་པའི་རྩིས་ཐོ་འདེམས་རོགས།</string>
+  <string name="keep_local">རང་སར་ཉར།</string>
+  <string name="add_account">རྩིས་ཐོ་ཁ་སྣོན།</string>
+  <string name="add_new_account">རྩིས་ཐོ་གསར་བ་སྣོན།</string>
+  <string name="dialog_phone_call_prohibited_title" msgid="4313552620858880999">འབོད་བརྡ་བསྐུར་མེད།</string>
+  <string name="dialog_voicemail_not_ready_title">སྐད་སྒྲའི་ཡིག་སྒྲོམ་ཨང་གྲངས་སྤྱོད་ཐབས་མི་འདུག</string>
+  <string name="delete_calls">སུབ་པ།</string>
+  <string name="delete_selected_calls">ཁྱེད་ཀྱིས་བདམས་པའི་ཁ་བརྡའི་ཟིན་ཐོ་ཡོད་ཚད་སུབ་རྒྱུ་ཡིན་ནམ།</string>
+  <string name="delete_all_calls_confirm">ཁྱེད་ཀྱིས་ཁ་བརྡའི་ཟིན་ཐོ་ཡོད་ཚད་སུབ་ཁོ་ཐག་ཡིན་ནམ།</string>
+  <string name="delete_calls_list">འདམ་པའི་ཁ་བརྡའི་ཟིན་ཐོ་སུབ།</string>
+  <string name="delete_all_calls">ཁ་བརྡའི་ཟིན་ཐོ་ཡོད་ཚད་སུབ།</string>
+  <string name="delete_success">མིང་ཐོ་ནག་པོ་ལས་བསུབས་ཟིན།</string>
+  <string name="menu_batch_delete">འབོར་གྲངས་སུབ་པ།</string>
+  <string name="label_sim">SIM བྱང་བུ།</string>
+  <string name="label_usim">SIM བྱང་བུ།</string>
+  <string name="label_phone">ཁ་པར།</string>
+  <string name="wait">ཕྲན་ཙམ་སྒུག་རོགས།...</string>
+  <string name="working">ཤད། </string>
+  <string name="working_batch_delete">སུབ་བཞིན་འདུག</string>
+  <string name="working_batch_import">འདྲ་བཤུས་རྒྱག་བཞིན་འདུག</string>
+  <string name="choose_sim_card">SIM བྱང་བུ་འདམ།</string>
+  <string name="violate_capacity">SIM བྱང་བའི་ཚད་བཅད་ཤོང་ཚད་ལས་བརྒལ།</string>
+  <string name="import_failed">འདྲ་བཤུས་ལེགས་འགྲུབ་མ་བྱུང་།</string>
+  <string name="import_failed_tmp"><xliff:g id="count">%d</xliff:g> ལེགས་འགྲུབ་བྱུང་།, <xliff:g id="count">%d</xliff:g>ལེགས་འགྲུབ་མ་བྱུང་།</string>
+  <string name="import_done">འབྲེལ་གཏུག་མི་སྣ་འདྲ་བཤུས་བརྒྱབས་པ་ལེགས་འགྲུབ་བྱུང་།</string>
+  <string name="delete_done">འབྲེལ་གཏུག་མི་སྣ་སུབ་པ་ལེགས་འགྲུབ་བྱུང་།</string>
+  <string name="toast_no_contact_selected">འབྲེལ་གཏུག་མི་སྣ་བདམས་མེད།</string>
+  <string name="contactSavedErrorToastNameLength">འབྲེལ་གཏུག་མི་སྣའི་མིང་རང་དྲགས།</string>
+  <string name="contactSavedErrorToastEmailLength">གློག་རྡུལ་སྦྲག་ཡིག་མིང་རིང་དྲགས།</string>
+  <string name="contactSavedErrorToastEmailFull">གློག་རྡུལ་སྦྲག་ཡིག་ཁེངས།</string>
+  <string name="sim_is_full">SIM བྱང་བུ་ཁེངས་ཟིན།</string>
+  <string name="menu_addToBlacklist">མིང་ཐོ་ནག་པོར་སྣོན།</string>
+  <string name="menu_view_calls">ལྟ་ཞིབ།</string>
+  <string name="item_all_calls">ཁ་བརྡའི་ཟིན་ཐོ་ཡོད་དགུ།</string>
+  <string name="item_sim1_calls">བྱང་བུ 1 ཁ་བརྡའི་ཟིན་ཐོ།</string>
+  <string name="item_sim2_calls">བྱང་བུ 2 ཁ་བརྡའི་ཟིན་ཐོ།</string>
+  <string name="res_name">རུས་མིང་།</string>
+  <string name="res_phone">ཁ་པར།</string>
+  <string name="res_email">སྦྲགས་ཡིག</string>
+  <string name="res_field">ཡིག་དུམ།</string>
+  <string name="alert_maybe_lost_info">འདྲ་བཤུས་བརྒྱུད་རིམ་དུ་འབྲེལ་གཏུག་མི་སྣ་ཁ་ཤས་ཀྱི་དན་གྲངས་འབོར་སྲིད།</string>
+  <string name="field_too_long">\'<xliff:g id="field">%s</xliff:g> རིང་དྲགས།</string>
+  <string name="select_group_member">ཁྱུ་ཚོགས་ཁོངས་མི་འདམ།</string>
+  <string name="email_format_fail">ཡང་དག་པའི་སྦྲག་སྒམ་ས་གནས་གཏག་རོགས།</string>
+  <string name="phone_number_format_fail">ཁ་པར་ཨང་གྲངས་དག་པོར་གཏག་རོགས།</string>
+  <string name="working_editing_group">ཁྱུ་ཚོགས་བརྗེ་སྒྱུར་ཉེར་སྤྱོད་གནང་བཞིན་འདུག</string>
+  <string name="editing_group_done">ཁྱུ་ཚོགས་བརྗེ་སྒྱུརལེགས་འགྲུབ་བྱུང་།</string>
+  <string name="editing_group_failed">ཁྱུ་ཚོགས་ཀྱི་བརྗེ་སྒྱུར་ལེགས་འགྲུབ་མ་བྱུང་།</string>
+  <string name="fast_dial_settings">མྱུར་འབོད་སྒྲིག་འགོད།</string>
+  <string name="alert_delete_contact">ཁྱེད་ཀྱིས་བདམས་པའི་འབྲེལ་གཏུག་མི་སྣ་སུབ་རྒྱུ་ནམ།</string>
+  <string name="menu_delete_group">ཁྱུ་ཚོགས་སུབ།</string>
+  <string name="call_ip">IP ཨང་འབོད།</string>
+  <string name="no_group">ཁྱུ་ཚོགས་ལ་གང་ལའང་ཞུགས་མེད།</string>
+  <string name="edit_photo">འདྲ་པར་པར་སྒྲིག</string>
+  <string name="removeStarred">ཉར་ཚགས་ཕྱིར་སྤོར།</string>
+  <string name="lookUpInfo">ཞིབ་ཕྲའི་ཆ་འཕྲིན།</string>
+  <string name="favorite_contacts">འབྲེལ་གཏུག་མི་སྣ་ཉར་ཚགས་བྱེད།</string>
+  <string name="select_all_contacts">ཡོངས་འདེམས།</string>
+  <string name="menu_newGroup">"གསར་བཙུགས་ཁྱུ་ཚོགས།"</string>
+  <string name="contactsFavoritesLimit">འབྲེལ་གཏུག་མི་སྣ་ 12 ལས་བརྒལ་བ་གོང་མཐའ་བྱེད།</string>
+  <string name="show_contacts">འབྲེལ་གཏུག་མི་སྣ་འཆར།</string>
+  <string name="import_export_contacts">འབྲེལ་གཏུག་པ་ནང་འདྲེན་/ཕྱིར་འདྲེན།</string>
+  <string name="duplicate_phone_book">ཁ་པར་ཨང་དེབ་འདྲ་བཤུས་རྒྱག</string>
+  <string name="dump_phone_book">ཁ་པར་ཨང་དེབ་སྤོ་ཉར་བྱེད།</string>
+  <string name="fast_dial">མྱུར་མོའི་ཨང་འབོད།</string>
+  <string name="account">རྩིས་ཐོ།</string>
+  <string name="tab_more">འདེམ་སྣ་མང་པོ།</string>
+  <string name="group_name_hint_overlay">"ཁྱུ་ཚོགས་མིང་གཏག"</string>
+  <string name="select_group_member_overlay">རྡེབ་ནས་འབྲེལ་གཏུག་མི་སྣ་ཁ་སྣོན་བྱེད།</string>
+  <string name="call_log_contacts_not_save">མི་ཤེས།</string>
+  <string name="menu_deleteFromBlacklist">མིང་ཐོ་ནག་པོ་ནས་སུབ།</string>
+  <string name="success_addToBlacklist">མིང་ཐོ་ནག་པོར་བསྣན་པ་ལེགས་འགྲུབ་བྱུང་།</string>
+  <string name="failed_addToBlacklist">མིང་ཐོ་ནག་པོར་བསྣན་པ་ལེགས་འགྲུབ་མ་བྱུང་།</string>
+  <string name="success_removeFromBlacklist">མིང་ཐོ་ནག་པོ་ལས་བསུབས་ཟིན།</string>
+  <string name="failed_removeFromBlacklist">མིང་ཐོ་ནག་པོ་ལས་སུབ་པ་ལེགས་འགྲུབ་མ་བྱུང་།</string>
+  <string name="menu_save">ཉར་ཚགས།</string>
+  <string name="menu_emailGroup">"ཁྱུ་ཚོགས་ཚོགས་སྐུར་བའི་འཕྲིན་ཡིག"</string>
+  <string name="menu_mmsGroup">"ཁྱུ་ཚོགས་སུ་བསྐུར་བའི་འཕྲིན་ཐུང་།"</string>
+  <string name="select_group">"ཁྱུ་ཚོགས་འདམ།"</string>
+  <string name="noContactswithEmail">"གློག་རྡུལ་སྦྲག་ཡིག་གི་ས་གནས་ཡོད་པའི་འབྲེལ་གཏུག་མི་སྣ་མི་འདུག"</string>
+  <string name="beyond_sim_card_capacity">SIM བྱང་བའི་ཤོང་ཚད་ལས་བརྒལ། བརྒལ་བའི་འབྲེལ་གཏུག་མི་སྣ་གསོག་ཉར་ལེགས་འགྲུབ་འབྱུང་ངེས་མིན།</string>
+  <string name="noContactsInGroup">"ཁྱུ་ཚོགས་དེའི་ནང་དུ་འབྲེལ་གཏུག་མི་སྣ་མི་འདུག"</string>
+  <string name="editGroup">"ཁྱུ་ཚོགས་སྒྲིག"</string>
+  <string name="send_mms">"འཕྲིན་ཡིག་གཏོང་།"</string>
+  <string name="please_input_group_name">ཡིག་ཁུག་མིང་ནང་འཇུག་གནང་རོགས།</string>
+  <string name="confirmCoverPhoneNumber">"སྔོན་གྱི་འབྲེལ་གཏུག་བྱེད་སྟངས་བརྗེ་རྒྱུ་ཡིན་ནམ།"</string>
+  <string name="replaceSelected">བརྗེ་སྤོར་བྱེད་དགོས་པའི་འབྲེལ་གཏུག་བྱེད་སྟངས་འདེམས།</string>
+  <string name="no_vcard_found_in_internal_stor">"ནང་རོལ་གསོག་ཉར་སྒྲིག་ཆས་སུ་ Vcard ཡིག་ཆ་མ་རྙེད།"</string>
+  <string name="over_phone_length_limit">ཁ་པར་ཨང་གྲངས་རིང་དྲགས།</string>
+  <string name="overGroupNameLength">ཁྱུ་ཚོགས་མིང་རིང་དྲགས།</string>
+  <string name="overGroupCountLimit">ཁྱུ་ཚོགས་ཁ་གྲངས་ཚད་བཅད་ཆེ་ཤོས་སུ་ཐོན།</string>
+  <string name="menu_share_by_sms">འཕྲིན་ཐུང་གཏོང་བར་བརྟེན་ནས་སྐུར།</string>
+  <string name="toast_batchoperation_is_running">འབོར་གྲངས་སྒྲིག་བཀོལ་གནང་བཞིན་འདུག ཨེན་ཙམ་སྒུག་ནས་ཚོད་ལྟ་བྱེད་རོགས།</string>
+    <string-array name="otherLabels">
+    <!-- An organization associated with a contact -->
+            <item>སྒྲིག་འཛུགས།</item>
+    <!-- A note associated with a contact -->
+            <item>ཟུར་མཆན།</item>
+      </string-array>
+     <plurals name="listTotalPhoneContacts">
+    <item quantity="one">ཁ་པར་ཨང་གྲངས་ཡོད་པའི་འབྲེལ་གཏུག་པ་1མངོན་པ།</item>
+    <item quantity="other">ཁ་པར་ཨང་གྲངས་ཡོད་པའི་འབྲེལ་གཏུག་པ་<xliff:g id="COUNT">%d</xliff:g>མངོན་པ།</item>
+      </plurals>
+     <plurals name="listTotalAllContacts">
+    <item quantity="one">འབྲེལ་གཏུག་པ་1མངོན་པ།</item>
+    <item quantity="other">འབྲེལ་གཏུག་པ་<xliff:g id="COUNT">%d</xliff:g>མངོན་པ།</item>
+      </plurals>
+     <plurals name="listFoundAllContacts">
+    <item quantity="one">འབྲེལ་གཏུག་པ་1རྙེད་པ།</item>
+    <item quantity="other">འབྲེལ་གཏུག་པ་<xliff:g id="COUNT">%d</xliff:g>རྙེད་པ།</item>
+      </plurals>
+     <plurals name="searchFoundContacts">
+    <item quantity="one">འབྲེལ་གཏུག་པ་1</item>
+    <item quantity="other">འབྲེལ་གཏུག་པ་<xliff:g id="COUNT">%d</xliff:g></item>
+      </plurals>
+     <plurals name="merge_info">
+        <item quantity="one">མཉམ་སྒྲིལ་བྱས་མེད།</item>
+        <item quantity="other">ཐོན་ཁུངས་ <xliff:g id="count">%0$d</xliff:g> མཉམ་སྒྲིལ་བྱེད།</item>
+        </plurals>
+     <plurals name="num_groups_in_account">
+        <item quantity="one">1 group</item>
+        <item quantity="other">ཁྱུ་ཚོགས<xliff:g id="count">%0$d</xliff:g> </item>
+        </plurals>
+     <plurals name="num_contacts_in_group">
+        <item quantity="one">མི<xliff:g id="count">%1$d</xliff:g> ནང་དུ་འབྲེལ་གཏུག་མི་སྣ<xliff:g id="account_type">%2$s</xliff:g>ཡོད།</item>
+        <item quantity="other">མི<xliff:g id="count">%1$d</xliff:g>  <xliff:g id="account_type">%2$s</xliff:g>ནས་ཐོན།</item>
+        </plurals>
+     <plurals name="group_list_num_contacts_in_group">
+        <item quantity="one">མི<xliff:g id="count">%1$d</xliff:g></item>
+        <item quantity="other">\'མི<xliff:g id="count">%1$d</xliff:g> </item>
+        </plurals>
+     <plurals name="searchMatchContacts">
+      <item quantity="one">"འབྲེལ་གཏུག་མི་སྣ 1 ལ་ཟླ་སྒྲིག"</item>
+      <item quantity="other">" འབྲེལ་གཏུག་མ་སྣ<xliff:g id="COUNT">%d</xliff:g>་ལ་ཟླ་སྒྲིག"</item>
+      </plurals>
+     <string name="menu_create_contact_shortcut">"གཙོ་ངོས་ཀྱི་སྟེང་དུ་འཇོག"</string>
+     <string name="createContactShortcutSuccessful">"སྒྲིག་ཆས་ཆུང་ངའི་འབྲེལ་གཏུག་གཙོ་ངོས་སུ་སྣོན།"</string>
+     <string name="menu_help">རོགས་རམ།</string>
+     <string name="menu_sendmms">"ཁྱུ་སྐུར་འཕྲིན་ཐུང་།"</string>
+     <string name="no_sdcard_title">SDཁཱ་མི་འདུག</string>
+     <string name="scanning_sdcard_failed_title">"SDབྱང་བུ་བཤེར་འབེབས་གནང་ཐབས་མི་འདུག"</string>
+     <string name="call_log_callNumber_by_sim">"<xliff:g id="NAME">%s</xliff:g>（SIM<xliff:g id="PHONE_ID">%s</xliff:g>）ལ་འབོད།"</string>
+     <string name="delete_contact_all_calls">"འབྲེལ་གཏུག་དེའི་ཁ་བརྡའི་ཉིན་ཐོ་སུབ་ཁོ་ཐག་ཡིན་ནམ།"</string>
+     <string name="app_name">"ཁ་བརྡའི་ཉིན་ཐོ།"</string>
+     <string name="search_description">"ཁ་བརྡའི་ཟིན་ཐོ་འཚོལ།"</string>
+     <string name="search_hint">"ཁ་བརྡའི་ཟིན་ཐོ་འཚོལ།"</string>
+     <string name="lable_search">འཚོལ་བཤེར།</string>
+     <string name="please_wait">ཕྲན་ཙམ་སྒུག་རོགས།...</string>
+     <string name="noContactwithEmail">"འབྲེལ་གཏུག་ལ་གློག་རྡུལ་སྦྲག་ཡིག་མི་འདུག"</string>
+     <string name="fast_dialer">"མྱུར་མོའི་ཨང་འབོད་སྒྲིག་འགོད།"</string>
+     <string name="select_card">"བྱང་བུ་འདམ་རོགས།"</string>
+     <string name="sim_absent">"མི་འདུག"</string>
+     <string name="sdn_list">"SDN སྟར་བྱང་། "</string>
+     <string name="lnd_list">"LND སྟར་བྱང་། "</string>
+     <string name="sim_no_ready">"Simབྱང་བུ་གྲ་སྒྲིག་བྱས་མེད།"</string>
+     <string name="sdn_please_insert_sim">"SIMབྱང་བུ་འཛེར་རོགས།"</string>
+     <string name="sdn_sim_notready">"SIMབྱང་བའི་ཆ་འཕྲིན་ལ་མགོ་སྒྲིག་གནང་བཞིན་འདུག ཅུང་ཙམ་སྒུག་རོགས།"</string>
+     <string name="ip_dialer">"IPཨང་འབོད་སྒྲིག་འགོད།"</string>
+     <string name="no_match_contact">"བསྟུན་པའི་འབྲེལ་གཏུག་མི་འདུག"</string>
+     <string name="delete_group_dialog_commit">"བདམས་པའི་ཁྱུ་ཚོགས་སུབ་ཁོ་ཐག་ཡིན་ནམ།"</string>
+     <string name="create_new_contact">འབྲེལ་གཏུག་པ་གསར་འཛུགས།</string>
+     <string name="call_log_callNumber_by_sim_ex">"<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)ལ་འབོད།"</string>
+     <string name="video_callNumber_by_sim_ex">"<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)ལ་བརྙན་ཟློས་འབོད་པ་གཏོང་།"</string>
+     <string name="ip_callNumber_by_sim_ex">"<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>) ལ་IPའབོད་པ་གཏོང་།"</string>
+     <string name="cancel">སྐྱུར་བ།</string>
+     <string name="no_available_number">"སྤྱོད་འཐུས་ཨང་གྲངས་མི་འདུག"</string>
+     <string name="invalid_number">"ཨང་གྲངས་ནུས་མེད་ཡིན།"</string>
+     <string name="item_sim_calls_ex">"SIM<xliff:g id="SIM">%s</xliff:g> ཁ་བརྡའི་ཉིན་ཐོ།"</string>
+     <string name="menu_moveGroupMember">"གནས་སྤོ་ཚོགས་པའི་ཨང་གྲངས།"</string>
+     <string name="moveGroupMemberDialogTitle">"འབྲེལ་གཏུག་གི་གནས་སྤོ།"</string>
+     <string name="menu_deleteGroupMember">"ཁྱུ་ཚོགས་ཁོངས་མི་སུབ།"</string>
+     <string name="sdcard_storage_not_enough">"གསོག་ཆས་སྟོང་ཆ་མི་འདང་།"</string>
+     <string name="noJoinContactDataWith">"སྡེབ་སྒྲིག་གཏོང་འོས་པའི་འབྲེལ་གཏུག་མི་འདུག"</string>
+     <string name="not_select_vCard">"vCardབྱང་བུ་གང་ཡང་བདམས་མེད།"</string>
+     <string name="selected_is_not_image">"བདམས་པའི་ཡིག་ཆ་ནི་པར་རིས་མ་རེད།"</string>
+     <string name="batch_delete_confim_title">"འབྲེལ་གཏུག་སུབ་རྒྱུ་ཡིན་ནམ།"</string>
+     <string name="batch_delete_confim_message">"བདམས་པའི་འབྲེལ་གཏུག་སུབ་ཁོ་ཐག་ཡིན་ནམ།"</string>
+     <string name="transaction_too_large">"འབྲེལ་གཏུག་གྲངས་འབོར་གྱི་གོང་མཐའ་ལས་བརྒལ། དེ་ལས་ཉུང་བའི་འབྲེལ་གཏུག་འདམ་རོགས།"</string>
+     <string name="contacts_selection_too_more">"གྲངས་འབོར་གྱི་མང་མཐའ་ནི་འབྲེལ་གཏུག་5000ཡིན།"</string>
+    <string name="menu_export_database">"དན་གྲངས་མཛོད་ཀྱི་ཡིག་ཆ་ཕྱིར་འདྲེན།"</string>
+    <string name="contact_detail_picture_description">"པར་རིས། སྒྱུར་བྱ་འདམ།"</string>
+    <string name="noContactwithPhoneAndEmail">"འབྲེལ་གཏུག་ལ་ཁ་པར་ཨང་གྲངས་དང་གློག་རྡུལ་སྦྲག་ཡིག་མེད།"</string>
+    <string name="noContactsWithPhoneNumbers">"འབྲེལ་གཏུག་ལ་ཁ་པར་ཨང་གྲངས་མེད།"</string>
+    <string name="listTotalAllContactsZeroStarred">"འབྲེལ་གཏུག་མི་སྣ་གང་ཡང་ཉར་ཚགས་བྱས་མེད།"</string>
+    <string name="contact_editor_prompt_multiple_accounts_short">"འབྲེལ་གཏུག་ཉར།"</string>
+    <string name="working_batch_starred">"སྐར་རྟགས་བཀོད་པའི་ཚོགས།"</string>
+    <string name="star_done">"སྐར་རྟགས་བསྡུས་པ་གྲུབ།"</string>
+    <string name="cancel_batch_star_confirmation">"འབྲེལ་གཏུག་སུབ་པའི་མགོ་རྩོམ་རྒྱུ་ཡིན།"</string>
+</resources>

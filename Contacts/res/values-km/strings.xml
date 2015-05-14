@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="launcherDialer">"ទូរស័ព្ទ"</string>
+  <string name="people">"អ្នកទំនាក់ទំនង"</string>
+  <string name="contactsList">"អ្នកទំនាក់ទំនង"</string>
+  <string name="shortcutContact">"អ្នកទំនាក់ទំនង"</string>
+  <string name="shortcutDialContact">"ហៅដោយផ្ទាល់"</string>
+  <string name="shortcutMessageContact">"ផ្ញើសារដោយផ្ទាល់"</string>
+  <string name="shortcutActivityTitle">"ជ្រើសរើសផ្លូវកាត់របស់អ្នកទំនាក់ទំនង"</string>
+  <string name="callShortcutActivityTitle">"ជ្រើសរើសលេខមួយសម្រាប់ហៅចេញ"</string>
+  <string name="messageShortcutActivityTitle">"ជ្រើសរើសលេខមួយសម្រាប់ផ្ញើសារ"</string>
+  <string name="contactPickerActivityTitle">"ជ្រើសរើសអ្នកទំនាក់ទំនងមួយ"</string>
+  <string name="starredList">"កំណត់សញ្ញាផ្កាយ"</string>
+  <string name="frequentList">"តែងតែទាក់ទង"</string>
+  <string name="strequentList">"ថតចំណូលចិត្ត"</string>
+  <string name="viewContactTitle">"លំអិតរបស់អ្នកទំនាក់ទំនង"</string>
+  <string name="viewContactDesription">"ពិនិត្យមើលអ្នកទំនាក់ទំនង"</string>
+  <string name="editContactDescription">"កែសម្រួលអ្នកទាក់ទង"</string>
+  <string name="insertContactDescription">"បង្កើតអ្នកទំនាក់ទំនង"</string>
+  <string name="editGroupDescription">"ចងក្រងក្រុម"</string>
+  <string name="insertGroupDescription">"បង្កើតក្រុម"</string>
+  <string name="contactDetailAbout">"អំពី"</string>
+  <string name="contactDetailUpdates">"ការធ្វើឲ្យទាន់សម័យ"</string>
+  <string name="searchHint">"ស្វែងរកអ្នកទំនាក់ទំនង"</string>
+  <string name="menu_newContact">"បន្ថែមអ្នកទំនាក់ទំនងថ្មី"</string>
+  <string name="menu_viewContact">"ពិនិត្យមើលអ្នកទាក់ទង"</string>
+  <string name="video_callNumber_by_sim1">""ការហៅតាមវីដេអូ<xliff:g id="NAME">%s</xliff:g> (SIM1)"</string>
+  <string name="video_callNumber_by_sim2">""ការហៅតាមវីដេអូ<xliff:g id="NAME">%s</xliff:g> (SIM2)"</string>
+  <string name="video_menu_callNumber">""ការហៅតាមវីដេអូ<xliff:g id="NAME">%s</xliff:g> "</string>
+  <string name="menu_addStar">"បន្ថែមដល់ថតចំណូលចិត្ត"</string>
+  <string name="menu_add_favorite">"បន្ថែមអ្នកទំនាក់ទំនងដល់ថតចំណូលចិត្ត"</string>
+  <string name="menu_removeStar">"ដកចេញពីថតចំណូលចិត្ត"</string>
+  <string name="menu_editContact">"កែសម្រួល"</string>
+  <string name="menu_copyToSim" msgid="9042415603857662633">"ចម្លងទៅ SIM"</string>
+  <string name="menu_copyToPhone" msgid="9042415603857662633">"ចម្លងទៅទូរស័ព្ទ"</string>
+  <string name="menu_deleteContact">"លុបចោល"</string>
+  <string name="menu_call">"ហៅអ្នកទំនាក់ទំនង"</string>
+  <string name="menu_sendSMS">"ផ្ញើសារទៅអ្នកទំនាក់ទំនង"</string>
+  <string name="menu_splitAggregate">"បែងចែក"</string>
+  <string name="menu_editGroup">"កែសម្រួល"</string>
+  <string name="menu_deleteGroup">"លុបចោល"</string>
+  <string name="menu_new_contact_action_bar">"បន្ថែមថ្មី"</string>
+  <string name="menu_new_group_action_bar">"បង្កើតថ្មី"</string>
+  <string name="splitConfirmation_title">"បែងចែកជាអ្នកទំនាក់ទំនងឬទេ?"</string>
+  <string name="splitConfirmation">"អ្នកទំនាក់ទំនងនេះនឹងត្រូវបែងចែកជាអ្នកទំនាក់ទំនងច្រើនរូប។"</string>
+  <string name="menu_joinAggregate">"ផ្សំគ្នា"</string>
+  <string name="titleJoinContactDataWith">"ផ្សំអ្នកទំនាក់ទំនង"</string>
+  <string name="blurbJoinContactDataWith">"ជ្រើសរើសអ្នកទំនាក់ទំនងដែលោកចង់ផ្សំគ្នា <xliff:g id="name">%s</xliff:g>:"</string>
+  <string name="showAllContactsJoinItem">"បង្ហាញអ្នកទំនាក់ទំនងទាំងអស់"</string>
+  <string name="separatorJoinAggregateSuggestions">"អ្នកទំនាក់ទំនងត្រូវស្នើ"</string>
+  <string name="separatorJoinAggregateAll">"អ្នកទំនាក់ទំនងទាំងអស់"</string>
+  <string name="contactsJoinedMessage">"អ្នកទំនាក់ទំនងបានផ្សំគ្នា"</string>
+  <string name="deleteConfirmation_title">"លុបចោលអ្នកទំនាក់ទំនង?"</string>
+  <string name="menu_set_ring_tone">"កំណត់សម្លេងរោទ៍"</string>
+  <string name="menu_redirect_calls_to_vm">"ការហៅទាំងអស់ផ្ទេរទៅសំបុត្រសម្លេង"</string>
+  <string name="readOnlyContactWarning">"លោកមិនអាចលុបចោលអ្នកទំនាក់ទំនងមកពីគណនីដែលសម្រាប់តែអាន តែអាចលាក់បាំងគេក្នុងបញ្ជីអ្នកទំនាក់ទំនង។"</string>
+  <string name="readOnlyContactDeleteConfirmation">"អ្នកទំនាក់ទំនងនេះ មានពត៌មានពីពហុគណនី។ ពត៌មានមកពីគណនីដែលសម្រាប់តែអាននឹងលាក់បាំងក្នុងបញ្ជីអ្នកទំនាក់ទំនងរបស់លោក ហើយមិនអាចលុបចោលបាន។"</string>
+  <string name="multipleContactDeleteConfirmation">"ការលុបចោលអ្នកទំនាក់ទំនងនេះ នឹងលុបចោលពត៌មានពីពហុគណនី។"</string>
+  <string name="deleteConfirmation">"អ្នកទំនាក់ទំនងនេះនឹងត្រូវលុបចោល។"</string>
+  <string name="menu_discard">"បោះបង់"</string>
+  <string name="invalidContactMessage">"អ្នកទំនាក់ទំនងនោះមិននៅទេ។"</string>
+  <string name="pickerNewContactHeader">"បង្កើតអ្នកទំនាក់ទំនងថ្មី"</string>
+  <string name="pickerNewContactText">"បង្កើតអ្នកទំនាក់ទំនងថ្មី"</string>
+  <string name="photoPickerNotFoundText" product="tablet">"គ្មានរូបភាពអាចប្រើបានក្នុង tablet ទេ។"</string>
+  <string name="photoPickerNotFoundText" product="default">"គ្មានរូបភាពអាចប្រើបានក្នុងទូរស័ព្ទទេ។"</string>
+  <string name="attach_photo_dialog_title">"រូបភាពរបស់អ្នកទំនាក់ទំនង"</string>
+  <string name="customLabelPickerTitle">"កំណត់ឈ្មោះស្លាកដោយខ្លួន"</string>
+  <string name="send_to_voicemail_checkbox">"ផ្ញើការហៅទៅសំបុត្រសម្លេងដោយផ្ទាល់"</string>
+  <string name="removePhoto">"លុបចោលរូបភាព"</string>
+  <string name="noContacts">"គ្មានអ្នកទំនាក់ទំនងទេ។"</string>
+  <string name="noGroups">"គ្មានក្រុមទេ។"</string>
+  <string name="noAccounts">"ចង់បង្កើតក្រុម លោលត្រូវការគណនីមួយ។"</string>
+  <string name="emptyGroup">"គ្មានមនុស្សក្នុងក្រុមនេះ។"</string>
+  <string name="addPeopleToGroup">"ចង់បន្ថែមអ្នកទំនាក់ទំនងខ្លះ សូមកែសម្រួលក្រុមនោះ។"</string>
+  <string name="savingContact">"រក្សាទុកអ្នកទំនាក់ទំនង\u2026"</string>
+  <string name="contactSavedToast">"អ្នកទំនាក់ទំនងត្រូវរក្សាទុក។"</string>
+  <string name="contactDeletedToast">"អ្នកទំនាក់ទំនងត្រូវលុបចោល។"</string>
+  <string name="contactSavedErrorToast">"មិនអាចរក្សាទុកការកែប្រែចំពោះអ្នកទំនាក់ទំនងទេ។"</string>
+  <string name="groupSavedToast">"ក្រុមរក្សាទុកហើយ។"</string>
+  <string name="groupSavingToast">"ការកែសម្រួលក្រុមនឹងរក្សាទុក"</string>
+  <string name="groupSavedErrorToast">"មិនអាចរក្សាទុកការកែប្រែចំពោះក្រុមទេ។"</string>
+  <string name="listTotalPhoneContactsZero">"គ្មានអ្នកទំនាក់ទំនងដែលមានលេខទូរស័ព្ទ"</string>
+  <string name="listTotalEmailContactsZero">"គ្មានអ្នកទំនាក់ទំនងដែលមានអាស័យដ្ឋានអ៊ីមែល"</string>
+  <string name="listMaxContactsInAccount">"ទំហំ: <xliff:g id="COUNT">%d</xliff:g>"</string>
+  <string name="listFoundAllContactsZero">"គ្មានអ្វីត្រូវរកឃើញបាន។"</string>
+  <string name="contactsAllLabel">"ទាំងអស់"</string>
+  <string name="contactsGroupsLabel">"ក្រុម"</string>
+  <string name="recentCallsIconLabel">"កំណត់ហេតុការហៅ"</string>
+  <string name="recentCalls_empty">"កំណត់ហេតុការហៅទទេ។"</string>
+  <string name="callBack">"ហៅទៅវិញ"</string>
+  <string name="callAgain">"ហៅម្តងទៀត"</string>
+  <string name="returnCall">"ហៅទៅវិញ"</string>
+  <string name="add_contact_dlg_title">"បន្ថែមអ្នកទំនាក់ទំនង"</string>
+  <string name="add_contact_dlg_message_fmt">"បន្ថែម \"<xliff:g id="email">%s</xliff:g>\" ទៅអ្នកទំនាក់ទំនងឬទេ?"</string>
+  <string name="description_contact_photo">"រូបថតអ្នកទំនាក់ទំនង"</string>
+  <string name="description_plus_button">"បូក"</string>
+  <string name="searching_vcard_title">"កំពុងស្វែងរក vCard"</string>
+  <string name="copy">"ចម្លង"</string>
+  <string name="copy_to">"ចម្លងទៅ"</string>
+  <string name="export_to_sim">"នាំចេញទៅកាត SIM"</string>
+  <string name="reading_vcard_exception_title">"អាន/សរសេរ ទិន្នន័យvCardមិនប្រក្រតី"</string>
+  <string name="sqlite_full">"ឃ្លាំងទិន្នន័យអ្នកទំនាក់ទំនងឬថាសពេញហើយ"</string>
+  <string name="exporting_contact_list_progress">"ទី<xliff:g id="current_number">%s</xliff:g> នៃ <xliff:g id="total_number">%s</xliff:g> អ្នកទំនាក់ទំនង"</string>
+  <string name="cancel_import_confirmation_title">"បដិសេធនាំចូល vCard"</string>
+  <string name="cancel_batch_import_confirmation">"បដិសេធនាំចូលអ្នកទំនាក់ទំនងទេ?"</string>
+  <string name="cancel_batch_delete_confirmation">"បដិសេធលុបចោលអ្នកទំនាក់ទំនងទេ?"</string>
+  <string name="batch_operation_canceled">"ការប្រតិបត្តិការបានបដិសេធ"</string>
+  <string name="cancel_export_confirmation_title">"បដិសេធនាំចេញ vCard"</string>
+  <string name="search_settings_description">"នាមរបស់អ្នកទំនាក់ទំនងលោក"</string>
+  <string name="quickcontact_missing_app">"រកកម្មវិធីណាមិនបាន សម្រាប់ដោះស្រាយដំណើរការនេះទេ។"</string>
+  <string name="menu_share">"ចែករំលែក"</string>
+  <string name="menu_all_contacts">"អ្នកទំនាក់ទំនងទាំងអស់"</string>
+  <string name="share_via">"ចែករំលែកអ្នកទំនាក់ទំនងតាម"</string>
+  <string name="dialog_new_group_account">"បង្កើតក្រុមក្រោមគណនី"</string>
+  <string name="audio_chat">"ការហៅសំឡេង"</string>
+  <string name="video_chat">"ការនិយាយតាមវីដេអូ"</string>
+  <string name="connections">"ទំនាក់ទំនង"</string>
+  <string name="add_connection_button">"បន្ថែមតំណភ្ជាប់"</string>
+  <string name="recent" msgid="2062236709538790412">"ភារកិច្ចពេលថ្មីៗនេះ"</string>
+  <string name="recent_updates" msgid="2018245636796411442">"រឿងថ្មីៗ"</string>
+  <string name="account_type_format">"<xliff:g example="Gmail" id="source">%1$s</xliff:g> អ្នកទំនាក់ទំនង"</string>
+  <string name="from_account_format">"<xliff:g example="user@gmail.com" id="source">%1$s</xliff:g>"</string>
+  <string name="use_photo_as_primary">"ប្រើរូបភាពនេះ"</string>
+  <string name="contact_read_only">"មិនអាចកែសម្រួលតាមកម្មវិធីនេះទេ។"</string>
+  <string name="no_contact_details">"គ្មានពត៌មានបន្ថែមចំពោះអ្នកទំនាក់ទំនងនេះទេ។"</string>
+  <string name="group_read_only">"មិនអាចកែសម្រួលនៅក្នុងគ្រឿងបរិក្ខារនេះទេ។"</string>
+  <string name="display_options_sort_list_by">"រៀបចំបញ្ជីតាម"</string>
+  <string name="display_options_sort_by_given_name">"នាមខ្លួន"</string>
+  <string name="display_options_sort_by_family_name">"នាមត្រកូល"</string>
+  <string name="display_options_view_names_as">"មើលនាមអ្នកទំនាក់ទំនងដូចជា"</string>
+  <string name="display_options_view_given_name_first">"នាមខ្លួននៅខាងមុខ"</string>
+  <string name="display_options_view_family_name_first">"នាមត្រកូលនៅខាងមុខ"</string>
+  <string name="search_bar_hint">"ស្វែងរកអ្នកទំនាក់ទំនង"</string>
+  <string name="take_photo">"ថត"</string>
+  <string name="take_new_photo">"ថតរូបថតថ្មី"</string>
+  <string name="pick_photo">"ជ្រើសរើសរូបភាពពីឃ្លាំងរូបភាព"</string>
+  <string name="pick_new_photo">"ជ្រើសរើសរូបភាពថ្មីពីឃ្លាំងរូបភាព"</string>
+  <string name="locale_change_in_progress">"កំពុងធ្វើឲ្យបញ្ជីអ្នកទំនាក់ទំនងទាន់សម័យ សម្រាប់បញ្ចាំងការកែប្រែនៃភាសា។"</string>
+  <string name="upgrade_in_progress">"កំពុងធ្វើឲ្យបញ្ជីអ្នកទំនាក់ទំនងទាន់សម័យ។"</string>
+  <string name="upgrade_out_of_memory">"កំពុងដំណើរការធ្វើឲ្យអ្នកទំនាក់ទំនងទាន់សម័យ។
+    \n\n ការធ្វើឲ្យទាន់សម័យប្រហែលត្រូវការ <xliff:g id="size_in_megabytes">%s</xliff:g>
+    MB នៃអង្គចងចាំខាងក្នុង។\n\nសូមជ្រើសរើសជំរើសមួយនៅខាងក្រោមនេះ :"</string>
+  <string name="upgrade_out_of_memory_uninstall">"ដកកម្មវិធីខ្លះចេញ"</string>
+  <string name="upgrade_out_of_memory_retry">"សាកល្បងធ្វើឲ្យទាន់សម័យ"</string>
+  <string name="search_results_searching">"កំពុងស្វែងរក"</string>
+  <string name="menu_display_selected">"បង្ហាញប្រការត្រូវជ្រើសរើស"</string>
+  <string name="menu_display_all">"បង្ហាញទាំងអស់"</string>
+  <string name="menu_select_all">"ជ្រើសរើសទាំងអស់"</string>
+  <string name="menu_select_none">"បដិសេធទាំងអស់"</string>
+  <string name="add_field">"បន្ថែមអក្សរផ្សេងទៀត"</string>
+  <string name="add_new_entry_for_section">"បន្ថែមថ្មី"</string>
+  <string name="add_organization">"បន្ថែមអង្គការ"</string>
+  <string name="event_edit_field_hint_text">"កាលបរិចេ្ឆន"</string>
+  <string name="group_edit_field_hint_text">"ឈ្មោះក្រុម"</string>
+  <string name="contact_status_update_attribution">"មកពី <xliff:g example="Google Talk" id="source">%1$s</xliff:g>"</string>
+  <string name="contact_status_update_attribution_with_date">"<xliff:g example="3 hours ago" id="date">%1$s</xliff:g> via <xliff:g example="Google Talk" id="source">%2$s</xliff:g>"</string>
+  <string name="description_star">"ថតចំណូលចិត្ត"</string>
+  <string name="edit_contact">"កែសម្រួលអ្នកទាក់ទង"</string>
+  <string name="aggregation_suggestion_join_dialog_title">"ផ្សំអ្នកទំនាក់ទំនង"</string>
+  <string name="aggregation_suggestion_join_dialog_message">"តើចងបញ្ចូលអ្នកទំនាក់ទំនងបច្ចុប្បន្នជាមួយអ្នកទំនាក់ទំនងត្រូវជ្រើសរើសទេ"</string>
+  <string name="aggregation_suggestion_edit_dialog_title">"ចងក្រងអ្នកទំនាក់ទំនងត្រូវជ្រើសរើស"</string>
+  <string name="aggregation_suggestion_edit_dialog_message">"ផ្លាស់ទៅចងក្រងអ្នកទំនាក់ទំនងត្រូវជ្រើសរើសទេ? ប្រព័ន្ធនឹងចម្លងទុកពត៌មានដែលលោកបានវាយបញ្ចូល។"</string>
+  <string name="menu_copyContact">"ចម្លងក្នុងអ្នកទំនាក់ទំនងរបស់ខ្ញុំ"</string>
+  <string name="add_to_my_contacts">"បន្ថែមក្នុងអ្នកទំនាក់ទំនងរបស់ខ្ញុំ"</string>
+  <string name="contact_directory_description">"មាតិកា <xliff:g example="Corporate Directory" id="type">%1$s</xliff:g>"</string>
+  <string name="toast_making_personal_copy">"កំពុងបង្កើតច្បាប់ចម្លងបុគ្គលិក\u2026"</string>
+  <string name="list_filter_custom">"ផ្ទាល់ខ្លួន"</string>
+  <string name="list_filter_emails">"អ្នកទំនាក់ទំនងដែលមានអាស័យដ្ឋានអ៊ីមែល"</string>
+  <string name="list_filter_all_in_one">"អ្នកទំនាក់ទំនងដែលមានទិន្នន័យ"</string>
+  <string name="group_selection">"ការជ្រើសរើសក្រុមអ្នកទំនាក់ទំនង"</string>
+  <string name="contact_list_loading">"កំពុងផ្ទុក\u2026"</string>
+  <string name="activity_title_settings">"កំណត់"</string>
+  <string name="menu_settings" msgid="377929915873428211">"កំណត់"</string>
+  <string name="preference_displayOptions">"ជំរើសបង្ហាញ"</string>
+  <string name="organization_company_and_title">"<xliff:g example="Technical Program Manager" id="company">%2$s</xliff:g>, <xliff:g example="Google Inc." id="company">%1$s</xliff:g>"</string>
+  <string name="non_phone_caption">"លេខទូរស័ព្ទ"</string>
+  <string name="non_phone_add_to_contacts">"បន្ថែមចូលក្នុងអ្នកទំនាក់ទំនង"</string>
+  <string name="activity_title_confirm_add_detail">"បន្ថែមក្នុងអ្នកទំនាក់ទំនង"</string>
+  <string name="non_phone_close">"បិទ"</string>
+  <string name="widget_name_and_phonetic">"<xliff:g example="John Huber" id="display_name">%1$s</xliff:g> (<xliff:g id="phonetic_name">%2$s</xliff:g>)"</string>
+  <string name="date_year_toggle">"ផ្តល់ពត៌មានឆ្នាំ"</string>
+  <string name="social_widget_label">"អ្នកទំនាក់ទំនង"</string>
+  <string name="social_widget_loading">"កំពុងផ្ទុក\u2026"</string>
+  <string name="contacts_unavailable_create_contact">"បង្កើតអ្នកទំនាក់ទំនងថ្មីមួយ"</string>
+  <string name="contacts_unavailable_add_account">"ចូលក្នុងគណនីមួយ"</string>
+  <string name="contacts_unavailable_import_contacts">"នាំចូលអ្នកទំនាក់ទំនងពីឯកសារ"</string>
+  <string name="create_group_dialog_title">"បង្កើតក្រុមថ្មី"</string>
+  <string name="create_group_item_label">"[បង្កើតក្រុមថ្មី]"</string>
+  <string name="delete_group_dialog_title">"លុបចោលក្រុម"</string>
+  <string name="delete_group_dialog_message">"លុបចោលក្រុម
+      \"<xliff:g example="Friends" id="group_label">%1$s</xliff:g>\"?
+      (មិនលុបចោលអ្នកទំនាក់ទំនងគេទេ។)
+    "</string>
+  <string name="toast_join_with_empty_contact">"សូមវាយបញ្ចូលឈ្មោះអ្នកទំនាក់ទំនង មុនពេលផ្សំជាមួយអ្នកផ្សេងទៀត។"</string>
+  <string name="copy_text">"ចម្លងទៅក្តារបិទ"</string>
+  <string name="set_default">"កំណត់ដើម"</string>
+  <string name="clear_default">"លុបចោលកំណត់ដើម"</string>
+  <string name="toast_text_copied">"អក្សរបានចម្លងហើយ"</string>
+  <string name="cancel_confirmation_dialog_title">"បដិសេធការកែប្រែ"</string>
+  <string name="cancel_confirmation_dialog_message">"បដិសេធការកែប្រែរបស់លោក?"</string>
+  <string name="call_type_and_date">"
+        <xliff:g example="Friends" id="call_type">%1$s</xliff:g>  <xliff:g example="Friends" id="call_short_date">%2$s</xliff:g>
+    "</string>
+  <string name="profile_display_name">"កំណត់ឯកសាររបស់ខ្ញុំ"</string>
+  <string name="enter_contact_name">"វាយបញ្ចូលឈ្មោះមនុស្ស"</string>
+  <string name="group_name_hint">"ឈ្មោះក្រុម"</string>
+  <string name="local_profile_title">"ឯកសារនៅតំបន់ខ្ញុំ"</string>
+  <string name="external_profile_title">"របស់ខ្ញុំ <xliff:g id="external_source">%1$s</xliff:g> ឯកសារ"</string>
+  <string name="toast_displaying_all_contacts">"បង្ហាញអ្នកទំនាក់ទំនងទាំងអស់"</string>
+  <string name="no_account_prompt">"លោកអាចធ្វើការងារកាន់តែល្អតាមគណនីGoogle។\n\n\u2022 ចូលក្នុងតាមកម្មវិធីរុករកវែបណាមួយ។\n\u2022 ចម្លងទុកអ្នកទំនាក់ទំនងរបស់លោកឲ្យមានសន្តិសុខ។"</string>
+  <string name="generic_no_account_prompt">"រក្សាសន្តិសុខចំពោះអ្នកទំនាក់ទំនងរបស់លោក ទោះបីលោកបាត់បង់ទូរស័ព្ទរបស់លោក :ធ្វើសមកាលកម្មទៅម៉ាស៊ីនបម្រើតាមបណ្តាញ។"</string>
+  <string name="generic_no_account_prompt_title">"បន្ថែមគណនីមួយ"</string>
+  <string name="contact_editor_prompt_zero_accounts">"អ្នកទំនាក់ទំនងថ្មីរបស់លោកមិនអាចចម្លងទុកទេ។តើលោកចង់បន្ថែមគណនីមួយសម្រាប់ចម្លងទុកអ្នកទំនាក់ទំនងតាមបណ្តាញទេ?"</string>
+  <string name="contact_editor_prompt_one_account">"អ្នកទំនាក់ទំនងថ្មីរបស់លោកនឹងធ្វើសមកាលកម្មជាមួយ <xliff:g id="account_name">%1$s</xliff:g>."</string>
+  <string name="contact_editor_prompt_multiple_accounts">"លោកអាចយកអ្នកទំនាក់ទំនងថ្មីរបស់លោកធ្វើសមកាលកម្មជាមួយគណនីមួយដូចខាងក្រោមនេះ។ តើលោកចង់ប្រើគណនីណា?"</string>
+  <string name="keep_local">"រក្សាទុកនៅតំបន់"</string>
+  <string name="add_account">"បន្ថែមគណនី"</string>
+  <string name="add_new_account">"បន្ថែមគណនីថ្មី"</string>
+  <string name="dialog_phone_call_prohibited_title" msgid="4313552620858880999">"ការហៅមិនទាន់ផ្ញើចេញ"</string>
+  <string name="dialog_voicemail_not_ready_title">"លេខសំបុត្រសម្លេងមិនអាចប្រើបាន"</string>
+  <string name="select_one">"យ៉ាងហោចណាស់ត្រូវជ្រើសរើសប្រការមួយ!"</string>
+  <string name="delete_calls">"លុបចោល"</string>
+  <string name="delete_selected_calls">"តើលោកចង់លុបចោលការហៅដែលជ្រើសរើសឬទេ?"</string>
+  <string name="delete_all_calls_confirm">"តើលោកចង់លុបចោលការហៅទាំងអស់ឬទេ?"</string>
+  <string name="delete_calls_list">"លុបចោលការហៅដែលជ្រើសរើស"</string>
+  <string name="delete_all_calls">"លុបចោលការហៅទាំងអស់"</string>
+  <string name="delete_success">"លុបចោលដោយជោគជ័យ"</string>
+  <string name="select_all">"ជ្រើសរើសទាំងអស់"</string>
+  <string name="menu_batch_delete">"លុបចោលដោយចំនយន"</string>
+  <string name="label_sim">"កាត SIM"</string>
+  <string name="label_usim">"កាត SIM"</string>
+  <string name="label_phone">"ហៅ"</string>
+  <string name="no_fast_dial">"លេខហៅភ្លាមមិនទាន់កំណត់ទេ"</string>
+  <string name="fast_dial_choose">"សូមជ្រើសរើសប្រភេទនៃលេខហៅភ្លាម"</string>
+  <string name="fast_call">"ការហៅជាសំឡេង"</string>
+  <string name="fast_vt_call">"ការហៅ_វីដេអូ"</string>
+  <string name="wait">"សូមចាំបន្តិច"</string>
+  <string name="working">"ដំណើរការ"</string>
+  <string name="working_batch_delete">"លុបចោលដោយចំនួន"</string>
+  <string name="working_batch_import">"នាំចូលដោយចំនួន"</string>
+  <string name="choose_sim_card">"ជ្រើសរើសកាត SIM"</string>
+  <string name="violate_capacity">"ហួសកំរិតទំហំ SIM"</string>
+  <string name="import_failed">"នាំចូល/នាចេញអ្នកទំនាក់ទំនងបរាជ័យ"</string>
+  <string name="import_failed_tmp">"<xliff:g id="count">%d</xliff:g> ជោគជ័យ, <xliff:g id="count">%d</xliff:g> បរាជ័យ "</string>
+  <string name="import_done">"នាំចូលរួច"</string>
+  <string name="delete_done">"លុបចោលរួច"</string>
+  <string name="toast_no_contact_selected">"គ្មានអ្នកទំនាក់ទំនងត្រូវជ្រើសរើស"</string>
+  <string name="contactSavedErrorToastNameLength">"ឈ្មោះអ្នកទំនាក់ទំនងវែងពេកមិនអាចរក្សាទុកបាន"</string>
+  <string name="contactSavedErrorToastEmailLength">"ឈ្មោះអ៊ីមែលវែងពេកមិនអាចរក្សាទុកបាន"</string>
+  <string name="contactSavedErrorToastEmailFull">"អ៊ីមែលពេញហើយ"</string>
+  <string name="sim_is_full">"Sim ពេញហើយ"</string>
+  <string name="menu_addToBlacklist">"បន្ថែមក្នុងបញ្ជីខ្មៅ"</string>
+  <string name="menu_view_calls">"មើល"</string>
+  <string name="item_all_calls">"កំណត់ហេតុការហៅទាំងអស់"</string>
+  <string name="item_sim1_calls">"កំណត់ហេតុការហៅនៃsim1"</string>
+  <string name="item_sim2_calls">"កំណត់ហេតុការហៅនៃsim2"</string>
+  <string name="res_name">"ឈ្មោះ"</string>
+  <string name="res_phone">"ហៅ"</string>
+  <string name="res_email">"អ៊ីម៉ែល"</string>
+  <string name="res_field">"វគ្គអក្សរ"</string>
+  <string name="alert_maybe_lost_info">"ពត៌មានខ្លះប្រហែលបាត់ទៅក្នុងអំឡុងពេលចម្លងចូលឬចម្លងចេញ"</string>
+  <string name="field_too_long">"<xliff:g id="field">%s</xliff:g> វែងពេក"</string>
+  <string name="select_group_member">"ជ្រើសរើសសមាជិកក្រុម"</string>
+  <string name="email_format_fail">"សូមវាយបញ្ចូលអាស័យដ្ឋានអ៊ីមែលត្រឹមត្រូវ!"</string>
+  <string name="phone_number_format_fail">"សូមវាយបញ្ចូលលេខទូរស័ព្ទត្រឹមត្រូវ!"</string>
+  <string name="working_editing_group">"កំពុងប្រព្រឹត្តការកែសម្រួលក្រុម"</string>
+  <string name="editing_group_done">"ការកែសម្រួលក្រុមរួច"</string>
+  <string name="editing_group_failed">"ការកែសម្រួលក្រុមបរាជ័យ"</string>
+  <string name="contacts_group_name_exist">"ឈ្មោះក្រុមមានហើយ"</string>
+  <string name="fast_dial_settings">"កំណត់នៃលេខហៅភ្លាម"</string>
+  <string name="alert_delete_contact">"តើលោកសម្រេចចិត្តលុបចោលអ្នកទំនាក់ទំនងដែលជ្រើសរើសទេ?"</string>
+  <string name="menu_delete_group">"លុបចោលក្រុម"</string>
+  <string name="call_ip">"ការហៅIP"</string>
+  <string name="no_group">"មិនមែនសមាជិកក្នុងក្រុមណាទេ"</string>
+  <string name="edit_photo">"ចងក្រងរូបភាព"</string>
+  <string name="removeStarred">"ដកចេញពីថតចំណូលចិត្ត"</string>
+  <string name="lookUpInfo">"សេចក្ដីលម្អិត"</string>
+  <string name="cancel">"លុបចោល"</string>
+  <string name="favorite_contacts">"អ្នកទំនាក់ទំនងក្នុងថតចំណូលចិត្ត"</string>
+  <string name="select_all_contacts">"ជ្រើសរើសទាំងអស់"</string>
+  <string name="menu_newGroup">"ក្រុមថ្មី"</string>
+  <string name="contactsFavoritesLimit">"ប្រមូលអ្នកទំនាក់ទំនង 12 រូបហើយ ហួសកំរិតការប្រមូល"</string>
+  <string name="show_contacts">"បង្ហាញអ្នកទំនាក់ទំនង"</string>
+  <string name="import_export_contacts">"នាំចូល/នាំចេញអ្នកទំនាក់ទំនង"</string>
+  <string name="export_contacts">"នាំចេញអ្នកទំនាក់ទំនង"</string>
+  <string name="duplicate_phone_book">"ចម្លងទុកលេខសៀវភៅ"</string>
+  <string name="dump_phone_book">"ផ្ទេររក្សាទុកលេខសៀវភៅ"</string>
+  <string name="fast_dial">"លេខហៅភ្លាម"</string>
+  <string name="account">"គណនី"</string>
+  <string name="tab_more">"ជំរើសកាន់តែច្រើន"</string>
+  <string name="group_name_hint_overlay">"សូមវាយបញ្ចូលឈ្មោះក្រុម"</string>
+  <string name="select_group_member_overlay">"ចុចទីនេះ ដើម្បីបន្ថែមអ្នកទំនាក់ទំនង"</string>
+  <string name="call_log_contacts_not_save">"មិនស្គាល់"</string>
+  <string name="menu_deleteFromBlacklist">"លុបចោលពីបញ្ជីខ្មៅ"</string>
+  <string name="success_addToBlacklist">"បន្ថែមដោយជោគជ័យ"</string>
+  <string name="failed_addToBlacklist">"បន្ថែមបរាជ័យ"</string>
+  <string name="success_removeFromBlacklist">"លុបចោលដោយជោគជ័យ"</string>
+  <string name="failed_removeFromBlacklist">"លុបចោលបរាជ័យ"</string>
+  <string name="menu_save">"រក្សាទុក"</string>
+  <string name="menu_emailGroup">"ផ្ញើ email ដោយក្រុម"</string>
+  <string name="menu_mmsGroup">"ផ្ញើ mms ដោយក្រុម"</string>
+  <string name="select_group">"ជ្រើសរើសក្រុម"</string>
+  <string name="noContactswithEmail">"គ្មានអ្នកទំនាក់ទំនងដែលមានអាស័យដ្ឋានអ៊ីមែលទេ"</string>
+  <string name="beyond_sim_card_capacity">"ហួសទំហំកាត sim អ្នកទំនាក់ទំនងខ្លះរក្សាទុកមិនបាន"</string>
+  <string name="noContactsInGroup">"គ្មានអ្នកទំនាក់ទំនងក្នុងក្រុមទេ"</string>
+  <string name="editGroup">"ចងក្រងក្រុម"</string>
+  <string name="send_mms">"ផ្ញើសារ"</string>
+  <string name="please_input_group_name">"សូមវាយបញ្ចូលឈ្មោះថត!"</string>
+  <string name="confirmCoverPhoneNumber">"តើលោកសម្រេចចិត្តផ្លាស់អ្នកទំនាក់ទំនងមានហើយឬទេ?"</string>
+  <string name="replaceSelected">"សូមជ្រើសរើសរបៀបដែលចង់ផ្លាស់ប្តូរ"</string>
+  <string name="no_vcard_found_in_internal_stor">"គ្មានឯកសារ Vcard អាចរកឃើញបានក្នុងអង្គចងចាំខាងក្នុងទេ ។"</string>
+  <string name="over_phone_length_limit">"លេខវែងពេក"</string>
+  <string name="overGroupNameLength">"ឈ្មោះក្រុមវែងពេក"</string>
+  <string name="overGroupCountLimit">"មិនអាចបន្ថែមក្រុមថ្មីបញ្ចូលក្នុង USIMទេ"</string>
+  <string name="menu_share_by_sms">"ផ្ញើតាម sms"</string>
+  <string name="toast_batchoperation_is_running">"ការប្រតិបត្តិការជាចំនួនកំពុងប្រព្រឹត្ត សូមចាំមួយភ្លែត រួចសាកល្បង!"</string>
+    <string-array name="otherLabels">
+        <!-- An organization associated with a contact -->
+                <item>"អង្គការ"</item>
+        <!-- A note associated with a contact -->
+                <item>"កំណត់សម្គាល់"</item>
+        </string-array>
+     <plurals name="listTotalPhoneContacts">
+        <item quantity="one">"អ្នកទំនាក់ទំនង1រូបដែលមានលេខទូរស័ព្ទ"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> អ្នកទំនាក់ទំនងដែលមានលេខទូរស័ព្ទ"</item>
+        </plurals>
+     <plurals name="listTotalAllContacts">
+        <item quantity="one">"អ្នកទំនាក់ទំនង 1 រូប"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> អ្នកទំនាក់ទំនង"</item>
+        </plurals>
+     <plurals name="listFoundAllContacts">
+        <item quantity="one">"1 ត្រូវរកឃើញ។"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> ត្រូវរកឃើញ។"</item>
+        </plurals>
+     <plurals name="searchFoundContacts">
+        <item quantity="one">"1 ត្រូវរកឃើញ។"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> ត្រូវរកឃើញ។"</item>
+        </plurals>
+     <plurals name="merge_info">
+        <item quantity="one">"មិនទាន់បញ្ចូលគ្នា"</item>
+        <item quantity="other">"បញ្ចូលគ្នាពី <xliff:g id="count">%0$d</xliff:g> ប្រភព"</item>
+        </plurals>
+     <plurals name="num_groups_in_account">
+        <item quantity="one">"1 ក្រុម"</item>
+        <item quantity="other">"<xliff:g id="count">%0$d</xliff:g> ក្រុម"</item>
+        </plurals>
+     <plurals name="num_contacts_in_group">
+        <item quantity="one">"<xliff:g id="count">%1$d</xliff:g> មនុស្សមកពី <xliff:g id="account_type">%2$s</xliff:g>"</item>
+        <item quantity="other">"<xliff:g id="count">%1$d</xliff:g> មនុស្សមកពី <xliff:g id="account_type">%2$s</xliff:g>"</item>
+        </plurals>
+     <plurals name="group_list_num_contacts_in_group">
+        <item quantity="one">"<xliff:g id="count">%1$d</xliff:g> គ្នា"</item>
+        <item quantity="other">"<xliff:g id="count">%1$d</xliff:g> គ្នា"</item>
+        </plurals>
+     <plurals name="searchMatchContacts">
+      <item quantity="one">"អ្នកទំនាក់ទំនងមួយសមស្រប"</item>
+      <item quantity="other">" <xliff:g id="COUNT">%d</xliff:g>អ្នកទំនាក់ទំនងសមស្រប"</item>
+      </plurals>
+     <string name="menu_create_contact_shortcut">" ដាក់នៅលើស្រ្គីនដើម"</string>
+     <string name="createContactShortcutSuccessful">" វីដជិតនៃទំនាក់ទំនងត្រូវបានបន្ថែមទៅស្រ្គីនដើមហើយ។"</string>
+     <string name="menu_help">ជំនួយ</string>
+     <string name="menu_sendmms">បាល់ក៍សារអេសអេមអេស</string>
+     <string name="no_sdcard_title">គ្មានកាត SD</string>
+     <string name="scanning_sdcard_failed_title">មិនអាចស្កែនកាត SD</string>
+     <string name="call_log_callNumber_by_sim">"ហៅ<xliff:g id="NAME">%s</xliff:g>（SIM<xliff:g id="PHONE_ID">%s</xliff:g>）"</string>
+     <string name="delete_contact_all_calls">"តើលោកចង់លុបចោលកំណត់ហេតុការហៅនៃអ្នកទំនាក់ទំនងឬទេ?"</string>
+     <string name="app_name">"កំណត់ហេតុការហៅ"</string>
+     <string name="search_description">រុករកការហៅខលឡក</string>
+     <string name="search_hint">រុករកការហៅខលឡក</string>
+     <string name="lable_search">រុករក</string>
+     <string name="please_wait">សូមរង់ចាំ…</string>
+     <string name="noContactwithEmail">"គ្មានអ្នកទំនាក់ទំនងមានអ៊ីមែលទេ"</string>
+     <string name="fast_dialer">"កំណត់នៃការហៅជាភ្លាម"</string>
+     <string name="select_card">"សូមជ្រើសរើសកាត"</string>
+     <string name="sim_absent">"មិននៅទេ"</string>
+     <string name="sdn_list">បញ្ជី SDN</string>
+     <string name="lnd_list">បញ្ជី LND</string>
+     <string name="sim_no_ready">"កាតSimមិនទាន់រៀបចំ"</string>
+     <string name="sdn_please_insert_sim">"សូមដាក់បញ្ចូលកាតSIM"</string>
+     <string name="sdn_sim_notready">"ពត៌មានSIMកំពុងផ្តើម សូមចាំមួយភ្លែតរួចប្រព្រឹត្ត។"</string>
+     <string name="ip_dialer">"កំណត់នៃការហៅIP"</string>
+     <string name="no_match_contact">"គ្មានអ្នកទំនាក់ទំនងសមស្រប"</string>
+     <string name="delete_group_dialog_commit">"តើលោកចង់លុបចោលក្រុមដែលបានជ្រើសរើសឬទេ?"</string>
+     <string name="create_new_contact">បងើ្កតទំនាក់ទំនងថ្មី</string>
+     <string name="call_log_callNumber_by_sim_ex">"ការហៅ<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+     <string name="video_callNumber_by_sim_ex">ការហៅតាមវីដេអូ<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)</string>
+     <string name="ip_callNumber_by_sim_ex">"ការហៅIP<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+     <string name="no_available_number">"គ្មានលេខអាចប្រើបាន"</string>
+     <string name="invalid_number">"លេខជាមោឃៈ។"</string>
+     <string name="item_sim_calls_ex">"SIM<xliff:g id="SIM">%s</xliff:g>កំណត់ហេតុការហៅ"</string>
+     <string name="menu_moveGroupMember">" ផ្លាស់ទីសមាជិកក្រុម"</string>
+     <string name="moveGroupMemberDialogTitle">"ផ្លាស់អ្នកទំនាក់ទំនងដល់"</string>
+     <string name="menu_deleteGroupMember">"លុបចោលសមាជិកក្រុម"</string>
+     <string name="sdcard_storage_not_enough">"អង្គចងចាំមិនគ្រប់គ្រាន់ទេ!"</string>
+     <string name="noJoinContactDataWith">"គ្មានអ្នកទំនាក់ទំនងអាចបង្រូបបង្រួមទេ"</string>
+     <string name="not_select_vCard">"មិនទាន់ជ្រើសរើសvCardណាមួយទេ"</string>
+     <string name="selected_is_not_image">"ឯកសារដែលលោកជ្រើសរើសមិនមែនរូបភាពទេ"</string>
+     <string name="batch_delete_confim_title">"លុបចោលអ្នកទំនាក់ទំនងទេ?"</string>
+     <string name="batch_delete_confim_message">"តើលោកសម្រេចចិត្តលុបចោលអ្នកទំនាក់ទំនងដែលបានជ្រើសរើសទេ?"</string>
+     <string name="transaction_too_large">"ចំនួនជ្រើសរើសអ្នកទំនាក់ទំនងបានហួសកំរិតអតិបរមា សូមជ្រើសរើសអ្នកទំនាក់ទំនងតិចជាង"</string>
+     <string name="contacts_selection_too_more">"យ៉ាងច្រើនអាចជ្រើសរើសអ្នកទំនាក់ទំនង5000នាក់"</string>
+    <string name="menu_export_database">"នាំចេញឯកសារឃ្លាំងទិន្នន័យ"</string>
+    <string name="contact_detail_picture_description">"រូបភាព(ជ្រើសរើសដើម្បីផ្លាស់ប្តូរ)"</string>
+    <string name="noContactwithPhoneAndEmail">"គ្មានទំនាក់ទំនងដែលត្រូវបានហៅចេញឬផ្ញើរអ៊ីមែលទៅកាន់ឡើយ។"</string>
+    <string name="noContactsWithPhoneNumbers">"គ្មានអ្នកទំនាក់ទំនងដែលមានលេខទូរស័ព្ទ"</string>
+    <string name="listTotalAllContactsZeroStarred">"គ្មានថតចំណូលចិត្ត។"</string>
+    <string name="contact_editor_prompt_multiple_accounts_short">"ផ្ទុកទំនាក់ទំនងទៅកាន់"</string>
+    <string name="working_batch_starred">"កំពុងប្រមួលចូលពេញចិត្ត"</string>
+    <string name="star_done">"ការប្រមូលទុកបានសម្រេច"</string>
+    <string name="cancel_batch_star_confirmation">"តើត្រូវការបោះបង់ការដាក់ទំនាក់ទំនងចូលទៅពេញចិត្តឬ?"</string>
+</resources>

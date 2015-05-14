@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="58dp"
+    android:background="#ffffff"
+    android:gravity="top"
+    android:orientation="horizontal"
+    android:visibility="visible" >
+
+    <TextView
+        android:id="@+id/membername"
+        android:layout_width="120dp"
+        android:layout_height="44dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="5dip"
+        android:ellipsize ="marquee"
+        android:gravity="center"
+        android:paddingRight="10dip"
+        android:singleLine="true"
+        android:textColor="#606060"
+        android:textSize="18dp" />
+
+    <TextView
+        android:id="@+id/member_evel"
+        android:layout_width="70dp"
+        android:layout_height="44dp"
+        android:layout_alignTop="@+id/membername"
+        android:layout_marginLeft="54dp"
+        android:layout_toRightOf="@+id/membername"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:paddingRight="10dip"
+        android:singleLine="true"
+        android:textColor="#a9a9a9"
+        android:textSize="17dp" />
+
+    <ImageButton
+        android:id="@+id/member_call"
+        android:layout_width="60dp"
+        android:layout_height="28dp"
+        android:layout_alignBottom="@+id/member_evel"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/new_grou_list_call_button_pressed"
+        android:gravity="center" />
+
+    <!--
+         <TextView
+        android:id="@+id/current_status"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="25dp"
+        android:layout_toRightOf="@+id/member_evel"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:singleLine="true" />
+    -->
+
+</RelativeLayout>

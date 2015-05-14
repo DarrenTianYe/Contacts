@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2006 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="people" msgid="1048457247435785074">"Kontakte"</string>
+    <string name="contactsList" msgid="8661624236494819731">"Kontakte"</string>
+    <string name="shortcutContact" msgid="749243779392912958">"Kontakt"</string>
+    <string name="shortcutDialContact" msgid="746622101599186779">"Direktwahl"</string>
+    <string name="shortcutMessageContact" msgid="2460337253595976198">"Direktnachricht"</string>
+    <string name="shortcutActivityTitle" msgid="6642877210643565436">"Verknüpfung für Kontakt auswählen"</string>
+    <string name="callShortcutActivityTitle" msgid="6065749861423648991">"Nummer für den Anruf auswählen"</string>
+    <string name="messageShortcutActivityTitle" msgid="3084542316620335911">"Nummer für Nachricht auswählen"</string>
+    <string name="contactPickerActivityTitle" msgid="4301062192337417640">"Kontakt auswählen"</string>
+    <string name="starredList" msgid="4817256136413959463">"Markiert"</string>
+    <string name="frequentList" msgid="7154768136473953056">"Häufig"</string>
+    <string name="strequentList" msgid="5640192862059373511">"Favoriten"</string>
+    <string name="viewContactTitle" msgid="7989394521836644384">"Kontaktinformationen"</string>
+    <string name="viewContactDesription" msgid="214186610887547860">"Kontakt anzeigen"</string>
+    <string name="editContactDescription" msgid="2947202828256214947">"Kontakt bearbeiten"</string>
+    <string name="insertContactDescription" msgid="4709878105452681987">"Kontakt erstellen"</string>
+    <string name="editGroupDescription" msgid="6321161304201540561">"Gruppe bearbeiten"</string>
+    <string name="insertGroupDescription" msgid="5658512271662210139">"Gruppe erstellen"</string>
+    <string name="contactDetailAbout" msgid="5430408883907061400">"Über"</string>
+    <string name="contactDetailUpdates" msgid="3780588624763446941">"Updates"</string>
+    <string name="searchHint" msgid="8482945356247760701">"In Kontakten suchen"</string>
+    <string name="menu_viewContact" msgid="2795575601596468581">"Kontakt anzeigen"</string>
+    <string name="menu_addStar" msgid="2908478235715404876">"Zu Favoriten hinzufügen"</string>
+    <string name="menu_removeStar" msgid="5844227078364227030">"Aus Favoriten entfernen"</string>
+    <string name="menu_editContact" msgid="9042415603857662633">"Bearbeiten"</string>
+    <string name="menu_deleteContact" msgid="6788644058868189393">"Löschen"</string>
+    <string name="menu_create_contact_shortcut" msgid="1217971915748509640">"Auf Startbildschirm platzieren"</string>
+    <string name="menu_call" msgid="3992595586042260618">"Kontakt anrufen"</string>
+    <string name="menu_sendSMS" msgid="5535886767547006515">"SMS an Kontakt"</string>
+    <string name="menu_splitAggregate" msgid="8368636463748691868">"Trennen"</string>
+    <string name="menu_editGroup" msgid="5062005185370983720">"Bearbeiten"</string>
+    <string name="menu_deleteGroup" msgid="3486380004411482874">"Löschen"</string>
+    <string name="menu_new_contact_action_bar" msgid="7263362129442119188">"Kontakt hinzufügen"</string>
+    <string name="menu_new_group_action_bar" msgid="3520232877587377175">"Gruppe hinzufügen"</string>
+    <string name="splitConfirmation_title" msgid="633640935430370530">"Kontakt aufteilen?"</string>
+    <string name="splitConfirmation" msgid="740190210499587175">"Dieser Kontakt wird in mehrere Kontakte aufgeteilt."</string>
+    <string name="menu_joinAggregate" msgid="5027981918265667970">"Zusammenführen"</string>
+    <string name="titleJoinContactDataWith" msgid="7684875775798635354">"Kontakte zusammenführen"</string>
+    <string name="blurbJoinContactDataWith" msgid="8736488417422708236">"Wählen Sie den Kontakt aus, den Sie mit <xliff:g id="NAME">%s</xliff:g> zusammenführen möchten."</string>
+    <string name="showAllContactsJoinItem" msgid="2189695051430392383">"Alle Kontakte anzeigen"</string>
+    <string name="separatorJoinAggregateSuggestions" msgid="2831414448851313345">"Vorgeschlagene Kontakte"</string>
+    <string name="separatorJoinAggregateAll" msgid="7939932265026181043">"Alle Kontakte"</string>
+    <string name="contactsJoinedMessage" msgid="7208148163607047389">"Kontakte wurden verknüpft."</string>
+    <string name="menu_set_ring_tone" msgid="8728345772068064946">"Klingeltonwahl"</string>
+    <string name="menu_redirect_calls_to_vm" msgid="4181789196416396656">"Alle Anrufe an Mailbox"</string>
+    <string name="readOnlyContactWarning" msgid="7808825687289848259">"Sie können keine Kontakte aus schreibgeschützten Konten löschen. Sie können sie aber in Ihren Kontaktlisten ausblenden."</string>
+    <string name="readOnlyContactDeleteConfirmation" msgid="2137170726670196909">"Dieser Kontakt enthält Informationen aus mehreren Konten. Informationen aus schreibgeschützten Konten werden nicht gelöscht, sondern in Ihren Kontaktlisten ausgeblendet."</string>
+    <string name="multipleContactDeleteConfirmation" msgid="938900978442960800">"Wenn Sie diesen Kontakt löschen, werden Informationen aus mehreren Konten gelöscht."</string>
+    <string name="deleteConfirmation" msgid="811706994761610640">"Dieser Kontakt wird gelöscht."</string>
+    <string name="menu_discard" msgid="6456087569315685632">"Verwerfen"</string>
+    <string name="invalidContactMessage" msgid="8215051456181842274">"Dieser Kontakt existiert nicht."</string>
+    <string name="createContactShortcutSuccessful" msgid="7874133287558150877">"Kontakt-Widget zum Startbildschirm hinzugefügt"</string>
+    <string name="pickerNewContactHeader" msgid="7750705279843568147">"Neuen Kontakt erstellen"</string>
+    <string name="pickerNewContactText" msgid="6166997164401048211">"Neuen Kontakt erstellen"</string>
+    <string name="photoPickerNotFoundText" product="tablet" msgid="6247290728908599701">"Auf dem Tablet sind keine Bilder verfügbar."</string>
+    <string name="photoPickerNotFoundText" product="default" msgid="431331662154342581">"Auf dem Telefon sind keine Bilder verfügbar."</string>
+    <string name="attach_photo_dialog_title" msgid="5599827035558557169">"Kontaktbild"</string>
+    <string name="customLabelPickerTitle" msgid="1081475101983255212">"Name des benutzerdef. Labels"</string>
+    <string name="send_to_voicemail_checkbox" msgid="9001686764070676353">"Anrufe direkt an Mailbox senden"</string>
+    <string name="removePhoto" msgid="4898105274130284565">"Foto entfernen"</string>
+    <string name="noContacts" msgid="8579310973261953559">"Keine Kontakte"</string>
+    <string name="noGroups" msgid="8614664663561385253">"Keine Gruppen"</string>
+    <string name="noAccounts" msgid="7768267764545265909">"Sie benötigen ein Konto, um Gruppen erstellen zu können."</string>
+    <string name="emptyGroup" msgid="7502116218697177370">"Keine Personen in dieser Gruppe"</string>
+    <string name="addPeopleToGroup" msgid="7879585947222263516">"Bearbeiten Sie die Gruppe, um Personen hinzuzufügen."</string>
+    <string name="savingContact" msgid="4075751076741924939">"Kontakt wird gespeichert..."</string>
+    <string name="contactSavedToast" msgid="7152589189385441091">"Kontakt gespeichert"</string>
+    <string name="contactSavedErrorToast" msgid="3207250533172944892">"Kontaktänderungen konnten nicht gespeichert werden."</string>
+    <string name="groupSavedToast" msgid="1168756874239833756">"Gruppe gespeichert"</string>
+    <string name="groupSavedErrorToast" msgid="7984466936615304740">"Gruppenänderungen konnten nicht gespeichert werden."</string>
+    <string name="listTotalPhoneContactsZero" msgid="6968813857632984319">"Keine sichtbaren Kontakte mit Telefonnummern"</string>
+    <string name="listFoundAllContactsZero" msgid="922980883593159444">"Keine Kontakte"</string>
+    <string name="contactsAllLabel" msgid="6479708629170672169">"Alle Kontakte"</string>
+    <string name="contactsGroupsLabel" msgid="2841971472518003524">"Gruppen"</string>
+    <string name="callBack" msgid="5498224409038809224">"Rückruf"</string>
+    <string name="callAgain" msgid="3197312117049874778">"Erneut anrufen"</string>
+    <string name="returnCall" msgid="8171961914203617813">"Zurückrufen"</string>
+    <string name="add_contact_dlg_message_fmt" msgid="7986472669444326576">"\"<xliff:g id="EMAIL">%s</xliff:g>\" zu den Kontakten hinzufügen?"</string>
+    <string name="description_contact_photo" msgid="3387458082667894062">"Kontaktbild"</string>
+    <string name="description_plus_button" msgid="515164827856229880">"plus"</string>
+    <string name="exporting_contact_list_progress" msgid="560522409559101193">"<xliff:g id="CURRENT_NUMBER">%s</xliff:g> von <xliff:g id="TOTAL_NUMBER">%s</xliff:g> Kontakten"</string>
+    <string name="search_settings_description" msgid="2675223022992445813">"Namen meiner Kontakte"</string>
+    <string name="quickcontact_missing_app" msgid="358168575340921552">"Für diese Aktion wurde keine App gefunden."</string>
+    <string name="menu_share" msgid="943789700636542260">"Teilen"</string>
+    <string name="share_via" msgid="563121028023030093">"Kontakt teilen über"</string>
+    <string name="dialog_new_group_account" msgid="2318032089273496830">"Konto für Gruppenerstellung"</string>
+    <string name="audio_chat" msgid="2535716629358298691">"Sprach-Chat"</string>
+    <string name="video_chat" msgid="1872255818640336072">"Video-Chat"</string>
+    <string name="connections" msgid="8098440723172028350">"Verbindungen"</string>
+    <string name="add_connection_button" msgid="4861308615789601727">"Verbindung hinzufügen"</string>
+    <string name="recent" msgid="2659189233141493004">"Neueste Nachrichten"</string>
+    <string name="recent_updates" msgid="4267258535615860710">"Neueste Updates"</string>
+    <string name="account_type_format" msgid="718948015590343010">"<xliff:g id="SOURCE">%1$s</xliff:g>-Kontakt"</string>
+    <!-- no translation found for from_account_format (4469138575127580203) -->
+    <skip></skip>
+    <string name="use_photo_as_primary" msgid="8807110122951157246">"Dieses Foto verwenden"</string>
+    <string name="contact_read_only" msgid="7421346527289472273">"In dieser App nicht bearbeitbar"</string>
+    <string name="no_contact_details" msgid="6636856378019344497">"Keine Zusatzinformationen zu diesem Kontakt"</string>
+    <string name="group_read_only" msgid="1061762906115697637">"Auf diesem Gerät nicht bearbeitbar"</string>
+    <string name="display_options_sort_list_by" msgid="6080091755852211076">"Liste sortieren nach"</string>
+    <string name="display_options_sort_by_given_name" msgid="184916793466387067">"Vorname"</string>
+    <string name="display_options_sort_by_family_name" msgid="7857986975275712622">"Nachname"</string>
+    <string name="display_options_view_names_as" msgid="4386932036180428374">"Kontaktnamen anzeigen"</string>
+    <string name="display_options_view_given_name_first" msgid="6968288511197363292">"Vorname zuerst"</string>
+    <string name="display_options_view_family_name_first" msgid="1447288164951453714">"Nachname zuerst"</string>
+    <string name="take_photo" msgid="7496128293167402354">"Foto machen"</string>
+    <string name="take_new_photo" msgid="7341354729436576304">"Neues Foto aufnehmen"</string>
+    <string name="pick_photo" msgid="3746334626214970837">"Foto aus Galerie auswählen"</string>
+    <string name="pick_new_photo" msgid="7962368009197147617">"Neues Foto aus Galerie auswählen"</string>
+    <string name="locale_change_in_progress" msgid="7583992153091537467">"Kontaktliste wird an die geänderte Sprache angepasst..."</string>
+    <string name="upgrade_in_progress" msgid="474511436863451061">"Kontaktliste wird aktualisiert..."</string>
+    <string name="upgrade_out_of_memory" msgid="1209994418877625940">"Kontakte werden gerade aktualisiert. \n\nDas Upgrade erfordert etwa <xliff:g id="SIZE_IN_MEGABYTES">%s</xliff:g> MB des internen Speichers.\n\nWählen Sie eine der folgenden Optionen:"</string>
+    <string name="upgrade_out_of_memory_uninstall" msgid="1721798828992091432">"Einige Apps deinstallieren"</string>
+    <string name="upgrade_out_of_memory_retry" msgid="8431289830472724609">"Upgrade wiederholen"</string>
+    <string name="search_results_searching" msgid="3984833028938569930">"Suche..."</string>
+    <string name="menu_display_selected" msgid="6470001164297969034">"Auswahl anzeigen"</string>
+    <string name="menu_display_all" msgid="8887488642609786198">"Alle anzeigen"</string>
+    <string name="menu_select_all" msgid="621719255150713545">"Alle auswählen"</string>
+    <string name="menu_select_none" msgid="7093222469852132345">"Auswahl für alle aufheben"</string>
+    <string name="add_field" msgid="2384260056674995230">"Weiteres Feld hinzufügen"</string>
+    <string name="add_new_entry_for_section" msgid="5223080690667565044">"Hinzufügen"</string>
+    <string name="add_organization" msgid="7311893231158291197">"Unternehmen hinzufügen"</string>
+    <string name="event_edit_field_hint_text" msgid="5794424930242630477">"Datum"</string>
+    <string name="group_edit_field_hint_text" msgid="3966441850870457808">"Gruppenname"</string>
+    <string name="description_star" msgid="2605854427360036550">"Favorit"</string>
+    <string name="edit_contact" msgid="7529281274005689512">"Kontakt bearbeiten"</string>
+    <string name="aggregation_suggestion_join_dialog_message" msgid="3842757977671434836">"Aktuellen Kontakt mit ausgewähltem Kontakt zusammenführen?"</string>
+    <string name="aggregation_suggestion_edit_dialog_message" msgid="6549585283910518095">"Zur Bearbeitung des ausgewählten Kontakts wechseln? Die bisher eingegebenen Informationen werden kopiert."</string>
+    <string name="menu_copyContact" msgid="1573960845106822639">"In meine Kontakte kopieren"</string>
+    <string name="add_to_my_contacts" msgid="1068274916793627723">"Zu meinen Kontakten hinzufügen"</string>
+    <string name="contact_directory_description" msgid="683398073603909119">"Verzeichnis <xliff:g id="TYPE">%1$s</xliff:g>"</string>
+    <string name="toast_making_personal_copy" msgid="288549957278065542">"Persönliche Kopie wird erstellt..."</string>
+    <string name="list_filter_custom" msgid="8910173055702057002">"Benutzerdefiniert"</string>
+    <string name="activity_title_settings" msgid="5464130076132770781">"Einstellungen"</string>
+    <string name="menu_settings" msgid="377929915873428211">"Einstellungen"</string>
+    <string name="menu_help" msgid="5123887102216637725">"Hilfe"</string>
+    <string name="preference_displayOptions" msgid="1341720270148252393">"Anzeigeoptionen"</string>
+    <string name="organization_company_and_title" msgid="6718207751363732025">"<xliff:g id="COMPANY_0">%2$s</xliff:g>, <xliff:g id="COMPANY_1">%1$s</xliff:g>"</string>
+    <string name="non_phone_caption" msgid="1541655052330027380">"Telefonnummer"</string>
+    <string name="non_phone_add_to_contacts" msgid="6590985286250471169">"Zu Kontakten hinzufügen"</string>
+    <string name="activity_title_confirm_add_detail" msgid="4065089866210730616">"Zu Kontakt hinzufügen"</string>
+    <string name="non_phone_close" msgid="7608506439725515667">"Schließen"</string>
+    <string name="widget_name_and_phonetic" msgid="8739586586600099979">"<xliff:g id="DISPLAY_NAME">%1$s</xliff:g> (<xliff:g id="PHONETIC_NAME">%2$s</xliff:g>)"</string>
+    <string name="date_year_toggle" msgid="7356532842767854606">"Jahr angeben"</string>
+    <string name="social_widget_label" msgid="6378905543028924592">"Kontakt"</string>
+    <string name="social_widget_loading" msgid="5327336597364074608">"Wird geladen…"</string>
+    <string name="contacts_unavailable_create_contact" msgid="7014525713871959208">"Neuen Kontakt erstellen"</string>
+    <string name="contacts_unavailable_add_account" msgid="7911101713860139754">"In einem Konto anmelden"</string>
+    <string name="contacts_unavailable_import_contacts" msgid="4957393255392437529">"Kontakte importieren"</string>
+    <string name="create_group_dialog_title" msgid="6874527142828424475">"Neue Gruppe erstellen"</string>
+    <string name="create_group_item_label" msgid="4411981763169654825">"Neue Gruppe erstellen"</string>
+    <string name="delete_group_dialog_message" msgid="7586856514337560529">"Soll die Gruppe \"<xliff:g id="GROUP_LABEL">%1$s</xliff:g>\" wirklich gelöscht werden? Die Kontakte selbst werden nicht gelöscht."</string>
+    <string name="toast_join_with_empty_contact" msgid="2238581529864542985">"Geben Sie einen Namen für den Kontakt ein, bevor Sie ihn mit einem anderen Kontakt zusammenführen."</string>
+    <string name="copy_text" msgid="3257145021583508761">"In Zwischenablage kopieren"</string>
+    <string name="set_default" msgid="4417505153468300351">"Als Standard festlegen"</string>
+    <string name="clear_default" msgid="7193185801596678067">"Als Standard löschen"</string>
+    <string name="toast_text_copied" msgid="5143776250008541719">"Text kopiert"</string>
+    <string name="cancel_confirmation_dialog_message" msgid="5885724679874403115">"Sollen die Änderungen verworfen werden?"</string>
+    <string name="call_type_and_date" msgid="747163730039311423">"<xliff:g id="CALL_TYPE">%1$s</xliff:g> <xliff:g id="CALL_SHORT_DATE">%2$s</xliff:g>"</string>
+    <string name="profile_display_name" msgid="4127389543625918771">"Mein Profil einrichten"</string>
+    <string name="enter_contact_name" msgid="1738391320566349924">"Namen der Person eingeben"</string>
+    <string name="group_name_hint" msgid="238359485263401293">"Gruppenname"</string>
+    <string name="local_profile_title" msgid="2021416826991393684">"Mein lokales Profil"</string>
+    <string name="external_profile_title" msgid="8034998767621359438">"Mein <xliff:g id="EXTERNAL_SOURCE">%1$s</xliff:g>-Profil"</string>
+    <string name="toast_displaying_all_contacts" msgid="2737388783898593875">"Alle Kontakte werden angezeigt."</string>
+    <string name="no_account_prompt" msgid="7061052512446855192">"Die Personenfunktion funktioniert besser mit einem Google-Konto.\n\n• Zugriff über einen beliebigen Browser\n• Sichern von Kontakten mit Schutzfunktion"</string>
+    <string name="generic_no_account_prompt" msgid="7218827704367325460">"Synchronisierung mit einem Online-Service: Ihre Kontakte sind dann auch sicher, wenn Sie Ihr Telefon verlieren."</string>
+    <string name="generic_no_account_prompt_title" msgid="753783911899054860">"Konto hinzufügen"</string>
+    <string name="contact_editor_prompt_zero_accounts" msgid="1785345895691886499">"Ihr neuer Kontakt wird nicht gesichert. Konto für die Online-Sicherung von Kontakten hinzufügen?"</string>
+    <string name="contact_editor_prompt_one_account" msgid="8669032699767375976">"Ihr neuer Kontakt wird mit <xliff:g id="ACCOUNT_NAME">%1$s</xliff:g> synchronisiert."</string>
+    <string name="contact_editor_prompt_multiple_accounts" msgid="611828200100438242">"Sie können Ihren neuen Kontakt mit einem der folgenden Konten synchronisieren. Welches möchten Sie verwenden?"</string>
+    <string name="keep_local" msgid="1258761699192993322">"Lokal speichern"</string>
+    <string name="add_account" msgid="8201790677994503186">"Konto hinzufügen"</string>
+    <string name="add_new_account" msgid="5748627740680940264">"Neues Konto hinzufügen"</string>
+    <string name="menu_export_database" msgid="2659719297530170820">"Datenbankdateien exportieren"</string>
+    <string name="contact_detail_picture_description" msgid="6083230522651287030">"Bild. Zum Ändern auswählen"</string>
+    <string-array name="otherLabels">
+            <item>"Firma/Organisation"</item>
+            <item>"Notiz"</item>
+      </string-array>
+     <plurals name="listTotalPhoneContacts">
+    <item quantity="one">"1 Kontakt mit Telefonnummer"</item>
+    <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> Kontakte mit Telefonnummern"</item>
+      </plurals>
+     <plurals name="listTotalAllContacts">
+    <item quantity="one">"1 Kontakt"</item>
+    <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> Kontakte"</item>
+      </plurals>
+     <plurals name="listFoundAllContacts">
+    <item quantity="one">"1 gefunden"</item>
+    <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> gefunden"</item>
+      </plurals>
+     <plurals name="searchFoundContacts">
+    <item quantity="one">"1 gefunden"</item>
+    <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> gefunden"</item>
+      </plurals>
+     <plurals name="merge_info">
+    <item quantity="one">"nicht zusammengeführt"</item>
+    <item quantity="other">"aus <xliff:g id="COUNT">%0$d</xliff:g> Quellen zusammengeführt"</item>
+      </plurals>
+     <plurals name="num_groups_in_account">
+    <item quantity="one">"1 Gruppe"</item>
+    <item quantity="other">"<xliff:g id="COUNT">%0$d</xliff:g> Gruppen"</item>
+      </plurals>
+     <plurals name="num_contacts_in_group">
+    <item quantity="one">"<xliff:g id="COUNT_0">%1$d</xliff:g> Person von <xliff:g id="ACCOUNT_TYPE">%2$s</xliff:g>"</item>
+    <item quantity="other">"<xliff:g id="COUNT_0">%1$d</xliff:g> Personen von <xliff:g id="ACCOUNT_TYPE">%2$s</xliff:g>"</item>
+      </plurals>
+     <plurals name="group_list_num_contacts_in_group">
+    <item quantity="one">"<xliff:g id="COUNT">%1$d</xliff:g> Person"</item>
+    <item quantity="other">"<xliff:g id="COUNT">%1$d</xliff:g> Personen"</item>
+      </plurals>
+     <string name="launcherDialer">"Telefon"</string>
+     <string name="fast_vt_call">videoanruf</string>
+     <string name="fast_call">Voiceanruf</string>
+     <string name="fast_dial_choose">art der Schnellwahl auswählen</string>
+     <string name="no_fast_dial">die Schnellwahl-Telefonnummer ist nicht programmiert</string>
+     <string name="select_one">"Mindestens ein Element auswählen!"</string>
+     <string name="export_to_sim">Auf die SIM-Karte laden</string>
+     <string name="select_all">"Gelesen/ungelesen"</string>
+     <string name="from_account_format">"von <xliff:g id="SOURCE">%1$s</xliff:g>"</string>
+     <string name="menu_newContact">"Neuer Kontakt"</string>
+     <string name="deleteConfirmation_title">"Kontakt löschen?"</string>
+     <string name="recentCallsIconLabel">"Anrufe"</string>
+     <string name="recentCalls_empty">"Anrufliste ist leer."</string>
+     <string name="add_contact_dlg_title">"Kontakt hinzufügen"</string>
+     <string name="searching_vcard_title">"vCard wird gesucht."</string>
+     <string name="cancel_import_confirmation_title">"vCard-Import wird abgebrochen."</string>
+     <string name="cancel_export_confirmation_title">"vCard-Export wird abgebrochen."</string>
+     <string name="menu_all_contacts">"Alle Kontakte"</string>
+     <string name="search_bar_hint">"Kontakte durchsuchen"</string>
+     <string name="aggregation_suggestion_join_dialog_title">"Kontakte zusammenführen"</string>
+     <string name="aggregation_suggestion_edit_dialog_title">"Ausgewählte Kontakte bearbeiten"</string>
+     <string name="contact_list_loading">"Wird geladen…"</string>
+     <string name="delete_group_dialog_title">"Gruppe löschen"</string>
+     <string name="cancel_confirmation_dialog_title">"Änderungen verwerfen"</string>
+     <string name="dialog_phone_call_prohibited_title">"Anruf nicht verbunden"</string>
+     <string name="dialog_voicemail_not_ready_title">"Mailbox-Nummer nicht verfügbar"</string>
+     <string name="wait">Bitte warten...</string>
+     <string name="working">In Bearbeitung</string>
+     <string name="working_batch_delete">Bündel löschen</string>
+     <string name="working_batch_import">Bündel wird importiert</string>
+     <string name="choose_sim_card">Wähle SIM Karte</string>
+     <string name="violate_capacity">Verletze SIM Kapazität</string>
+     <string name="import_failed">Import/Export Kontakt fehlgeschlagen</string>
+     <string name="import_failed_tmp"><xliff:g id="count">%d</xliff:g> erfolgreich, <xliff:g id="count">%d</xliff:g> fehlgeschlagen </string>
+     <string name="import_done">Import abgeschlossen</string>
+     <string name="delete_done">Löschung abgeschlossen</string>
+     <string name="toast_no_contact_selected">Kein Kontakt ausgewählt</string>
+     <string name="contactSavedErrorToastNameLength">Kontaktname ist zu lang für Speicherung</string>
+     <string name="contactSavedErrorToastEmailLength">Email Name ist zu lang für Speicherung</string>
+     <string name="contactSavedErrorToastEmailFull">Email ist voll</string>
+     <string name="sim_is_full">SIM ist voll</string>
+     <string name="beyond_sim_card_capacity">Überhalb des SIM Kartenlimits können einige Kontakte fehlerhaft gespeichert werden</string>
+     <string name="menu_addToBlacklist">Zur Blacklist hinzufügen</string>
+     <string name="menu_view_calls">"Anzeigen"</string>
+     <string name="item_all_calls">Alle Telefonatprotokolle</string>
+     <string name="item_sim1_calls">SIM1 Telefonatprotokolle</string>
+     <string name="item_sim2_calls">SIM2 Log Telefonatprotokolle</string>
+     <string name="cancel_call">"Abbrechen"</string>
+     <string name="res_name">"Name"</string>
+     <string name="res_phone">"Telefon"</string>
+     <string name="res_email">"E-Mail"</string>
+     <string name="res_field">Feld</string>
+     <string name="alert_maybe_lost_info">Einige Informationen können möglicherweise beim Importieren oder Exportieren verloren gehen</string>
+     <string name="field_too_long"><xliff:g id="field">%s</xliff:g> zu lang</string>
+     <string name="select_group_member">Auswahl Gruppenmitglieder</string>
+     <string name="email_format_fail">Bitte geben Sie die richtige Email Adresse ein!</string>
+     <string name="phone_number_format_fail">Bitte geben Sie die richtige Rufnummer ein!</string>
+     <string name="working_editing_group">Wende Gruppenmodifikation an</string>
+     <string name="editing_group_done">Gruppenmodifikation abgeschlossen</string>
+     <string name="editing_group_failed">Gruppenmodifikation fehlgeschlagen</string>
+     <string name="contacts_group_name_exist">Bereits existierender Gruppenname</string>
+     <string name="menu_sendmms">Massen SMS</string>
+     <string name="alert_delete_contact">Sind Sie sicher, dass Sie die ausgewählten Kontakte löschen möchten?</string>
+     <string name="login_activity_username_label">"Nutzername"</string>
+     <string name="login_activity_password_label">"Passwort"</string>
+     <string name="login_activity_ok_button">Anmelden</string>
+     <string name="label">SPRD Konto</string>
+     <string name="label_sim">SIM Karte</string>
+     <string name="label_usim">SIM Karte</string>
+     <string name="label_phone">"Telefon"</string>
+     <string name="menu_batch_delete">Bündel löschen</string>
+     <string name="group_selection">Auswahl Kontaktgruppe</string>
+     <string name="ui_activity_title">Anmeldung</string>
+     <string name="login_activity_newaccount_text">Anmelden bei ihrem SyncAdapter Probekonto. </string>
+     <string name="login_activity_loginfail_text_pwmissing">Tragen Sie das Passwort für diese Konto ein.</string>
+     <string name="cancel_batch_import_confirmation">Import von Kontakt abbrechen?</string>
+     <string name="cancel_batch_delete_confirmation">Löschung von Kontakt abbrechen?</string>
+     <string name="copy">"Kopieren"</string>
+     <string name="copy_to">Kopiere zu</string>
+     <string name="contactDeletedToast">Kontakt gelöscht.</string>
+     <string name="list_filter_all_in_one">Alle Kontakte mit Daten</string>
+     <string name="listTotalEmailContactsZero">Keine Kontakte mit Email Adresse</string>
+     <string name="list_filter_emails">Alle Kontakte mit Email Adresse</string>
+     <string name="listMaxContactsInAccount">"Platz: <xliff:g id="COUNT">%d</xliff:g>"</string>
+     <string name="reading_vcard_exception_title">Lese/Schreibe vCard Datei Fehler</string>
+     <string name="sqlite_full">Kontaktdatenspeicher oder Disk ist voll</string>
+     <string name="groupSavingToast">Gruppenmodifikation wird später angewandt.</string>
+     <string name="cancel_button_label">"Abbrechen"</string>
+     <string name="view_profile">Betrachte Profil</string>
+     <string name="batch_operation_canceled">Operation abgebrochen</string>
+     <string name="no_sdcard_title">"Keine SD-Karte"</string>
+     <string name="notification_login_error">Berühren, um sich in ihr SyncAdapter Probekonto anzumelden.</string>
+     <string name="video_callNumber_by_sim2">"Videotelefonat<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>（SIM2）)"</string>
+     <string name="delete_calls_list">Lösche ausgewählte Telefonate</string>
+     <string name="video_menu_callNumber">"Videotelefonat<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+     <string name="dialog_batch_change_group">Bündel ändere Gruppe</string>
+     <string name="permlab_samplesyncadapterAuthPassword">Zugang zu Passwörtern für SyncAdapter Probekonten</string>
+     <string name="menu_batch_operations">Bündeloperationen</string>
+     <string name="profile_action">Testprofil</string>
+     <string name="permlab_samplesyncadapterAuth">betrahchte konfigurierte Konten</string>
+     <string name="menu_copyToPhone">Auf Telefon kopieren</string>
+     <string name="sign_in_button_label">Anmelden</string>
+     <string name="ui_activity_authenticating">Authentifizierung\u2026</string>
+     <string name="delete_all_calls_confirm">Möchten Sie alle Telefonate löschen?</string>
+     <string name="scanning_sdcard_failed_title">SD Karte konnte nicht gescannt werden</string>
+     <string name="delete_all_calls">Lösche alle Telefonate</string>
+     <string name="video_callNumber_by_sim1">"Videotelefonat<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>（SIM1）)"</string>
+     <string name="call_log_callNumber_by_sim">"Anruf<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+     <string name="dialog_batch_delete">Bündel löschen</string>
+     <string name="delete_success">Löschen erfolgreich</string>
+     <string name="delete_selected_calls">Möchten Sie alle ausgewählten Telefonate löschen?</string>
+     <string name="delete_contact_all_calls">Sind Sie sicher die Telefonatprotokolle der Kontake zu löschen?</string>
+     <string name="menu_copyToSim">Auf SIM kopieren</string>
+     <string name="please_input_group_name">Bitte den Gruppennamen eingeben</string>
+     <string name="back_button_label">"Zurück"</string>
+     <string name="delete_calls">"Löschen"</string>
+     <string name="dialog_batch_import_export">Bündel importieren/exportieren</string>
+     <string name="app_name">Durchsuche Telefonatprotokolle</string>
+     <string name="search_description">durchsuche Telefonatprotokolle</string>
+     <string name="search_hint">durchsuche Telefonatprotokolle</string>
+     <string name="lable_search">"Suchen"</string>
+     <string name="menu_deleteFromBlacklist">Lösche von Blacklist</string>
+     <string name="success_addToBlacklist">Hinzufügen erfolgreich</string>
+     <string name="failed_addToBlacklist">Hinzufügen fehlgeschlagen</string>
+     <string name="success_removeFromBlacklist">Löschen erfolgreich</string>
+     <string name="failed_removeFromBlacklist">Löschen fehlgeschlagen</string>
+     <string name="menu_mmsGroup">Massen MMS</string>
+     <string name="menu_emailGroup">Massen Email</string>
+     <string name="noContactsInGroup">Kein Kontakt in dieser Gruppe</string>
+     <string name="please_wait">Bitte warten...</string>
+     <string name="noContactswithEmail">Kein Kontakt besitzt Email in dieser Gruppe</string>
+     <string name="noContactwithEmail">Kein Kontakt besitzt Email</string>
+     <string name="fast_dialer">Einstellung Schnellwahl</string>
+     <string name="select_card">Bitte Karte wählen</string>
+     <string name="sim_absent">ist nicht verfügbar</string>
+     <string name="sdn_list">"SDN Liste"</string>
+     <string name="lnd_list">"LND Liste"</string>
+     <string name="sim_no_ready">"SIM Karte nicht bereit."</string>
+     <string name="sdn_please_insert_sim">Bitte SIM Karte eingeben.</string>
+     <string name="sdn_sim_notready">Initializiere SIM Info, bitte später ausführen.</string>
+     <string name="ip_dialer">IP Wahleinstellung</string>
+     <string name="call_ip">IP Telefonat</string>
+     <string name="no_group">Kein Mitglied einer Gruppe</string>
+     <string name="select_group">"Gruppe auswählen"</string>
+     <string name="fast_dial_settings">Schnellwahleinstellungen</string>
+     <string name="edit_photo">Bearbeite Foto</string>
+     <string name="select_all_contacts">"Gelesen/ungelesen"</string>
+     <string name="menu_save">"Speichern"</string>
+     <string name="group_name_hint_overlay">"Bitte Gruppennamen eingeben"</string>
+     <string name="select_group_member_overlay">Klicken, um Gruppenmitglieder hinzuzufügen</string>
+     <string name="no_match_contact">Keine Kontakttreffer</string>
+     <string name="menu_newGroup">Neue Gruppe</string>
+     <string name="editGroup">"Gruppe bearbeiten"</string>
+     <string name="menu_delete_group">"Gruppe löschen"</string>
+     <string name="contactsFavoritesLimit">Kollektion 12 Kontakte, außerhalb des Kollektionslimits</string>
+     <string name="menu_add_favorite">Füge Kontakte zu Favoriten hinzu</string>
+     <string name="menu_more">Menü mehr</string>
+     <string name="create_new_contact">"Neuen Kontakt erstellen"</string>
+     <string name="send_mms">Sende MMS</string>
+     <string name="tab_more">"Mehr Optionen"</string>
+     <string name="show_contacts">Zeige Kontakte an</string>
+     <string name="fast_dial">Schnellwahl</string>
+     <string name="account">"Konto"</string>
+     <string name="import_export_contacts">Importiere/Exportiere Kontakte</string>
+     <string name="export_contacts">Exportiere Kontakte</string>
+     <string name="duplicate_phone_book">Dupliziere Telefonbuch</string>
+     <string name="dump_phone_book">Lösche Telefonbuch</string>
+     <string name="call_log_contacts_not_save">"Unbekannt"</string>
+     <string name="call_log_callNumber_by_sim_ex">"Anruf<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+     <string name="video_callNumber_by_sim_ex">"Videotelefonat<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+     <string name="removeStarred">Favoriten entfernen</string>
+     <string name="lookUpInfo">Informationen ansehen</string>
+     <string name="cancel">"Abbrechen"</string>
+     <string name="favorite_contacts">Favoriten Kontakte</string>
+     <string name="no_available_number">Keine Nummer verfügbar</string>
+     <string name="confirmCoverPhoneNumber">"Sind Sie sicher, dass Sie den vorhandenen Kontakt ersetzen wollen?"</string>
+     <string name="replaceSelected">"Bitte wählen Sie aus, welcher ersetzt werden soll"</string>
+     <string name="over_phone_length_limit">Nummer zu lang</string>
+     <string name="invalid_number">Ungültige Nummern</string>
+     <string name="no_vcard_found_in_internal_stor">Keine vCard in internem Speicher</string>
+     <string name="item_sim_calls_ex">SIM<xliff:g id="SIM">%s</xliff:g> Telefonatprotokolle</string>
+     <string name="menu_moveGroupMember">Verschiebe Gruppenmitglieder</string>
+     <string name="moveGroupMemberDialogTitle">Verschiebe Kontakte nach</string>
+     <string name="menu_deleteGroupMember">Lösche Gruppenmitglieder</string>
+     <string name="overGroupNameLength">Gruppenname zu lang</string>
+     <string name="overGroupCountLimit">Über dem Limit der Gruppenanzahl</string>
+     <string name="menu_share_by_sms">Sende Kontakt mit SMS</string>
+     <string name="toast_batchoperation_is_running">Bündeloperation wird ausgeführt，bitte später nochmals versuchen！</string>
+     <string name="sdcard_storage_not_enough">Speicherplatz SD Karte nicht ausreichend!</string>
+     <string name="noJoinContactDataWith">Kontakte können nicht zusammengelegt werden</string>
+     <string name="not_select_vCard">Keine vCard ausgewählt</string>
+     <string name="selected_is_not_image">Die ausgewählte Datei ist kein Bild</string>
+     <plurals name="searchMatchContacts">
+      <item quantity="one">"Ein übereinstimmender Kontakt"</item>
+      <item quantity="other">\'" <xliff:g id="COUNT">%d</xliff:g>contact match"</item>
+      </plurals>
+     <string name="delete_group_dialog_commit">"Wollen Sie die ausgewählte Gruppe löschen?"</string>
+     <string name="ip_callNumber_by_sim_ex">"IP Anruf<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+     <string name="batch_delete_confim_title">"Kontakt(e) löschen?"</string>
+     <string name="batch_delete_confim_message">"Sind Sie sicher, dass Sie die ausgewählten Kontakt(e) löschen möchten?"</string>
+     <string name="transaction_too_large">"Die Größe der ausgewählten Kontakte ist über dem Limit, bitte wählen Sie weniger Kontakte aus"</string>
+     <string name="contacts_selection_too_more">"Die maximale Anzahl von ausgewählten Kontakten ist 5000"</string>
+    <string name="noContactwithPhoneAndEmail">"Kein Kontakt hat eine Telefon- oder E-mail-Angabe."</string>
+    <string name="noContactsWithPhoneNumbers">"Keine Kontakte mit Telefonnummern"</string>
+    <string name="listTotalAllContactsZeroStarred">"Keine Favoriten"</string>
+    <string name="contact_editor_prompt_multiple_accounts_short">"Den Kontakt speichern unter"</string>
+    <string name="working_batch_starred">"Stapel mit Sternchen versehen"</string>
+    <string name="star_done">"Mit Sternchen versehen durchgeführt"</string>
+    <string name="cancel_batch_star_confirmation">"Kontakt mit Sternchen versehen abbrechen?"</string>
+
+</resources>

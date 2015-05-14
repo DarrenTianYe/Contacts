@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="people">"ຄົນ"</string>
+<string name="contactsList">"ລາຍຊື່ຜູ່ຕິດຕໍ່"</string>
+<string name="shortcutContact">"ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="shortcutDialContact">"ໂທ​ໂດຍ​ກົງ"</string>
+<string name="shortcutMessageContact">"ສົ່ງ​ຂໍ້​ຄວາມ​ໂດຍ​ກົງ"</string>
+<string name="shortcutActivityTitle">"ເລືອກ​​ຜູ້​ຕິດ​ຕໍ່ໃນວິ​ທີ​ທາງ​ລັດ"</string>
+<string name="callShortcutActivityTitle">"​ເລືອກ​ໝາຍ​ເລກ​ໂທ​ລະ​ສັບ​ອັນ​ໜື່ງ​ທີ່​ສາ​ມາດ​ໂທ​ອອກ​ໄດ້"</string>
+<string name="messageShortcutActivityTitle">"​ເລືອກ​ໝາຍ​ເລກ​ໂທ​ລະ​ສັບ​ອັນ​ໜື່ງ​ທີ່​ສາ​ມາດສົ່ງ​ຂໍ້​ຄວາມ​ໄດ້"</string>
+<string name="contactPickerActivityTitle">"ເລືອກ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="starredList">"ໝາຍດາວແລ້ວ"</string>
+<string name="frequentList">"ຕິດ​ຕໍ່​ເລື້ອຍໆ"</string>
+<string name="strequentList">"​ເກັບ​ຮັກ​ສາ"</string>
+<string name="viewContactTitle">"​ລາຍ​ລະ​ອຽດ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="viewContactDesription">"ເບິ່ງລາຍຊື່ຜູ່ຕິດຕໍ່"</string>
+<string name="editContactDescription">"​ແກ້​ໄຂ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="insertContactDescription">"ສ້າງລາຍຊື່ຜູ້ຕິດຕໍ່"</string>
+<string name="editGroupDescription">"ແກ້​ໄຂ​ກຸ່ມ"</string>
+<string name="insertGroupDescription">"ສ້າງ​ກຸ່​ມ"</string>
+<string name="contactDetailAbout">"ກ່ຽວ​ກັບ"</string>
+<string name="contactDetailUpdates">"ການ​ປັບ​ປຸງ​ໃຫມ່​ລ່າ​ສຸດ"</string>
+<string name="searchHint">"ຄົ້ນ​ຫາ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="menu_viewContact">"ເບິ່ງລາຍຊື່ຜູ່ຕິດຕໍ່"</string>
+<string name="menu_addStar">"ເພີ່ມ​ເກັບ​ຮັກ​ສາ"</string>
+<string name="menu_removeStar">"​ລຶບ​ອອກ​ຈາກ​ເກັບ​ຮັກ​ສາ"</string>
+<string name="menu_editContact">"ແກ້ໄຂ"</string>
+<string name="menu_deleteContact">"ລຶບ"</string>
+<string name="menu_create_contact_shortcut">"ວາງ​ໄວ້​ໃນ​ໜ້າ​ຈໍ​ຫລັກ"</string>
+<string name="menu_call">"ໂທ​ຫາ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="menu_sendSMS">"ສົ່ງ​ຂໍ້​ຄວາມ​ຫາ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="menu_splitAggregate">"ແຍກກັນ"</string>
+<string name="menu_editGroup">"ແກ້ໄຂ"</string>
+<string name="menu_deleteGroup">"ລຶບ"</string>
+<string name="menu_new_contact_action_bar">"ເພີ່ມລາຍຊື່"</string>
+<string name="menu_new_group_action_bar">"ເພີ່ມ​ກຸ່ມ"</string>
+<string name="splitConfirmation_title">"ຕ້ອງ​ການ​ແຍກ​ຜູ້​ຕິດ​ຕໍ່​ບໍ່?"</string>
+<string name="splitConfirmation">"ລະ​ບົບ​ຈະ​ນຳ​ເອົາ​ຜູ້​ຕິດ​ຕໍ່​ນີ້​ແຍກ​ກາຍ​ເປັນ​ຜູ້​ຕິດ​ຕໍ່​ຫລາຍ​ຄົນ"</string>
+<string name="menu_joinAggregate">"ເຂົ້າ​ຮ່ວມ"</string>
+<string name="titleJoinContactDataWith">"ຜູ້​ຕິດ​ຕໍ່​ເຂົ້າ​ຫາ​ກັນ"</string>
+<string name="blurbJoinContactDataWith">"​ເລືອກ​ຜູ້​ຕິດ​ຕໍ່​ທີ່ທ່ານ​ຕ້ອງ​ການ​ໃຫ້​ເຂົ້າ​ຮ່ວມ​ກັບ<xliff:g id="name">%s</xliff:g>:"</string>
+<string name="showAllContactsJoinItem">"ສະແດງລາຍຊື່ທັງໝົດ"</string>
+<string name="separatorJoinAggregateSuggestions">"ຜູ້​ຕິດ​ຕໍ່​ທີ່​ແນະ​ນຳ"</string>
+<string name="separatorJoinAggregateAll">"ລາຍຊື່ຜູ່ຕິດຕໍ່ທັງໝົດ"</string>
+<string name="contactsJoinedMessage">"ໄດ້ເຂົ້າເປັນສະມາຊິກ​ຜູ້​ຕິດ​ຕໍ່​ແລ້ວ"</string>
+<string name="menu_set_ring_tone">"ກຳ​ນົດ​ຄ່າ​ສຽງ​ໂທ​ເຂົ້າ"</string>
+<string name="menu_redirect_calls_to_vm">"ທຸກ​ສາຍ​ທີ​ໂທ​ເຂົ້າ​ມາ​ໂອນ​ໄປ​ຍັງ​ຂໍ້​ຄວາມ​ສຽງ"</string>
+<string name="readOnlyContactWarning">"​ທ່ານບໍ່​ສາ​ມາດ​ລຶບຜູ້​ຕິດ​ຕໍ່ອອກຈາກບັນຊີອ່ານເທົ່ານັ້ນ ແຕ່​ທ່ານ​ສາ​ມາດ​ເຊື່ອງ​ພວກ​ເຂົາ​ເຈົ້າ​ໃນ​ລາຍ​ຊື່​ຜູ້​ຕິດ​ຕໍ່​ຂອງ​ທ່ານ."</string>
+<string name="label_phone">"ໂທລະສັບ"</string>
+<string name="readOnlyContactDeleteConfirmation">"ຜູ້​ຕິດ​ຕໍ່​ນີ້​ມີ​ຂໍ້​ມູນ​ຈາກ​ຫລາຍ​ບັນ​ຊີ ຂໍ້​ມູນ​ຈາກ​ບັນ​ຊີ​ແບບ​ອ່ານ​ຢ່າງ​ດຽວ​ຈະ​ຖືກ​ເຊື່ອງ​ໄວ້​ໃນ​ລາຍ​ຊື່​ຂອງ​ທ່ານ ແຕ່​ຈະ​ບໍ່​ລຶບ."</string>
+<string name="multipleContactDeleteConfirmation">"ການ​ລຶບ​ຜູ້​ຕິດ​ຕໍ່​ນີ້​ຈະ​ລຶບ​ຂໍ້​ມູນ​ຈາກ​ຫລາຍ​ບັນ​ຊີ"</string>
+<string name="deleteConfirmation">"ຜູ້​ຕິດ​ຕໍ່​ນີ້​ຈະ​ຖືກ​ລຶບ​ອອກ"</string>
+<string name="menu_discard">"ປິດໄວ້"</string>
+<string name="invalidContactMessage">"ຜູ້​ຕິດ​ຕໍ່​ນີ້ບໍ່​ມີ​ຢູ່"</string>
+<string name="createContactShortcutSuccessful">"ເຄື່ອງ​ມື​ຜູ້​ຕິດ​ຕໍ່​ໄດ້​ເພີ່ມ​ໄປ​ທີ່​ໜ້າ​ຫລັກ."</string>
+<string name="pickerNewContactHeader">"ສ້າງ​ຜູ້​ຕິດ​ຕໍ່​ໃໝ່"</string>
+<string name="pickerNewContactText">"ສ້າງ​ຜູ້​ຕິດ​ຕໍ່​ໃໝ່"</string>
+<string-array name="otherLabels">
+<item>"ອົງ​ກອນ"</item>
+<item>"ໝ​າຍ​ເຫດ"</item>
+</string-array>
+<string name="photoPickerNotFoundText" product="tablet">"ໃນ​ແທັບ​ເດດບໍ​ມີ​ຮູບ​ພາບ"</string>
+<string name="photoPickerNotFoundText" product="default">"ໃນ​ມື​ຖືບໍ່​ມີ​ຮູບ​ພາບ"</string>
+<string name="attach_photo_dialog_title">"​ຮູບ​ພາບ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="customLabelPickerTitle">"ຊື່​ປ້າຍ​ທີ່​ກຳ​ໜົດ​ເອງ"</string>
+<string name="send_to_voicemail_checkbox">"ສົ່ງສາຍ​ທີ່ໂທເຂົ້າ​ໄປ​ຍັງ​ຂໍ້​ຄວາມ​ສຽງໂດຍກົງ"</string>
+<string name="removePhoto">"​ລຶບ​ຮູບ​ພາບ"</string>
+<string name="noContacts">"ບໍ່​ມີ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="noGroups">"ບໍ່​ມີ​ກຸ່ມ​ໃດໆ"</string>
+<string name="noAccounts">"ທ່ານ​ຕ້ອງ​ມີ​ບັນ​ຊີ​ຈື່ງ​ສາ​ມາດ​ສ້າງ​ກຸ່ມ​ໄດ້"</string>
+<string name="emptyGroup">"ໃນ​ກຸ່ມ​ນີ້ບໍ່​ມີ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="addPeopleToGroup">"ຕ້ອງ​ການ​ເພີ່ມ​ຜູ້​ຕິດ​ຕໍ່ ກະ​ລຸ​ນາ​ແກ້​ໄຂ​ກຸ່ມ​ນີ້"</string>
+<string name="savingContact">"​ກຳ​ລັງ​ບັນ​ທຶກ​ຜູ້​ຕິດ​ຕໍ່\u2026"</string>
+<string name="contactSavedToast">"ລາຍຊື່ຜູ້ຕິດຕໍ່ໄດ້ຖືກຈັດເກັບ"</string>
+<string name="contactSavedErrorToast">"ບໍ່​ສາ​ມາດ​ບັນ​ທຶກ​​ການ​ປ່ຽນ​ແປງຜູ້​ຕິດ​ຕໍ່​ນີ້"</string>
+<string name="groupSavedToast">"​ກຸ່ມ​ໄດ້​ບັນ​ທຶກ​ແລ້ວ"</string>
+<string name="groupSavedErrorToast">"ບໍ່​ສາ​ມາດ​ບັນ​ທຶກ​ກຸ່ມ​ທີ່​ເຮັດ​ການ​ປ່ຽນ​ແປງ"</string>
+<plurals name="listTotalPhoneContacts">
+<item quantity="one">"1​ຜູ້​ຕິດ​ຕໍ່​ມີ​ໝາຍ​ເລກ​ໂທ​ລະ​ສັບ"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g>ຜູ້​ຕິດ​ຕໍ່​ມີໝາຍ​ເລກ​ໂທ​ລະ​ສັບ"</item>
+</plurals>
+<string name="listTotalPhoneContactsZero">"ບໍ່​ມີ​ຜູ້​ຕິດ​ຕໍ່​ມີ​ໝາຍ​ເລກ​ໂທ​ລະ​ສັບ"</string>
+<plurals name="listTotalAllContacts">
+<item quantity="one">"​ຜູ້​ຕິດ​ຕໍ່1ທ່ານ​"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g>ທ່ານ​ຜູ້​ຕິດ​ຕໍ່"</item>
+</plurals>
+<plurals name="listFoundAllContacts">
+<item quantity="one">"ຊອກ​ພົບ​ຜູ້​ຕິດ​ຕໍ່​1​ທ່ານ"</item>
+<item quantity="other">"ຄົ້ນ​ພົບ​<xliff:g id="count">%d</xliff:g>ຜູ້​ຕິດ​ຕໍ່"</item>
+</plurals>
+<string name="listFoundAllContactsZero">"ບໍ່​ມີ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">"ຊອກ​ພົບ​ຜູ້​ຕິດ​ຕໍ່​1​ທ່ານ"</item>
+<item quantity="other">"ຄົ້ນ​ພົບ​<xliff:g id="count">%d</xliff:g>ຜູ້​ຕິດ​ຕໍ່"</item>
+</plurals>
+<string name="contactsAllLabel">"ລາຍຊື່ຜູ່ຕິດຕໍ່ທັງໝົດ"</string>
+<string name="contactsGroupsLabel">"ກຸ່ມ"</string>
+<string name="callBack">"ໂທ​ກັບ"</string>
+<string name="callAgain">"ໂທ​ອີກ​ຄັ້ງ"</string>
+<string name="returnCall">"ໂທ​ກ​ກັ​ບ​ຄືນ"</string>
+<string name="add_contact_dlg_message_fmt">"ເພີ່ມ \<xliff:g id="email">%s</xliff:g>\ ໄປ​ທີ່​ຜູ້​ຕິດ​ຕໍ່?"</string>
+<string name="description_contact_photo">"​ຮູບ​ພາບ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="description_plus_button">"ບວກ"</string>
+<string name="exporting_contact_list_progress">"<xliff:g id="current_number">%s</xliff:g> ຂອງ<xliff:g id="total_number">%s</xliff:g> ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="search_settings_description">"ຊື່​ຂອງ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="quickcontact_missing_app">"ບໍ່​ຄົ້ນ​ພົບ​ໂປ​ຣ​ແກ​ຣມ​ທີ່​ສາ​ມາດ​ດຳ​ເນິນ​ການ​ກັບ​ການ​ປະ​ຕິ​ບັດ​ນີ້."</string>
+<string name="menu_share">"ແບ່ງປັນ"</string>
+<string name="share_via">"​ວິ​ທີ​ແຊ​ຣ໌​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="dialog_new_group_account">"ສ້າງ​ກຸ່ມ​ຢູ່​ລຸ່ມ​ບັນ​ຊີ"</string>
+<string name="audio_chat">"​ສຽງ​ລົມ​ກັນ"</string>
+<string name="video_chat">"​ວີ​ດີ​ໂອ​ລົມ​ກັນ"</string>
+<string name="connections">"ເຄືອ​ຂ່າຍການຕິດຕໍ່ກັນ"</string>
+<string name="add_connection_button">"​ເພີ່ມ​ເຄືອ​ຂ່າຍ​ການ​ຕິດ​ຕໍ​ກັນ"</string>
+<string name="recent">"ຫາກໍໃຊ້"</string>
+<string name="recent_updates">"ອັບ​ເດດ​ໃໝ່​ລ່າ​ສຸດ"</string>
+<string name="account_type_format">"<xliff:g id="source" example="Gmail">%1$s</xliff:g> ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="from_account_format">"<xliff:g id="source" example="user@gmail.com">%1$s</xliff:g>"</string>
+<string name="use_photo_as_primary">"ໃຊ້​ຮູບ​ພາບ​ນີ້"</string>
+<string name="contact_read_only">"ບໍ່​ສາ​ມາດແກ້​ໄຂ​ໄດ້​ຈາກ​ໂປ​ຣ​ແກ​ຣມ​ນີ້"</string>
+<string name="no_contact_details">"ບໍ່​ມີ​ຂໍ້​ມູນ​ອື່ນໆ​ຂອງ​ຜູ້​ຕິດ​ຕໍ່​ນີ້"</string>
+<string name="group_read_only">"ບໍ່​ສາ​ມາດ​ແກ້​ໄຂ​ຢູ່​ໃນ​ອຸ​ປະ​ກອນ​ນີ້"</string>
+<string name="display_options_sort_list_by">"ບັນຊີລາຍຊື່ລຽງ​ຕາມ"</string>
+<string name="display_options_sort_by_given_name">"​ຊື່"</string>
+<string name="display_options_sort_by_family_name">"ນາມ​ສະ​ກຸນ"</string>
+<string name="display_options_view_names_as">"ວິ​ທີ​ສະ​ແດງ​ຊື່​ຂອງ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="display_options_view_given_name_first">"​ຊື່​ຢູ່​ທາງ​ໜ້າ"</string>
+<string name="display_options_view_family_name_first">"​ນາມ​ສະ​ກຸນ​ຢູ່​ທາງ​ໜ້າ"</string>
+<string name="take_photo">"ຖ່າຍຮູບ"</string>
+<string name="take_new_photo">"​ຖ່າຍ​ຮູບ​ໃໝ່"</string>
+<string name="pick_photo">"ເລືອກຮູບຈາກແກເລີຣີ"</string>
+<string name="pick_new_photo">"ເລືອກ​ຮູບ​ໃໝ່​ຈາກ​ສາງ​ຮູບ"</string>
+<string name="locale_change_in_progress">"ກຳ​ລັງ​ອັບ​ເດດ​ລາຍ​ຊື່​ຜູ້​ຕິດ​ຕໍ່ ​ເພື່ອ​ສະ​ທ້ອນ​ໃຫ້​ເຫັນ​ການ​ປ່ຽນ​ແປງ​ຂອງ​ພາ​ສາ​."</string>
+<string name="upgrade_in_progress">"ກຳ​ລັງ​ອັບ​ເດດ​ລາຍ​ຊື່​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="upgrade_out_of_memory">"ຜູ້​ຕິດ​ຕໍ່​ຢູ່​ໃນ​ຂະ​ບວນ​ການ​ປຸງ. \n\nຂະ​ບວນ​ການ​ປັບ​ປຸງຕ້ອງ​ໃຊ້​ປະ​ມານ <xliff:g id="size_in_megabytes">%s</xliff:g> MBຂອງ​ໜ່ວຍ​ຄວາມ​ຈຳ​ພາຍ​ໃນ.\n\nເລືອກ​ໜື່ງ​ໃນ​ຕົວ​ເລືອກ​ດັ່ງ​ຕໍ່​ໄປ​ນີ້:"</string>
+<string name="upgrade_out_of_memory_uninstall">"ລຶບ​ການ​ຕິດ​ຕັ້ງ​ໂປ​ຣ​ແກ​ຣມ​ບາງ​ອັນ"</string>
+<string name="upgrade_out_of_memory_retry">"ລອງ​ອັບ​ເກ​ຣດ​ໃໝ່"</string>
+<string name="search_results_searching">"ກຳລັງຊອກຫາ..."</string>
+<string name="menu_display_selected">"ຜູ້​ຮັບ​ທີ່​ໄດ້​ເລືອກ"</string>
+<string name="menu_display_all">"ສະ​ແດງ​ໝົດ"</string>
+<string name="menu_select_all">"ເລືອກທັງຫມົດ"</string>
+<string name="menu_select_none">"ບໍ່​ເລືອກ​ທັ້ງ​ມົດ"</string>
+<string name="add_field">"​ເພີ່ມເຂດຂໍ້​ມູນ​ອື່ນ"</string>
+<string name="add_new_entry_for_section">"​ເພີ່ມ​ລາຍ​ການ​ໃໝ່"</string>
+<string name="add_organization">"​ເພີ່ມໜ່ວຍ​ງານ​ໃຫມ່"</string>
+<string name="event_edit_field_hint_text">"ວັນທີ"</string>
+<string name="group_edit_field_hint_text">"ຊື່ກ​ກຸ່ມ"</string>
+<string name="description_star">"ສິ່ງ​ທີ່​ເຮົາ​ມັກ"</string>
+<string name="edit_contact">"​ແກ້​ໄຂ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<plurals name="merge_info">
+<item quantity="one">"ບໍ່​ລວມ"</item>
+<item quantity="other">"ລວມ​ຈາກ<xliff:g id="count">%0$d</xliff:g> ອັນ​ທີ່​ມາ"</item>
+</plurals>
+<string name="aggregation_suggestion_join_dialog_message">"ຕ້ອງ​ການ​ເອົາ​ຜູ້​ຕິດ​ຕໍ່​ໃນ​ປະ​ຈຸ​ບັນ​ແລະ​ຜູ້​ຕິດ​ຕໍ່​ທີ່​ໄດ້​ເລືອກເຂົ້າຫາກັນ​ຫຼືບໍ່?"</string>
+<string name="aggregation_suggestion_edit_dialog_message">"ສະ​ລັບ​ໄປ​ຍັງ​ການ​ແກ້​ໄຂ​ລາຍ​ຊື່​ຜູ້​ຕິດ​ຕໍ່​ທີ່​ເລືອກ?ລະ​ບົບ​ຈະ​ກ໊ອບ​ປີຂໍ້​ມູນ​ທີ່​ທ່ານ​ປ້ອນທັງ​ໝົດ."</string>
+<string name="menu_copyContact">"ກອ໊ບ​ປີ​ໄປ​ທີ່ ຜູ້​ຕິດ​ຕໍ່​ຂອງ​ຂ້ອຍ"</string>
+<string name="add_to_my_contacts">"​ເພີ່ມ​ໄປ​ທີ່ ຜູ້​ຕິດ​ຕໍ່​ຂອງ​ຂ້ອຍ"</string>
+<string name="contact_directory_description">"ປື້ມໂທລະສັບ <xliff:g id="type" example="Corporate Directory">%1$s</xliff:g>"</string>
+<string name="toast_making_personal_copy">"ກຳ​ລັງ​ສ້າງ​ສຳ​ເນົາ​ສ່ວນ​ບຸກ​ຄົນ\u2026"</string>
+<string name="list_filter_custom">"ກຳນົດເອງ"</string>
+<string name="activity_title_settings">"ຕັ້ງຄ່າ"</string>
+<string name="menu_settings">"ຕັ້ງຄ່າ"</string>
+<string name="menu_help">"ຊ່ວຍເຫຼືອ"</string>
+<string name="preference_displayOptions">"ສະ​ແດງ​ທາງ​ເລືອກ"</string>
+<string name="organization_company_and_title">"<xliff:g id="company" example="Technical Program Manager">%2$s</xliff:g>, <xliff:g id="company" example="Google Inc.">%1$s</xliff:g>"</string>
+<string name="non_phone_caption">"ໝາຍ​ເລກ​ໂທ​ລະ​ສັບ"</string>
+<string name="non_phone_add_to_contacts">"ເພີ່ມໃສ່ລາຍຊື່ຜູ່ຕິດຕໍ່"</string>
+<string name="activity_title_confirm_add_detail">"ເພີ່ມ​ໄປຍັງ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="non_phone_close">"ປິດ"</string>
+<string name="widget_name_and_phonetic">"<xliff:g id="display_name" example="John Huber">%1$s</xliff:g> (<xliff:g id="phonetic_name">%2$s</xliff:g>)"</string>
+<string name="date_year_toggle">"ໃສ່​ປີ"</string>
+<string name="social_widget_label">"ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="social_widget_loading">"ກຳລັງໂຫລດ..."</string>
+<string name="contacts_unavailable_create_contact">"ສ້າງ​ຜູ້​ຕິດ​ຕໍ່​ໃໝ່"</string>
+<string name="contacts_unavailable_add_account">"ເຂົ້າ​ສູ່​ລະ​ບົບ​ບັນ​ຊີ"</string>
+<string name="contacts_unavailable_import_contacts">"ນຳ​ເຂົ້າຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="create_group_dialog_title">"ສ້າງ​ກຸ່ມ​ໃໝ່"</string>
+<string name="create_group_item_label">"ສ້າງ​ກຸ່ມ​ໃໝ່"</string>
+<plurals name="num_groups_in_account">
+<item quantity="one">"1 ກຸ່ມ"</item>
+<item quantity="other">"<xliff:g id="count">%0$d</xliff:g> ກຸ່ມ"</item>
+</plurals>
+<string name="delete_group_dialog_message">"ລຶບ​ກຸ່ມ \"<xliff:g id="group_label" example="Friends">%1$s</xliff:g>\"? (​ລາຍ​ຊື່​ຂອງ​ຕົວ​ເອງ​ຈະ​ບໍ່​ຖືກ​ລຶບ.) "</string>
+<plurals name="num_contacts_in_group">
+<item quantity="one">"ໃນ<xliff:g id="count">%1$d</xliff:g> ​ມີ​ຜູ້​ຕິດ​ຕໍ່ <xliff:g id="account_type">%2$s</xliff:g>​ຄົນ"</item>
+<item quantity="other">"​ມີ<xliff:g id="count">%1$d</xliff:g> ຄົນ​ມາ​ຈາກ <xliff:g id="account_type">%2$s</xliff:g>"</item>
+</plurals>
+<plurals name="group_list_num_contacts_in_group">
+<item quantity="one">"<xliff:g id="count">%1$d</xliff:g> ຄົນ"</item>
+<item quantity="other">"<xliff:g id="count">%1$d</xliff:g>ຄົນ"</item>
+</plurals>
+<string name="toast_join_with_empty_contact">"ປະ​ສານ​ກັບ​ລາຍ​ຊື່​ຜູ້​ຕິດ​ຕໍ່​ອື່ນ ກະ​ລຸ​ນາ​ພິມ​ຊື່​ຜູ້​ຕິດ​ຕໍ່​ກ່ອນ. "</string>
+<string name="copy_text">"ກອ໊ບ​ປີ​ໄປ​ຍັງຄ​ຣິບບອດ"</string>
+<string name="set_default">"ກຳ​​ຫ​ນົດ​ຄ່າ​ເລີ່ມ​ຕົ້ນ"</string>
+<string name="clear_default">"ລຶບ​ຄ່າ​ເລິ່ມ​ຕົ້ນ"</string>
+<string name="toast_text_copied">"ຂໍ້​ຄວາມໄດ້​ກອ໊ບ​ປີແລ້ວ"</string>
+<string name="cancel_confirmation_dialog_message">"ຕ້ອງ​ການ​ຍົກ​ເລີກ​ການ​ປ່ຽນ​ແປງ​ຂອງ​ທ່ານ​ຫລື​ບໍ່?"</string>
+<string name="call_type_and_date">" <xliff:g id="call_type" example="Friends">%1$s</xliff:g> <xliff:g id="call_short_date" example="Friends">%2$s</xliff:g> "</string>
+<string name="profile_display_name">"ກຳ​ນົດ​ຄ່າ​ຂໍ້​ມູນ​ສ່ວນ​ຕົວ​ຂອງ​ຂ້ອຍ"</string>
+<string name="enter_contact_name">"ໃສ່​ຊື່​ຂອງ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="group_name_hint">"ຊື່​ກຸ່ມ"</string>
+<string name="local_profile_title">"ຂໍ້​ມູນ​ສ່ວນ​ຕົວ​ຂອງ​ຂ້ອຍ"</string>
+<string name="external_profile_title">" ຂໍ້​ມູນ<xliff:g id="external_source">%1$s</xliff:g> ​ຂອງ​ຂ້ອຍ"</string>
+<string name="toast_displaying_all_contacts">"ສະ​ແດງ​ຜູ້​ຕິດ​ຕໍ່​ທັ້ງ​ມົດ"</string>
+<string name="no_account_prompt">"ຄົນ​ເຮັດ​ວຽກ​ທີ່​ດີ​ກ່​ວາ​ກັບ​ບັນ​ຊີGoogle. \n\n\u2022ເຂົ້າ​ເຖິງ​ຈາກ​ຕົ​ວ​ທ່ອງ​ເວັບ​ໃດ​ໜື່ງ\n\u2022ສຳ​ຮອງ​ລາຍ​ຊື່​ຂອງ​ທ່ານ​ໄດ້​ຢ່າງ​ປອດ​ໄພ."</string>
+<string name="generic_no_account_prompt">"ເຖີງ​ແມ້​ວ່າ​ໂທ​ລະ​ສັບ​ເສຍ ຍັງ​ສາ​ມາດ​ຮັກ​ສາ​ຂໍ້​ມູນ​ຄວາມ​ປອດ​ໄພ​ຂອງ​ຜູ້​ຕິດ​ຕໍ່​ໄດ້​ຢູ່:ເຮັດໃຫ້ເກີດຂຶ້ນພ້ອມກັນກັບການບໍລິການອອນໄລນ໌."</string>
+<string name="generic_no_account_prompt_title">"ເພີ່ມບັນຊີ"</string>
+<string name="contact_editor_prompt_zero_accounts">"ລະ​ບົບ​ຈະ​ບໍ່​ສຳ​ຮອງ​ຜູ້​ຕິດ​ຕໍ່​ໃຫມ່​ຂອງ​ທ່ານ, ຕ້ອງ​ການ​ເພີ່ມ​​​ບັນ​ຊີ​ສຳ​ຮອງ​ຜູ້​ຕິດ​ຕໍ່ອອນໄລນ໌?"</string>
+<string name="contact_editor_prompt_one_account">"ຜູ້​ຕິດ​ຕໍ່​ໃໝ່​ຂອງ​ທ່ານ​ຈະ​ໄດ້​ຮັບ​ການເຮັດໃຫ້ເກີດຂຶ້ນພ້ອມກັນກັບ <xliff:g id="account_name">%1$s</xliff:g>."</string>
+<string name="contact_editor_prompt_multiple_accounts">"ທ່ານ​ສາ​ມາດ​ນຳ​ເອົາ​ຜູ້​ຕິດ​ຕໍ່​ໃໝ່​ຂອງ​ທ່ານ​ກັບ​ບັນ​ຊີ​ຂ້າງ​ລຸ່ມ​ນີ້​ບາງ​ອັນເຮັດໃຫ້ເກີດຂຶ້ນພ້ອມກັນ, ກະ​ລຸ​ນາ​ເລືອກ​ບັນ​ຊີ​ທີ່​ຕ້ອງ​ການ​ໃຊ້:"</string>
+<string name="keep_local">"ເກັບຮັກສາໃນທ້ອງຖິ່ນ"</string>
+<string name="add_account">"ເພີ່ມບັນຊີ"</string>
+<string name="add_new_account">"​ເພິ່ມ​ບັນ​ຊີ​ໃໝ່"</string>
+<string name="menu_export_database">"ການສົ່ງອອກໄຟລ໌ຖານຂໍ້ມູນ"</string>
+<string name="contact_detail_picture_description">""ຮູບ​ພາບ（ເລືອກ​ເພື່ອ​ປ່ຽນ）"</string>
+<string name="no_fast_dial">"ປຸ່ມ​​ໝາຍ​ເລກການ​ໂທ​ທາງ​ລັດ​​ຍັງ​ບໍ່​ໄດ້​ຕັ້ງ​ຄ່າ"</string>
+<string name="fast_dial_choose">"ກະ​ລຸ​ນາ​ເລືອກ​ປະ​ເພດ​ການ​ໂທ​ທາງ​ລັດ"</string>
+<string name="fast_call">"ສຽງ​ການ​ໂທ"</string>
+<string name="fast_vt_call">"ໂທວິ​ດີ​ໂອ"</string>
+<string name="wait">"ກະ​ລຸ​ນາ​ລໍ​ຖ້າ…"</string>
+<string name="working">"ກຳ​ລັງ​ປະ​ຕິ​ບັດ​ການ"</string>
+<string name="working_batch_delete">"ກຳ​ລັງ​ລຶບ"</string>
+<string name="working_batch_import">"ກຳ​ລັງກ໊ອບ​ປີ"</string>
+<string name="choose_sim_card">"ເລືອກ SIM "</string>
+<string name="violate_capacity">"SIMເກີນ​ປະ​ລິ​​ມານການ​ບັນ​ຈຸ"</string>
+<string name="import_failed">"ການ​ນຳ​ເຂົ້າ/ສົ່ງ​ອອກ​ຜູ້​ຕິດ​ຕໍ່​ລົ້ມ​ເຫລວ"</string>
+<string name="import_failed_tmp">"<xliff:g id="count">%d</xliff:g>ສຳ​ເລັດ, <xliff:g id="count">%d</xliff:g> ​ລົ້ມ​ເຫລວ"</string>
+<string name="import_done">"ການ​ນຳ​ເຂົ້າ​ສຳ​ເລັດ"</string>
+<string name="delete_done">"ການ​ລຶບ​ຜູ້​ຕິດ​ຕໍ່​ສຳ​ເລັດ"</string>
+<string name="toast_no_contact_selected">"ບໍ່​ໄດ້​ເລືອກ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="contactSavedErrorToastNameLength">"ຊື່​ຜູ້​ຕິດ​ຕໍ່​ຍາວ​ເກີນ​ໄປ"</string>
+<string name="contactSavedErrorToastEmailLength">"ຊື່​ອີ​ເມວ​ຍາວ​ເກີນ​ໄປ"</string>
+<string name="contactSavedErrorToastEmailFull">"ອີ​ເມວ​ເຕັ​ມ​ແລ້ວ"</string>
+<string name="sim_is_full">"Simເຕັມ​ແລ້ວ"</string>
+<string name="beyond_sim_card_capacity">"ນອກ​ເໜືອ​ຈາກຄວາມສາມາດໃສ່ໄດ້​ຂອງຊິມ,ລາຍ​ຊື່​ຜູ້​ຕິດ​ຕໍ່​ທີ່ນອກ​ເໜືອບາງ​ສ່ວນ​ຈະ​ບັນ​ທຶກ​ລົ້ມ​ເຫລວ"</string>
+<string name="menu_addToBlacklist">"ເພີ່ມ​ໄປ​ຍັງ​ບັນ​ຊີ​ດຳ"</string>
+<string name="menu_view_calls">"ເບິ່ງ"</string>
+<string name="item_all_calls">"ບັນ​ທຶກ​ການ​ໂທ​ທັງ​ໝົດ"</string>
+<string name="item_sim1_calls">"ການບັນ​ທຶກ​ການ​ໂທ​sim1"</string>
+<string name="item_sim2_calls">"ການບັນ​ທຶກ​ການ​ໂທ​sim2"</string>
+<string name="res_name">"ຊື່"</string>
+<string name="res_phone">"ໂທລະສັບ"</string>
+<string name="res_email">"ອີເມວ"</string>
+<string name="res_field">"ຟີ​ລ​ດ໌"</string>
+<string name="alert_maybe_lost_info">"ຂໍ້​ມູນ​ບາງ​ຢ່າງຈະ​ສູນ​ເສຍ​ໄປ​ໃນ​ລະ​ຫວ່າງ​ການ​ນຳ​ເຂົ້າ​ຫຼື​ສົ່ງ​ອອກ"</string>
+<string name="field_too_long">"<xliff:g id="field">%s</xliff:g> ຍາວ​ເກີນ​ໄປ"</string>
+<string name="select_group_member">"ເລືອກ​ສະ​ມະ​ຊິກ​ກຸ່ມ"</string>
+<string name="email_format_fail">"ກະ​ລຸ​ນາ​ໃສ່​ທີ່​ຢູ່​ອີ​ເມວ​ທີ່​ຖືກ​ຕ້ອງ!"</string>
+<string name="working_editing_group">"ກຳ​ລັງ​ແກ້​ໄຂ​ກຸ່ມ"</string>
+<string name="editing_group_done">"ການ​ແກ້​ໄຂ​ກຸ່ມ​ສຳ​ເລັດ"</string>
+<string name="editing_group_failed">"ການ​ແກ້​ໄຂ​ກຸ່ມ​ລົ້ມ​ເຫລວ"</string>
+<string name="contacts_group_name_exist">"ຊື່​ແບ່ງ​ກຸ່ມ​ຂອງ​ຜູ້​ຕິດ​ຕໍ່​ມີ​ຢູ່​ແລ້ວ"</string>
+<string name="menu_sendmms">"ສົ່ງ​ຂໍ້​ຄວາມ​ກຸ່ມ"</string>
+<string name="alert_delete_contact">"ທ່ານ​ແນ່​ໃຈ​ວ່າ​ຕ້ອງ​ການ​ລຶບ​ຜູ້​ຕິດ​ຕໍ່​ທີ່​ເລືອກ?"</string>
+<string name="select_all">"ເລືອກທັງຫມົດ"</string>
+<string name="label_sim">"ບັດSIM"</string>
+<string name="label_usim">"ບັດSIM"</string>
+<string name="menu_batch_delete">"ລຶບ​ເປັນ​ຊຸດ"</string>
+<string name="group_selection">"ການຄັດເລືອກກຸ່ມຕິດຕໍ່ພົວພັນ"</string>
+<string name="cancel_batch_import_confirmation">"ຕ້ອງ​ການ​ຍົກ​ເລີກ​ການ​ນຳ​ເຂົ້າ​ຜູ້​ຕິດ​ຕໍ່​ບໍ່?"</string>
+<string name="cancel_batch_delete_confirmation">"ຕ້ອງ​ການ​ຍົກ​ເລີກ​ການ​ລຶບ​ຜູ້​ຕິດ​ຕໍ່​ບໍ່?"</string>
+<string name="copy">"ສຳເນົາ"</string>
+<string name="copy_to">"ກ໊ອບ​ປີ​ໄປ​ຍັງ"</string>
+<string name="contactDeletedToast">"ຜູ້​ຕິດ​ຕໍ່​ນີ້​ໄດ້​ລຶບ​ໄປ​ແລ້ວ."</string>
+<string name="list_filter_all_in_one">"ຂໍ້​ມູນ​ຜູ້​ຕິດ​ຕໍ່​ທັ້ງ​ໝົດ"</string>
+<string name="listTotalEmailContactsZero">"​ຜູ້ຕິດຕໍ່ພົວພັນທັງຫມົດທີ່ບໍ່ມີທີ່ຢູ່ອີເມລ໌"</string>
+<string name="list_filter_emails">"ຜູ້ຕິດຕໍ່ພົວພັນທັງຫມົດທີ່ມີທີ່ຢູ່ອີເມລ໌"</string>
+<string name="listMaxContactsInAccount">"​ວ່າງ: <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="reading_vcard_exception_title">"ອ່ານ/​ຂຽນ​ຂໍ້​ມູນvCardຜິດ​ປົກ​ກະ​ຕິ"</string>
+<string name="sqlite_full">"ຖານ​ຂໍ້​ມູນ​ການ​ຕິດ​ຕໍ່​ຫລື​ດີ​ສ​ກ໌​ເຕັມl"</string>
+<string name="groupSavingToast">"ການ​ປັບ​ປ່ຽນ​ກຸ່ມ​ແປັບ​ໜື່ງ​ຈະ​ບັນ​ທຶກ."</string>
+<string name="batch_operation_canceled">"​​ຍົກ​ເລີກ​ການ​ດຳ​ເນີນ​ການ​ແລ້ວ"</string>
+<string name="no_sdcard_title">"ບໍ່​ມີບັດ SD "</string>
+<string name="cancel_export_confirmation_title">"ຍົກ​ເລີກ​ການ​ສົ່ງ​ອອກ vCard"</string>
+<string name="video_callNumber_by_sim2">"ການ​ໂທວິ​ດີ​ໂອ<xliff:g id="NAME">%s</xliff:g>（SIM2）"</string>
+<string name="delete_calls_list">"ລຶບ​ບັນ​ທຶກ​ການ​ໂທ​ທີ່​ໄດ້​ເລືອກ"</string>
+<string name="video_menu_callNumber">"ການ​ໂທວິ​ດີ​ໂອ<xliff:g id="NAME">%s</xliff:g>"</string>
+<string name="searching_vcard_title">"ກຳ​ລັງ​ຄົ້ນ​ຫາ vCard"</string>
+<string name="menu_copyToPhone">"ກ໊ອບ​ປີ​ໄປ​ຍັງ​ມື​ຖື"</string>
+<string name="cancel_import_confirmation_title">"ຍົກ​ເລີກ​ການ​ນຳ​ເຂົ້າ vCard"</string>
+<string name="dialog_voicemail_not_ready_title">"ໝາຍ​ເລກ​ຂໍ້​ຄວາມ​ສຽງ​ບໍ່​ສາ​ມາດ​ນຳ​ໃຊ້​ໄດ້"</string>
+<string name="select_one">"ຢ່າງ​ນ້ອຍ​ເລືອກ​​ໜື່ງລາຍ​ການ!"</string>
+<string name="delete_all_calls_confirm">"ທ່ານ​ຕ້ອງ​ການ​ທີ່​ຈະ​ລຶບ​ການ​ໂທ​ທັ້ງ​ໝົດ?"</string>
+<string name="export_to_sim">"ສົ່ງ​ອອກ​ໄປ​​ທີ່SIM "</string>
+<string name="scanning_sdcard_failed_title">"ບໍ່​ສາ​ມາດ​ສະ​ແກນ​ບັດ SD "</string>
+<string name="aggregation_suggestion_join_dialog_title">"ຜູ້​ຕິດ​ຕໍ່​ເຂົ້າ​ຫາ​ກັນ"</string>
+<string name="aggregation_suggestion_edit_dialog_title">"ແກ້​ໄຂ​ຜູ້​ຕິດ​ຕໍ່​ທີ່​ໄດ້​ເລືອກ"</string>
+<string name="delete_group_dialog_title">"ລຶບ​ກຸ່ມ"</string>
+<string name="delete_all_calls">"ລຶບ​ການ​ໂທ​ທັ້ງ​ໝົດ"</string>
+<string name="video_callNumber_by_sim1">"ການ​ໂທວິ​ດີ​ໂອ<xliff:g id="NAME">%s</xliff:g>（SIM1）"</string>
+<string name="call_log_callNumber_by_sim">"ໂທ<xliff:g id="NAME">%s</xliff:g>（SIM<xliff:g id="PHONE_ID">%s</xliff:g>）"</string>
+<string name="dialog_phone_call_prohibited_title">"ສາຍບໍ່ໄດ້ສົ່ງ"</string>
+<string name="search_bar_hint">"ຄົ້ນ​ຫາ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="delete_success">"ລຶບ​ແລ້ວ​ສົມ​ບູນ!"</string>
+<string name="deleteConfirmation_title">"ລຶບ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="delete_selected_calls">"ທ່ານ​ຕ້ອງ​ການ​ລຶບ​ບັນ​ທຶກ​ການ​ໂທ​ທີ່​ໄດ້​ເລືອກ?"</string>
+<string name="delete_contact_all_calls">"ທ່ານ​ແນ່​ໃຈ​ວ່າ​ຕ້ອງ​ການ​ລຶບ​ບັນ​ທຶກ​ການ​ໂທ​ທັ້ງ​ໝົດ​ຂອງ​ຜູ້​ຕິດ​ຕໍ່​ນີ້?"</string>
+<string name="menu_copyToSim">"ກ໊ອບປີ​ໄປ​ທີ່SIM"</string>
+<string name="menu_all_contacts">"ລາຍຊື່ຜູ່ຕິດຕໍ່ທັງໝົດ"</string>
+<string name="please_input_group_name">"ກະ​ລຸ​ນາ​ໃສ່​ຊື່​ກຸ່ມ"</string>
+<string name="cancel_confirmation_dialog_title">"ຖິ້ມການປ່ຽນແປງ"</string>
+<string name="delete_calls">"ລຶບ"</string>
+<string name="add_contact_dlg_title">"ເພີ່ມລາຍຊື່"</string>
+<string name="app_name">"ບັນ​ທຶກ​ການ​ໂທ"</string>
+<string name="search_description">"ຄົ້ນ​ຫາ​ບັນ​ທຶກ​ການ​ໂທ"</string>
+<string name="search_hint">"ຄົ້ນ​ຫາ​ບັນ​ທຶກ​ການ​ໂທ"</string>
+<string name="lable_search">"ຊອກຫາ"</string>
+<string name="menu_deleteFromBlacklist">"ລຶບ​ຈາກ​​ລາຍ​ຊື່ບັນ​ຊີ​ດຳ"</string>
+<string name="success_addToBlacklist">"ສຳ​ເລັດ​ການ​ເພີ່ມ​ໄປ​ທີ່​ລາຍ​ຊື່​ບັນ​ຊີ​ດຳ"</string>
+<string name="failed_addToBlacklist">"ການ​ເພີ່ມ​ລົ້ມ​ເຫລວ"</string>
+<string name="success_removeFromBlacklist">"ການ​ລຶບສຳ​ເລັດ"</string>
+<string name="failed_removeFromBlacklist">"ການ​ລຶບ​ລົ້ມ​ເຫລວ"</string>
+<string name="menu_mmsGroup">"ສົ່ງ​ຂໍ້​ຄວາມ​ກຸ່ມ"</string>
+<string name="menu_emailGroup">"ສົ່ງ​ອີ​ເມ​ລ​ກຸ່ມ"</string>
+<string name="noContactsInGroup">"ໃນ​ກຸ່ມ​ນີ້ບໍ່​ມີ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="please_wait">"ກະ​ລຸ​ນາ​ລໍ​ຖ້າ…"</string>
+<string name="noContactswithEmail">"ບໍ່​ມີ​ຜູ້​ຕິດ​ຕໍ່​ມີ​ອີ​ເມວ​ໃນ​ກຸ່ມ​ນີ້"</string>
+<string name="noContactwithEmail">"ບໍ່​ມີ​ຜູ້​ຕິດ​ຕໍ່​ມີ​ອີ​ເມວ"</string>
+<string name="noContactwithPhoneAndEmail">"ບໍ່​ມີ​ຜູ້​ຕິດ​ຕໍ່​ມີ​ໝາຍ​ເລກ​ໂທ​ລະ​ສັບ​ແລະ​ອີ​ເມວ"</string>
+<string name="fast_dialer">"ຕັ້ງ​ຄ່າ​ການ​ໂທອອກວ່ອງ​ໄວ"</string>
+<string name="select_card">"ກະ​ລຸ​ນາ​ເລືອກ​ບັດ"</string>
+<string name="sim_absent">"ບໍ່​ມີ​ຢູ່"</string>
+<string name="sdn_list">"ລາຍ​ຊື່ SDN"</string>
+<string name="lnd_list">"ລາຍ​ຊື່ LND"</string>
+<string name="sim_no_ready">"Simຍັງ​ບໍ່​ທັນ​ພ້ອມ."</string>
+<string name="sdn_please_insert_sim">"ກະ​ລຸ​ນາ​ໃສ່ Sim."</string>
+<string name="sdn_sim_notready">"Simກຳ​ລັງ​ຕິດ​ຕັ້ງ​ຂໍ້​ມູນ,ກະ​ລຸ​ນາ​ລໍ​ຖ້າ."</string>
+<string name="ip_dialer">"ຕັ້ງ​ຄ່າ​ການ​ໂທ IP"</string>
+<string name="call_ip">"ໂທIP"</string>
+<string name="no_group">"ບໍ່​ໄດ້​ເຂົ້າ​ເປັນ​ສະ​ມະ​ຊິກ​ກຸ່ມ​ໃດໆ"</string>
+<string name="select_group">"ເລືອກກຸ່ມ"</string>
+<string name="fast_dial_settings">"ຕັ້ງ​ຄ່າ​ການ​ໄທວ່ອງ​ໄວ"</string>
+<string name="edit_photo">"ແກ້​ໄຂ​ຮູບ​ພາບ"</string>
+<string name="select_all_contacts">"ເລືອກທັງຫມົດ"</string>
+<string name="menu_save">"ບັນທຶກ"</string>
+<string name="group_name_hint_overlay">"ກະ​ລຸ​ນາ​ໃສ່​ຊື່​ກຸ່ມ"</string>
+<string name="select_group_member_overlay">"ກົດ​ເພື່ອ​ເພີ່ມ​ສະ​ມາ​ຊິກ"</string>
+<plurals name="searchMatchContacts">
+<item quantity="one">"1 ຜູ້​ຕິດ​ຕໍ່ເຂົ້າກັນ"</item>
+<item quantity="other">" <xliff:g id="COUNT">%d</xliff:g> ຜູ້​ຕິດ​ຕໍ່​ເຂົ້າ​ກັນ"</item>
+</plurals>
+<string name="no_match_contact">"ບໍ່​ມີ​ຜູ້​ຕິດ​ຕໍ່​ເຂົ້າ​ກັນ"</string>
+<string name="menu_newGroup">"ສ້າງ​ກຸ່ມ​ໃໝ່"</string>
+<string name="editGroup">"ແກ້​ໄຂ​ກຸ່ມ"</string>
+<string name="menu_delete_group">"ລຶບ​ກຸ່ມ"</string>
+<string name="contactsFavoritesLimit">"ເກັບ​ໄວ້ 12 ຜູ້​ຕິດ​ຕໍ່, ເກີນ​ຂີດ​ຈຳ​ກັດ​ການ​ເກັບ"</string>
+<string name="menu_add_favorite">"ເພີ່ມ​ຜູ້​ຕິດ​ຕໍ່​ໄປ​ທີ່​ສີ່ງ​ທີ່​ມັກ​ທີ່​ສຸດ"</string>
+<string name="create_new_contact">"ສ້າງ​ຜູ້​ຕິດ​ຕໍ່​ໃໝ່"</string>
+<string name="send_mms">"ສົ່ງ​ຂໍ້​ຄວາມ"</string>
+<string name="tab_more">"ໂຕເລືອກເພີ່ມເຕີມ"</string>
+<string name="show_contacts">"ສະ​ແດງ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="fast_dial">"ໂທ​ໄວ"</string>
+<string name="account">"​ບັນ​ຊີ"</string>
+<string name="import_export_contacts">"ນຳ​ເຂົ້າ​/ສົ່ງ​ອອກຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="export_contacts">"ສົ່ງ​ອອກ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="duplicate_phone_book">"ກ໊ອບ​ປີ​ປື້ມ​ໂທ​ລະ​ສັບ"</string>
+<string name="dump_phone_book">"ຖ່າຍ​ໂອນ​ຂໍ້​ມູນ​ປື້ມ​ໂທ​ລະ​ສັບ"</string>
+<string name="call_log_contacts_not_save">"ບໍ່ຮູ້ຈັກ"</string>
+<string name="call_log_callNumber_by_sim_ex">"ໂທ<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"ການ​ໂທວິ​ດີ​ໂອ<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">" ໂທ IP <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="removeStarred">"ຍ້າຍ​ອອກ​ຈາກ​ສິ່ງ​ທີ່​ມັກ"</string>
+<string name="lookUpInfo">"ເບິ່ງ​ລາຍ​ລະ​ອຽດ"</string>
+<string name="cancel">"ຍົກເລີກ"</string>
+<string name="favorite_contacts">"ຜູ້​ຕິດ​ຕໍ່​ທີ່​ມັກ​ທີ່​ສຸດ"</string>
+<string name="no_available_number">"ບໍ່​ມີ​ໝາຍ​ເລກ​ທີ່​ນຳ​ໃຊ້​ໄດ້"</string>
+<string name="confirmCoverPhoneNumber">"ທ່ານແນ່ໃຈວ່າທ່ານຕ້ອງການທີ່ຈະທົດແທນຜູ້ຕິດຕໍ່ທີ່ມີຢູ່ແລ້ວບໍ?"</string>
+<string name="replaceSelected">"ກະລຸນາເລືອກທີ່ຈະເຮັດການທົດແທນ"</string>
+<string name="over_phone_length_limit">"ໝາຍ​ເລັກ​ໂທ​ລະ​ສັບ​ຍາວ​ເກີນ​ໄປ"</string>
+<string name="invalid_number">"ໝາຍ​ເລກບໍ່​ຖືກ​ຕ້ອງ"</string>
+<string name="no_vcard_found_in_internal_stor">"ບໍ່​ມີvCardຢູ່​ໃນ​ໜ່ວຍ​ຄວາມ​ຈຳ​ພາຍ​ໃນ"</string>
+<string name="item_sim_calls_ex">"SIM<xliff:g id="SIM">%s</xliff:g> ບັນ​ທຶກ​ການ​ໂທ"</string>
+<string name="menu_moveGroupMember">"​ຍ້າຍ​ສະ​ມາ​ຊິກ​ກຸ່ມ"</string>
+<string name="moveGroupMemberDialogTitle">"ຍ້າຍ​ຜູ້​ຕິດ​ຕໍ່​ໄປ​ທີ່"</string>
+<string name="menu_deleteGroupMember">"ລຶບ​ສະ​ມ​ມະ​ຊິກ​ກຸ່ມ"</string>
+<string name="overGroupNameLength">"ຊື່​ກຸ່ມ​ຍາວ​ເກີນ​ໄປ"</string>
+<string name="overGroupCountLimit">"ເກີນ​ຂີດ​ຈຳ​ກັດ​ຂອງ​ຈຳ​ນວນ​ກຸ່ມ"</string>
+<string name="menu_share_by_sms">"ສົ່ງໂດຍ​ຜ່ານ​ຂໍ້​ຄວາມ/ຂໍ້​ຄວາມ​ມັ​ລ​ຕິ​ມິ​ເດຍ"</string>
+<string name="toast_batchoperation_is_running">"ການດໍາເນີນງານເປັນຊຸດແມ່ນກຳ​ລັງແລ່ນ, ກະລຸນາພະຍາຍາມອີກເທື່ອຫນຶ່ງຕໍ່ມາ!"</string>
+<string name="sdcard_storage_not_enough">"ໜ່ວຍ​ຄວາມ​ຈຳ​ບໍ່​ພຽງ​ພໍ!"</string>
+<string name="noJoinContactDataWith">"ບໍ່​ສາ​ມາດ​ປະ​ສານ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="not_select_vCard">"ທ່ານບໍ່​ໄດ້​ເລືອກ vCardໃດໆ"</string>
+<string name="selected_is_not_image">"ໄຟ​ລ໌​ທີ່​ທ່ານ​ເລືອກບໍ່​ແມ່ນ​ຮູບ​ພາບ"</string>
+<string name="batch_delete_confim_title">"ລຶບ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="batch_delete_confim_message">"ທ່ານ​ແນ່​ໃຈ​ວ່າ​ຕ້ອງ​ການ​ລຶບ​ຜູ້​ຕິດ​ຕໍ່​ທີ່​ເລືອກ?"</string>
+<string name="transaction_too_large">"ຂະ​ໜາດ​ຂອງ​ຜູ້​ຕິດ​ຕໍ່​ທີ່​ເລືອກ​ເກີນ​ຂີດ​ຈຳ​ກັດ,ກະ​ລຸ​ນາ​ເລືອກ​ໜ້ອຍ​ລົງ"</string>
+<string name="contacts_selection_too_more">"ຜູ້​ຕິດ​ຕໍ່​ເລືອກ​ໄດ້​ຫລາຍ​ສຸດ​ແມ່ນ<xliff:g id="COUNT">%d</xliff:g>​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="recentCalls_empty">"ບັນທຶກການໂທຫວ່າງເປົ່າ."</string>
+<string name="menu_newContact">"ສ້າງລາຍຊື່ຜູ່ຕິດຕໍ່ໃໝ່"</string>
+<string name="contact_list_loading">"ກຳລັງໂຫລດ..."</string>
+<string name="recentCallsIconLabel">"ບັນທຶກການໂທ"</string>
+<string name="launcherDialer">"ໂທລະສັບ"</string>
+<string name="delete_group_dialog_commit">"ທ່ານ​ຕ້ອງ​ການ​ລຶບ​ກຸ່ມ​ທີ່​ໄດ້​ເລືອກ?"</string>
+<string name="noContactsWithPhoneNumbers">"ບໍ່​ມີ​ຜູ້​ຕິດ​ຕໍ່ ​ມີ​ໝາຍ​ເລກ​ໂທ​ລະ​ສັບ"</string>
+<string name="listTotalAllContactsZeroStarred">"ບໍ່​ມີ​ສິ່ງ​ທີ່​ມັກ​ທີ່​ສຸດ."</string>
+<string name="contact_editor_prompt_multiple_accounts_short">"ບັນ​ທຶກ​ຜູ້​ຕິດ​ຕໍ່​ໄປ​ທີ່"</string>
+<string name="working_batch_starred">"ກຳ​ລັງ​ເພີ່ມ​ໄປ​ທີ່​ສິ່ງ​ທີ່​ມັກ​ທີ່​ສຸດ"</string>
+<string name="star_done">"ຜູ້​ຕິດ​ຕໍ່​ທີ່​ມັກ​ທີ່​ສຸດ​ສຳ​ເລັດ"</string>
+<string name="cancel_batch_star_confirmation">"ຕ້ອງ​ການ​ຍົກ​ເລີກຜູ້​ຕິດ​ຕໍ່​ທີ່​ມັກ​ທີ່​ສຸດ​ສຳ​ເລັດ"</string>
+</resources>

@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="launcherDialer">Waya</string>
+  <string name="people">Mutane</string>
+  <string name="contactsList">Matuntuba</string>
+  <string name="shortcutContact">Mai hulda</string>
+  <string name="shortcutDialContact">Buga kai tsaye</string>
+  <string name="shortcutMessageContact">Sako kai tsaye</string>
+  <string name="shortcutActivityTitle">Zaba yanke na mai hulda</string>
+  <string name="callShortcutActivityTitle">Zaba lamba da za\'a kira</string>
+  <string name="messageShortcutActivityTitle">Zaba lambar aika dd sako</string>
+  <string name="contactPickerActivityTitle">Zabi matuntuba</string>
+  <string name="starredList">Mai tauraro</string>
+  <string name="frequentList">Kullum</string>
+  <string name="strequentList">Abinda aka fi so</string>
+  <string name="viewContactTitle">Masu hulda dalla dalla</string>
+  <string name="viewContactDesription">Duba matuntuba</string>
+  <string name="editContactDescription">Gyara hulda</string>
+  <string name="insertContactDescription">Halicci hulda</string>
+  <string name="editGroupDescription">Tantance Rukuni</string>
+  <string name="insertGroupDescription">Kirkiri rukuni</string>
+  <string name="contactDetailAbout">Game da </string>
+  <string name="contactDetailUpdates">Abubuwan sabuntawa</string>
+  <string name="searchHint">Bincika abokan sadarwa</string>
+  <string name="menu_newContact">Sabon abokin sadarwa</string>
+  <string name="menu_viewContact">Duba matuntuba</string>
+  <string name="video_callNumber_by_sim1">"Kiran Bidiyo<xliff:g id="NAME">%s</xliff:g>（SIM1）"</string>
+  <string name="video_callNumber_by_sim2">"Kiran Bidiyo<xliff:g id="NAME">%s</xliff:g>（SIM1）"</string>
+  <string name="video_menu_callNumber">"Kiran Bidiyo<xliff:g id="NAME">%s</xliff:g>"</string>
+  <string name="menu_addStar">Kara ga abubuwan da aka fi so</string>
+  <string name="menu_removeStar">Cire daga kundin muhimman abubuwa</string>
+  <string name="menu_editContact">Gyara</string>
+  <string name="menu_copyToSim" msgid="9042415603857662633">Kwafe zuwa SIM</string>
+  <string name="menu_copyToPhone" msgid="9042415603857662633">Kwafi zuwa waya</string>
+  <string name="menu_deleteContact">Goge</string>
+  <string name="menu_call">Lambobin kira</string>
+  <string name="menu_sendSMS">Aika sako</string>
+  <string name="menu_splitAggregate">Ware</string>
+  <string name="menu_editGroup">Gyara</string>
+  <string name="menu_deleteGroup">Goge</string>
+  <string name="menu_new_contact_action_bar">Sabo</string>
+  <string name="menu_new_group_action_bar">Sabo</string>
+  <string name="splitConfirmation_title">Ware matuntuba?</string>
+  <string name="splitConfirmation">Za a raba wannan matuntuba zuwa matuntubai da yawa.</string>
+  <string name="menu_joinAggregate">Sadu da</string>
+  <string name="titleJoinContactDataWith">Sadu adiresoshi</string>
+  <string name="blurbJoinContactDataWith">Zabi matuntubar da ka ke son haduwa da shi<xliff:g id="name">%s</xliff:g>:</string>
+  <string name="showAllContactsJoinItem">Nuna duk abokan sadarwa</string>
+  <string name="separatorJoinAggregateSuggestions">Matuntubai da aka nuna</string>
+  <string name="separatorJoinAggregateAll">Matuntuba dukka</string>
+  <string name="contactsJoinedMessage">An hada masu hulda</string>
+  <string name="deleteConfirmation_title">Soke tuntuba?</string>
+  <string name="menu_set_ring_tone">Saita sautin waya</string>
+  <string name="menu_redirect_calls_to_vm">Duk kira zuwa sakon murya</string>
+  <string name="readOnlyContactWarning">Ba za ka iya share matuntubai daga asusan karanta-kadai ba, amma za ka iya boye su a jerin matuntubanka.</string>
+  <string name="readOnlyContactDeleteConfirmation">Wannan matuntuba ta kunshi bayanai daga akwatuna da yawa. Za a boye bayanan akwatin karanta-kawai a cikin jerin matuntuban ka, ba za a share ba.</string>
+  <string name="multipleContactDeleteConfirmation">Soke wannan tuntuba zai soke labari daga asusai masu yawa.</string>
+  <string name="deleteConfirmation">Za a share wannan matuntuba.</string>
+  <string name="menu_discard">Watsar</string>
+  <string name="invalidContactMessage">Babu wannan matuntuba.</string>
+  <string name="pickerNewContactHeader">Halicci sabo hulda</string>
+  <string name="pickerNewContactText">Halicci sabo hulda</string>
+  <string name="photoPickerNotFoundText" product="tablet">Babu wasu hotuna akan tablet din.</string>
+  <string name="photoPickerNotFoundText" product="default">Babu hotuna a cikin wayar.</string>
+  <string name="attach_photo_dialog_title">hoton matuntuba</string>
+  <string name="customLabelPickerTitle">Suna da Kwastan suka lika</string>
+  <string name="send_to_voicemail_checkbox">Tura kira kai tsaye zuwa voicemail</string>
+  <string name="removePhoto">Cire hoto</string>
+  <string name="noContacts">Babu abokan sadarwa.</string>
+  <string name="noGroups">Babu rukunoni.</string>
+  <string name="noAccounts">Don kirkirar rukunai kana bukatar asusu.</string>
+  <string name="emptyGroup">Babu mutane a cikin wannan rukuni.</string>
+  <string name="addPeopleToGroup">Don kara wasu, gyara rukunin.</string>
+  <string name="savingContact">Ana ajiye bayanin matuntuba\u2026</string>
+  <string name="contactSavedToast">An adana lamba.</string>
+  <string name="contactDeletedToast">Goge mai hulda.</string>
+  <string name="contactSavedErrorToast">An kasa ajiye canje canjen matuntuba.</string>
+  <string name="groupSavedToast">An ajiye rukuni.</string>
+  <string name="groupSavingToast">Za a aiwatar da ingantawar rukuni wani lokaci.</string>
+  <string name="groupSavedErrorToast">An kasa ajiye canje canjen rukuni.</string>
+  <string name="listTotalPhoneContactsZero">Babu abokan sadarwa masu lambobin waya.</string>
+  <string name="listTotalEmailContactsZero">Babu matuntubai masu adireshin imel</string>
+  <string name="listMaxContactsInAccount">"Sarari: <xliff:g id="COUNT">%d</xliff:g></string>
+  <string name="listFoundAllContactsZero">Babu wanda aka samu.</string>
+  <string name="contactsAllLabel">Duk</string>
+  <string name="contactsGroupsLabel">Rukunai</string>
+  <string name="recentCallsIconLabel">Tarihin kira</string>
+  <string name="recentCalls_empty">Tarihin kira fanko ne.</string>
+  <string name="callBack">Sake kira</string>
+  <string name="callAgain">Kira kuma</string>
+  <string name="returnCall">mayar kira</string>
+  <string name="add_contact_dlg_title">Kara asireshi</string>
+  <string name="add_contact_dlg_message_fmt">A kara \"<xliff:g id="email">%s</xliff:g>\" ga matuntubai?</string>
+  <string name="description_contact_photo">hoton matuntuba</string>
+  <string name="description_plus_button">kari</string>
+  <string name="searching_vcard_title">Binciken vCard</string>
+  <string name="copy">Kwafi</string>
+  <string name="copy_to">Kwafe zuwa</string>
+  <string name="export_to_sim">Kai waje ga katin SIM</string>
+  <string name="reading_vcard_exception_title">Bambancin karanta/rubuta bayanan vCard</string>
+  <string name="sqlite_full">Rumbun bayanan matuntuba ko faifan bayanai a cike ya ke</string>
+  <string name="exporting_contact_list_progress"><xliff:g id="current_number">%s</xliff:g> na <xliff:g id="total_number">%s</xliff:g> matuntubai</string>
+  <string name="cancel_import_confirmation_title">Ana soke shigo da vCard</string>
+  <string name="cancel_batch_import_confirmation">A soke shigo da matuntuba?</string>
+  <string name="cancel_batch_delete_confirmation">A soke share matuntuba?</string>
+  <string name="batch_operation_canceled">An soke aikin</string>
+  <string name="cancel_export_confirmation_title">Ana soke fitar da vCard</string>
+  <string name="search_settings_description">Sunayen abokan tuntubarka</string>
+  <string name="quickcontact_missing_app">Ba a sami wani shiri da tafiyar da wannan aiki ba.</string>
+  <string name="menu_share">Raba</string>
+  <string name="menu_all_contacts">Matuntuba dukka</string>
+  <string name="share_via">Raba matuntuba ta cikin</string>
+  <string name="dialog_new_group_account">Kirkiri rukuni karkashin asusu</string>
+  <string name="audio_chat">Hirar murya</string>
+  <string name="video_chat">Hirar bidiyo</string>
+  <string name="connections">Hadawa</string>
+  <string name="add_connection_button">Kara hadi</string>
+  <string name="recent" msgid="2062236709538790412">Na kwanan nan</string>
+  <string name="recent_updates" msgid="2018245636796411442">Sabuntawar baya bayan nan</string>
+  <string name="account_type_format"><xliff:g example="Gmail" id="source">%1$s</xliff:g> matuntuba</string>
+  <string name="from_account_format">
+    <xliff:g example="user@gmail.com" id="source">%1$s</xliff:g>
+  </string>
+  <string name="use_photo_as_primary">Yi amfani da wannan hoto</string>
+  <string name="contact_read_only">Ba wanda ake iya gyarawa ba ne daga wannan shiri.</string>
+  <string name="no_contact_details">Babu karin bayani ga wannan matuntuba.</string>
+  <string name="group_read_only">Ba wanda ake iya gyarawa ba ne daga wannan na\'ura.</string>
+  <string name="display_options_sort_list_by">Jera su ta</string>
+  <string name="display_options_sort_by_given_name">Bada suna</string>
+  <string name="display_options_sort_by_family_name">Sunan iyali</string>
+  <string name="display_options_view_names_as">Duba sunan abokin tuntuba a matsayin</string>
+  <string name="display_options_view_given_name_first">Bada suna da farko</string>
+  <string name="display_options_view_family_name_first">Sunan iyali da farko</string>
+  <string name="search_bar_hint">Bincika abokan sadarwa</string>
+  <string name="take_photo">Dauki hoto</string>
+  <string name="take_new_photo">Dauki sabon hoto</string>
+  <string name="pick_photo">Zabi hoto daga Bigiren hotuna</string>
+  <string name="pick_new_photo">Zabi sabon hoto daga Jadawali</string>
+  <string name="locale_change_in_progress">Ana sabunta jerin hulda ya nuan canji na harshe.</string>
+  <string name="upgrade_in_progress">Ana sabunta jerin sunayen matuntuba.</string>
+  <string name="upgrade_out_of_memory">Ana aikin daukaka matuntuba. \n\nAikin daukakawar na bukatar kwatankwacin <xliff:g id="size_in_megabytes">%s</xliff:g> MB na ma’adanar ciki.\n\nZabi daya daga cikin wadannan zabuka masu zuwa:</string>
+  <string name="upgrade_out_of_memory_uninstall">Cire wasu shirye shiryen</string>
+  <string name="upgrade_out_of_memory_retry">Sake gwada sabuntawa</string>
+  <string name="search_results_searching">Ana bincika...</string>
+  <string name="menu_display_selected">Nuna wanda aka zaba</string>
+  <string name="menu_display_all">Nuna duk</string>
+  <string name="menu_select_all">Zabi duk</string>
+  <string name="menu_select_none">Cire zaben duk</string>
+  <string name="add_field">Kara wani filin</string>
+  <string name="add_new_entry_for_section">Kara sabo</string>
+  <string name="add_organization">Kara kungiya/ma\'aikata</string>
+  <string name="event_edit_field_hint_text">Kwanan wata</string>
+  <string name="group_edit_field_hint_text">sunan rukuni</string>
+  <string name="contact_status_update_attribution">ta cikin <xliff:g example="Google Talk" id="source">%1$s</xliff:g></string>
+  <string name="contact_status_update_attribution_with_date"><xliff:g example="3 hours ago" id="date">%1$s</xliff:g> ta cikin <xliff:g example="Google Talk" id="source">%2$s</xliff:g></string>
+  <string name="description_star">Fi so</string>
+  <string name="edit_contact">Gyara hulda</string>
+  <string name="aggregation_suggestion_join_dialog_title">Sadu adiresoshi</string>
+  <string name="aggregation_suggestion_join_dialog_message">A hada da matuntuba da ke bude tare da matuntubar da aka zaba?</string>
+  <string name="aggregation_suggestion_edit_dialog_title">Gyara matuntuban da aka zaba</string>
+  <string name="aggregation_suggestion_edit_dialog_message">A Canja zuwa gyara matuntubar da aka zaba? Za a kwafe bayanin da ka shigar zuwa yanzu.</string>
+  <string name="menu_copyContact">Kwafe zuwa Matuntubai na</string>
+  <string name="add_to_my_contacts">Kara ga Matuntubai Na</string>
+  <string name="contact_directory_description">Fallen bayanai <xliff:g example="Corporate Directory" id="type">%1$s</xliff:g></string>
+  <string name="toast_making_personal_copy">Kirkirar kwafinka\u2026</string>
+  <string name="list_filter_custom">Kwastan</string>
+  <string name="list_filter_emails">Duk matuntubai masu adireshin imel</string>
+  <string name="list_filter_all_in_one">Duk matuntubai masu bayanai</string>
+  <string name="group_selection">Zabar rukunin matuntuba</string>
+  <string name="contact_list_loading">Ana daura wa\u2026</string>
+  <string name="activity_title_settings">Saituka</string>
+  <string name="menu_settings" msgid="377929915873428211">Saituka</string>
+  <string name="preference_displayOptions">Zabukan Bijirowa</string>
+  <string name="organization_company_and_title"><xliff:g example="Technical Program Manager" id="company">%2$s</xliff:g>, <xliff:g example="Google Inc." id="company">%1$s</xliff:g></string>
+  <string name="non_phone_caption">Lambar waya</string>
+  <string name="non_phone_add_to_contacts">Kara cikin lambobi</string>
+  <string name="activity_title_confirm_add_detail">Kara cikin lamba</string>
+  <string name="non_phone_close">Rufe</string>
+  <string name="widget_name_and_phonetic"><xliff:g example="John Huber" id="display_name">%1$s</xliff:g> (<xliff:g id="phonetic_name">%2$s</xliff:g>)</string>
+  <string name="date_year_toggle">Samar da shekara</string>
+  <string name="social_widget_label">Mai hulda</string>
+  <string name="social_widget_loading">Ana daura wa\u2026</string>
+  <string name="contacts_unavailable_create_contact">Kirkiri sabon matuntuba</string>
+  <string name="contacts_unavailable_add_account">Shiga cikin asusu</string>
+  <string name="contacts_unavailable_import_contacts">Shigo da matuntubai daga fayil</string>
+  <string name="create_group_dialog_title">Kirkiri sabon rukuni</string>
+  <string name="create_group_item_label">[Kirkiri sabon rukuni]</string>
+  <string name="delete_group_dialog_title">soke na gungu</string>
+  <string name="delete_group_dialog_message">Share rukunin
+      \"<xliff:g example="Friends" id="group_label">%1$s</xliff:g>\"?
+      (Matuntubai su kansu ba za a share su ba.)</string>
+  <string name="toast_join_with_empty_contact">Rubuta sunan matuntuba kafin hadawa da wani.</string>
+  <string name="copy_text">Kwafe zuwa clipboard</string>
+  <string name="set_default">Saita tsarin dindindin</string>
+  <string name="clear_default">Goge saitin dindindin</string>
+  <string name="toast_text_copied">An kwafe rubutu</string>
+  <string name="cancel_confirmation_dialog_title">Yi watsi da canje canje</string>
+  <string name="cancel_confirmation_dialog_message">A yi watsi da canje canjenka?</string>
+  <string name="call_type_and_date">
+        <xliff:g example="Friends" id="call_type">%1$s</xliff:g>  <xliff:g example="Friends" id="call_short_date">%2$s</xliff:g>
+    </string>
+  <string name="profile_display_name">Kafa bayanan kaina</string>
+  <string name="enter_contact_name">Rubuta sunan mutum</string>
+  <string name="group_name_hint">Sunan rukuni</string>
+  <string name="local_profile_title">Bayani na na gida</string>
+  <string name="external_profile_title">Nawa <xliff:g id="external_source">%1$s</xliff:g> bayani</string>
+  <string name="toast_displaying_all_contacts">Ana bijiro da duk matuntubai</string>
+  <string name="no_account_prompt">Mutane sun fi yin aiki da Asusun Google.\n\n\u2022 Sami damar shiga daga kowace mashigar-intanet.\n\u2022 Yi tallafin-baya ga matuntubanka mai aminci.</string>
+  <string name="generic_no_account_prompt">Tsare matuntubanka koda ka rasa wayarka: jona da sabis din kan intanet.</string>
+  <string name="generic_no_account_prompt_title">Kara wata asusu</string>
+  <string name="contact_editor_prompt_zero_accounts">Ba za a yi tallafin-baya ga sabon matuntubinka ba. A kara asusu da ke tallafin-baya ga matuntubai a kan intanet? </string>
+  <string name="contact_editor_prompt_one_account">Za a jona sabon matuntubinka da <xliff:g id="account_name">%1$s</xliff:g>.</string>
+  <string name="contact_editor_prompt_multiple_accounts">Za ka iya jona sabon matuntubatka tare daya daga cikin wadannan asusan. Wanne ka ke son yin amfani das hi?</string>
+  <string name="keep_local">Rike na gida</string>
+  <string name="add_account">Kara asusu</string>
+  <string name="add_new_account">Kara sabon asusu</string>
+  <string name="dialog_phone_call_prohibited_title" msgid="4313552620858880999">Ba a aika kira ba</string>
+  <string name="dialog_voicemail_not_ready_title">Babu lambar sakon murya</string>
+  <string name="select_one">Zabi akalla abu daya!</string>
+  <string name="delete_calls">Goge</string>
+  <string name="delete_selected_calls">Kana son share abubuwan da aka zaba?</string>
+  <string name="delete_all_calls_confirm">Kana son share duk kira?</string>
+  <string name="delete_calls_list">Share kiran da aka zaba</string>
+  <string name="delete_all_calls">Share duk kira</string>
+  <string name="delete_success">Soke da nasara!</string>
+  <string name="select_all">Zabi duk</string>
+  <string name="menu_batch_delete">Sharewar kaso</string>
+  <string name="label_sim">Katin SIM</string>
+  <string name="label_usim">Katin SIM</string>
+  <string name="label_phone">Waya</string>
+  <string name="no_fast_dial">ba a saita lambar waya ta kiran sauri ba</string>
+  <string name="fast_dial_choose">zabi nau\'in kiran sauri</string>
+  <string name="fast_call">Kiran bidiyo</string>
+  <string name="fast_vt_call">kiran bidiyo</string>
+  <string name="wait">Jira...</string>
+  <string name="working">A na aiki</string>
+  <string name="working_batch_delete">Ana share kaso</string>
+  <string name="working_batch_import">Ana shigo da kaso</string>
+  <string name="choose_sim_card">Zabi katin SIM</string>
+  <string name="violate_capacity">Sabawa girman SIM</string>
+  <string name="import_failed">An kasa shigo da/fitar da matuntuba</string>
+  <string name="import_failed_tmp"><xliff:g id="count">%d</xliff:g> samun nasara, <xliff:g id="count">%d</xliff:g> an kasa</string>
+  <string name="import_done">An gama shigowa da</string>
+  <string name="delete_done">An gama sharewa</string>
+  <string name="toast_no_contact_selected">Babu matuntuba da aka zaba</string>
+  <string name="contactSavedErrorToastNameLength">Sunan matuntuba ya yi tsawo da yawa, ba za a iya ajiye shi ba</string>
+  <string name="contactSavedErrorToastEmailLength">Sunan imel ya yi tsawo da yawa, ba za a iya ajiye shi ba</string>
+  <string name="contactSavedErrorToastEmailFull">Imel ta cika</string>
+  <string name="sim_is_full">SIM ya cika </string>
+  <string name="menu_addToBlacklist">Kara wadanda aka toshe</string>
+  <string name="menu_view_calls">Dubawa</string>
+  <string name="item_all_calls">duk ajiyayyun bayanan kira</string>
+  <string name="item_sim1_calls">ajiyayyun bayanai na sim1</string>
+  <string name="item_sim2_calls">ajiyayyun bayanai na sim 2</string>
+  <string name="res_name">Suna</string>
+  <string name="res_phone">Waya</string>
+  <string name="res_email">Emel</string>
+  <string name="res_field">fili</string>
+  <string name="alert_maybe_lost_info">Za a iya rasa wasu bayanai lokacin da ake shigowa ko fitarwa</string>
+  <string name="field_too_long"><xliff:g id="field">%s</xliff:g> tsawo da yawa</string>
+  <string name="select_group_member">Zabi membobin rukuni</string>
+  <string name="email_format_fail">Shigar da ingantaccen adireshin imel!</string>
+  <string name="working_editing_group">Ana aiwatar da ingantawar rukuni</string>
+  <string name="editing_group_done">An gama ingantawar rukuni</string>
+  <string name="editing_group_failed">An kasa ingantawar rukuni</string>
+  <string name="contacts_group_name_exist">Sunan gungu mai kasancewa</string>
+  <string name="menu_add_favorite">Kara matuntubai ga Abubuwan da aka fi so</string>
+  <string name="phone_number_format_fail">Shigar da lambar bugu ta gaske!</string>
+  <string name="fast_dial_settings">saitin kiran sauri</string>
+  <string name="alert_delete_contact">Ka tabbata kana son share zababbun matuntubai?</string>
+  <string name="menu_delete_group">Share rukunai</string>
+  <string name="call_ip">Kiran IP</string>
+  <string name="no_group">Ba memban kowane rukuni ba ne</string>
+  <string name="edit_photo">Gyara hoto</string>
+  <string name="removeStarred">Cire Wanda aka fi so</string>
+  <string name="lookUpInfo">Bayanai</string>
+  <string name="cancel">Soke</string>
+  <string name="favorite_contacts">Matuntuban da aka fi so</string>
+  <string name="select_all_contacts">Zabi duk</string>
+  <string name="menu_newGroup">\'\'Sababbin rukunai\'\'</string>
+  <string name="contactsFavoritesLimit">Matuntubai 12 a jaka, sama da makurar jakar</string>
+  <string name="show_contacts">Nuna matuntubai</string>
+  <string name="import_export_contacts">Shigo/Fitar da abokan tuntuba </string>
+  <string name="export_contacts">Fitar da matuntubai</string>
+  <string name="duplicate_phone_book">Ribanya littafin waya</string>
+  <string name="dump_phone_book">Watsar da littafin waya</string>
+  <string name="fast_dial">Bugu mai gudu</string>
+  <string name="account">Asusu</string>
+  <string name="tab_more">Karin zabuka</string>
+  <string name="group_name_hint_overlay">\'\'Sanya sunan rukuni\'\'</string>
+  <string name="select_group_member_overlay">Danna nan don kara matuntubai</string>
+  <string name="call_log_contacts_not_save">Bako</string>
+  <string name="menu_deleteFromBlacklist">Share daga bakin jeri</string>
+  <string name="success_addToBlacklist">Nasarar kari</string>
+  <string name="failed_addToBlacklist">An kasa kari</string>
+  <string name="success_removeFromBlacklist">Soke da nasara!</string>
+  <string name="failed_removeFromBlacklist">An kasa sharewa</string>
+  <string name="menu_save">Ajiye</string>
+  <string name="menu_emailGroup">\'\'Dandazon imel\'\'</string>
+  <string name="menu_mmsGroup">\'\'Dandazon mms\'\'</string>
+  <string name="select_group">\'\'zabi rukuni\'\'</string>
+  <string name="noContactswithEmail">\'\'Babu matuntubai tare da Adireshin imel\'\'</string>
+  <string name="beyond_sim_card_capacity">Sama da girman katin sim, za a kasa ajiye wasu matuntubai</string>
+  <string name="noContactsInGroup">\'\'Babu matuntuba a wannan rukuni\'\'</string>
+  <string name="editGroup">\'\'Gyara rukuni\'\'</string>
+  <string name="send_mms">\'\'Aika sako\'\'</string>
+  <string name="please_input_group_name">Shigar da sunan rukuni</string>
+  <string name="confirmCoverPhoneNumber">\'\'Ka tabbata kana son maye gurbin matuntubin da ke yanzu?\'\'</string>
+  <string name="replaceSelected">\'\'Zabi wanne za a maye gurbi\'\'</string>
+  <string name="no_vcard_found_in_internal_stor">\'\'Ba sami wani fayil din Vcard a ma\'adanar ciki ba.\'\'</string>
+  <string name="over_phone_length_limit">Lamba ta yi tsawo da yawa</string>
+  <string name="overGroupNameLength">Sunan rukuni ya yi tsawo da yawa</string>
+  <string name="overGroupCountLimit">Babu sauran wasu rukunai da za a iya karawa ga USIM</string>
+  <string name="menu_share_by_sms">Aika matuntubai ta sms</string>
+  <string name="toast_batchoperation_is_running">Ana gudanar da Aikin Kashi kashi, sake gwadawa wani lokaci !</string>
+    <string-array name="otherLabels">
+        <!-- An organization associated with a contact -->
+                <item>ShiryawaTafiyarwa</item>
+        <!-- A note associated with a contact -->
+                <item>Kula</item>
+        </string-array>
+     <plurals name="listTotalPhoneContacts">
+        <item quantity="one">Matuntubi 1 tare da lambar waya</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> matuntubai masu lambobin waya</item>
+        </plurals>
+     <plurals name="listTotalAllContacts">
+        <item quantity="one">Matuntuba 1</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> matuntubai</item>
+        </plurals>
+     <plurals name="listFoundAllContacts">
+        <item quantity="one">An sami 1</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> an samu</item>
+        </plurals>
+     <plurals name="searchFoundContacts">
+        <item quantity="one">An sami 1</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> an samu</item>
+        </plurals>
+     <plurals name="merge_info">
+        <item quantity="one">ba a hade ba</item>
+        <item quantity="other">an hade shi daga <xliff:g id="count">%0$d</xliff:g> asali</item>
+        </plurals>
+     <plurals name="num_groups_in_account">
+        <item quantity="one">Rukuni 1</item>
+        <item quantity="other"><xliff:g id="count">%0$d</xliff:g> rukunai</item>
+        </plurals>
+     <plurals name="num_contacts_in_group">
+        <item quantity="one"><xliff:g id="count">%1$d</xliff:g> mutum daga <xliff:g id="account_type">%2$s</xliff:g></item>
+        <item quantity="other"><xliff:g id="count">%1$d</xliff:g> mutane daga <xliff:g id="account_type">%2$s</xliff:g></item>
+        </plurals>
+     <plurals name="group_list_num_contacts_in_group">
+        <item quantity="one"><xliff:g id="count">%1$d</xliff:g> mutum</item>
+        <item quantity="other"><xliff:g id="count">%1$d</xliff:g> mutane</item>
+        </plurals>
+     <plurals name="searchMatchContacts">
+      <item quantity="one">\'\'Daidaiton matuntuba daya\'\'</item>
+      <item quantity="other">" <xliff:g id="COUNT">%d</xliff:g>daidaiton matuntuba"</item>
+      </plurals>
+     <string name="menu_create_contact_shortcut">"An aje shi tsarin fuska na gida"</string>
+     <string name="createContactShortcutSuccessful">"Alamin rajistar lambobi an sa shi a fuskar waya."</string>
+     <string name="menu_help">Taimako</string>
+     <string name="menu_sendmms">Dandazon sms</string>
+     <string name="no_sdcard_title">Babu SD card</string>
+     <string name="scanning_sdcard_failed_title">An kasa taciyar SD katin</string>
+     <string name="call_log_callNumber_by_sim">"Kira<xliff:g id="NAME">%s</xliff:g> （SIM<xliff:g id="PHONE_ID">%s</xliff:g>）"</string>
+     <string name="delete_contact_all_calls">"Ka tabbatar kana son goge jerin rajistar lambobi na kira?"</string>
+     <string name="app_name">"Jerin kiraye"</string>
+     <string name="search_description">Bincika CallLog</string>
+     <string name="search_hint">Bincika CallLog</string>
+     <string name="lable_search">Bincika</string>
+     <string name="please_wait">Jira...</string>
+     <string name="noContactwithEmail">"Babu lambar kira da ke da imel"</string>
+     <string name="fast_dialer">"Saitin kira da gaggawa"</string>
+     <string name="select_card">"Ka zabi kati"</string>
+     <string name="sim_absent">"ba shi nan"</string>
+     <string name="sdn_list">Jerin SDN</string>
+     <string name="lnd_list">Jerin LND</string>
+     <string name="sim_no_ready">"Katin Sim ba a shirye yake ba"</string>
+     <string name="sdn_please_insert_sim">"Ka sa katin SIM."</string>
+     <string name="sdn_sim_notready">"Daidaita bayanin SIM, ka yi aikin daga baya."</string>
+     <string name="ip_dialer">"Kiran saitin IP"</string>
+     <string name="no_match_contact">"Bai dace da rajistar lambobin kira ba"</string>
+     <string name="delete_group_dialog_commit">"Kana so ka goge guruf din da ka zaba"</string>
+     <string name="create_new_contact">Halicci sabo hulda</string>
+     <string name="call_log_callNumber_by_sim_ex">"Kira<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+     <string name="video_callNumber_by_sim_ex">Kiran Bidiyo<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)</string>
+     <string name="ip_callNumber_by_sim_ex">"Kiran IP <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+     <string name="no_available_number">"Babu lambobi"</string>
+     <string name="invalid_number">"Lambobin da ba su dace ba."</string>
+     <string name="item_sim_calls_ex">"SIM<xliff:g id="SIM">%s</xliff:g> rajistar lambobin kira"</string>
+     <string name="menu_moveGroupMember">"Tafi da membobin guruf"</string>
+     <string name="moveGroupMemberDialogTitle">"Tafi da rajistar lambobi ga"</string>
+     <string name="menu_deleteGroupMember">"Goge membobin guruf"</string>
+     <string name="sdcard_storage_not_enough">"Ma\'adanar ba ta isa ba!"</string>
+     <string name="noJoinContactDataWith">"A\'a zai iya hada rajistar lambobi"</string>
+     <string name="not_select_vCard">"A\'a zabi wani katin vCard"</string>
+     <string name="selected_is_not_image">"Jakar fayil da aka zaba ba hoto ba ne"</string>
+     <string name="batch_delete_confim_title">"A goge rajistar lambobin?"</string>
+     <string name="batch_delete_confim_message">"Ka tabbatar a goge rajistar lambobin da ka zaba?"</string>
+     <string name="transaction_too_large">"Girman rajistar lambobin da ka zaba ya yi wuce kima, ka zabi rajistar lambobin a ba su kai haka ba."</string>
+     <string name="contacts_selection_too_more">"Makurar yawan rajistar lambobi da aka zaba 5000 ne"</string>
+    <string name="menu_export_database">"Shigo da fayalolin bayanai"</string>
+    <string name="contact_detail_picture_description">"Hoto. Zabi don ka canza"</string>
+    <string name="noContactwithPhoneAndEmail">"A rajista ba mai lamba i-mel."</string>
+    <string name="noContactsWithPhoneNumbers">Babu abokan sadarwa masu lambobin waya.</string>
+    <string name="listTotalAllContactsZeroStarred">Babu abubuwan da aka fi so.</string>
+    <string name="contact_editor_prompt_multiple_accounts_short">"Adana lambar kiran ga"</string>
+    <string name="working_batch_starred">"Fifita Bayanai"</string>
+    <string name="star_done">"Tauraruwa daidai"</string>
+    <string name="cancel_batch_star_confirmation">"Soke babban lambar kira?"</string>
+</resources>

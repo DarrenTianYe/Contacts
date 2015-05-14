@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="launcherDialer">ဖုန္း</string>
+  <string name="people">လူအမ်ား</string>
+  <string name="contactsList">အဆက္အသြယ္မ်ား</string>
+  <string name="shortcutContact">ဆက္သြယ္သူ</string>
+  <string name="shortcutDialContact">တိုက္ရိုက္ေခၚ</string>
+  <string name="shortcutMessageContact">တိုက္ရိုက္မက္ေစ့</string>
+  <string name="shortcutActivityTitle">ဆက္သြယ္သူေရွာ့ကတ္ကိုေရြးရန္္</string>
+  <string name="callShortcutActivityTitle">ဖုန္းနံပါတ္ကို္ေရြးပါ</string>
+  <string name="messageShortcutActivityTitle">မက္ေစ့ပို႕ရန္နံပါတ္ကိုေရြးပါ</string>
+  <string name="contactPickerActivityTitle">ဆက္သြယ္သူကိုေရြးရန္</string>
+  <string name="starredList">ၾကယ္ပြင့္ျပျပီး</string>
+  <string name="frequentList">မၾကာခဏ</string>
+  <string name="strequentList">ႏွစ္သက္ဖိုင္မ်ား</string>
+  <string name="viewContactTitle">ဆက္သြယ္သူအေသးစိတ္</string>
+  <string name="viewContactDesription">ဆက္သြယ္သူကိုရွာရန္္ျမင္ကြင္း</string>
+  <string name="editContactDescription">ဆက္သြယ္သူအားတည္းျဖတ္ျခင္း</string>
+  <string name="insertContactDescription">ဆက္သြယ္သူ အားဖန္တီးသည္။</string>
+  <string name="editGroupDescription">အဖြဲ႕အားတည္းျဖတ္ျခင္း </string>
+  <string name="insertGroupDescription">အဖြဲ႕အားဖန္တီးသည္။</string>
+  <string name="contactDetailAbout">အေၾကာင္း(သို႔)ခန္႕</string>
+  <string name="contactDetailUpdates">အပ္ဒိတ္လုပ္ျခင္း</string>
+  <string name="searchHint">ဆက္သြယ္သူမ်ားကိုရွာသည္။</string>
+  <string name="menu_newContact">ဆက္သြယ္လာသူအသစ္</string>
+  <string name="menu_viewContact">ဆက္သြယ္သူကိုရွာရန္္ျမင္ကြင္း</string>
+  <string name="menu_addStar">အၾကိဳက္ဆံုးဖိုင္ တြင္ ထည့္ပါ</string>
+  <string name="menu_removeStar">အႏွစ္သက္ဆံုးဖိုင္မွပယ္ဖ်က္ပါ။</string>
+  <string name="menu_editContact">တည်းြဖတ်သည်</string>
+  <string name="menu_deleteContact">ဖ်က္ပါ</string>
+  <string name="menu_create_contact_shortcut">အိမ္ဟုန္းမ်က္ႏွာျပင္ လိုက္ကာတြင္ထားပါ </string>
+  <string name="menu_call">ဆက္သြယ္လာသူကိုေခၚရန္</string>
+  <string name="menu_sendSMS">ဆက္သြယ္သူကို မက္ေဆ့ခ်္ပို႔ပါ။</string>
+  <string name="menu_splitAggregate">ခြဲျခား</string>
+  <string name="menu_editGroup">တည်းြဖတ်သည်</string>
+  <string name="menu_deleteGroup">ဖ်က္ပါ</string>
+  <string name="menu_new_contact_action_bar">အသစ္</string>
+  <string name="menu_new_group_action_bar">အသစ္</string>
+  <string name="splitConfirmation_title">ဆက္သြယ္သူကို ခြဲျခားမလား</string>
+  <string name="splitConfirmation">ဆက္သြယ္လာသူမ်ားဖိုင္သို႕ဤ ဆက္သြယ္လာသူကိုေရြ႕လိမ့္မည္။</string>
+  <string name="menu_joinAggregate">ဆက္သြယ္သည္</string>
+  <string name="titleJoinContactDataWith">ဆက္သြယ္သူအားခ်ိတ္ဆက္သည္</string>
+  <string name="blurbJoinContactDataWith">သင္ဆက္သြယ္လိုသူကိုေရြးပါ<xliff:g id="name">%s</xliff:g>:</string>
+  <string name="showAllContactsJoinItem">ဆက္သြယ္သူအားလံုးကို ေဖာ္ျပပါ</string>
+  <string name="separatorJoinAggregateSuggestions">ေထာက္ခံသည့္ ဆက္သြယ္သူမ်ား</string>
+  <string name="separatorJoinAggregateAll">ဆက္သြယ္သူအားလံုး</string>
+  <string name="contactsJoinedMessage">ဆက္သြယ္သူမ်ားကို ခ်ိတ္ဆက္ၿပီး</string>
+  <string name="menu_set_ring_tone">ဖုန္း၀င္သံကိုစီစဥ္ပါ</string>
+  <string name="menu_redirect_calls_to_vm">ဖုန္းအားလံုးကို အသံေမး(လ္)သို႕ေျပာင္းျခင္း</string>
+  <string name="readOnlyContactWarning">ဖတ္ရန္အေကာင့္တြင္မာတိကာစာရင္းအားပယ္ဖ်က္၍မရ၊သို႕ေသာ္ အမည္ စာရင္းအား၀ွက္ ထား၍ ရသည္၊</string>
+  <string name="readOnlyContactDeleteConfirmation">ဤဆက္သြယ္သူအတြက္ အေကာင့္မ်ားစြာမွ သတင္းအခ်က္ ပို႕ထားသည္။ ဖတ္ရန္သာ အေကာင့္မ်ား မွသတင္းအခ်က္ ကို သင္၏ ဆက္သြယ္လာသူစာရင္း ဖိုင္တြင္္ ၀ွက္ထားလိမ့္မည္၊ မပယ္ဖ်က္ထားပါ။</string>
+  <string name="multipleContactDeleteConfirmation">ဒီဆက္သြယ္လာသူအား ပယ္ဖ်က္လွ်င္ အေကာင့္မ်ားမွ သတင္းအခ်က္အား ပယ္ဖ်က္ၿပီးျဖစ္ လိမ့္မည္။ </string>
+  <string name="deleteConfirmation">ဤဆက္သြယ္သူအားပယ္ဖ်က္လိမ့္မည္။</string>
+  <string name="menu_discard">ျဖတ္ခ်မည္</string>
+  <string name="invalidContactMessage">ဆက္သြယ္သူကြန္ရက္တြင္မရွိပါ။</string>
+  <string name="createContactShortcutSuccessful">အိမ္ဟုန္းလိုက္ကာတြင္ ဆက္သြယ္သူဖိုင္လိုက္ကာေသး အား သြင္းထားသည္။</string>
+  <string name="pickerNewContactHeader">အသစ္ဖန္တီးပါ</string>
+  <string name="pickerNewContactText">အသစ္ဖန္တီးပါ</string>
+  <string name="photoPickerNotFoundText" product="tablet">ဖုန္းဆက္တြင္ ဓါတ္ပံုမရွိပါ</string>
+  <string name="photoPickerNotFoundText" product="default">ဖုန္းဆက္တြင္ ဓါတ္ပံုမရွိပါ</string>
+  <string name="attach_photo_dialog_title">ဆက္သြယ္သူဓါတ္ပံု</string>
+  <string name="customLabelPickerTitle">အမည္ေခါင္းစဥ္သတ္မွတ္ေပးရန္</string>
+  <string name="send_to_voicemail_checkbox">အ၀င္ဖုန္းကို တိုက္ရိုက္ အသံေမးလ္သို႕ ပို႕ရန္</string>
+  <string name="removePhoto">ဓါတ္ပံုကိုပယ္ဖ်က္ပါ။</string>
+  <string name="noContacts">မဆက္သြယ္သူ</string>
+  <string name="noGroups">အဖြဲ႕မ်ားမရွိပါ</string>
+  <string name="noAccounts">အေကာင့္တစ္ခုရွိမွသာ အဖြဲ႕ဖိုင္ အား ဖန္တီးႏိုင္မည္။</string>
+  <string name="emptyGroup">ဤအဖြဲ႕တြင္ဆက္သြယ္သူမရွိပါ</string>
+  <string name="addPeopleToGroup">အဖြဲ႕ဖိုင္အားတည္းျဖတ္ရန္တစ္ခ်ိဳ႕ဆက္သြယ္သူအမည္အားထည့္ရန္</string>
+  <string name="savingContact">ဆက္သြယ္သူကိုသိမ္းေနသည္ \ ယူ၂၀၂၆</string>
+  <string name="contactSavedToast">ဆက္သြယ္သူအားသိမ္းထားၿပီးၿပီ။</string>
+  <string name="contactSavedErrorToast">ဆက္သြယ္သူ ေျပာင္းလဲျခင္း အား သိမ္း၍မရပါ။</string>
+  <string name="groupSavedToast">အဖြဲ႕အားသိမ္းၿပီးၿပီ</string>
+  <string name="groupSavedErrorToast">အဖြဲ႕ ေျပာင္းလဲျခင္း အား သိမ္း၍မရပါ။</string>
+  <string name="listTotalPhoneContactsZero">မဆက္သြယ္သူ၏ဖုန္းနံပါတ္</string>
+  <string name="listFoundAllContactsZero">မဆက္သြယ္သူ၏ဖုန္းနံပါတ္</string>
+  <string name="contactsAllLabel">ဆက္သြယ္သူအားလံုး</string>
+  <string name="contactsGroupsLabel">အဖြဲ႕မ်ား</string>
+  <string name="recentCallsIconLabel">ဖုန္းေခၚရန္မွတ္တမ္းဖိုင္</string>
+  <string name="recentCalls_empty">ဖုန္းေခၚရန္မွတ္တမ္းဖိုင္ဗလာ</string>
+  <string name="callBack">ဖုန္းျပန္ေခၚရန္</string>
+  <string name="callAgain">ထပ္ေခၚပါ</string>
+  <string name="returnCall">ဖုန္းျပန္ေခၚပါ။</string>
+  <string name="add_contact_dlg_message_fmt">ထည့္ပါ \"<xliff:g id="email">%s</xliff:g>\"ဆက္သြယ္ရန္?</string>
+  <string name="description_contact_photo">ဆက္သြယ္သူဓါတ္ပံု</string>
+  <string name="description_plus_button">ေပါင္းထည့္ပါ</string>
+  <string name="exporting_contact_list_progress"><xliff:g id="current_number">%s</xliff:g> ၏ <xliff:g id="total_number">%s</xliff:g>ဆက္သြယ္သူ</string>
+  <string name="search_settings_description">ဆက္သြယ္လာသူ၏အမည္</string>
+  <string name="quickcontact_missing_app">ဒီလႈပ္ရွားမႈတြင္ကိုင္တြယ္ ေျဖရွင္းရန္ မည္သည့္ ပရိုဂရမ္မွမေတြ႕ပါ</string>
+  <string name="menu_share">ေဝမွ်ပါ</string>
+  <string name="share_via">ဆက္သြယ္သူကို ေ၀သည့္ နည္းလမ္း</string>
+  <string name="dialog_new_group_account">အေကာင့္ျဖင့္ အဖြဲ႕အား ဖန္တီးသည္။</string>
+  <string name="audio_chat">အသံျဖင့္ စကားေျပာ ဆက္သြယ္ျခင္း၊ ခ်က္တင္း</string>
+  <string name="video_chat">ဗီဒီယိုခ်က္တင္း</string>
+  <string name="connections">ဆက္သြယ္မႈ</string>
+  <string name="add_connection_button">ဆက္သြယ္မွဳကိုထည့္ပါ</string>
+  <string name="recent" msgid="2062236709538790412">မၾကာေသးမီက</string>
+  <string name="recent_updates" msgid="2018245636796411442">မၾကာေသးခင္ကလုပ္သည့္ အပ္ဒိတ္မ်ား</string>
+  <string name="account_type_format"><xliff:g example="Gmail" id="source">%1$s</xliff:g> ဆက္သြယ္သူ</string>
+  <string name="from_account_format">
+    <xliff:g example="user@gmail.com" id="source">%1$s</xliff:g>
+  </string>
+  <string name="use_photo_as_primary">ဤဓါတ္ပံုကိုသံုးရန္</string>
+  <string name="contact_read_only">ဒီပရိုဂရမ္မွ မတည္းျဖတ္ရေသးပါ</string>
+  <string name="no_contact_details">ဒီဆက္သြယ္သူ၏ တျခားသတင္း အခ်က္ မရွိေတာ့ပါ </string>
+  <string name="group_read_only">ဒီစက္္မွ မတည္းျဖတ္ရေသးပါ</string>
+  <string name="display_options_sort_list_by">စာရင္းအတိုင္းစီပါ။</string>
+  <string name="display_options_sort_by_given_name">ေပးထားသည့္အမည္</string>
+  <string name="display_options_sort_by_family_name">မိသားစုမ်ိဳးႏြယ္အမည္</string>
+  <string name="display_options_view_names_as">ဆက္သြယ္သူအမည္ကိုရွာရန္ အတြက္</string>
+  <string name="display_options_view_given_name_first">အေရွ႕မွာ ေပးထားသည့္အမည္</string>
+  <string name="display_options_view_family_name_first">ေရွ႕မွာ မိသားစုမ်ိဳးႏြယ္အမည္</string>
+  <string name="take_photo">ဓါတ္ပံုရိုက္သည္။</string>
+  <string name="take_new_photo">ဓါတ္ပံုအသစ္ကို ရိုက္ပါ။</string>
+  <string name="pick_photo">ဓါတ္ပံုဖိုင္မွဓါတ္ပံုေရြးပါ</string>
+  <string name="pick_new_photo">ဓါတ္ပံုဖိုင္မွ ဓါတ္ပံုအသစ္ကို ေရြးခ်ယ္ပါ</string>
+  <string name="locale_change_in_progress">ဆက္သြယ္သူစာရင္းဇယားအသစ္အပ္ဒိတ္လုပ္ေနသည္၊ ဘာသာေျပာင္းလိုက ရီဖလက္လုပ္ပါ။</string>
+  <string name="upgrade_in_progress">ဆက္သြယ္သူစာရင္းဇယားအသစ္အပ္ဒိတ္လုပ္ေနသည္။</string>
+  <string name="upgrade_out_of_memory">ဆက္သြယ္သူမ်ားကိုအပ္ဂရိတ္လုပ္ေနသည္
+    \n\nအပ္ဂရိတ္လုပ္ခ်ိန္ခန္႕မွန္းလိုအပ္ခ်က္<xliff:g id="size_in_megabytes">%s</xliff:g>
+    MB of internal storage.\n\nေအာက္ပါ ေရြးခ်ယ္စရာမ်ားမွတစ္ခုကိုေရြးပါ</string>
+  <string name="upgrade_out_of_memory_uninstall">တစ္ခ်ိဳ႕ပရိုဂရမ္အား မတပ္ ဆင္ေတာ့ပါ</string>
+  <string name="upgrade_out_of_memory_retry">အပ္ဂရိတ္ထပ္လုပ္ပါ။</string>
+  <string name="search_results_searching">ရှာေဖွ...</string>
+  <string name="menu_display_selected">↔လက္ခံသူကိုေရြးၿပီးၿပီ ↔</string>
+  <string name="menu_display_all">↔အားလံုးကိုေဖၚျပပါ ↔</string>
+  <string name="menu_select_all">↔အားလံုးကိုေရြးပါ↔</string>
+  <string name="menu_select_none">↔အားလံုးမေရြးပါ↔</string>
+  <string name="add_field">ေနာက္ထပ္ဖိုင္အားထပ္ထည့္ပါ</string>
+  <string name="add_new_entry_for_section">အသစ္္ထည့္ပါ</string>
+  <string name="add_organization">အဖြဲ႕အစည္းအသစ္ထည့္ပါ</string>
+  <string name="event_edit_field_hint_text">ေန႔စြဲ</string>
+  <string name="group_edit_field_hint_text">အဖြဲ႕အမည္</string>
+  <string name="contact_status_update_attribution">မူလ <xliff:g example="Google Talk" id="source">%1$s</xliff:g></string>
+  <string name="contact_status_update_attribution_with_date"><xliff:g example="3 hours ago" id="date">%1$s</xliff:g> via <xliff:g example="Google Talk" id="source">%2$s</xliff:g></string>
+  <string name="description_star">ႏွစ္သက္ဖိုင္</string>
+  <string name="edit_contact">ဆက္သြယ္သူအားတည္းျဖတ္ျခင္း</string>
+  <string name="aggregation_suggestion_join_dialog_message">လက္ရွိဆက္သြယ္သူ ႏွင့္ ေရြးခ်ယ္ထားသည့္ဆက္သြယ္သူ ကို ခ်ိတ္ဆက္မလား </string>
+  <string name="aggregation_suggestion_edit_dialog_message">ေရြးခ်ယ္ထားသည့္ ဆက္သြယ္သူအား  တည္းျဖတ္ရန္ ပယ္ဖ်က္မွာ ေသခ်ာလား</string>
+  <string name="menu_copyContact">ကၽြန္ုပ္၏မာတိကာသို႕မိတၱဴပြားျခင္း</string>
+  <string name="add_to_my_contacts">ကၽြႏု္ပ္၏ဆက္သြယ္သူဖိုင္ တြင္ ထည့္ပါ</string>
+  <string name="contact_directory_description">လမ္းညႊန္ <xliff:g example="Corporate Directory" id="type">%1$s</xliff:g></string>
+  <string name="toast_making_personal_copy">ကိုယ္ပိုင္ေကာ္ပီကိုဖန္တီးျခင္း\ယူ၂၀၂၆</string>
+  <string name="list_filter_custom">စိတ္ၾကိဳက္</string>
+  <string name="contact_list_loading">ဖြင့္ေနဆဲ\u2026</string>
+  <string name="activity_title_settings">်တပ်ဆင်ြခင်း</string>
+  <string name="menu_settings" msgid="377929915873428211">်တပ်ဆင်ြခင်း</string>
+  <string name="menu_help">အကူအညီ</string>
+  <string name="preference_displayOptions">ေရြးစရာမ်ားကိုေဖၚျပရန္</string>
+  <string name="organization_company_and_title"><xliff:g example="Technical Program Manager" id="company">%2$s</xliff:g>, <xliff:g example="Google Inc." id="company">%1$s</xliff:g></string>
+  <string name="non_phone_caption">ဖုန္းနံပါတ္</string>
+  <string name="non_phone_add_to_contacts">ဆက္သြယ္သူထံကိုထည့္ပါ</string>
+  <string name="activity_title_confirm_add_detail">ဆက္သြယ္သူထံကိုထည့္ပါ</string>
+  <string name="non_phone_close">ပိတ္ပါ</string>
+  <string name="widget_name_and_phonetic"><xliff:g example="John Huber" id="display_name">%1$s</xliff:g> (<xliff:g id="phonetic_name">%2$s</xliff:g>)</string>
+  <string name="date_year_toggle">ႏွစ္အလိုက္စီစဥ္ပါ</string>
+  <string name="social_widget_label">ဆက္သြယ္သူ</string>
+  <string name="social_widget_loading">ဖြင့္ေနဆဲ\u2026</string>
+  <string name="contacts_unavailable_create_contact">ဆက္သြယ္သူ အသစ္တစ္ဦး အားဖန္တီးသည္။</string>
+  <string name="contacts_unavailable_add_account">အေကာင့္ကို လက္မွတ္ထိုးပါ</string>
+  <string name="contacts_unavailable_import_contacts">ဆက္သြယ္သူအားသြင္းပါ</string>
+  <string name="create_group_dialog_title">အဖြဲ႕သစ္အားဖန္တီးသည္။</string>
+  <string name="create_group_item_label">အဖြဲ႕သစ္အားဖန္တီးသည္။</string>
+  <string name="delete_group_dialog_message">အဖြဲ႕အားပယ္ဖ်က္ပါ \"<xliff:g example="Friends" id="group_label">%1$s</xliff:g>\"?
+      (ဆယ္သြယ္လာသူကိုယ္တိုင္ အားမပယ္ဖ်က္ႏိုင္ )
+    </string>
+  <string name="toast_join_with_empty_contact">တစ္ျခားသူႏွင့္မဆက္သြယ္ခင္၊ ဆက္သြယ္သူအမည္ကိုရိုက္ရန္</string>
+  <string name="copy_text"> clipboard သို႕မိတၱဴပြားျခင္း</string>
+  <string name="set_default">ဒီေဖါ့ပ်က္ကြက္ကို စီစဥ္ပါ</string>
+  <string name="clear_default">ပ်က္ကြက္ကိုပယ္လိုက္ပါ</string>
+  <string name="toast_text_copied">မက္ေဆ့ခ်္ေရးသားခ်က္ လုပ္ေဆာင္ခ်က္မ်ား</string>
+  <string name="cancel_confirmation_dialog_message">သင္၏ေျပာင္းလဲခ်က္အား ရပ္မွာလား</string>
+  <string name="call_type_and_date">" <xliff:g id="call_type" example="Friends">%1$s</xliff:g> <xliff:g id="call_short_date" example="Friends">%2$s</xliff:g> "</string>
+  <string name="profile_display_name">ကိုယ္ပိုင္ပရိုဖိုင္း ဖန္တီးပါ</string>
+  <string name="enter_contact_name">ဆက္သြယ္သူအမည္ကိုရိုက္ရန္</string>
+  <string name="group_name_hint">အဖြဲ႕၏အမည္</string>
+  <string name="local_profile_title">ကၽြန္ုပ္၏မူလေနရာရွိပရိုဖိုင္း</string>
+  <string name="external_profile_title">ကၽြန္ုပ္၏<xliff:g id="external_source">%1$s</xliff:g>ပရိုဖိုင္း</string>
+  <string name="toast_displaying_all_contacts">ဆက္သြယ္လာသူအားလံုးကို ေဖၚျပျခင္း</string>
+  <string name="no_account_prompt">လူထူမွ ဂူဂဲလ္အေကာင့္ကို ပိုသံုး ၾကသည္ \n\n\ ယူ၂၀၂၂ မည္သည့္ ဘေလာက္စာ ျဖင့္မဆို လက္ခံ သည္ \n\ယူ၂၀၂၂ သင္၏ ဆက္သြယ္သူ အား စိတ္ခ်ရန္ ဘက္အပ္လုပ္ပါ</string>
+  <string name="generic_no_account_prompt">သင္၏ဆက္သြယ္သူစာရင္းကို အြန္လိုင္းနွင့္ တစ္ၿပိဳင္တည္း သိမ္းထားလွ်င္ ဖုန္းစက္ ေပ်ာက္သြား ေသာ္လည္း အြန္လိုင္း ဆားဗစ္ တြင္ ရွာ ႏိုင္သည္။</string>
+  <string name="generic_no_account_prompt_title">အေကာင့္တစ္ခုထည့္ပါ</string>
+  <string name="contact_editor_prompt_zero_accounts">သင္၏ဆက္သြယ္သူအသစ္အားဘက္အပ္လုပ္မရပါ။ အြန္လိုင္းျဖင့္ဘက္အပ္လုပ္ရန္ အေကာင့္ထည့္မလား</string>
+  <string name="contact_editor_prompt_one_account">သင္၏ဆက္သြယ္သူအသစ္တျပိဳင္တည္းရွိလိမ့္မည္<xliff:g id="account_name">%1$s</xliff:g>.</string>
+  <string name="contact_editor_prompt_multiple_accounts">သင္၏ဆက္သြယ္သူအသစ္ႏွင့္ ေအာက္ပါအေကာင့္တစ္ခုနွင့္ တစ္ခ်ိန္တည္းဆက္သြယ္ႏိုင္ရန္ သင္ၾကိဳက္ရာတစ္ခုေရြးပါ။ </string>
+  <string name="keep_local">မူရင္း တြင္သိမ္းပါ</string>
+  <string name="add_account">အေကာင့္ထည့္ပါ</string>
+  <string name="add_new_account">အေကာင့္အသစ္ထည့္ပါ</string>
+  <string name="no_fast_dial">အျမန္ေခၚႏိုင္မည့္ဖုန္းနံပါတ္ ဆက္တင္းမလုပ္ထားပါ</string>
+  <string name="fast_dial_choose">ေက်းဇူးျပဳ၍ ဖုန္းအျမန္ေခၚနိုင္ရန္ ပံုစံကို ေရြးထားပါ</string>
+  <string name="fast_call">အသံေခၚဆိုမႈမ်ား</string>
+  <string name="fast_vt_call">ဗီဒီယိုဖုန္း</string>
+  <string name="wait">ေက်းဇူးျပဳ၍ေခတၱေစာင့္ပါ။</string>
+  <string name="working">လုပ္ကိုင္ေနျခင္း</string>
+  <string name="working_batch_delete">တစ္သုတ္ပယ္ဖ်က္ရန္</string>
+  <string name="working_batch_import">တစ္သုတ္ေကာ္ပီလုပ္ေနျခင္း</string>
+  <string name="choose_sim_card"> SIM ကတ္ကိုေရြးပါ</string>
+  <string name="violate_capacity">အက္(စ္)အိုင္အမ္ စြမ္းအား ျပည့္လြန္ျပီ</string>
+  <string name="import_failed">ဆက္သြယ္သူေကာ္ပီပြားျခင္းက်ရွံဳး</string>
+  <string name="import_failed_tmp"><xliff:g id="count">%d</xliff:g> လုပ္ငန္းျပီးေျမာက္သည္, <xliff:g id="count">%d</xliff:g> လုပ္ငန္းမျပီးေျမာက္ပါ </string>
+  <string name="import_done">ဆက္သြယ္သူစာရင္းသြင္းၿပီး</string>
+  <string name="delete_done">ပယ္ဖ်က္လုပ္ငန္းေအာင္ျမင္သည္။</string>
+  <string name="toast_no_contact_selected">ဆက္သြယ္သူအားမေရြးခ်ယ္ရေသးပါ</string>
+  <string name="contactSavedErrorToastNameLength">ဆက္သြယ္သူအမည္သည္ သိမ္းထားရန္ အလြန္ရွည္ေနသည္။</string>
+  <string name="contactSavedErrorToastEmailLength">အီးေမးလ္အမည္သည္သိမ္းထားရန္ အလြန္ရွည္ေနသည္</string>
+  <string name="contactSavedErrorToastEmailFull">အီးေမးလ္ဖိုင္တြင္စာျပည့္ေနသည္</string>
+  <string name="sim_is_full">ဆင္းကတ္ ျပည့္ေနသည္</string>
+  <string name="beyond_sim_card_capacity">ဆင္းကဒ္မွတ္ဥာဏ္ စြမ္းအား ထက္ေက်ာ္ေနျခင္း ေၾကာင့္ ဆက္သြယ္သူတစ္ခ်ဳိ႕အား သိမ္းထားရန္က်ရွံဳးလိမ့္မည္။</string>
+  <string name="menu_addToBlacklist">အမည္မည္းစာရင္းကိုထည့္ပါ</string>
+  <string name="menu_view_calls">ျမင္ကြင္း </string>
+  <string name="item_all_calls">ဖုန္းနံပါတ္အားလံုးေလာ့</string>
+  <string name="item_sim1_calls">ဆင္းကတ္ ၁ ဖုန္းေခၚမွတ္တမ္း</string>
+  <string name="item_sim2_calls">ဆင္းကတ္ ၂ ဖုန္းေခၚမွတ္တမ္း</string>
+  <string name="cancel_call">မလုပ္ပါ</string>
+  <string name="res_name">အမည္</string>
+  <string name="res_phone">ဖုန္း</string>
+  <string name="res_email">အီးေမးလ္</string>
+  <string name="res_field">ကြင္း</string>
+  <string name="alert_maybe_lost_info">သြင္းျခင္း/ပို႕ျခင္းမိတၱဴပြားခ်ိန္တြင္တခ်ိဳ႕အခ်က္အလက္မ်ား ေပ်ာက္လိမ့္မည္။ </string>
+  <string name="field_too_long"><xliff:g id="field">%s</xliff:g>အလြန္ရွည္</string>
+  <string name="select_group_member">အဖြဲ႕၀င္ကိုေရြးခ်ယ္ပါ</string>
+  <string name="email_format_fail">ေက်းဇူးျပဳ၍ မွန္ကန္သည့္ အီးေမးလ္ လိပ္စာကို သြင္းပါ။</string>
+  <string name="phone_number_format_fail">ေက်းဇူးျပဳ၍ မွန္ကန္သည့္ နံပါတ္သြင္းပါ။</string>
+  <string name="working_editing_group">အဖြဲ႕ကိုေမာ္ဒီဖိုင္းဖန္တီးေနသည္</string>
+  <string name="editing_group_done">အဖြဲ႕အားေမာ္ဒီဖိုင္းလုပ္ၿပီးၿပီ</string>
+  <string name="editing_group_failed">အဖြဲ႕အား ေမာ္ဒီဖိုင္းလုပ္ျခင္း မေအာင္ျမင္</string>
+  <string name="contacts_group_name_exist">ရွိၿပီးသားအဖြဲ႕အမည္</string>
+  <string name="menu_sendmms">အက္စ္အမ္အက္စ္ပို႕ျခင္း</string>
+  <string name="alert_delete_contact">ေရြးခ်ယ္ထားသည့္ ဆက္သြယ္သူအား  ပယ္ဖ်က္မွာ ေသခ်ာလား</string>
+  <string name="select_all">အားလုံးကိုေရွးချယ်</string>
+  <string name="login_activity_username_label">အသံုးြပုသူ၏အမည်</string>
+  <string name="login_activity_password_label">စကားဝွက္</string>
+  <string name="login_activity_ok_button">ဝင္ပါ</string>
+  <string name="label">SPRD အေကာင့္</string>
+  <string name="label_sim">ဆင္းကတ္</string>
+  <string name="label_usim">ဆင္းကတ္</string>
+  <string name="label_phone">ဖုန္း</string>
+  <string name="menu_batch_delete">တစ္သုတ္ပယ္ဖ်က္ရန္</string>
+  <string name="group_selection">ဆက္သြယ္သူအဖြ`႔အား ေရြးခ်ယ္ျခင္း</string>
+  <string name="ui_activity_title">လက္မွတ္ထိုးသည္</string>
+  <string name="login_activity_newaccount_text">သင္၏ နမူနာSyncAdapter အေကာင့္ ကို ၀င္ရန္ လက္မွတ္ ထိုးပါ</string>
+  <string name="login_activity_loginfail_text_pwmissing">ဒီအေကာင့္အတြက္လႈိ႕၀ွက္နံပါတ္ကိုရိုက္ရန္</string>
+  <string name="cancel_batch_import_confirmation">ဆက္သြယ္လာသူကိုသြင္းရန္ စာရင္းပယ္မွာလား</string>
+  <string name="cancel_batch_delete_confirmation">ဆက္သြယ္လာသူကိုပယ္ဖ်က္ရန္ စာရင္းပယ္မွာလား</string>
+  <string name="copy">ကူးယူပါ</string>
+  <string name="copy_to">အေကာင့္သို႕မိတၱဴပြားျခင္း</string>
+  <string name="contactDeletedToast">ဆက္သြယ္သူပယ္ဖ်က္ျပီး</string>
+  <string name="list_filter_all_in_one">ဆက္သြယ္သူအားလံုး ႏွင့္အခ်က္အလက္</string>
+  <string name="listTotalEmailContactsZero">မဆက္သြယ္သူ၏အီးေမးလ္လိပ္စာ</string>
+  <string name="list_filter_emails">ဆက္သြယ္သူအားလံုး၏ အီးေမး(လ္)လိပ္စာ</string>
+  <string name="listMaxContactsInAccount">"ေနရာလပ္: <xliff:g id="COUNT">%d</xliff:g>"</string>
+  <string name="reading_vcard_exception_title">ဗီကတ္ေဒတာ၏ခၽြင္းခ်က္ကို ဖတ္ျခင္း/ေရးျခင္းလုပ္သည္</string>
+  <string name="sqlite_full">ဆက္သြယ္သည့္ ေဒတာအခ်က္အလက္အေျခခံ database  (သို႔)  ဒတ္စ္ disk ျပည့္ေနသည္</string>
+  <string name="groupSavingToast">အဖြဲ႕အား ေမာ္ဒီဖိုင္းလုပ္ျခင္း ေနာက္မွသိမ္းလိမ့္မည္</string>
+  <string name="cancel_button_label">မလုပ္ပါ</string>
+  <string name="view_profile">ပရိုဖိုင္းကိုရွာရန္္ျမင္ကြင္း</string>
+  <string name="batch_operation_canceled">လုပ္ေဆာင္မႈပယ္ဖ်က္ၿပီးၿပီ</string>
+  <string name="no_sdcard_title">SD ကဒ္မ႐ွိပါ</string>
+  <string name="notification_login_error">သင္၏နမူနာSyncAdapter အေကာင့္ ကိုဖြင့္ရန္ ထိလိုက္ပါ</string>
+  <string name="cancel_export_confirmation_title">ဗီကဒ္ထုတ္ရန္ပယ္ဖ်က္ျခင္း</string>
+  <string name="video_callNumber_by_sim2">"ဗီဒီယို ဖုန္း<xliff:g id="NAME">%s</xliff:g>（SIM2）"</string>
+  <string name="delete_calls_list">ေရြးထားသည့္ဖုန္းအားပယ္ဖ်က္ရန္</string>
+  <string name="video_menu_callNumber">"ဗီဒီယို ဖုန္း<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+  <string name="dialog_batch_change_group">အဖြဲ႕တစ္သုတ္ေျပာင္းရန္</string>
+  <string name="searching_vcard_title">ဗီကတ္ကို ရွာေနသည္။</string>
+  <string name="permlab_samplesyncadapterAuthPassword">ရိုးရိုး အက္(စ္)၀ိုင္အန္္စီအက္တက္တာ အေကာင့္အား၀င္ရန္ စကား၀ွက္</string>
+  <string name="menu_batch_operations">တစ္သုတ္ေအာ္ပေရးရွင္း လုပ္ေနသည္။ </string>
+  <string name="profile_action">ပရိုဖိုင္းပံုစံ</string>
+  <string name="permlab_samplesyncadapterAuth">အေကာင့္ကိုရွာရန္္ျမင္ကြင္း</string>
+  <string name="menu_copyToPhone">ဖုန္းသို႕သို႕မိတၱဴပြားျခင္း</string>
+  <string name="cancel_import_confirmation_title">ဗီကဒ္သြင္းရန္ပယ္ဖ်က္ျခင္း</string>
+  <string name="dialog_voicemail_not_ready_title">အသံေမးလ္ဖိုင္နံပါတ္သံုးမရပါ</string>
+  <string name="select_one">အနည္းဆံုးတစ္ခုေရြးပါ</string>
+  <string name="sign_in_button_label">ဝင္ပါ</string>
+  <string name="ui_activity_authenticating">မွန္ကန္ေၾကာင္းစစ္ေဆးဆဲ \u2026</string>
+  <string name="delete_all_calls_confirm">ဖုန္းမွတ္တမ္းအားလံုးကို ပယ္ဖ်က္လိုပါသလား</string>
+  <string name="export_to_sim">ဆင္းကတ္သို႕ပို႕ရန္</string>
+  <string name="scanning_sdcard_failed_title"> SD ကတ္အားစကင္ဖတ္မရပါ။</string>
+  <string name="aggregation_suggestion_join_dialog_title">ဆက္သြယ္သူအားခ်ိတ္ဆက္သည္</string>
+  <string name="aggregation_suggestion_edit_dialog_title">ေရြးခ်ယ္ထားသည့္ဆက္သြယ္သူမ်ားအားတည္းျဖတ္ျခင္း</string>
+  <string name="delete_group_dialog_title">အဖြဲ႕အားပယ္ဖ်က္ရန္</string>
+  <string name="delete_all_calls">ဖုန္းအားလံုးကိုပယ္ဖ်က္ရန္</string>
+  <string name="video_callNumber_by_sim1">"ဗီဒီယို ဖုန္း<xliff:g id="NAME">%s</xliff:g>（SIM1）"</string>
+  <string name="call_log_callNumber_by_sim">"ဖုန္း<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+  <string name="dialog_phone_call_prohibited_title">ဖုန္းေခၚမရပါ</string>
+  <string name="search_bar_hint">ဆက္သြယ္သူမ်ားကိုရွာသည္။</string>
+  <string name="dialog_batch_delete">တစ္သုတ္ပယ္ဖ်က္ရန္</string>
+  <string name="delete_success">အမည္မည္း ဘလက္လက္စ္ စာရင္းမွပယ္ဖ်က္ျခင္း ေအာင္ျမင္သည္။</string>
+  <string name="deleteConfirmation_title">ဆက္သြယ္သူအားလံုးကို ပယ္ဖ်က္မလား</string>
+  <string name="delete_selected_calls">ဖုန္းမွတ္တမ္းအားလံုးကို ပယ္ဖ်က္လိုပါသလား</string>
+  <string name="delete_contact_all_calls">ဆက္သြယ္လာသူဖုန္းနံပါတ္ မွတ္တမ္း အားလံုး ပယ္ဖ်က္မွာ ေသခ်ာလား</string>
+  <string name="menu_copyToSim">ဆင္းကတ္သို႕မိတၱဴပြားျခင္း</string>
+  <string name="menu_all_contacts">ဆက္သြယ္သူအားလံုး</string>
+  <string name="please_input_group_name">ေက်းဇူးျပဳ၍ အဖြဲ႕အမည္ ကို သြင္းပါ</string>
+  <string name="cancel_confirmation_dialog_title">ေျပာင္းလဲခ်က္အားရပ္မွာလား</string>
+  <string name="back_button_label">အေပျတေျကာင္း</string>
+  <string name="delete_calls">ဖ်က္ပါ</string>
+  <string name="dialog_batch_import_export">တစ္သုတ္သြင္းရန္/ပို႕ရန္</string>
+  <string name="add_contact_dlg_title">ဆက္သြယ္သူကိုထည့္ပါ</string>
+  <string name="app_name">ဖုန္းေခၚမွတ္တမ္းကိုရွာသည္။</string>
+  <string name="search_description">ဖုန္းေခၚမွတ္တမ္းကိုရွာသည္။</string>
+  <string name="search_hint">ဖုန္းေခၚမွတ္တမ္းကိုရွာသည္။</string>
+  <string name="lable_search">႐ွာေဖြခ်က္</string>
+  <string name="menu_deleteFromBlacklist">အမည္မည္း ဘလက္လက္စ္ စာရင္းမွပယ္ဖ်က္ျခင္း</string>
+  <string name="success_addToBlacklist">ေအာင္ျမင္မွဳကိုထည့္ပါ</string>
+  <string name="failed_addToBlacklist"> ထည့္ျခင္းမေအာင္ျမင္ပါ</string>
+  <string name="success_removeFromBlacklist">အမည္မည္း ဘလက္လက္စ္ စာရင္းမွပယ္ဖ်က္ျခင္း ေအာင္ျမင္သည္။</string>
+  <string name="failed_removeFromBlacklist">ပယ္ဖ်က္လုပ္ငန္းမေအာင္ျမင္ပါ။</string>
+  <string name="menu_mmsGroup">အမ္အမ္အက္စ္ပို႕ျခင္း</string>
+  <string name="menu_emailGroup">အီးေမးလ္ပို႕ျခင္း</string>
+  <string name="noContactsInGroup">မဆက္သြယ္သူအဖြဲ႕</string>
+  <string name="please_wait">ေက်းဇူးျပဳ၍ေခတၱေစာင့္ပါ။</string>
+  <string name="noContactswithEmail">မဆက္သြယ္သူ၏အီးေမးလ္အဖြဲ႕</string>
+  <string name="noContactwithEmail">မဆက္သြယ္သူ၏အီးေမးလ္</string>
+  <string name="fast_dialer">ဖုန္းလိုင္းအျမန္ခ်ိတ္ရန္ ဆက္တင္း</string>
+  <string name="select_card">ေက်းဇူးျပဳ၍ ကတ္ကိုေရြးခ်ယ္ပါ။</string>
+  <string name="sim_absent">မရွိပါ</string>
+  <string name="sdn_list">↔SDN ဇယား↔</string>
+  <string name="lnd_list">↔LND ဇယား ↔</string>
+  <string name="sim_no_ready">↔ဆင္းကတ္အဆင္သင့္မျဖစ္ပါ↔</string>
+  <string name="sdn_please_insert_sim">ေက်းဇူးျပဳ၍ SIM ဆင္းကတ္ကိုထည့္ပါ။</string>
+  <string name="sdn_sim_notready">ဆင္းကတ္စတင္ေနၿပီ၊ ေက်းဇူးျပဳ၍ေခတၱေစာင့္ ၿပီးမွ လုပ္ေဆာင္ပါ။</string>
+  <string name="ip_dialer">IP ဖုန္းဆက္တင္း</string>
+  <string name="call_ip">IP ဖုန္း</string>
+  <string name="no_group">ဘယ္အဖြ႕ဲ၀င္မွမဟုတ္ပါ</string>
+  <string name="select_group">အုပ္စုေ႐ြးပါ</string>
+  <string name="fast_dial_settings">ဖုန္းလိုင္းအျမန္ခ်ိတ္ရန္ ဆက္တင္း မ်ား</string>
+  <string name="edit_photo">ဓါတ္ပံုအားတည္းျဖတ္ျခင္း</string>
+  <string name="select_all_contacts">အားလုံးကိုေရွးချယ်</string>
+  <string name="menu_save">စုထားသည်</string>
+  <string name="group_name_hint_overlay">↔အဖြဲ႕အမည္အားထည့္ပါ↔</string>
+  <string name="select_group_member_overlay">ဆက္သြယ္သူအဖြဲ႕၀င္အား သြင္းပါ</string>
+  <string name="no_match_contact">ဆက္သြယ္သူမ်ားမလိုက္ဖက္ပါ</string>
+  <string name="menu_newGroup">အဖြဲ႕သစ္</string>
+  <string name="editGroup">အဖြဲ႕အားတည္းျဖတ္ျခင္း </string>
+  <string name="menu_delete_group">အဖြဲ႕အားပယ္ဖ်က္ရန္</string>
+  <string name="contactsFavoritesLimit">ဆက္သြယ္သ ူ၁၂ ဦးထိသာ စုထား ႏိုင္ျခင္း </string>
+  <string name="menu_add_favorite">ဆက္သြယ္သူကိုအၾကိဳက္ဆံုးဖိုင္ တြင္ ထည့္ပါ</string>
+  <string name="menu_more">မန္ႏူးမ်ား</string>
+  <string name="create_new_contact">ဆက္သြယ္သူ အသစ္အားဖန္တီးသည္။</string>
+  <string name="send_mms">mms ပို႕ပါ</string>
+  <string name="tab_more">ေရြးခ်ယ္စရာမ်ား</string>
+  <string name="show_contacts">ဆက္သြယ္သူမ်ားကို ေဖာ္ျပပါ</string>
+  <string name="fast_dial">ဖုန္းလိုင္းအျမန္ခ်ိတ္ျခင္း</string>
+  <string name="account">အေကာင့္</string>
+  <string name="import_export_contacts">ဆက္သြယ္သူအားသြင္းျခင္း/ပို႕ျခင္း</string>
+  <string name="export_contacts">ဆက္သြယ္သူထံပို႕ရန္</string>
+  <string name="duplicate_phone_book">ဖုန္းစာအုပ္မိတၱဴပြားျခင္း</string>
+  <string name="dump_phone_book">ဖုန္းစာအုပ္ေျပာင္းသိမ္းျခင္း</string>
+  <string name="call_log_contacts_not_save">မသိ</string>
+  <string name="call_log_callNumber_by_sim_ex">"ဖုန္း<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+  <string name="video_callNumber_by_sim_ex">"ဗီဒီယို ဖုန္း<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+  <string name="removeStarred">လက္ခံျခင္းကိုပယ္ဖ်က္ပါ။</string>
+  <string name="lookUpInfo">သတင္းအခ်က္အားရွာသည္</string>
+  <string name="cancel">မလုပ္ပါ</string>
+  <string name="favorite_contacts">ႏွစ္သက္ဖိုင္ရွိဆက္သြယ္သူ</string>
+  <string name="no_available_number">နံပါတ္သံုး၍မရပါ</string>
+  <string name="confirmCoverPhoneNumber">↔မူလဆက္သြယ္မႈကို ျပန္ထားလိုပါသလား ↔</string>
+  <string name="replaceSelected">↔ေက်းဇူးျပဳ၍အစားထိုး လိုသည့္အရာ အားေရြးပါ↔</string>
+  <string name="over_phone_length_limit">အလြန္ရွည္ေသာဖုန္းနံပါတ္</string>
+  <string name="invalid_number">နံပါတ္မမွန္ပါ</string>
+  <string name="no_vcard_found_in_internal_stor">ဗီကတ္ အားအတြင္း စတိုတြင္မေတြ႕ပါ</string>
+  <string name="item_sim_calls_ex">SIM<xliff:g id="SIM">%s</xliff:g> call log</string>
+  <string name="menu_moveGroupMember">အဖြဲ႕၀င္အမည္သို႕ေရႊ႕ပါ</string>
+  <string name="moveGroupMemberDialogTitle">ဆက္သြယ္သူသို႕ေရႊ႕ပါ</string>
+  <string name="menu_deleteGroupMember">အဖြဲ႕၀င္စာရင္းအားပယ္ဖ်က္ရန္</string>
+  <string name="overGroupNameLength">အဖြဲ႕အမည္အလြန္ရွည္သည္</string>
+  <string name="overGroupCountLimit">အဖြဲ႕၀င္ပမာဏ သတ္မွတ္ခ်က္ထက္ ေက်ာ္ေနျခင္း</string>
+  <string name="menu_share_by_sms">sms ျဖင့္ ဆက္သြယ္သူကိုပို႕ရန္</string>
+  <string name="toast_batchoperation_is_running">တစ္သုတ္ေအာ္ပေရးရွင္း လုပ္ေနသည္။ ေက်းဇူးျပဳ၍ ေနာက္မွထပ္ ၾကိဳးစားပါ။</string>
+  <string name="sdcard_storage_not_enough">SD အက္စ္ဒီကတ္ စတိုဂိုေဒါင္မွတ္ဥာဏ္ ေနရာမလံုေလာက္ပါ။</string>
+  <string name="noJoinContactDataWith">ဆက္သြယ္သူမ်ားမေပါင္းႏိုင္ပါ</string>
+  <string name="not_select_vCard">မည္သည့္ဗီကတ္ကိုမွ မေရြးထားပါ</string>
+  <string name="selected_is_not_image">သင္ေရြးသည့္ဖိုင္သည္ ဓါတ္ပံုမဟုတ္ပါ</string>
+    <string-array name="otherLabels">
+        <!-- An organization associated with a contact -->
+                <item>"စီစဥ္စုစည္းခ်က္"</item>
+        <!-- A note associated with a contact -->
+                <item>"သတိျပဳပါ"</item>
+        </string-array>
+     <plurals name="listTotalPhoneContacts">
+        <item quantity="one">"ဖုန္းနံပါတ္ႏွင့္လိပ္စာ 1 ခု"</item>
+        <item quantity="other">"ဖုန္းနံပါတ္ႏွင့္ လိပ္စာ <xliff:g id="count">%d</xliff:g> ခု "</item>
+        </plurals>
+     <plurals name="listTotalAllContacts">
+        <item quantity="one">"လိပ္စာ 1 ခု"</item>
+        <item quantity="other">"လိပ္စာ <xliff:g id="count">%d</xliff:g> ခု"</item>
+        </plurals>
+     <plurals name="listFoundAllContacts">
+        <item quantity="one">"1 ခုေတြ႔႐ွိ"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> ေတြ႔႐ွိ"</item>
+        </plurals>
+     <plurals name="searchFoundContacts">
+        <item quantity="one">"1 ခုေတြ႔႐ွိ"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> ေတြ႔႐ွိ"</item>
+        </plurals>
+     <plurals name="merge_info">
+        <item quantity="one">"အစုလိုက္မဟုတ္ပါ"</item>
+        <item quantity="other">"ရင္းျမစ္ <xliff:g id="count">%0$d</xliff:g> ခုမွ ေပါင္းျပီး"</item>
+        </plurals>
+     <plurals name="num_groups_in_account">
+        <item quantity="one">"အုပ္စု 1 ခု"</item>
+        <item quantity="other">"အုပ္စု <xliff:g id="count">%0$d</xliff:g> ခု"</item>
+        </plurals>
+     <plurals name="num_contacts_in_group">
+        <item quantity="one">"<xliff:g id="account_type">%2$s</xliff:g> မွ <xliff:g id="count">%1$d</xliff:g> ဦး"</item>
+        <item quantity="other">"<xliff:g id="account_type">%2$s</xliff:g> မွ <xliff:g id="count">%1$d</xliff:g> ဦး"</item>
+        </plurals>
+     <plurals name="group_list_num_contacts_in_group">
+        <item quantity="one">"<xliff:g id="count">%1$d</xliff:g> ဦး"</item>
+        <item quantity="other">"<xliff:g id="count">%1$d</xliff:g> ဦး"</item>
+        </plurals>
+     <plurals name="searchMatchContacts">
+      <item quantity="one">"ဆက္သြယ္သူ ၁ဦး တြဲမိသည္။"</item>
+      <item quantity="other">" <xliff:g id="COUNT">%d</xliff:g>ဆက္သြယ္သူ တြဲသည္။"</item>
+      </plurals>
+     <string name="delete_group_dialog_commit">"ေရြးခ်ယ္သည့္အဖြဲ့ပယ္ဖ်က္မွာေသခ်ာလား?"</string>
+     <string name="ip_callNumber_by_sim_ex">"IP ဖုန္း <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+     <string name="batch_delete_confim_title">"ဆက္သြယ္သူ(မ်ား)ပယ္ဖ်က္မွာလား?"</string>
+     <string name="batch_delete_confim_message">"ေရြးခ်ယ္သည့္ဆက္သြယ္သူ(မ်ား)ကိုပယ္ဖ်က္မွာေသခ်ာလား?"</string>
+     <string name="transaction_too_large">"ေရြးခ်ယ္သည့္ဆက္သြယ္သူမ်ားဆိုဒ္သတ္မွတ္ခ်က္ထက္ေက်ာ္ေန, ေက်းဇူးျပု၍ဆက္သြယ္သူအနည္းငယ္သာေရြးခ်ယ္ပါ"</string>
+     <string name="contacts_selection_too_more">"ေရြးခ်ယ္သည့္ဆက္သြယ္သူမ်ား ၅၀၀၀အမ်ားဆံုး"</string>
+    <string name="menu_export_database">"ေဒတာေဘ့စ္ ဖိုင္မ်ားကို ပို႕ျခင္း"</string>
+    <string name="contact_detail_picture_description">"ဓါတ္ပံု. ေျပာင္းရန္ေရြးခ်ယ္ပါ"</string>
+    <string name="noContactwithPhoneAndEmail">"ဖုန္းနင့္အီးေမးလ္ ဆက္သြယ္သူမရွိ."</string>
+    <string name="noContactsWithPhoneNumbers">ဖုန္းနံပါတ္မ်ားႏွင့္ လိပ္စာမ်ားမ႐ွိပါ</string>
+    <string name="listTotalAllContactsZeroStarred">အႏွစ္သက္ဆံုးမ်ားမ႐ွိပါ</string>
+    <string name="contact_editor_prompt_multiple_accounts_short">"ဆက္သြယ္သူ သိမ္းပါ"</string>
+    <string name="working_batch_starred">"စတားရင္းအဖြဲ့"</string>
+    <string name="star_done">"စတားျပီးျပီ"</string>
+    <string name="cancel_batch_star_confirmation">"စတားဆက္သြယ္သူပယ္မွာလား?"</string>
+</resources>

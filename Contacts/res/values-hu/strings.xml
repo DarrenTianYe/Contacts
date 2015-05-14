@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2006 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="people" msgid="1048457247435785074">"Személyek"</string>
+    <string name="contactsList" msgid="8661624236494819731">"Címtár"</string>
+    <string name="shortcutContact" msgid="749243779392912958">"Névjegy"</string>
+    <string name="shortcutDialContact" msgid="746622101599186779">"Közvetlen tárcsázás"</string>
+    <string name="shortcutMessageContact" msgid="2460337253595976198">"Közvetlen üzenet"</string>
+    <string name="shortcutActivityTitle" msgid="6642877210643565436">"Válasszon névjegyet a parancsikonhoz"</string>
+    <string name="callShortcutActivityTitle" msgid="6065749861423648991">"Válasszon telefonszámot a híváshoz"</string>
+    <string name="messageShortcutActivityTitle" msgid="3084542316620335911">"Válasszon telefonszámot az üzenetküldéshez"</string>
+    <string name="contactPickerActivityTitle" msgid="4301062192337417640">"Névjegy kiválasztása"</string>
+    <string name="starredList" msgid="4817256136413959463">"Csillaggal megjelölt"</string>
+    <string name="frequentList" msgid="7154768136473953056">"Gyakori"</string>
+    <string name="strequentList" msgid="5640192862059373511">"Kedvencek"</string>
+    <string name="viewContactTitle" msgid="7989394521836644384">"Névjegy adatai"</string>
+    <string name="viewContactDesription" msgid="214186610887547860">"Névjegy megtekintése"</string>
+    <string name="editContactDescription" msgid="2947202828256214947">"Névjegy szerkesztése"</string>
+    <string name="insertContactDescription" msgid="4709878105452681987">"Névjegy létrehozása"</string>
+    <string name="editGroupDescription" msgid="6321161304201540561">"Csoport szerkesztése"</string>
+    <string name="insertGroupDescription" msgid="5658512271662210139">"Csoport létrehozása"</string>
+    <string name="contactDetailAbout" msgid="5430408883907061400">"Információ"</string>
+    <string name="contactDetailUpdates" msgid="3780588624763446941">"Frissítések"</string>
+    <string name="searchHint" msgid="8482945356247760701">"Keresés a névjegyek között"</string>
+    <string name="menu_viewContact" msgid="2795575601596468581">"Névjegy megtekintése"</string>
+    <string name="menu_addStar" msgid="2908478235715404876">"Hozzáadás a kedvencekhez"</string>
+    <string name="menu_removeStar" msgid="5844227078364227030">"Eltávolítás a kedvencek közül"</string>
+    <string name="menu_editContact" msgid="9042415603857662633">"Szerkesztés"</string>
+    <string name="menu_deleteContact" msgid="6788644058868189393">"Törlés"</string>
+    <string name="menu_create_contact_shortcut" msgid="1217971915748509640">"Helyezze el a kezdőképernyőn"</string>
+    <string name="menu_call" msgid="3992595586042260618">"Ismerős hívása"</string>
+    <string name="menu_sendSMS" msgid="5535886767547006515">"SMS küldése ismerősnek"</string>
+    <string name="menu_splitAggregate" msgid="8368636463748691868">"Szétválasztás"</string>
+    <string name="menu_editGroup" msgid="5062005185370983720">"Szerkesztés"</string>
+    <string name="menu_deleteGroup" msgid="3486380004411482874">"Törlés"</string>
+    <string name="menu_new_contact_action_bar" msgid="7263362129442119188">"Névjegy hozzáadása"</string>
+    <string name="menu_new_group_action_bar" msgid="3520232877587377175">"Csoport hozzáadása"</string>
+    <string name="splitConfirmation_title" msgid="633640935430370530">"Szétválasztja?"</string>
+    <string name="splitConfirmation" msgid="740190210499587175">"Ezt a névjegyet több névjegyre osztja."</string>
+    <string name="menu_joinAggregate" msgid="5027981918265667970">"Összekapcsolás"</string>
+    <string name="titleJoinContactDataWith" msgid="7684875775798635354">"Névjegyek összekapcsolása"</string>
+    <string name="blurbJoinContactDataWith" msgid="8736488417422708236">"Válassza ki azt a névjegyet, amelyet össze kíván kapcsolni ezzel a névjeggyel: <xliff:g id="NAME">%s</xliff:g>"</string>
+    <string name="showAllContactsJoinItem" msgid="2189695051430392383">"Az összes névjegy megjelenítése"</string>
+    <string name="separatorJoinAggregateSuggestions" msgid="2831414448851313345">"Javasolt névjegyek"</string>
+    <string name="separatorJoinAggregateAll" msgid="7939932265026181043">"Összes névjegy"</string>
+    <string name="contactsJoinedMessage" msgid="7208148163607047389">"A névjegyek összekapcsolása megtörtént"</string>
+    <string name="menu_set_ring_tone" msgid="8728345772068064946">"Csengőhang"</string>
+    <string name="menu_redirect_calls_to_vm" msgid="4181789196416396656">"Minden hívás a hangpostára"</string>
+    <string name="readOnlyContactWarning" msgid="7808825687289848259">"Írásvédett fiókból nem törölhet névjegyet, de saját címtárában elrejtheti azokat."</string>
+    <string name="readOnlyContactDeleteConfirmation" msgid="2137170726670196909">"Ez a névjegy több fiókból is tartalmaz adatokat. Az írásvédett fiókokból származó adatok nem jelennek meg a Címtárban, de nem kerülnek törlésre."</string>
+    <string name="multipleContactDeleteConfirmation" msgid="938900978442960800">"A névjegy törlésével több fiókból is töröl adatokat."</string>
+    <string name="deleteConfirmation" msgid="811706994761610640">"A névjegy törlésre kerül."</string>
+    <string name="menu_discard" msgid="6456087569315685632">"Elvetés"</string>
+    <string name="invalidContactMessage" msgid="8215051456181842274">"A névjegy nem létezik."</string>
+    <string name="createContactShortcutSuccessful" msgid="7874133287558150877">"A Névjegy modul felkerült a kezdőképernyőre."</string>
+    <string name="pickerNewContactHeader" msgid="7750705279843568147">"Új névjegy létrehozása"</string>
+    <string name="pickerNewContactText" msgid="6166997164401048211">"Új névjegy létrehozása"</string>
+    <string name="photoPickerNotFoundText" product="tablet" msgid="6247290728908599701">"Nem állnak rendelkezésre képek a táblagépen."</string>
+    <string name="photoPickerNotFoundText" product="default" msgid="431331662154342581">"Nincsenek elérhető képek a telefonon."</string>
+    <string name="attach_photo_dialog_title" msgid="5599827035558557169">"Ismerős fotója"</string>
+    <string name="customLabelPickerTitle" msgid="1081475101983255212">"Egyéni címkenév"</string>
+    <string name="send_to_voicemail_checkbox" msgid="9001686764070676353">"Hívások közvetlen átirányítása a hangpostára"</string>
+    <string name="removePhoto" msgid="4898105274130284565">"Fénykép törlése"</string>
+    <string name="noContacts" msgid="8579310973261953559">"Nincsenek névjegyek."</string>
+    <string name="noGroups" msgid="8614664663561385253">"Nincsenek csoportok"</string>
+    <string name="noAccounts" msgid="7768267764545265909">"Csoportok létrehozásához szükség van egy fiókra."</string>
+    <string name="emptyGroup" msgid="7502116218697177370">"Ebben a csoportban nincsenek személyek."</string>
+    <string name="addPeopleToGroup" msgid="7879585947222263516">"Felhasználók hozzáadásához szerkessze a csoportot."</string>
+    <string name="savingContact" msgid="4075751076741924939">"Névjegy mentése..."</string>
+    <string name="contactSavedToast" msgid="7152589189385441091">"Névjegy mentve."</string>
+    <string name="contactSavedErrorToast" msgid="3207250533172944892">"Nem sikerült menteni a névjegymódosításokat."</string>
+    <string name="groupSavedToast" msgid="1168756874239833756">"Csoport mentve."</string>
+    <string name="groupSavedErrorToast" msgid="7984466936615304740">"Nem sikerült menteni a csoportmódosításokat."</string>
+    <string name="listTotalPhoneContactsZero" msgid="6968813857632984319">"Nincsenek telefonszámot is tartalmazó névjegyek"</string>
+    <string name="listFoundAllContactsZero" msgid="922980883593159444">"Nincsenek névjegyek"</string>
+    <string name="contactsAllLabel" msgid="6479708629170672169">"Az összes névjegy"</string>
+    <string name="contactsGroupsLabel" msgid="2841971472518003524">"Csoportok"</string>
+    <string name="callBack" msgid="5498224409038809224">"Visszahívás"</string>
+    <string name="callAgain" msgid="3197312117049874778">"Hívásismétlés"</string>
+    <string name="returnCall" msgid="8171961914203617813">"Visszahívás"</string>
+    <string name="add_contact_dlg_message_fmt" msgid="7986472669444326576">"Hozzáadja a(z) \"<xliff:g id="EMAIL">%s</xliff:g>\"címet a Címtárhoz?"</string>
+    <string name="description_contact_photo" msgid="3387458082667894062">"fotó a névjegyhez"</string>
+    <string name="description_plus_button" msgid="515164827856229880">"plusz"</string>
+    <string name="exporting_contact_list_progress" msgid="560522409559101193">"<xliff:g id="CURRENT_NUMBER">%s</xliff:g>/<xliff:g id="TOTAL_NUMBER">%s</xliff:g> névjegy"</string>
+    <string name="search_settings_description" msgid="2675223022992445813">"Ismerősök nevei"</string>
+    <string name="quickcontact_missing_app" msgid="358168575340921552">"Nincs megfelelő alkalmazás a művelet elvégzésére."</string>
+    <string name="menu_share" msgid="943789700636542260">"Megosztás"</string>
+    <string name="share_via" msgid="563121028023030093">"Névjegy megosztása a következőn:"</string>
+    <string name="dialog_new_group_account" msgid="2318032089273496830">"Csoport létrehozása a fiókban"</string>
+    <string name="audio_chat" msgid="2535716629358298691">"Audiocsevegés"</string>
+    <string name="video_chat" msgid="1872255818640336072">"Videocsevegés"</string>
+    <string name="connections" msgid="8098440723172028350">"Kapcsolatok"</string>
+    <string name="add_connection_button" msgid="4861308615789601727">"Kapcsolat hozzáadása"</string>
+    <string name="recent" msgid="2659189233141493004">"Legújabbak"</string>
+    <string name="recent_updates" msgid="4267258535615860710">"Legújabb frissítések"</string>
+    <string name="account_type_format" msgid="718948015590343010">"<xliff:g id="SOURCE">%1$s</xliff:g> névjegy"</string>
+    <!-- no translation found for from_account_format (4469138575127580203) -->
+    <skip></skip>
+    <string name="use_photo_as_primary" msgid="8807110122951157246">"Fotó felhasználása"</string>
+    <string name="contact_read_only" msgid="7421346527289472273">"Nem szerkeszthető ezen alkalmazásból."</string>
+    <string name="no_contact_details" msgid="6636856378019344497">"Nincsenek további adatok ennél a névjegynél."</string>
+    <string name="group_read_only" msgid="1061762906115697637">"Nem szerkeszthető ezen a készüléken"</string>
+    <string name="display_options_sort_list_by" msgid="6080091755852211076">"Lista rendezési elve:"</string>
+    <string name="display_options_sort_by_given_name" msgid="184916793466387067">"Utónév"</string>
+    <string name="display_options_sort_by_family_name" msgid="7857986975275712622">"Vezetéknév"</string>
+    <string name="display_options_view_names_as" msgid="4386932036180428374">"Névjegyek megtekintése"</string>
+    <string name="display_options_view_given_name_first" msgid="6968288511197363292">"Utónév előre"</string>
+    <string name="display_options_view_family_name_first" msgid="1447288164951453714">"Vezetéknév elöl"</string>
+    <string name="take_photo" msgid="7496128293167402354">"Fotó készítése"</string>
+    <string name="take_new_photo" msgid="7341354729436576304">"Új fénykép készítése"</string>
+    <string name="pick_photo" msgid="3746334626214970837">"Fotó kiválasztása a Galériából"</string>
+    <string name="pick_new_photo" msgid="7962368009197147617">"Új fotó kiválasztása a Galériából"</string>
+    <string name="locale_change_in_progress" msgid="7583992153091537467">"Az ismerőslista frissítése folyamatban van, hogy tükrözze a nyelv módosítását."</string>
+    <string name="upgrade_in_progress" msgid="474511436863451061">"Az ismerőslista frissítése folyamatban van."</string>
+    <string name="upgrade_out_of_memory" msgid="1209994418877625940">"A névjegyek frissítése folyamatban van. \n\nA frissítés elvégzéséhez megközelítőleg <xliff:g id="SIZE_IN_MEGABYTES">%s</xliff:g> MB belső tárhelyre lesz szükség.\n\nVálasszon a következő lehetőségek közül:"</string>
+    <string name="upgrade_out_of_memory_uninstall" msgid="1721798828992091432">"Távolítson el néhány alkalmazást"</string>
+    <string name="upgrade_out_of_memory_retry" msgid="8431289830472724609">"Verziófrissítés újrapróbálása"</string>
+    <string name="search_results_searching" msgid="3984833028938569930">"Keresés..."</string>
+    <string name="menu_display_selected" msgid="6470001164297969034">"Kiválasztottak megjelenítése"</string>
+    <string name="menu_display_all" msgid="8887488642609786198">"Összes megjelenítése"</string>
+    <string name="menu_select_all" msgid="621719255150713545">"Összes kijelölése"</string>
+    <string name="menu_select_none" msgid="7093222469852132345">"Összes kijelölés megszüntetése"</string>
+    <string name="add_field" msgid="2384260056674995230">"Más mező hozzáadása"</string>
+    <string name="add_new_entry_for_section" msgid="5223080690667565044">"Új hozzáadása"</string>
+    <string name="add_organization" msgid="7311893231158291197">"Szervezet hozzáadása"</string>
+    <string name="event_edit_field_hint_text" msgid="5794424930242630477">"Dátum"</string>
+    <string name="group_edit_field_hint_text" msgid="3966441850870457808">"Csoport neve"</string>
+    <string name="description_star" msgid="2605854427360036550">"kedvenc"</string>
+    <string name="edit_contact" msgid="7529281274005689512">"Névjegy szerkesztése"</string>
+    <string name="aggregation_suggestion_join_dialog_message" msgid="3842757977671434836">"Összekapcsolja a jelenlegi névjegyet a kiválasztott névjeggyel?"</string>
+    <string name="aggregation_suggestion_edit_dialog_message" msgid="6549585283910518095">"A kiválasztott névjegy szerkesztésére vált? Az eddig beírt információk át lesznek másolva."</string>
+    <string name="menu_copyContact" msgid="1573960845106822639">"Másolás a saját névjegyeim közé"</string>
+    <string name="add_to_my_contacts" msgid="1068274916793627723">"Hozzáadás a Címtárhoz"</string>
+    <string name="contact_directory_description" msgid="683398073603909119">"Mappa: <xliff:g id="TYPE">%1$s</xliff:g>"</string>
+    <string name="toast_making_personal_copy" msgid="288549957278065542">"Személyes másolat készítése..."</string>
+    <string name="list_filter_custom" msgid="8910173055702057002">"Egyéni"</string>
+    <string name="activity_title_settings" msgid="5464130076132770781">"Beállítások"</string>
+    <string name="menu_settings" msgid="377929915873428211">"Beállítások"</string>
+    <string name="menu_help" msgid="5123887102216637725">"Súgó"</string>
+    <string name="preference_displayOptions" msgid="1341720270148252393">"Megjelenítési beállítások"</string>
+    <string name="organization_company_and_title" msgid="6718207751363732025">"<xliff:g id="COMPANY_0">%2$s</xliff:g>, <xliff:g id="COMPANY_1">%1$s</xliff:g>"</string>
+    <string name="non_phone_caption" msgid="1541655052330027380">"Telefonszám"</string>
+    <string name="non_phone_add_to_contacts" msgid="6590985286250471169">"Hozzáadása a névjegyekhez"</string>
+    <string name="activity_title_confirm_add_detail" msgid="4065089866210730616">"Hozzáadás névjegyhez"</string>
+    <string name="non_phone_close" msgid="7608506439725515667">"Bezárás"</string>
+    <string name="widget_name_and_phonetic" msgid="8739586586600099979">"<xliff:g id="DISPLAY_NAME">%1$s</xliff:g> (<xliff:g id="PHONETIC_NAME">%2$s</xliff:g>)"</string>
+    <string name="date_year_toggle" msgid="7356532842767854606">"Születési év megadása"</string>
+    <string name="social_widget_label" msgid="6378905543028924592">"Névjegy"</string>
+    <string name="social_widget_loading" msgid="5327336597364074608">"Betöltés..."</string>
+    <string name="contacts_unavailable_create_contact" msgid="7014525713871959208">"Új névjegy létrehozása"</string>
+    <string name="contacts_unavailable_add_account" msgid="7911101713860139754">"Jelentkezzen be fiókjába"</string>
+    <string name="contacts_unavailable_import_contacts" msgid="4957393255392437529">"Névjegyek importálása"</string>
+    <string name="create_group_dialog_title" msgid="6874527142828424475">"Új csoport létrehozása"</string>
+    <string name="create_group_item_label" msgid="4411981763169654825">"Új csoport létrehozása"</string>
+    <string name="delete_group_dialog_message" msgid="7586856514337560529">"Törli a következő csoportot \"<xliff:g id="GROUP_LABEL">%1$s</xliff:g>\"? (Maguk a névjegyek nem kerülnek törlésre.)"</string>
+    <string name="toast_join_with_empty_contact" msgid="2238581529864542985">"Írja be az ismerős nevét, mielőtt összekapcsolná egy másik ismerősével."</string>
+    <string name="copy_text" msgid="3257145021583508761">"Másolás a vágólapra"</string>
+    <string name="set_default" msgid="4417505153468300351">"Beállítás alapértelmezettként"</string>
+    <string name="clear_default" msgid="7193185801596678067">"Alapértelmezés törlése"</string>
+    <string name="toast_text_copied" msgid="5143776250008541719">"Másolt szöveg"</string>
+    <string name="cancel_confirmation_dialog_message" msgid="5885724679874403115">"Elveti a módosításokat?"</string>
+    <string name="call_type_and_date" msgid="747163730039311423">"<xliff:g id="CALL_TYPE">%1$s</xliff:g> -- <xliff:g id="CALL_SHORT_DATE">%2$s</xliff:g>"</string>
+    <string name="profile_display_name" msgid="4127389543625918771">"Saját profil beállítása"</string>
+    <string name="enter_contact_name" msgid="1738391320566349924">"Írja be a személy nevét"</string>
+    <string name="group_name_hint" msgid="238359485263401293">"Csoport neve"</string>
+    <string name="local_profile_title" msgid="2021416826991393684">"Helyi profilom"</string>
+    <string name="external_profile_title" msgid="8034998767621359438">"<xliff:g id="EXTERNAL_SOURCE">%1$s</xliff:g> profilom"</string>
+    <string name="toast_displaying_all_contacts" msgid="2737388783898593875">"Az összes névjegy megjelenítése"</string>
+    <string name="no_account_prompt" msgid="7061052512446855192">"A Személyek alkalmazás jobban működik egy Google Fiókkal.\n\n• Bármilyen bőngészőből elérheti\n• Biztonsági másolatot készíthet névjegyeiről."</string>
+    <string name="generic_no_account_prompt" msgid="7218827704367325460">"Tartsa névjegyeit biztonságban akkor is, ha elveszíti a telefont: szinkronizáljon egy online szolgáltatással."</string>
+    <string name="generic_no_account_prompt_title" msgid="753783911899054860">"Fiók hozzáadása"</string>
+    <string name="contact_editor_prompt_zero_accounts" msgid="1785345895691886499">"Az Ön új névjegyéről nem készül biztonsági másolat. Hozzáad egy olyan fiókot, amelyik online biztonsági másolatot készít a névjegyekről?"</string>
+    <string name="contact_editor_prompt_one_account" msgid="8669032699767375976">"Az új névjegyet a következő fiókkal fogjuk szinkronizálni: <xliff:g id="ACCOUNT_NAME">%1$s</xliff:g>."</string>
+    <string name="contact_editor_prompt_multiple_accounts" msgid="611828200100438242">"Szinkronizálhatja az új névjegyet a következő fiókok valamelyikével. Melyiket kívánja használni?"</string>
+    <string name="keep_local" msgid="1258761699192993322">"Tárolás helyben"</string>
+    <string name="add_account" msgid="8201790677994503186">"Fiók hozzáadása"</string>
+    <string name="add_new_account" msgid="5748627740680940264">"Új fiók hozzáadása"</string>
+    <string name="menu_export_database" msgid="2659719297530170820">"Adatbázisfájlok exportálása"</string>
+    <string name="contact_detail_picture_description" msgid="6083230522651287030">"Kép. Válassza ki a módosításhoz"</string>
+    <string-array name="otherLabels">
+            <item>"Szervezet"</item>
+            <item>"Jegyzet"</item>
+      </string-array>
+     <plurals name="listTotalPhoneContacts">
+    <item quantity="one">"1 névjegy telefonszámmal"</item>
+    <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> névjegy telefonszámmal"</item>
+      </plurals>
+     <plurals name="listTotalAllContacts">
+    <item quantity="one">"1 névjegy"</item>
+    <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> névjegy"</item>
+      </plurals>
+     <plurals name="listFoundAllContacts">
+    <item quantity="one">"1 találat"</item>
+    <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> találat"</item>
+      </plurals>
+     <plurals name="searchFoundContacts">
+    <item quantity="one">"1 találat"</item>
+    <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> találat"</item>
+      </plurals>
+     <plurals name="merge_info">
+    <item quantity="one">"nincs egyesítve"</item>
+    <item quantity="other">"egyesítve <xliff:g id="COUNT">%0$d</xliff:g> forrásból"</item>
+      </plurals>
+     <plurals name="num_groups_in_account">
+    <item quantity="one">"1 csoport"</item>
+    <item quantity="other">"<xliff:g id="COUNT">%0$d</xliff:g> csoport"</item>
+      </plurals>
+     <plurals name="num_contacts_in_group">
+    <item quantity="one">"<xliff:g id="COUNT_0">%1$d</xliff:g> személy ebben: <xliff:g id="ACCOUNT_TYPE">%2$s</xliff:g>"</item>
+    <item quantity="other">"<xliff:g id="COUNT_0">%1$d</xliff:g> személy ebben: <xliff:g id="ACCOUNT_TYPE">%2$s</xliff:g>"</item>
+      </plurals>
+     <plurals name="group_list_num_contacts_in_group">
+    <item quantity="one">"<xliff:g id="COUNT">%1$d</xliff:g> személy"</item>
+    <item quantity="other">"<xliff:g id="COUNT">%1$d</xliff:g> személy"</item>
+      </plurals>
+     <string name="launcherDialer">"Telefon"</string>
+     <string name="from_account_format">"<xliff:g id="SOURCE">%1$s</xliff:g> fiókból"</string>
+     <string name="menu_newContact">"Új névjegy"</string>
+     <string name="deleteConfirmation_title">"Törli a névjegyet?"</string>
+     <string name="recentCallsIconLabel">"Híváslista"</string>
+     <string name="recentCalls_empty">"A híváslista üres."</string>
+     <string name="add_contact_dlg_title">"Névjegy hozzáadása"</string>
+     <string name="searching_vcard_title">"vCard keresése"</string>
+     <string name="cancel_import_confirmation_title">"vCard importálásának megszakítása"</string>
+     <string name="cancel_export_confirmation_title">"vCard exportálásának megszakítása"</string>
+     <string name="menu_all_contacts">"Összes névjegy"</string>
+     <string name="search_bar_hint">"Keresés a névjegyek között"</string>
+     <string name="aggregation_suggestion_join_dialog_title">"Névjegyek összekapcsolása"</string>
+     <string name="aggregation_suggestion_edit_dialog_title">"A kiválasztott névjegyek szerkesztése"</string>
+     <string name="contact_list_loading">"Betöltés..."</string>
+     <string name="delete_group_dialog_title">"Csoport törlése"</string>
+     <string name="cancel_confirmation_dialog_title">"Módosítások elvetése"</string>
+     <string name="dialog_phone_call_prohibited_title">"A hívás nem indítható."</string>
+     <string name="dialog_voicemail_not_ready_title">"A hangpostaszám nem érhető el"</string>
+     <string name="no_fast_dial">gyors telefonszám nincs beállítva</string>
+     <string name="fast_dial_choose">kérem, válasszon gyorshívás típust</string>
+     <string name="fast_call">Hanghívás</string>
+     <string name="fast_vt_call">videohívás</string>
+     <string name="wait">"Kérjük, várjon..."</string>
+     <string name="working">Dolgozik...</string>
+     <string name="working_batch_delete">Batch deleting</string>
+     <string name="working_batch_import">Köteg importálása...</string>
+     <string name="choose_sim_card">Válasszon SIM kártyát</string>
+     <string name="violate_capacity">"Violate SIM capacity"</string>
+     <string name="import_failed">"Kapcsolat importálása/exportálása sikertelen"</string>
+     <string name="import_failed_tmp">"<xliff:g id="count">%d</xliff:g> sikeres, <xliff:g id="count">%d</xliff:g> sikertelen"</string>
+     <string name="import_done">Importálás kész</string>
+     <string name="delete_done">Törlés kész</string>
+     <string name="toast_no_contact_selected">Nincs kiválasztott kapcsolat</string>
+     <string name="contactSavedErrorToastNameLength">A kapcsolat neve túl hosszú a mentéshez</string>
+     <string name="contactSavedErrorToastEmailLength">Az e-mail név túl hosszú a mentéshez</string>
+     <string name="contactSavedErrorToastEmailFull">Az e-mail megtelt</string>
+     <string name="sim_is_full">A SIM megtelt</string>
+     <string name="beyond_sim_card_capacity">A SIM kártya kapacitásán túl egyes kapcsolatok mentése nem sikerült</string>
+     <string name="menu_addToBlacklist">Hozzáadás feketelistához</string>
+     <string name="menu_view_calls">"Megtekintés"</string>
+     <string name="item_all_calls">összes hívásnapló</string>
+     <string name="item_sim1_calls">SIM1 hívásnapló</string>
+     <string name="item_sim2_calls">SIM2 hívásnapló</string>
+     <string name="res_name">"Név"</string>
+     <string name="res_phone">"Telefon"</string>
+     <string name="res_email">"E-mail"</string>
+     <string name="res_field">mező</string>
+     <string name="alert_maybe_lost_info">Importálás vagy exportálás során egyes információk elveszhetnek</string>
+     <string name="field_too_long"><xliff:g id="field">%s</xliff:g> túl hosszú</string>
+     <string name="select_group_member">Csoporttagok kiválasztása</string>
+     <string name="email_format_fail">Kérem, írja be a helyes e-mail címet!</string>
+     <string name="working_editing_group">Csoportmódosítás alkalmazása</string>
+     <string name="editing_group_done">Csoportmódosítás kész</string>
+     <string name="editing_group_failed">Csoportmódosítás sikertelen</string>
+     <string name="contacts_group_name_exist">Létező csoportnév</string>
+     <string name="menu_sendmms">Köteg SMS</string>
+     <string name="alert_delete_contact">Biztosan törli a kiválasztott kapcsolatokat?</string>
+     <string name="select_all">"Összes kijelölése"</string>
+     <string name="label_sim">SIM kártya</string>
+     <string name="label_usim">SIM kártya</string>
+     <string name="label_phone">"Telefon"</string>
+     <string name="menu_batch_delete">Batch delete</string>
+     <string name="group_selection">Kapcsolatcsoport kiválasztása</string>
+     <string name="cancel_batch_import_confirmation">Kapcsolat importálásának törlése?</string>
+     <string name="cancel_batch_delete_confirmation">Kapcsolat törlésének törlése?</string>
+     <string name="copy">"Másolás"</string>
+     <string name="copy_to">Másolás ide:</string>
+     <string name="contactDeletedToast">Kapcsolat törölve.</string>
+     <string name="list_filter_all_in_one">Összes kapcsolat adatokkal</string>
+     <string name="listTotalEmailContactsZero">Nincsenek kapcsolatok e-mail címmel</string>
+     <string name="list_filter_emails">Nincsenek kapcsolatok e-mail címmel</string>
+     <string name="listMaxContactsInAccount">"Terület: <xliff:g id="COUNT">%d</xliff:g>"</string>
+     <string name="reading_vcard_exception_title">vCard adatolvasás/-írás kivétel</string>
+     <string name="sqlite_full">A kapcsolat adatbázis vagy lemez megtelt</string>
+     <string name="groupSavingToast">A csoportos módosítás később kerül alkalmazásra.</string>
+     <string name="batch_operation_canceled">Művelet megszakítva</string>
+     <string name="no_sdcard_title">"Hiányzó SD-kártya"</string>
+     <string name="video_callNumber_by_sim2">"Videó hívás<xliff:g id="NAME">%s</xliff:g>（SIM2）"</string>
+     <string name="delete_calls_list">Kiválasztott hívások törlése</string>
+     <string name="video_menu_callNumber">"Videó hívás<xliff:g id="NAME">%s</xliff:g>"</string>
+     <string name="menu_copyToPhone">Másolás telefonra</string>
+     <string name="select_one">Válasszon legalább egy tételt!</string>
+     <string name="delete_all_calls_confirm">Szeretné törölni az összes hívást?</string>
+     <string name="export_to_sim">Exportálás SIM kártyára</string>
+     <string name="scanning_sdcard_failed_title">Nem lehet pásztázni az SD kártyát</string>
+     <string name="delete_all_calls">Összes hívás törlése</string>
+     <string name="video_callNumber_by_sim1">"Videó hívás<xliff:g id="NAME">%s</xliff:g>（SIM1）"</string>
+     <string name="call_log_callNumber_by_sim">"Hívás:<xliff:g id="NAME">%s</xliff:g>（SIM<xliff:g id="PHONE_ID">%s</xliff:g>）"</string>
+     <string name="delete_success">A törlés sikeres!</string>
+     <string name="delete_selected_calls">Szeretné törölni a kiválasztott hívásokat?</string>
+     <string name="delete_contact_all_calls">Biztosan törli a kapcsolat hívásnaplófájljait?</string>
+     <string name="menu_copyToSim">Másolás SIM-re</string>
+     <string name="please_input_group_name">"Kérem, adja meg a csoport nevét"</string>
+     <string name="delete_calls">"törlés"</string>
+     <string name="app_name">"Hívásnapló"</string>
+     <string name="search_description">hívásnapló keresése</string>
+     <string name="search_hint">hívásnapló keresése</string>
+     <string name="lable_search">"keresés"</string>
+     <string name="menu_deleteFromBlacklist">Törlés a feketelistáról</string>
+     <string name="success_addToBlacklist">Hozzáadás sikeres</string>
+     <string name="failed_addToBlacklist">Hozzáadás sikertelen</string>
+     <string name="success_removeFromBlacklist">A törlés sikeres</string>
+     <string name="failed_removeFromBlacklist">Törlés sikertelen</string>
+     <string name="menu_mmsGroup">Köteg MMS</string>
+     <string name="menu_emailGroup">Kötegelt e-mail</string>
+     <string name="noContactsInGroup">Nincs kapcsolat ebben a csoportban</string>
+     <string name="please_wait">"Kérjük, várjon..."</string>
+     <string name="noContactswithEmail">Nincs e-maillel rendelkező kapcsolat ebben a csoportban</string>
+     <string name="noContactwithEmail">Nincs e-maillel rendelkező kapcsolat</string>
+     <string name="fast_dialer">Gyorstárcsázás beállítás</string>
+     <string name="select_card">Válasszon egy kártyát</string>
+     <string name="sim_absent">hiányzik</string>
+     <string name="sdn_list">"SDN lista"</string>
+     <string name="lnd_list">"LND lista"</string>
+     <string name="sim_no_ready">"A SIM kártya nincs kész."</string>
+     <string name="sdn_please_insert_sim">Kérem, helyezze be a SIM kártyát.</string>
+     <string name="sdn_sim_notready">SIM információk inicializálása, kérem, használja később.</string>
+     <string name="ip_dialer">IP-tárcsázás beállítás</string>
+     <string name="call_ip">IP hívás</string>
+     <string name="no_group">Nem tagja semmilyen csoportnak</string>
+     <string name="select_group">"Csoport kiválasztása"</string>
+     <string name="fast_dial_settings">gyorstárcsázás beállítások</string>
+     <string name="edit_photo">Fénykép szerkesztése</string>
+     <string name="select_all_contacts">"Összes kijelölése"</string>
+     <string name="menu_save">"Mentés"</string>
+     <string name="group_name_hint_overlay">"Kérem, adja meg a csoport nevét"</string>
+     <string name="select_group_member_overlay">Kattintson tagok hozzáadásához</string>
+     <plurals name="searchMatchContacts">
+<item quantity="one">"1 kapcsolat egyezik"</item>
+<item quantity="other">" <xliff:g id="COUNT">%d</xliff:g> kapcsolat egyezik"</item>
+    </plurals>
+     <string name="no_match_contact">Nincsenek egyező kapcsolatok</string>
+     <string name="menu_newGroup">Új csoport</string>
+     <string name="editGroup">Csoport szerkesztése</string>
+     <string name="menu_delete_group">"Csoport törlése"</string>
+     <string name="delete_group_dialog_commit">"Szeretné törölni a kiválasztott Csoportot?"</string>
+     <string name="contactsFavoritesLimit">12 kapcsolat összegyűjtve, a gyűjtési csoporton túl</string>
+     <string name="menu_add_favorite">Kapcsolatok hozzáadása a Kedvencek közé</string>
+     <string name="create_new_contact">"Új névjegy létrehozása"</string>
+     <string name="send_mms">"Üzenet küldése"</string>
+     <string name="tab_more">"További opciók"</string>
+     <string name="show_contacts">Kapcsolatok megmutatása</string>
+     <string name="fast_dial">Gyorstárcsázás</string>
+     <string name="account">"Fiók"</string>
+     <string name="import_export_contacts">"Névjegyek importálása/exportálása"</string>
+     <string name="export_contacts">"Exportálni szeretné"</string>
+     <string name="duplicate_phone_book">Kettőzött telefonkönyv</string>
+     <string name="dump_phone_book">Memóriakép telefonkönyv</string>
+     <string name="call_log_contacts_not_save">"Ismeretlen"</string>
+     <string name="call_log_callNumber_by_sim_ex">"Hívás:<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+     <string name="video_callNumber_by_sim_ex">"Videó hívás<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+     <string name="ip_callNumber_by_sim_ex">"IP hívás<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+     <string name="removeStarred">Csillagozottak eltávolítása</string>
+     <string name="lookUpInfo">Információk keresése</string>
+     <string name="cancel">"Mégse"</string>
+     <string name="favorite_contacts">Kedvenc kapcsolatok</string>
+     <string name="no_available_number">Nem állnak rendelkezésre számok</string>
+     <string name="confirmCoverPhoneNumber">"Biztosan cseréli a meglévő kapcsolatokat?</string>
+     <string name="replaceSelected">"Kérem, válassza ki a cserélni kívántakat"</string>
+     <string name="over_phone_length_limit">"A szám túl hosszú"</string>
+     <string name="invalid_number">"Érvénytelen szám"</string>
+     <string name="no_vcard_found_in_internal_stor">A belső tárhelyben nincs vCard</string>
+     <string name="item_sim_calls_ex">SIM<xliff:g id="SIM">%s</xliff:g> hívásnapló</string>
+     <string name="menu_moveGroupMember">Csoporttagok áthelyezése</string>
+     <string name="moveGroupMemberDialogTitle">Kapcsolatok áthelyezése ide:</string>
+     <string name="menu_deleteGroupMember">Csoporttagok törlése</string>
+     <string name="overGroupNameLength">A csoportnév túl hosszú</string>
+     <string name="overGroupCountLimit">A Csoportlétszám meghaladta a korlátot</string>
+     <string name="menu_share_by_sms">Kapcsolatok küldése SMS-ben</string>
+     <string name="toast_batchoperation_is_running">A Kötegelési művelet folyamatban van, kérem, próbálja újra később!</string>
+     <string name="sdcard_storage_not_enough">"Nem elegendő tárhely!"</string>
+     <string name="noJoinContactDataWith">"A kapcsolatok nem vonhatók össze"</string>
+     <string name="not_select_vCard">Nem választott ki vCard-ot</string>
+     <string name="selected_is_not_image">A kiválasztott fájl nem kép</string>
+     <string name="batch_delete_confim_title">"Kapcsolat(ok) törlése?"</string>
+     <string name="batch_delete_confim_message">"Biztosan törli a kiválasztott kapcsolato(ka)t?"</string>
+     <string name="transaction_too_large">"A kiválasztott kapcsolatok mérete meghaladja a korlátot, válasszon ki kevesebb kapcsolatot"</string>
+     <string name="contacts_selection_too_more">"A kiválasztott kapcsolatok maximális száma <xliff:g id="COUNT">%d</xliff:g>"</string>
+</resources>

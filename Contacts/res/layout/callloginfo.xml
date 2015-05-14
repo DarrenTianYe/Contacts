@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal" 
+    android:layout_height="wrap_content">
+
+	<ImageView 
+		android:id="@+id/CallType" 
+		android:src="@drawable/ic_call_log_list_incoming_call"
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="4dip">
+	</ImageView>
+	
+	<LinearLayout 
+		android:id="@+id/LinearLayout01" 
+		android:layout_height="wrap_content" 
+		android:orientation="vertical" 
+		android:layout_width="match_parent">
+		<TextView 
+			android:id="@+id/CallDisplayName" 
+			android:layout_height="wrap_content" 
+			android:layout_width="match_parent"
+			
+			android:textAppearance="?android:attr/textAppearanceLarge"
+	        android:singleLine="true"
+	        android:ellipsize="marquee"
+	        android:gravity="center_vertical">
+		</TextView>
+		
+		<RelativeLayout 
+			android:id="@+id/RelativeLayout02" 
+			android:layout_height="wrap_content" 
+			android:layout_width="match_parent">
+			
+			<TextView android:id="@+id/CallNumber" 
+				android:layout_height="wrap_content" 
+				android:layout_width="wrap_content"
+				android:layout_alignParentLeft="true"
+				android:layout_marginRight="3dip" 
+				android:singleLine="true">
+			</TextView>
+			
+			<TextView android:id="@+id/CallDuration" 
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content" 
+				
+				android:layout_alignParentRight="true" 
+				android:layout_marginRight="3dip"
+				android:singleLine="true">
+			</TextView>
+		</RelativeLayout>
+	</LinearLayout>
+	<!-- <ImageView 
+		android:id="@+id/actionCall" 
+		android:layout_height="wrap_content" 
+		android:layout_width="wrap_content"
+		android:src="@drawable/badge_action_call"> 
+	</ImageView> -->
+</LinearLayout>

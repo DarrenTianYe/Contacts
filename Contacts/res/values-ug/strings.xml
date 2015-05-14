@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="contacts_group_name_exist">مەۋجۇت گۇرۇپنىڭ ئىسمى</string>
+  <string name="contactsList">ئالاقىلاشقۇچىلار</string>
+  <string name="launcherDialer">تېلېفون</string>
+  <string name="shortcutContact"> ئالاقە </string>
+  <string name="shortcutDialContact">بىۋاستە ئۇرۇش</string>
+  <string name="shortcutMessageContact">بىۋاستە ئۇچۇر</string>
+  <string name="shortcutActivityTitle">ئالاقە قىلىدىغان ۋاستە تاللاش</string>
+  <string name="callShortcutActivityTitle">تېلىفۇن ئۇرۇدىغان نومۇرنى تاللاش</string>
+  <string name="messageShortcutActivityTitle">ئۇچۇر يازىدىغان نومۇرنى تاللاش</string>
+  <string name="starredList">يۇلتۇز بەلگىسى قويۇلغان</string>
+  <string name="frequentList">چاستوتا</string>
+  <string name="strequentList">ساقلىغۇچى</string>
+  <string name="viewContactTitle">ئالاقە تەپسىلاتى</string>
+  <string name="viewContactDesription">تېلفون دەپتىرىنى كۆرۈش </string>
+  <string name="editContactDescription">ئالاقىلاشقۇچىنى تەھرىرلەش</string>
+  <string name="insertContactDescription">ئالاقە قۇرۇش</string>
+  <string name="searchHint">ئالاقىلاشقۇچىلارنى ئىزدەش</string>
+  <string name="menu_newContact">يېڭى ئالاقىلىشىش</string>
+  <string name="menu_viewContact">تېلفون دەپتىرىنى كۆرۈش </string>
+  <string name="menu_addStar">ساقلىغۇچقا قوشۇش</string>
+  <string name="menu_removeStar">كۆڭۈل ئاچىدىغان نەرسىلەردىن ئۈچۈرۈش</string>
+  <string name="menu_editContact">ئالاقىلاشقۇچىنى تەھرىرلەش</string>
+  <string name="menu_deleteContact">ئالاقىنى ئۆچۈرۈش</string>
+  <string name="menu_call">چاقىرىشنى ئۇلاش</string>
+  <string name="menu_sendSMS">ئۇچۇر يوللاش</string>
+  <string name="menu_splitAggregate">ئايرىش</string>
+  <string name="splitConfirmation_title">ئايرىم ئالاقىلىشىش</string>
+  <string name="splitConfirmation">بۇ يىگانە ئالاقلاشقۇچىنى كۆپ ئالاقلاشقۇچىغا ئۆزگەرتىشنى جەزىملەشتۈرەمسىز:ھەر بىر ئالاقە ئۇچۇرىنى ئۇنىڭغا قۇشامسىز؟</string>
+  <string name="menu_joinAggregate">قاتنىشىش</string>
+  <string name="titleJoinContactDataWith">ئالاقىگە قاتنىشىش</string>
+  <string name="showAllContactsJoinItem">بارلىق </string>
+  <string name="separatorJoinAggregateSuggestions">تەۋىسسيە نومۇرلار</string>
+  <string name="separatorJoinAggregateAll">ھەممە ئالاقلاشقۇچىلار</string>
+  <string name="contactsJoinedMessage">ئالاقىلاشقۇچىلار قاتناشقان</string>
+  <string name="deleteConfirmation_title">ئۈچۈرۈش</string>
+  <string name="readOnlyContactWarning">سىز ئالاقلاشقۇچىنى پەقەت ئۇقۇلدىغان سىخىمىدىن ئۆچۈرەممەيسىز،بىراق ئۇنى ئالاقلىشىش تىزىملىكىڭىزگە يۇشۇرۇپ قويسىڭىز بولىدۇ.</string>
+  <string name="readOnlyContactDeleteConfirmation">بۇ نومۇردا باشقا ھېسابات نومۇرلىرىدىن كەلگەن كۆپ ئۇچۇرلار بار. پەقەتلا ئوقۇشقا بولىدىغان ھېسابات نومۇرىدىن كەلگەن ئۇچۇرلار يوشۇرۇن ھالەتتە تۇرىدۇ، لېىكىن ئۆچۈرۈلمەيدۇ.</string>
+  <string name="multipleContactDeleteConfirmation">بۇ ئالاقىلارنى ئۆچۈرسىڭىز كارتىدىكى بارلىق مەزمۇن ئۆچۈپ كىتىدۇ.</string>
+  <string name="deleteConfirmation">بۇ نومۇر ئۆچۈرىلىدۇ.</string>
+  <string name="invalidContactMessage">بۇ نومۇر مەۋجۇت ئەمەس.</string>
+  <string name="pickerNewContactHeader">يېڭى ئالاقە قۇرۇش</string>
+  <string name="customLabelPickerTitle">خېرىدار كارتىدىكى ئىسمى</string>
+  <string name="send_to_voicemail_checkbox">بىۋاستە ئاۋاز خەت ساندۇقىغا يوللاش</string>
+  <string name="noContacts">ئالاقىلاشقۇچى يوق.</string>
+  <string name="savingContact">ئالاقۇلاشقۇچىنى ساقلاش\u2026</string>
+  <string name="contactSavedToast">ئالاقە ساقلاندى.</string>
+  <string name="contactDeletedToast">ئالاقە ئۆچۈرۈلدى.</string>
+  <string name="contactSavedErrorToast">خاتالىق،ئۆزگەرتىشنى ساقلىغىلى بولماسلىق.</string>
+  <string name="listTotalPhoneContactsZero">ئالاقىلاشقۇچى ھەمدە تېلفون نۇمۇرى يوق</string>
+  <string name="listFoundAllContactsZero">ئالاقە تېپىلمىدى</string>
+  <string name="recentCallsIconLabel">تىلفۇن خاتېرسى</string>
+  <string name="recentCalls_empty">تىلفۇن خاتېرسى قۇرۇق.</string>
+  <string name="callBack">تىلفۇن قايتۇرۇش</string>
+  <string name="callAgain">قايتا چاقىرىش</string>
+  <string name="returnCall">قايتۇرۇپ تېلفۇن قىلىش</string>
+  <string name="add_contact_dlg_title">ئالاقلاشقۇچى كۆپەيتىش</string>
+  <string name="description_contact_photo">ئالاقە سۈرىتى</string>
+  <string name="description_plus_button">قوشۇڭ</string>
+  <string name="searching_vcard_title">نى ئىزدەۋاتىدۇ vCard</string>
+  <string name="search_settings_description">ئالاقىلاشقۇچىلارنىڭ نامى</string>
+  <string name="quickcontact_missing_app">بۇ بۇيرۇقنى بىرتەرەپ قىلدىغان يۇمشاق دېتال مەۋجۇت ئەمەس</string>
+  <string name="menu_share">بەھرىمان بولۇش</string>
+  <string name="share_via">ئالاقىلىشىش يۇلىدىن بەھرىمان بۇلۇش</string>
+  <string name="use_photo_as_primary">بۇ رەسىمنى ئىشلىتىش</string>
+  <string name="no_contact_details">بۇ ئالاقىلىشىشتا ئارتۇقچە ئۇچۇر مەۋجۇت ئەمەس</string>
+  <string name="display_options_sort_list_by">xxx بويىچە تىزىملاش</string>
+  <string name="display_options_sort_by_given_name">ئىسمى</string>
+  <string name="display_options_sort_by_family_name">فامىلىسى</string>
+  <string name="display_options_view_names_as">تېلفون دەپتىرىدىكى ئىسملارنى ...بويىچە كۆرۈش</string>
+  <string name="display_options_view_given_name_first">ئىسمى باشتا</string>
+  <string name="display_options_view_family_name_first">فامىلىسى باشتا</string>
+  <string name="search_bar_hint">ئالاقىلاشقۇچىلارنى ئىزدەش</string>
+  <string name="take_photo">فوتو سۈرەتكە تارتىش</string>
+  <string name="pick_photo">رەسىم جازىسىنى تاللاش</string>
+  <string name="locale_change_in_progress">تىلنىڭ ئۆزگىرىشىنى ئىنكاس قىلىش ئۈچۈن ئالاقە تىزىملىكىنى يېڭىلاش\n\n.ساقلاڭ...</string>
+  <string name="upgrade_in_progress">ئالاقە تىزىملىكى يېڭىلىنىۋاتىدۇ\n\n.ساقلاڭ...</string>
+  <string name="upgrade_out_of_memory_uninstall">بىرقىسىم قوللىنىشچان دىتالنى چىقىرىپ تاشلاش</string>
+  <string name="upgrade_out_of_memory_retry">قايتا ئۆستۈرۈش</string>
+  <string name="search_results_searching">ئىزدەۋاتىدۇ</string>
+  <string name="export_to_sim">SIMكارتىغا كىرگۈزۈش</string>
+  <string name="blurbJoinContactDataWith"><xliff:g id="name">%s</xliff:g> غا قۇشۇدىغان ئالاقىلاشقۇچىنى تاللاڭ.</string>
+  <string name="add_contact_dlg_message_fmt"> \"<xliff:g id="email">%s</xliff:g>\" نى ئالاقىلاشقۇچىلارغا قوشۇمسىز؟</string>
+  <string name="exporting_contact_list_progress"><xliff:g id="current_number">%1$s</xliff:g> نىڭ <xliff:g id="total_number">%2$s</xliff:g> ئالاقىلاشقۇچىلىرى</string>
+  <string name="account_type_format"><xliff:g id="source" example="Gmail">%1$s</xliff:g> ئۇلاندى</string>
+  <string name="from_account_format">دىن <xliff:g id="source" example="user@gmail.com">%1$s</xliff:g></string>
+  <string name="contact_read_only"><xliff:g id="source" example="Gmail">%1$s</xliff:g> موشۇ ئالاقە تېزىملىكىنى تەھرىرلەشكە بولمايدۇ.</string>
+  <string name="upgrade_out_of_memory">ئالاقىلاشقۇچىلار تېزىملىكى يىڭلىنىۋاتىدۇ.
+    \n\nجەريانى تەخمىنەن  <xliff:g id="size_in_megabytes">%d</xliff:g>Mb تېلفۇن ئىچكى ساقلىغۇچىنىڭ.\n\nتۆۋەندىكى تۈرلەردىن بىرنى تاللاڭ:</string>
+  <string name="select_one">كەم دىگەندە بىر تۈر تاللاڭ!</string>
+  <string name="no_fast_dial">تىز تېلفۇن قىلىش نۇمۇرى تەڭشەلمىگەن</string>
+  <string name="fast_dial_choose">تىز چاقىرىش تۈرىنى تاللاڭ</string>
+  <string name="fast_call">ئاۋازلىق چاقىرىش</string>
+  <string name="fast_vt_call">سۈرەتلىك - چاقىرش</string>
+  <string name="cancel">ئەمەلدىن قالدۇرۇش</string>
+  <string name="export_contacts">ئالاقىلاشقۇچىلارنى چىقىرىش</string>
+  <string name="people">شەخىس </string>
+  <string name="contactPickerActivityTitle">ئالاقىلەشكۈچى تاللاش</string>
+  <string name="editGroupDescription">گۇرۇپپىلارنى تەھرىرلەش</string>
+  <string name="insertGroupDescription">توپ قۇرۇش</string>
+  <string name="contactDetailAbout">ھەققىدە</string>
+  <string name="contactDetailUpdates">ئەڭ يېڭى ھالەت </string>
+  <string name="video_callNumber_by_sim1">كۆرۈنمە چاستوتىلىق چاقىرىش <xliff:g id="NAME">%s</xliff:g>（SIM1）</string>
+  <string name="video_callNumber_by_sim2">كۆرۈنمە چاستوتىلىق چاقىرىش <xliff:g id="NAME">%s</xliff:g>（SIM2）</string>
+  <string name="video_menu_callNumber">كۆرۈنمە چاستوتىلىق چاقىرىش <xliff:g id="NAME">%s</xliff:g></string>
+  <string name="menu_copyToSim" msgid="9042415603857662633">SIM كارتىغا كۆچۈرۈش</string>
+  <string name="menu_copyToPhone" msgid="9042415603857662633">يانفونغا نۇسخىلاش</string>
+  <string name="menu_editGroup">تەھرىرلەش</string>
+  <string name="menu_deleteGroup">ئۆچۈرۈش</string>
+  <string name="menu_new_contact_action_bar">يېڭى</string>
+  <string name="menu_new_group_action_bar">يېڭى</string>
+  <string name="menu_set_ring_tone">قوڭغۇراق تەڭشەش</string>
+  <string name="menu_redirect_calls_to_vm">بارلىق كەلگەن تېلېفوننى ئاۋازلىق خەت ساندۇقىغا يۆتكەش</string>
+  <string name="menu_discard">تاشلىۋىتىش</string>
+  <string name="pickerNewContactText">يېڭى ئالاقە قۇرۇش</string>
+  <string name="photoPickerNotFoundText" product="tablet">تاختا كومپيۇتېردا ئىشلەتكىدەك سۈرەت يوق. </string>
+  <string name="photoPickerNotFoundText" product="default">تېلفۇنىڭىزدا ئىشلىتىشكە بولىدىغان رەسىم يوق.</string>
+  <string name="attach_photo_dialog_title">ئالاقىلىشىش رەسىمى</string>
+  <string name="removePhoto">سۈرەتنى يۇيۇۋىتىش</string>
+  <string name="noGroups">ھېچىقانداق توپ گۇرپىسى يوق. </string>
+  <string name="noAccounts">توپ قۇرۇش ئۈچۈن بىر ئابونت قۇرۇش كېرەك.  </string>
+  <string name="emptyGroup">بۇ گۇرۇپپىىدا ئالاقىلاشقۇچى يوق.</string>
+  <string name="addPeopleToGroup">ئالاقىلىشقۇچى قۇشۇلماقچى، بۇ گۇرۇپپىغا ئۆزگەرتىش ئېلىپ بېرىڭ.  </string>
+  <string name="groupSavedToast">توپ گۇرۇپپىسى ساقلاندى.</string>
+  <string name="groupSavingToast">توپ گۇرۇپپىسى ئۆزگەرتىلىشى سەل تۇرۇپ ساقلىنىدۇ</string>
+  <string name="groupSavedErrorToast">توپ ئۆزگەرتىشىنى ساقلىغىلى بولمىدى.</string>
+  <string name="listTotalEmailContactsZero">ئېلخەت بار بولغان ئالاقىلاشقۇچى يوق </string>
+  <string name="listMaxContactsInAccount">ئومۇمىي سىغىمى: <xliff:g id="COUNT">%d</xliff:g></string>
+  <string name="contactsAllLabel">ھەممە</string>
+  <string name="contactsGroupsLabel">توپ گۇرۇپپىسى</string>
+  <string name="copy">كوپيەلەش</string>
+  <string name="copy_to">گە كۆپەيتىش</string>
+  <string name="reading_vcard_exception_title">vCard ئۇقۇپ يېزىلىشى نۇرمالىسىز</string>
+  <string name="sqlite_full">ئالاقىلەشكۈچى سانلىق مەلۇمات ئامبىرى ياكى ماگنېتلىق دېسكا توشۇق</string>
+  <string name="cancel_import_confirmation_title">vCard كىرگۈزۈشنى بىكار قىلىش</string>
+  <string name="cancel_batch_import_confirmation">ئالاقىلەشكۈچىنى نۇسخىلاشنى بىكار قىلامسىز؟</string>
+  <string name="cancel_batch_delete_confirmation">ئالاقىلەشكۈچىنى ئۆچۈرۈشنى بىكار قىلامسىز؟</string>
+  <string name="batch_operation_canceled">مەشغۇلات بىكار قىلىنىدى</string>
+  <string name="cancel_export_confirmation_title">vCard چىقىرىشنى بىكار قىلىش</string>
+  <string name="menu_all_contacts">ھەممە ئالاقلاشقۇچىلار</string>
+  <string name="dialog_new_group_account">قايسى ئابونتتا توپ قۇرىسىز؟</string>
+  <string name="audio_chat">ئاۋازلىق پاراڭلىشىش </string>
+  <string name="video_chat">ۋېدىيولىق سۆزلۈشۈش </string>
+  <string name="connections">ئالاقىلىشىش</string>
+  <string name="add_connection_button">ئالاقىنى كۈچەيتىش</string>
+  <string name="recent" msgid="2062236709538790412">يېقىندىن</string>
+  <string name="recent_updates" msgid="2018245636796411442">ئەڭ يېڭى ھالەت </string>
+  <string name="group_read_only">بۇ ئۈسكۈنىدە ئۆزگەرتىش ئېلىپ بارغىلى بولمايدۇ.</string>
+  <string name="take_new_photo">يېڭى سۈرەتكە تارتىش</string>
+  <string name="pick_new_photo">سۈرەت ئامبىرىدىن يېڭى سۈرەتنى تاللاش</string>
+  <string name="menu_display_selected">تاپشۇرۇۋالغۇچى تاللاندى</string>
+  <string name="menu_display_all">بارلىق تاپشۇرۇۋالغۇچىلار</string>
+  <string name="menu_select_all">ھەممىسى تاللاندى</string>
+  <string name="menu_select_none">ھەممىنى تاللاشنى بىكار قىلىش</string>
+  <string name="add_field">باشقا خەت بۆلىكى قوشۇش</string>
+  <string name="add_new_entry_for_section">يېڭى كۆرسەتكۈچ قوشۇش</string>
+  <string name="add_organization">خىزمەت ئورنىنى قوشۇش</string>
+  <string name="event_edit_field_hint_text">كۈن</string>
+  <string name="group_edit_field_hint_text">گۇرۇپپا ئىسمى</string>
+  <string name="contact_status_update_attribution">ئارقىلىق <xliff:g id="source" example="Google Talk">%1$s</xliff:g></string>
+  <string name="contact_status_update_attribution_with_date"><xliff:g id="date" example="3 hours ago">%1$s</xliff:g> via <xliff:g id="source" example="Google Talk">%2$s</xliff:g></string>
+  <string name="description_star">ياختۇرىدىغان</string>
+  <string name="edit_contact">ئالاقىلاشقۇچىنى تەھرىرلەش</string>
+  <string name="aggregation_suggestion_join_dialog_title">ئالاقىگە قاتنىشىش</string>
+  <string name="aggregation_suggestion_join_dialog_message">نۆۋەتتىكى ئالاقلاشقۇچى بىلەن بارلىق ئالاقىلاشقۇچىلارنى بىرلەشتۈرەمسىز؟</string>
+  <string name="aggregation_suggestion_edit_dialog_title">تاللانغان ئالاقىلاشقۇچىنى تەھرىرلەش</string>
+  <string name="aggregation_suggestion_edit_dialog_message">تاللانغان ئالاقىلاشقۇچىنى تەھرىرلەشكە ئالماشتۇرامسىز؟ سىستېما نۆۋەتتە كىرگۈزگەن بارلىق ئۇچۇرلىرىڭىزنى نۇسخىلىۋالىدۇ.</string>
+  <string name="menu_copyContact">«مېنىڭ ئالاقىلەشكۈچىلىرىم» گە نۇسخىلاش</string>
+  <string name="add_to_my_contacts">«مېنىڭ ئالاقىلەشكۈچىلىرىم» گە قوشۇش</string>
+  <string name="contact_directory_description">مۇندەرىجە تۈرى：<xliff:g id="TYPE">%1$s</xliff:g> </string>
+  <string name="toast_making_personal_copy">شەخسى قۇشۇمچە نۇسخا قۇرۇلۇۋاتىدۇ...</string>
+  <string name="list_filter_custom">خېرىدار</string>
+  <string name="list_filter_emails">ئېلېكتىرونلۇق يوللانمىغا ئىگە بارلىق ئالاقىلەشكۈچى</string>
+  <string name="list_filter_all_in_one">سانلىق مەلۇماتقا ئىگە بارلىق ئالاقىلەشكۈچى</string>
+  <string name="group_selection">ئالاقىلەشكۈچىنى تاللاپ گۇرۇپپىغا ئايرىش</string>
+  <string name="contact_list_loading">يۈكلەۋاتىدۇ\u2026</string>
+  <string name="activity_title_settings">ئورۇنلاشتۇرۇش</string>
+  <string name="menu_settings" msgid="377929915873428211">ئورۇنلاشتۇرۇش</string>
+  <string name="preference_displayOptions">كۆرسىتىش تۈرى</string>
+  <string name="organization_company_and_title">"<xliff:g id="COMPANY_0">%2$s</xliff:g>，<xliff:g id="COMPANY_1">%1$s</xliff:g>"</string>
+  <string name="non_phone_caption">تېلفۇن نۇمۇرى</string>
+  <string name="non_phone_add_to_contacts">ئالاقىلاشقۇچىغا قوشامسىز</string>
+  <string name="activity_title_confirm_add_detail">ئالاقىلەشكۈچىگە قوشۇش</string>
+  <string name="non_phone_close">ئىتىۋېتىش</string>
+  <string name="widget_name_and_phonetic">"<xliff:g id="DISPLAY_NAME">%1$s</xliff:g> (<xliff:g id="PHONETIC_NAME">%2$s</xliff:g>)"</string>
+  <string name="date_year_toggle">يىلنامىنى كىرگۈزۈش</string>
+  <string name="social_widget_label"> ئالاقە </string>
+  <string name="social_widget_loading">يۈكلەۋاتىدۇ\u2026</string>
+  <string name="contacts_unavailable_create_contact">يېڭى ئالاقىلاشقۇچى قۇرۇش</string>
+  <string name="contacts_unavailable_add_account">ئابۇنىت تىزىملاش</string>
+  <string name="contacts_unavailable_import_contacts">ھۆججەت ئىچىدىن ئالاقىلاشقۇچىنى  كىرگۈزۈش</string>
+  <string name="create_group_dialog_title">يېڭى توپ قۇرۇش</string>
+  <string name="create_group_item_label">[يېڭى توپ قۇرۇش]</string>
+  <string name="delete_group_dialog_title">گۇرۇپپىغا ئايرىلىشنى ئۆچۈرۈش</string>
+  <string name="delete_group_dialog_message">توپ گۇرۇپپىسى <xliff:g id="GROUP_LABEL">%1$s</xliff:g> نى ( ئالاقىلاشقۇچى ئۆزىنى ئۆچۈرمەستىن) ئۆچۈرەمسىز؟</string>
+  <string name="toast_join_with_empty_contact">باشقا ئالاقىلشقۇچىلار بىلەن بىرلەشتۈرۈش ئۈچۈن ئاۋۋال ئالاقىلشقۇچىلانىڭ ئىسمىنى كىرگۈزىمىز.  </string>
+  <string name="copy_text">قىيىپ چاپلاش تاختىسىغا نۇسخىلاش</string>
+  <string name="set_default">كۆڭۈل تەڭشىكىنى تەڭشەش</string>
+  <string name="clear_default">كۆڭۈلدىكى قىممەتنى ئۆچۈرۈش</string>
+  <string name="toast_text_copied">تېكىست نۇسخىلاش</string>
+  <string name="cancel_confirmation_dialog_title">ئۆزگەتىشتىن ۋاز كېچىش</string>
+  <string name="cancel_confirmation_dialog_message">كىرگۈزگەن ئۆزگەتىشىڭىزدىن ۋاز كېچەمسىز؟</string>
+  <string name="call_type_and_date">"<xliff:g id="CALL_TYPE">%1$s</xliff:g> <xliff:g id="CALL_SHORT_DATE">%2$s</xliff:g>"</string>
+  <string name="profile_display_name">شەخىس ماتېرىيالىنى تەڭشەش</string>
+  <string name="enter_contact_name">ئالاقىلاشقۇچىنىڭ ئىسمىنى كىرگۈزۈش</string>
+  <string name="group_name_hint">گۇرۇپپا ئىسمى</string>
+  <string name="local_profile_title">مېنىڭ يەرلىك شەخسىي ماتېرىيالىم </string>
+  <string name="external_profile_title">مېنىڭ <xliff:g id="EXTERNAL_SOURCE">%1$s</xliff:g>  شەخسىي ماتېرىيالىم</string>
+  <string name="toast_displaying_all_contacts">بارلىق ئالاقىلاشقۇچىنى كۆرسىتىش</string>
+  <string name="no_account_prompt">Google ئىسچوتى بولسا ئوبېيكتىنى ھەمبەرىلىنىش&gt;&gt;نى كۈچەيتىدۇ. "\n\n"• خالىغان تور كۆرگۈچ بىلەن ئوبېيكتىنى ھەمبەرىلىنىش&gt;&gt;نى"\n"•  زىيارەت قىلىپ، بىخەتەر ھالدا ئالاقىلاشقۇچىنى زاپاسلىغىلى بولىدۇ.</string>
+  <string name="generic_no_account_prompt">يانفون بۇزۇلۇپ قالغان تەقدىردىمۇ سىزنىڭ ئالاقىلاشقۇچىلار ئۇچۇرلىڭىزنىڭ بىخەتەرلكىگە كاپالەتك قىلىپ توردا ماس قەدەمدە ئېلىپ برىلىدۇ.</string>
+  <string name="generic_no_account_prompt_title">بىر سىچوت قۇشۇش</string>
+  <string name="contact_editor_prompt_zero_accounts">سېستىما سىزنىڭ ئالاقىلاشقۇچىڭىز زاپاسلىمايدۇ. توردىكى زاپاسلانغان ئالاقىلاشقۇچى ئىسچوتىڭىزنى قوشامسىز؟</string>
+  <string name="contact_editor_prompt_one_account">سېستىما سىزنىڭ ئالاقىلاشقۇچىڭىز بىلەن <xliff:g id="ACCOUNT_NAME">%1$s</xliff:g> نى بىردەكلەشتۈرىدۇ.</string>
+  <string name="contact_editor_prompt_multiple_accounts">يېڭى ئالاقىلاشقۇچىنى نۆۋەتتىكى مەلۇم ئابونت بىلەن ماس قەدەم قىلسىڭىز بولىدۇ  ئابونت قۇشۇشنى چېكىڭ:</string>
+  <string name="keep_local">ئۆزجايىدا ساقلاش</string>
+  <string name="add_account">سچوت قۇشۇپ كۆپەيتىش</string>
+  <string name="add_new_account">يېڭى ئىسچوت قوشۇش</string>
+  <string name="dialog_phone_call_prohibited_title" msgid="4313552620858880999">چاقىرىشقا ئامالسىز</string>
+  <string name="dialog_voicemail_not_ready_title">ئاۋازلىق ئۇچۇر ساندۇقى نومۇرى ئىشلەنمەيدۇ </string>
+  <string name="delete_calls">ئۆچۈرۈش</string>
+  <string name="delete_selected_calls">تاللىغان تېلفۇن نۇمۇرىنى يۇيۋىتەمسىز؟</string>
+  <string name="delete_all_calls_confirm">بارلىق سۆزلەشكەن خاتىرىنى ئۆچۈرەمسىز؟</string>
+  <string name="delete_calls_list">تاللانغان سۆزلىشىش خاتىرىسىنى ئۆچۈرۈش</string>
+  <string name="delete_all_calls">بارلىق سۆزلىشىش خاتىرىسىنى ئۆچۈرۈش</string>
+  <string name="delete_success">مۇۋاپىقىيەتلىك ئۆچۈرۈش!</string>
+  <string name="select_all">ھەممىنى تاللاش</string>
+  <string name="menu_batch_delete">بۇلەككە بۆلۈپ يۇيۇش</string>
+  <string name="label_sim">SIM كارتىسى</string>
+  <string name="label_usim">SIM كارتىسى</string>
+  <string name="label_phone">تېلېفون</string>
+  <string name="wait">ساقلاپ تۇرۇڭ...</string>
+  <string name="working">ئىشلەۋاتىدۇ،خىزمەت قىلىۋاتىدۇ</string>
+  <string name="working_batch_delete">ئۆچۈرۈۋاتىدۇ...</string>
+  <string name="working_batch_import">نۇسقىلنىۋاتىدۇ</string>
+  <string name="choose_sim_card">SIM كارتىسى تاللاش</string>
+  <string name="violate_capacity">SIM كارتىنىڭ سىغىمىدىن ئېشىپ كەتتى </string>
+  <string name="import_failed">ئالاقىلاشقۇچىنى نۇسخىلاش مەغلۇپ بولدى</string>
+  <string name="import_failed_tmp"><xliff:g id="count">%d</xliff:g> دانە مۇۋەپپەقىيەتلىك بولدى، <xliff:g id="count">%d</xliff:g> دانە مەغلۇب بولدى</string>
+  <string name="import_done">ئالاقىلاشقۇچىنى نۇسخىلاش مۇۋاپىقىيەتلىك بولدى</string>
+  <string name="delete_done">ئالاقىلاشقۇچىنى ئۆچۈرۈش تاماملاندى</string>
+  <string name="toast_no_contact_selected">ئالاقلاشقۇچى تاللانمىدى</string>
+  <string name="contactSavedErrorToastNameLength">ئالاقىلەشكۈچى ئىسمى زىيادە ئۇزۇن</string>
+  <string name="contactSavedErrorToastEmailLength">ئېلخەت نامى بەك ئۇزۇن</string>
+  <string name="contactSavedErrorToastEmailFull">ئېلخەت توشۇپ كەتتى</string>
+  <string name="sim_is_full">Simكارىتىس توشۇپ كەتتى</string>
+  <string name="menu_addToBlacklist">قارا تېزىملىككە قوشۇش</string>
+  <string name="menu_view_calls">كۆرۈش</string>
+  <string name="item_all_calls">بارلىق سۆزلىشىش خاتىرىسى</string>
+  <string name="item_sim1_calls">كارتا 1نىڭ سۆزلىشش خاتىرىسى</string>
+  <string name="item_sim2_calls">كارتا 2نىڭ سۆزلىشش خاتىرىسى</string>
+  <string name="res_name">ئىسم - فامىلە</string>
+  <string name="res_phone">تېلېفون</string>
+  <string name="res_email">Email</string>
+  <string name="res_field">سۆز بۆلىكى</string>
+  <string name="alert_maybe_lost_info">نۇسخىلاش جەريانىدا بىر قىسىم ئالاقىلاشقۇچىلار سانلىق مەلۇماتى يۇيۇلۇپ كېتىشى مۇمكىن</string>
+  <string name="field_too_long"><xliff:g id="field">%s</xliff:g>  بەك ئۇزۇن</string>
+  <string name="select_group_member">گۇرۇپپا ئەزاسىنى تاللاش </string>
+  <string name="email_format_fail">توغرا بولغان ئېلخەت ساندۇقىنى كىرگۈزۈڭ!</string>
+  <string name="working_editing_group">توپ گۇرۇپپىسى ئۆزگەرتىلىۋاتىدۇ...</string>
+  <string name="editing_group_done">توپ گۇرۇپپىسى ئۆزگەرتىلىش مۇۋاپىقىيەتلىك بولدى</string>
+  <string name="editing_group_failed">توپ گۇرۇپپىسى ئۆزگەرتىش مەغلۇپ بولدى</string>
+  <string name="menu_add_favorite">ئالاقىلاشقۇچىنى ساقلاش</string>
+  <string name="phone_number_format_fail">توغرا بولغان تېلېفون نومۇرىنى كىرگۈزۈڭ!</string>
+  <string name="fast_dial_settings">تېزلىكتە تېلېفون ئۇرۇش قۇرۇلمىسى </string>
+  <string name="alert_delete_contact">تاللىغان ئالاقىلاشقۇچىنى مەڭگۈلۈك ئۆچۈرىۋىتەمسىز ؟</string>
+  <string name="menu_delete_group">گۇرۇينى ئۆچۈرۈش</string>
+  <string name="call_ip">IP دا تېلېفون ئۇرۇش</string>
+  <string name="no_group">ھېچقانداق ئاممىۋى توپلار قوشۇلمىدى</string>
+  <string name="edit_photo">رەسىمنى تەھرىرلەش </string>
+  <string name="removeStarred">يۆتكەپ ساقلاش</string>
+  <string name="lookUpInfo">تەپسىلات</string>
+  <string name="favorite_contacts">ئالاقىلاشقۇچىنى ساقلاش </string>
+  <string name="select_all_contacts">ھەممىنى تاللاش</string>
+  <string name="menu_newGroup">يىڭى گۇرۇپ قۇرۇش</string>
+  <string name="contactsFavoritesLimit">12ئالاقىلاشقۇچىنى ساقلاش يۇقىرى چەكلىمىسىدىن  ئىشىپ كەتكەن </string>
+  <string name="show_contacts">ئالاقىلاشقۇچىنى كۆرسىتىش</string>
+  <string name="import_export_contacts">ئالاقىلاشقۇچىلارنى كىرگۈزۈش/ چىقىرىش</string>
+  <string name="duplicate_phone_book">تىلفۇن دەپتىرىنى كۆپەيتىش </string>
+  <string name="dump_phone_book">تىلفۇن دەپتىرىگە ساقلاش </string>
+  <string name="fast_dial">تېزلىكتە تېلېفون ئۇرۇش  </string>
+  <string name="account">ئىسچوت</string>
+  <string name="tab_more">تېخىمۇ كۆپ تاللاش</string>
+  <string name="group_name_hint_overlay">گورۇپ ئىسمىنى كىرگۈزۈڭ </string>
+  <string name="select_group_member_overlay">ئالاقىلاشقۇچىنى قوشۇڭ </string>
+  <string name="call_log_contacts_not_save">بىلىنمىگەن</string>
+  <string name="menu_deleteFromBlacklist">قارا تىزىملىكتىن ئۆچۈرۈش </string>
+  <string name="success_addToBlacklist">قارا تىزىملىككە ىوشۇش مۇۋاپىقىيەتلىك بولدى </string>
+  <string name="failed_addToBlacklist">قارا تىزىملىككە قوشۇش مەغلۇپ بولدى </string>
+  <string name="success_removeFromBlacklist">مۇۋاپىقىيەتلىك ئۆچۈرۈش!</string>
+  <string name="failed_removeFromBlacklist">قارا تىزىملىكتىن ئۆچۈرۈش مەغلۇپ بولدى </string>
+  <string name="menu_save">ساقلاش</string>
+  <string name="menu_emailGroup">ئىلخەتنى توپ ئەۋەتىش </string>
+  <string name="menu_mmsGroup">قىسقا ئۇچۇرنى توپ ئەۋەتىش </string>
+  <string name="select_group">گۇرۇپنى تاللاڭ </string>
+  <string name="noContactswithEmail">ئىلخەت ئادرېسى بار ئالاقىلاشقۇچى يوق </string>
+  <string name="beyond_sim_card_capacity">SIMكارتا سىغىمىدىن ئىشىپ كەتتى ،ئىشىپ كەتكەن قىسمىدىكى ئالاقىلاشقۇچىلارنى ساقلاش مەغلۇپ بولىدۇ </string>
+  <string name="noContactsInGroup">مەزكۇر گورۇپتا ئالاقىلاشقۇچىلار يوق </string>
+  <string name="editGroup">گۇرۇپپىلارنى تەھرىرلەش </string>
+  <string name="send_mms">ئۇچۇر ئەۋەتىش </string>
+  <string name="please_input_group_name">گۇرۇپ ئىسمىنى كىرگۈزۈڭ </string>
+  <string name="confirmCoverPhoneNumber">ئەسلىدە بار بولغان ئالاقىلىشىش ئۇسۇلىنى ئالماشتۇرامسىز ؟</string>
+  <string name="replaceSelected">ئالماشتۇرىدىغان ئالاقىلىشىشى ئۇسۇلىنى تاللاڭ </string>
+  <string name="no_vcard_found_in_internal_stor">ئىچكى ساقلىغۇچتا vCardھۆججىتى تىپىلدى.</string>
+  <string name="over_phone_length_limit">يانفۇن نومۇرى بەك ئۇزۇن </string>
+  <string name="overGroupNameLength">گۇرۇپ ئىسمى بەك ئۇزۇن </string>
+  <string name="overGroupCountLimit">گۇرۇپپىلىق سانلار ئەڭ يۇقىرى چەككە يەتتى</string>
+  <string name="menu_share_by_sms">قىسقا ئۇچۇر ئارقىلىق ئەۋەتىش</string>
+  <string name="toast_batchoperation_is_running">توپ مەشغۇلات ئىلىپ بىرىلىۋاتىدۇ ،بىرئازدىن كىيىن قايتا سىناپ بىقىڭ !</string>
+    <plurals name="merge_info">
+        <item quantity="one">بىرلەشتۈرۈلمىگەن </item>
+        <item quantity="other"><xliff:g id="COUNT">%0$d</xliff:g> مەنبەنى بىرلەشتۈرۈش</item>
+        </plurals>
+     <plurals name="num_groups_in_account">
+        <item quantity="one">1 توپ گۇرۇپپىسى</item>
+        <item quantity="other"><xliff:g id="COUNT">%0$d</xliff:g>  دانە توپ گۇرۇپپىسى</item>
+        </plurals>
+     <plurals name="num_contacts_in_group">
+        <item quantity="one"><xliff:g id="ACCOUNT_TYPE">%2$s</xliff:g> دا  <xliff:g id="COUNT_0">%1$d</xliff:g> ئالاقىلەشكۈچى بار</item>
+        <item quantity="other"><xliff:g id="COUNT_0">%1$d</xliff:g> ئادەمنىڭ كېلىش مەنبەسى <xliff:g id="ACCOUNT_TYPE">%2$s</xliff:g></item>
+        </plurals>
+     <plurals name="group_list_num_contacts_in_group">
+        <item quantity="one"><xliff:g id="COUNT">%1$d</xliff:g> ئادەم</item>
+        <item quantity="other"><xliff:g id="COUNT">%1$d</xliff:g> ئادەم</item>
+        </plurals>
+     <string-array name="otherLabels">
+    <!-- An organization associated with a contact -->
+            <item>قۇرۇلما</item>
+    <!-- A note associated with a contact -->
+            <item>خاتىرە</item>
+      </string-array>
+     <plurals name="listTotalPhoneContacts">
+    <item quantity="one">تېلىفۇن نومۇرى بىلەن 1 ئالاقىنى كۆرسىتىش</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g> ئالاقىلاشقۇچىلار تېلفۇن نۇمۇرىنى كۆرسىتىپ بېرىش</item>
+      </plurals>
+     <plurals name="listTotalAllContacts">
+    <item quantity="one">1ئالاقىنى كۆرسىتىش</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g> ئالاقىلاشقۇچىلارنى كۆرسىتىپ بېرىش</item>
+      </plurals>
+     <plurals name="listFoundAllContacts">
+    <item quantity="one">1 ئالاقىنى تېپىش</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g> ئالاقىلاشقۇچىلىرىنى قۇرۇش</item>
+      </plurals>
+     <plurals name="searchFoundContacts">
+    <item quantity="one">1 ئۇلاش</item>
+    <item quantity="other">ئالاقىلاشقۇچىلار <xliff:g id="count">%d</xliff:g> </item>
+      </plurals>
+     <plurals name="searchMatchContacts">
+      <item quantity="one">بىر ئالاقىلاشقۇچى ماس كىلىدىكەن </item>
+      <item quantity="other">"ماس كەلدى <xliff:g id="COUNT">%d</xliff:g>ئالاقىلاشقۇچى"</item>
+      </plurals>
+     <string name="menu_create_contact_shortcut">"باش ئېكرانغا قويۇش"</string>
+     <string name="createContactShortcutSuccessful">"ئالاقىداش ۋىجىتى باش ئېكرانغا قوشۇلدى."</string>
+     <string name="menu_help">ياردەم</string>
+     <string name="menu_sendmms">"قىسقا ئۇچۇرنى تۈركۈملەپ يوللاش"</string>
+     <string name="no_sdcard_title">SD كارتا يوق</string>
+     <string name="scanning_sdcard_failed_title">"SD كارتىنى تەكشۈرگىلى بولمىدى"</string>
+     <string name="call_log_callNumber_by_sim">"<xliff:g id="NAME">%s</xliff:g> نى چاقىرىش （SIM<xliff:g id="PHONE_ID">%s</xliff:g>）"</string>
+     <string name="delete_contact_all_calls">"ئالاقىداشنىڭ بارلىق چاقىرىشلىرىنى ئۆچۈرۈشكە جەزىم قىلامسىز؟"</string>
+     <string name="app_name">"چاقىرىش خاتىرىسى"</string>
+     <string name="search_description">"چاقىرىش خاتىرىسىنى ئىزدەش"</string>
+     <string name="search_hint">"چاقىرىش خاتىرىسىنى ئىزدەش"</string>
+     <string name="lable_search">ئىزدەش</string>
+     <string name="please_wait">ساقلاپ تۇرۇڭ...</string>
+     <string name="noContactwithEmail">"ئېلخېتى بار ئالاقىداش يوق"</string>
+     <string name="fast_dialer">"تېز نومۇر بۇراش تەڭشىكى"</string>
+     <string name="select_card">"كارتا تاللاڭ"</string>
+     <string name="sim_absent">"مەۋجۇت ئەمەس"</string>
+     <string name="sdn_list">"SDN تىزىملىكى"</string>
+     <string name="lnd_list">"LND تىزىملىكى"</string>
+     <string name="sim_no_ready">"Sim كارتا تەييارلىنىپ بولمىغان."</string>
+     <string name="sdn_please_insert_sim">"SIM كارتىنى قىستۇرۇڭ."</string>
+     <string name="sdn_sim_notready">"SIM  كارتا ئۇچۇرى دەسلەپلەشتۈرۈلۈۋاتىدۇ، سەل تۇرۇپ مەشغۇلات قىلىڭ."</string>
+     <string name="ip_dialer">"IP نومۇر بۇراش تەڭشىكى"</string>
+     <string name="no_match_contact">"ماس كەلگەن ئالاقىداش يوق"</string>
+     <string name="delete_group_dialog_commit">"تاللانغان توپنى ئۆچۈرەمسىز؟"</string>
+     <string name="create_new_contact">يېڭى ئالاقە قۇرۇش</string>
+     <string name="call_log_callNumber_by_sim_ex">"<xliff:g id="NAME">%s</xliff:g> نى چاقىرىش (<xliff:g id="SIM">%s</xliff:g>)"</string>
+     <string name="video_callNumber_by_sim_ex">"<xliff:g id="NAME">%s</xliff:g> نى سۈرەتلىك چاقىرىش (<xliff:g id="SIM">%s</xliff:g>)"</string>
+     <string name="ip_callNumber_by_sim_ex">"<xliff:g id="NAME">%s</xliff:g> نىIP چاقىرىش (<xliff:g id="SIM">%s</xliff:g>)"</string>
+     <string name="no_available_number">"ئىشلەتكىلى بولىدىغان نومۇر يوق"</string>
+     <string name="invalid_number">"ئۈنۈمسىز نومۇرلار."</string>
+     <string name="item_sim_calls_ex">"SIM<xliff:g id="SIM">%s</xliff:g> تېلېفون خاتىرىسى"</string>
+     <string name="menu_moveGroupMember">"توپ ئەزالىرىنى يۆتكەش"</string>
+     <string name="moveGroupMemberDialogTitle">"غا (قا، گە، كە) ئالاقىداشنى يۆتكەش"</string>
+     <string name="menu_deleteGroupMember">"توپ ئەزالىرىنى ئۆچۈرۈش"</string>
+     <string name="sdcard_storage_not_enough">"ساقلىغۇچ بوشلۇقى يىتىشمىدى!"</string>
+     <string name="noJoinContactDataWith">"بىرلەشتۈرگىلى بولىدىغان ئالاقىداش يوق"</string>
+     <string name="not_select_vCard">"ھىچقانداق vCard تاللانمىغان"</string>
+     <string name="selected_is_not_image">"تاللىغان ھۆججەت رەسىم ئەمەس"</string>
+     <string name="batch_delete_confim_title">"ئالاقىداش(لار) نى ئۆچۈرەمدۇ؟"</string>
+     <string name="batch_delete_confim_message">"تاللانغان ئالاقىداشنى(لار) نى ئۆچۈرۈشكە جەزىم قىلامسىز؟"</string>
+     <string name="transaction_too_large">"تاللانغان ئالاقىداشلارنىڭ سانى چەكتىن ئىشىپ كەتكەن، ئازىراق ئالاقىداشنى تاللاڭ."</string>
+     <string name="contacts_selection_too_more">"ئەڭ كۆپ بولغاندا 5000 ئالاقىداشنى تاللىغىلى بولىدۇ"</string>
+    <string name="menu_export_database">"سانلىق مەلۇمات ئامبىرىنىڭ ھۆججەتلىرىنى چىقىرىش"</string>
+    <string name="contact_detail_picture_description">"رەسىم. تاللاپ ئۆزگەرتىڭ"</string>
+    <string name="noContactwithPhoneAndEmail">"تېلېفون نۇمۇرى ۋە ئېلىخەت ئادرىسى بار ئالاقىلاشقۇچى يوق"</string>
+    <string name="noContactsWithPhoneNumbers">"تېلېفون نۇمۇرى بار ئالاقىلاشقۇچى يوق"</string>
+    <string name="listTotalAllContactsZeroStarred">"ساقلانغان تزىملىك يوق."</string>
+    <string name="contact_editor_prompt_multiple_accounts_short">"ئالاقىلاشقۇچىنى ساقلاش ئورنى"</string>
+    <string name="working_batch_starred">"يۇلتۇزلۇق ئالاقىلاشقۇچىلار تىزىملىكىگە قېتىلىۋاتىدۇ"</string>
+    <string name="star_done">"يۇلتۇزلۇق ئالاقىلاشقۇچى قىلىنىپ بولدى"</string>
+    <string name="cancel_batch_star_confirmation">"يۇلتۇزلۇق ئالاقىلاشقۇچىلىقىنى ئېلىپ تاشلاش"</string>
+</resources>
