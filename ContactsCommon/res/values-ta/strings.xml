@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="contactsList">தொடர்புகள்</string>
+  <string name="contactPickerActivityTitle">ஒரு தொடர்பினை தெரிவு செய்க</string>
+  <string name="menu_search">தேடுக</string>
+  <string name="menu_done">செய்யப்பட்டது</string>
+  <string name="menu_doNotSave">ரத்து</string>
+  <string name="label_notes">குறிப்புக்கள்</string>
+  <string name="label_sip_address">இணைய தள அழைப்பு</string>
+  <string name="ghostData_company">கம்பெனி</string>
+  <string name="ghostData_title">தலைப்பு</string>
+  <string name="phoneLabelsGroup">தொலைபேசி</string>
+  <string name="emailLabelsGroup">மின்னஞ்சல்</string>
+  <string name="imLabelsGroup">IM</string>
+  <string name="postalLabelsGroup">முகவரி</string>
+  <string name="noGroups">குழுக்கள் இல்லை.</string>
+  <string name="noAccounts">குழுக்கள் உருவாக்க உங்களுக்கு ஒரு கண்க்கு தேவை.</string>
+  <string name="savingDisplayGroups">திரையிடும் விருப்பத்தெரிவுகள்\u2026 சேமிக்கிறது</string>
+  <string name="listTotalPhoneContactsZero">தொடர்புகளில்லை</string>
+  <string name="listTotalAllContactsZero">தொடர்புகள் இல்லை</string>
+  <string name="listTotalAllContactsZeroCustom">பார்வையில்படும் தொடர்புகள் இல்லை</string>
+  <string name="listTotalAllContactsZeroStarred">விருப்பமானவைகள் இல்லை.</string>
+  <string name="listTotalAllContactsZeroGroup"><xliff:g id="name" example="Friends">%s</xliff:g> இல் தொடர்புகள் ஏதுமில்லை</string>
+  <string name="listAllContactsInAccount"><xliff:g id="name" example="abc@gmail.com">%s</xliff:g> இல் இருக்கும் தொடர்புகள்</string>
+  <string name="listSingleContact">ஒற்றை தொடர்பு</string>
+  <string name="listCustomView">பழக்க முறையிலான காட்சியில் தொடர்புகள்</string>
+  <string name="foundTooManyContacts"> <xliff:g id="count">%d</xliff:g>க்கும் அதிகமாகக் காணப்பட்டது.</string>
+  <string name="listFoundAllContactsZero">தொடர்புகளில்லை</string>
+  <string name="contactsFavoritesLabel">விருப்பமானது</string>
+  <string name="clearFrequentsConfirmation_title">அடிக்கடி தொடர்பு கொண்டவற்றை அகற்றவா?</string>
+  <string name="clearFrequentsConfirmation">மக்கள் மற்றும் தொலைபேசி அப்ளிகேஷன்களில் இருக்கும் அடிக்கடி தொடர்புகொள்ளப்பட்ட பட்டியலை நீங்கள் நீக்குவீர்கள் மற்றும்  துவக்கத்தில் இருந்து நீங்கள் முகமன் கொடுப்பதைக் கற்றுக்கொள்ள மின்னஞ்சல் அப்ளிகேஷ்ன்களை கட்டாயப்படுத்துவீர்கள்.</string>
+  <string name="clearFrequentsProgress_title">அடிக்கடி தொடர்பு கொண்டவற்றை\u2026 அகற்றுகிறது</string>
+  <string name="favoritesFrequentContacted">அடிக்கடி தொடர்பு கொள்ளப்பட்ட</string>
+  <string name="favoritesFrequentCalled">அடிக்கடி அழைக்கப்பட்ட</string>
+  <string name="description_minus_button">மைனஸ்</string>
+  <string name="description_view_contact_detail" msgid="2795575601596468581">தொடர்பு பார்வையிடுக</string>
+  <string name="no_sdcard_message" product="nosdcard">சேமிப்பகம் ஏதும் காணப்படவில்லை.</string>
+  <string name="no_sdcard_message" product="default">SD கார்டு காணப்படவில்லை.</string>
+  <string name="import_from_sim">சிம் கார்டில் இருந்து இறக்குமதி செய்க</string>
+  <string name="import_from_sdcard" product="default">வெளிப்புற சேமிப்பகத்திலிருந்து இறக்குமதி செய்க</string>
+  <string name="export_to_sdcard" product="default">வெளிப்புற சேமிப்பகத்திற்கு ஏற்றுமதி செய்க</string>
+  <string name="import_from_phone">உள்ளக சேமிப்பகத்திலிருந்து இறக்குமதி செய்க</string>
+  <string name="share_visible_contacts">பார்வையில் படும் தொடர்புகள் பகிரவும்</string>
+  <string name="import_one_vcard_string">ஒரு விகார்டு கோப்பு இறக்குமதி செய்க</string>
+  <string name="import_multiple_vcard_string">வி கார்டு கோப்புகளிலிருந்து இறக்குமதி செய்க</string>
+  <string name="import_all_vcard_string">அனைத்து விகார்டு கோப்புகளையும் இறக்குமதி செய்க</string>
+  <string name="searching_vcard_message" product="nosdcard">சேமிப்பகத்தில்\u2026 வி கார்டு தரவுகளுக்காக தேடுகிறது</string>
+  <string name="searching_vcard_message" product="default">சேமிப்பகத்தில்\u2026 வி கார்டு தரவுகளுக்காக தேடுகிறது</string>
+  <string name="scanning_sdcard_failed_message" product="nosdcard">சேமிப்பகம் ஸ்கேன் செய்யப்பட முடியாது. (காரணம்: \"<xliff:g id="fail_reason">%s</xliff:g>\")</string>
+  <string name="scanning_sdcard_failed_message" product="default"> SD கார்டு ஸ்கேன் செய்யப்பட முடியாது. (காரணம்: \"<xliff:g id="fail_reason">%s</xliff:g>\")</string>
+  <string name="fail_reason_io_error">I/O பிழை</string>
+  <string name="fail_reason_empty">காலியான தொடர்பு தரவுகள்</string>
+  <string name="fail_reason_low_memory_during_import">போதுமான நினைவகம் இல்லை. கோப்பு மிகப்பெரிதாக இருக்கலாம்.</string>
+  <string name="fail_reason_vcard_parse_error">எதிர்பாராத ஒரு காரணத்தினால் விகார்டு பார்ஸ் செய்ய முடியவில்லை</string>
+  <string name="fail_reason_not_supported">ஃபார்மட் துணை நிற்கப்படவில்லை.</string>
+  <string name="vcard_import_failed">விகார்டினை இறக்குமதி செய்ய முடியவில்லை.</string>
+  <string name="import_failure_no_vcard_file" product="nosdcard">சேமிப்பகத்தில் வி கார்டு கோப்பு காணப்படவில்லை</string>
+  <string name="import_failure_no_vcard_file" product="default">சேமிப்பகத்தில் வி கார்டு கோப்பு காணப்படவில்லை</string>
+  <string name="fail_reason_failed_to_collect_vcard_meta_info">க்டுக்கப்பட்ட விகார்டு கோப்பு(களு)க்கான மெட்டா தகவல்கள் சேகரிக்க முடியவில்லை.</string>
+  <string name="fail_reason_failed_to_read_files">ஒன்று அல்லது அதற்கு மேற்பட்ட கோப்புகள் இறக்குமதி செய்யப்பட முடியாது (%s).</string>
+  <string name="fail_reason_unknown">தெரியாத பிழை</string>
+  <string name="select_vcard_title">வி கார்டு கோப்பு தெரிவு செய்க</string>
+  <string name="caching_vcard_title">கேஷ் ஆகிறது</string>
+  <string name="caching_vcard_message">உள் அமைவிட தற்காலிக சேமிப்பிடத்தில் வி-கார்டுகளை கேஷ் செய்கிறது. உள்ள்படியான இறக்குமதி விரைவில் துவங்கும்.</string>
+  <string name="progress_notifier_message"><xliff:g id="current_number">%s</xliff:g>/<xliff:g id="total_number">%s</xliff:g>: <xliff:g id="name" example="Joe Due">%s</xliff:g>ஐ இறக்குமதி செய்கிறது</string>
+  <string name="importing_vcard_description">இறக்குமதி <xliff:g id="FILENAME">%s</xliff:g>ரத்து"</string>
+  <string name="reading_vcard_failed_title">வி கார்டு தரவுகளைப் படிக்க முடியவில்லை</string>
+  <string name="reading_vcard_canceled_title">வி கார்டு தரவு படிப்பது நிராகரிக்கப்பட்டது</string>
+  <string name="importing_vcard_finished_title"> <xliff:g id="filename" example="export.vcf">%s</xliff:g> ஏற்றுமதிசெய்தல் முடிக்கப்பட்டது.</string>
+  <string name="importing_vcard_canceled_title">இறக்குமதி <xliff:g id="FILENAME">%s</xliff:g>ரத்து"</string>
+  <string name="vcard_import_will_start_message"><xliff:g id="filename" example="import.vcf">%s</xliff:g> சற்று நேரத்தில் ஏற்றுமதி செய்யப்படும்.</string>
+  <string name="vcard_import_will_start_message_with_default_name">கோப்பு விரைவில் இறக்குமதி செய்யப்படும்.</string>
+  <string name="vcard_import_request_rejected_message">விகார்டு ஏற்றுமதி வேண்டுகோள் மறுக்கப்பட்டது. பின்னர் மீண்டும் முயலவும்.</string>
+  <string name="vcard_export_will_start_message"><xliff:g id="filename" example="import.vcf">%s</xliff:g> சற்று நேரத்தில் ஏற்றுமதி செய்யப்படும்.</string>
+  <string name="vcard_export_request_rejected_message">விகார்டு ஏற்றுமதி வேண்டுகோள் மறுக்கப்பட்டது. பின்னர் மீண்டும் முயலவும்.</string>
+  <string name="vcard_unknown_filename">தொடர்பு</string>
+  <string name="percentage"><xliff:g id="percentage" example="50">%s</xliff:g><xliff:g id="percentsign" example="%">%%</xliff:g></string>
+  <string name="confirm_export_title">தொடர்புகள் ஏற்றுமதி செய்க</string>
+  <string name="confirm_export_message">உங்கள் தொடர்பு தரவுகள் ஏற்றுமதி செய்யப்பட இருப்பது: <xliff:g id="file_name">%s</xliff:g>.</string>
+  <string name="exporting_contact_failed_title">ஏற்றுமதி செய்ய முடியவில்லை</string>
+  <string name="exporting_contact_failed_message">தொடர்பு தரவுகள் ஏற்றுமதியாகவில்லை.\nகாரணம்: \"<xliff:g id="fail_reason">%s</xliff:g>\"</string>
+  <string name="fail_reason_no_exportable_contact">ஏற்றுமதி செய்யக்கூடிய தொடர்பு ஏதுமில்லை.</string>
+  <string name="fail_reason_too_many_vcard" product="nosdcard">மிக அதிகமான  விகார்டு கோப்புகள் சேமிப்பகத்தில் உள்ளன.</string>
+  <string name="fail_reason_too_many_vcard" product="default">மிக அதிகமான  விகார்டு கோப்புகள் சேமிப்பகத்தில் உள்ளன.</string>
+  <string name="fail_reason_too_long_filename">கோப்பு தேவையான மிகவும் நீளமாக உள்ளது（“<xliff:g id="FILENAME">%s</xliff:g>”）</string>
+  <string name="exporting_vcard_finished_title"> <xliff:g id="filename" example="export.vcf">%s</xliff:g> ஏற்றுமதிசெய்தல் முடிக்கப்பட்டது.</string>
+  <string name="exporting_vcard_canceled_title"><xliff:g id="filename" example="export.vcf">%s</xliff:g> ஏற்றுமதியாவது நிராகரிக்கப்பட்டது.</string>
+  <string name="exporting_contact_list_title">தொடர்பு தரவுகள் ஏற்றுமதியாகிறது</string>
+  <string name="exporting_contact_list_message">உங்கள் தொடர்பு தரவுகள் ஏற்றுமதி செய்யப்பட இருப்பது: <xliff:g id="file_name">%s</xliff:g>.</string>
+  <string name="fail_reason_could_not_initialize_exporter">ஏற்றுமதியாளரை துவக்க முடியவில்லை: \"<xliff:g id="exact_reason">%s</xliff:g>\".</string>
+  <string name="fail_reason_error_occurred_during_export">ஏற்றுமதியின் போது ஒரு பிழை நேர்ந்தது: \"<xliff:g id="exact_reason">%s</xliff:g>\".</string>
+  <string name="composer_failed_to_get_database_infomation">தரவுத்தளத் தகவல்களைப் பெற முடியவில்லை.</string>
+  <string name="composer_has_no_exportable_contact" product="tablet">ஏற்றுமதி செய்யக்கூடிய தொடர்புகள் ஏதுமில்லை.உங்கள் டேப்லெட்டில் தொடர்புகள் இருந்தால் சில தரவு அளிப்பாளர்கள் டேப்லெட்டிலிருந்து தொடர்புகளை ஏற்றுமதி செய்ய அனுமதிக்காமலிருக்கக்கூடும்.</string>
+  <string name="composer_has_no_exportable_contact" product="default">உங்கள் பகுதியில் செயல்பாடுள்ள எச்சரிப்புக்கள் ஏதுமில்லை.அமைப்புக்கள்மெனு விருப்பத்தெரிவினை பயன்படுத்தி எச்சரிப்பு அமைப்புக்களை நீங்கள் மாற்றிக்கொள்ளலாம்.</string>
+  <string name="composer_not_initialized">வி கார்டு தொகுப்பாளர் முறையாகத் துவக்கவில்லை</string>
+  <string name="fail_reason_could_not_open_file"> \"<xliff:g id="file_name">%s</xliff:g>\" திறக்க முடியவில்லை: <xliff:g id="exact_reason">%s</xliff:g> .</string>
+  <string name="cancel_import_confirmation_message"> <xliff:g id="filename" example="import.vcf">%s</xliff:g> இன் இறக்குமதி நிராகரிக்கவா?</string>
+  <string name="cancel_export_confirmation_message"> <xliff:g id="filename" example="export.vcf">%s</xliff:g> இன் ஏற்றுமதி நிராகரிக்கவா?</string>
+  <string name="cancel_vcard_import_or_export_failed">விகார்டு இறக்குமதி/ஏற்றுமதியை நிராகரிக்க முடியவில்லை</string>
+  <string name="missing_name">(பெயர் இல்லை)</string>
+  <string name="menu_accounts">கணக்குகள்</string>
+  <string name="menu_clear_frequents">அடிக்கடியானவற்றை அகற்றவும்</string>
+  <string name="menu_contacts_filter">திரையிடுவதற்கான தொடர்புகள்</string>
+  <string name="menu_import_export">இறக்குமதி/ஏற்றுமதி</string>
+  <string name="dialog_import_export">இறக்குமதி/ஏற்றுமதி தொடர்பு </string>
+  <string name="dialog_import">தொடர்புகள் இறக்குமதி செய்க</string>
+  <string name="share_error">இந்தத் தொடர்பு பகிரப்பட முடியாது</string>
+  <string name="nameLabelsGroup">பெயர்</string>
+  <string name="nicknameLabelsGroup">புனைபெயர்</string>
+  <string name="organizationLabelsGroup">நிறுவனம்</string>
+  <string name="websiteLabelsGroup">வலைத்தளம்</string>
+  <string name="eventLabelsGroup">நிகழ்வுகள்</string>
+  <string name="relationLabelsGroup">உறவுமுறை</string>
+  <string name="groupsLabel">குழுக்கள்</string>
+  <string name="dialog_new_contact_account">கணக்கின் கீழாக தொடர்பு உருவாக்குக</string>
+  <string name="menu_sync_remove">சின்க் குழு அகற்றுக</string>
+  <string name="dialog_sync_add">சின்க் குழு சேர்க்கவும்</string>
+  <string name="display_more_groups">மேலும் அதிக குழுக்கள்\u2026</string>
+  <string name="display_ungrouped">இதர அனைத்து தொடர்புகள்</string>
+  <string name="display_all_contacts">அனைத்து தொடர்புகள்</string>
+  <string name="display_warn_remove_ungrouped">\"<xliff:g id="group" example="Starred">%s</xliff:g>\" ஐ சின்க் லிருந்து அகற்றுவது சின்க் லிருந்து குழு சேர்க்கப்படாத ஏதேனும் தொடர்புகளையும் அகற்றி விடும்.</string>
+  <string name="account_phone" product="tablet">டேப்லெட் மட்டும், சின்க் செய்யப்படாதது</string>
+  <string name="account_phone" product="default">தொலைபேசி மட்டும், சின்க் செய்யப்படாதது</string>
+  <string name="call_custom">அழைக்கவும் <xliff:g id="assistant">%s</xliff:g></string>
+  <string name="call_home">வீட்டினை அழைக்கவும்</string>
+  <string name="call_mobile">மொபைல் அழைப்பு</string>
+  <string name="call_work">அழைப்புப் பணி</string>
+  <string name="call_fax_work">அழைப்புப் பணி தொலைநகல்</string>
+  <string name="call_fax_home">வீட்டு தொலை நகல் அழைக்கவும்</string>
+  <string name="call_pager">பேஜர் அழைப்பு </string>
+  <string name="call_other">அழைப்பு</string>
+  <string name="call_callback">திரும்ப அழைத்தல் அழைக்கவும்</string>
+  <string name="call_car">கார் அழைக்கவும்</string>
+  <string name="call_company_main">கம்பெனி அழைக்கவும் பிரதானம்</string>
+  <string name="call_isdn">அழைப்பு ISDN</string>
+  <string name="call_main">பிரதான அழைப்பு </string>
+  <string name="call_other_fax">தொலைநகல் அழைப்பு</string>
+  <string name="call_radio">ரேடியோ அழைப்பு</string>
+  <string name="call_telex">அழைப்பு டெலெக்ஸ்</string>
+  <string name="call_tty_tdd">அழைப்பு TTY/TDD</string>
+  <string name="call_work_mobile">அழைப்புப் பணி மொபைல்</string>
+  <string name="call_work_pager">அழைப்புப் பணி பேஜர்</string>
+  <string name="call_assistant">அழைக்கவும் <xliff:g id="assistant">%s</xliff:g></string>
+  <string name="call_mms">எம் எம் எஸ் அழைப்பு</string>
+  <string name="sms_custom">உரை <xliff:g id="assistant">%s</xliff:g></string>
+  <string name="sms_home">உரை முகப்பு</string>
+  <string name="sms_mobile">உரை மொபைல்</string>
+  <string name="sms_work">உரை பணி</string>
+  <string name="sms_fax_work">உரை பணி தொலைநகல்</string>
+  <string name="sms_fax_home">உரை முகப்பு தொலைநகல்</string>
+  <string name="sms_pager">உரை பெஜர்</string>
+  <string name="sms_other">உரை</string>
+  <string name="sms_callback">உரை திரும்ப அழைத்தல்</string>
+  <string name="sms_car">உரை கார்</string>
+  <string name="sms_company_main">உரை கம்பெனி மெயின்</string>
+  <string name="sms_isdn">உரை ISDN</string>
+  <string name="sms_main">உரை மெயின்</string>
+  <string name="sms_other_fax">உரை தொலை நகல்</string>
+  <string name="sms_radio">உரை ரேடியோ</string>
+  <string name="sms_telex">உரை டெலெக்ஸ்</string>
+  <string name="sms_tty_tdd">உரை TTY/TDD</string>
+  <string name="sms_work_mobile">உரை பணி மொபைல்</string>
+  <string name="sms_work_pager">உரை பணி பேஜர்</string>
+  <string name="sms_assistant">உரை <xliff:g id="assistant">%s</xliff:g></string>
+  <string name="sms_mms">உரை எம் எம் எஸ்</string>
+  <string name="sms">உரைச் செய்தி</string>
+  <string name="email_home">மின்னஞ்சல் வீடு</string>
+  <string name="email_mobile">மின்னஞ்சல் மொபைல்</string>
+  <string name="email_work">மின்னஞ்சல் பணி</string>
+  <string name="email_other">மின்னஞ்சல்</string>
+  <string name="email_custom">மின்னஞ்சல் <xliff:g id="custom">%s</xliff:g></string>
+  <string name="email">மின்னஞ்சல்</string>
+  <string name="map_home">முகப்பு முகவரி பார்வையிடுக</string>
+  <string name="map_work">பணி முகவரி பார்வையிடுக</string>
+  <string name="map_other">முகவரி பார்வையிடுக</string>
+  <string name="map_custom">பார்வையிடுக <xliff:g id="custom">%s</xliff:g> முகவரி</string>
+  <string name="chat_aim"> AIM பயன்படுத்தி அரட்டை</string>
+  <string name="chat_msn">விண்டோஸ் பயன்படுத்தி அரட்டை</string>
+  <string name="chat_yahoo">யாஹூ பயன்படுத்தி அரட்டை</string>
+  <string name="chat_skype">ஸ்கைப் பயன்படுத்தி அரட்டை</string>
+  <string name="chat_qq">QQ பயன்படுத்தி அரட்டை</string>
+  <string name="chat_gtalk">கூகிள் டாக் பயன்படுத்தி அரட்டை</string>
+  <string name="chat_icq">ICQ பயன்படுத்தி அரட்டை</string>
+  <string name="chat_jabber">ஜாப்பர் பயன்படுத்தி அரட்டை</string>
+  <string name="chat">அரட்டை</string>
+  <string name="postal_address">முகவரி</string>
+  <string name="postal_street">தெரு</string>
+  <string name="postal_pobox">தபால் பெட்டி</string>
+  <string name="postal_neighborhood">அண்டை அயல்</string>
+  <string name="postal_city">மாநகரம்</string>
+  <string name="postal_region">மாநிலம்</string>
+  <string name="postal_postcode">ஜிப் குறியீடு</string>
+  <string name="postal_country">நாடு</string>
+  <string name="full_name">பெயர்</string>
+  <string name="name_given">கொடுக்கப்பட்ட பெயர்</string>
+  <string name="name_family">குடும்பப்பெயர்</string>
+  <string name="name_prefix">பெயர் முன்னெழுத்து</string>
+  <string name="name_middle">நடுப்பெயர்</string>
+  <string name="name_suffix">பெயர் விகுதி</string>
+  <string name="name_phonetic_given">கொடுக்கப்பட்ட பெயர் உச்சரிப்பில்</string>
+  <string name="name_phonetic_middle">மத்திய பெயர் உச்சரிப்பில்</string>
+  <string name="name_phonetic_family">குடும்பப்பெயர் உச்சரிப்பில்</string>
+  <string name="name_phonetic">பெயர் உச்சரிப்பில்</string>
+  <string name="no_contact_details">இந்த்த் தொடர்புக்கு கூடுதல் தகவல்கள் இல்லை</string>
+  <string name="search_results_searching">தேடிகொண்டிருக்கிறது</string>
+  <string name="menu_select_all">“ அனைத்தையும் தேர்ந்தெடுக்கவும்”</string>
+  <string name="menu_select_none">“ அனைத்தையும் தெரிவு நீக்கவும்” </string>
+  <string name="local_invisible_directory">மற்ற</string>
+  <string name="directory_search_label">டைரக்ட்டரி</string>
+  <string name="local_search_label">அனைத்து தொடர்புகள்</string>
+  <string name="list_filter_all_accounts">அனைத்து தொடர்புகள்</string>
+  <string name="list_filter_all_starred">நட்சத்திரமிடப்பட்டவை</string>
+  <string name="list_filter_customize">பழக்கமுறைப்படுத்துக</string>
+  <string name="list_filter_phones">தொலைபேசி எண்களுடன் அனைத்து தொடர்புகள்</string>
+  <string name="list_filter_single">தொடர்பு</string>
+  <string name="custom_list_filter">பழக்கமுறையிலான காட்சியை விவரணம் செய்க</string>
+  <string name="activity_title_contacts_filter">திரையிடுவதற்கான தொடர்புகள்</string>
+  <string name="hint_findContacts">தொடர்புகள் கண்டுபிடிக்கவும்</string>
+  <string name="contacts_unavailable_add_account">ஒரு கணக்கில் உள் நுழைக</string>
+  <string name="toast_text_copied">உரை பிரதியெடுக்கப்பட்டது</string>
+  <string name="profile_display_name">எனது சுயவிபரம் அமைக்கவும்</string>
+  <string name="view_updates_from_group">புதுப்பித்தல்கள் பார்வையிடுக</string>
+  <string name="nfc_vcard_file_name">NFC வழியாக தொடர்பு பெறப்பட்டது</string>
+  <string name="status_available">கிடைக்கிறது</string>
+  <string name="status_away">தூரமாக</string>
+  <string name="status_busy">பணியில்</string>
+  <string name="description_send_message"> <xliff:g id="name">%1$s</xliff:g> செய்தி அனுப்புக</string>
+  <string name="description_dial_phone_number">டயல் தொலைபேசி <xliff:g id="name">%1$s</xliff:g></string>
+  <string name="description_quick_contact_for"> <xliff:g id="name">%1$s</xliff:g>க்கான விரைவு தொடர்பு</string>
+  <string name="user_profile_contacts_list_header" msgid="9154761216179882405">எனக்கு</string>
+  <string name="choose_sim_card">சிம் கார்டு தெரிவு செய்க</string>
+  <string name="toast_no_contact_selected">தொடர்பு எதுவும்  தேர்வு செய்யப்படவில்லை</string>
+  <string name="alert_delete_contact">தேர்ந்தெடுக்கப்பட்ட தொடர்புகளை அழிக்க விரும்புவதில் நீங்கள் உறுதியா?</string>
+  <string name="label_phone">தொலைபேசி</string>
+  <string name="listMaxContactsInAccount">"காலியிடம்: <xliff:g id="COUNT">%d</xliff:g>"</string>
+  <string name="reading_vcard_exception_title">படித்தல் / செய்வதையும் தரவு விதிவிலக்கு எழுதி</string>
+  <string name="sqlite_full">தொடர்பு தரவுத்தளம் அல்லது டிஸ்க் நிறைந்தது</string>
+  <string name="select_card">தயவு செய்து கார்டு தேர்வு செய்யவும்</string>
+  <string name="select_all_contacts">அனைத்தையும் தெரிவு செய்க</string>
+  <string name="menu_save">சேமி</string>
+  <string name="cancel_select_all_contacts">அனைத்தையும் நிராகரிக்கவும்</string>
+  <string name="no_match_contact">பொருந்தும் தொடர்புகள் இல்லை</string>
+  <string name="no_vcard_found_in_internal_stor">உள்ளக சேமிப்பகத்தில் வி கார்டு இல்லை</string>
+  <string name="sdcard_storage_not_enough">SD கார்டு சேமிப்பகம் போதுமானதில்லை!</string>
+  <string name="not_select_vCard">எந்த வி கார்டையும் தெரிவு செய்யவில்லை</string>
+  <plurals name="listTotalAllContacts">
+        <item quantity="one">"1 தொடர்பு"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g>தொடர்புகள்"</item>
+    </plurals>
+  <plurals name="searchFoundContacts">
+        <item quantity="one">"1 காணப்பட்டது"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> காணப்பட்டன"</item>
+    </plurals>
+  <plurals name="group_list_num_contacts_in_group">
+        <item quantity="one">"<xliff:g id="count">%1$d</xliff:g> நபர்"</item>
+        <item quantity="other">"<xliff:g id="count">%1$d</xliff:g> மக்கள்"</item>
+    </plurals>
+  <plurals name="searchMatchContacts">
+      <item quantity="one" msgid="4826918429708286628">"ஒரு தொடர்பு பொருந்துகிறது"</item>
+      <item quantity="other" msgid="7988132539476575389">" <xliff:g id="COUNT">%d</xliff:g>தொடர்பு பொருந்துகிறது"</item>
+  </plurals>
+    <string name="expand_collapse_name_fields_description">"பெயர்புலங்களை விரிவாக்கு அல்லது சிதை"</string>
+    <string name="copy_to">"க்கு பிரதியெடுக்கவும்"</string>
+    <string name="export_to_phone">"உள்ளார்ந்த சேமிப்பகத்திற்கு ஏற்றுமதி செய்க"</string>
+    <string name="contacts_selection_for_mms_limit">"தேர்ந்தெடுக்கப்பட்ட  எண்ணின் வரம்புக்குட்பட்ட எண்ணிக்கை<xliff:g id="COUNT">%d</xliff:g>ஆகும்."</string>
+    <string name="contact_status_update_attribution">"<xliff:g id="source" example="Google Talk">%1$s</xliff:g> வழியாக"</string>
+    <string name="contact_status_update_attribution_with_date">"<xliff:g id="date" example="3 hours ago">%1$s</xliff:g> via <xliff:g id="source" example="Google Talk">%2$s</xliff:g>"</string>
+    <string name="list_contact_phone">"ஃபோன் எண்களுடன் உள்ள தொடர்புகள்"</string>
+</resources>

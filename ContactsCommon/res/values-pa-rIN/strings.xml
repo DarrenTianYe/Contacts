@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="contactsList">ਸੰਪਰਕ</string>
+    <string name="contactPickerActivityTitle">ਕੋਈ ਸੰਪਰਕ ਚੁਣੋ</string>
+    <string name="menu_search">ਖੋਜ ਕਰੋ</string>
+    <string name="menu_done">ਹੋ ਗਿਆ</string>
+    <string name="menu_doNotSave">ਰੱਦ ਕਰੋ</string>
+    <string name="label_notes">ਲੇਬਲ</string>
+    <string name="label_sip_address">ਇੰਟਰਨੈਟ ਕਾਲ</string>
+    <string name="ghostData_company">ਕੰਪਨੀ</string>
+    <string name="ghostData_title">ਸਿਰਲੇਖ</string>
+    <string name="phoneLabelsGroup">ਫੋਨ</string>
+    <string name="emailLabelsGroup">ਈਮੇਲ</string>
+    <string name="imLabelsGroup">IM</string>
+    <string name="postalLabelsGroup">ਪਤਾ</string>
+    <string name="noGroups">ਕੋਈ ਸਮੂਹ ਨਹੀਂ।</string>
+    <string name="noAccounts">ਸਮੂਹ ਬਣਾਉਣ ਲਈ ਤੁਹਾਨੂੰ ਇੱਕ ਖਾਤੇ ਦੀ ਲੋੜ ਹੈ।</string>
+    <string name="savingDisplayGroups">ਵਿਕਲਪਾਂ ਨੂੰ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨਾ ਸੁਰੱਖਿਅਤ ਹੋ ਰਿਹਾ ਹੈ\u2026</string>
+    <string name="listTotalPhoneContactsZero">ਫੋਨ ਵਾਲੇ ਕੋਈ ਸੰਪਰਕ ਨਹੀਂ</string>
+    <plurals name="listTotalAllContacts">
+        <item quantity="one">1 ਸੰਪਰਕ</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> ਸੰਪਰਕ</item>
+    </plurals>
+    <string name="listTotalAllContactsZero">ਕੋਈ ਸੰਪਰਕ ਨਹੀਂ।</string>
+    <string name="listTotalAllContactsZeroCustom">ਕੋਈ ਦੇਖਣਯੋਗ ਸੰਪਰਕ ਨਹੀਂ।</string>
+    <string name="listTotalAllContactsZeroStarred">ਕੋਈ ਪਸੰਦੀਦਾ ਨਹੀਂ।</string>
+    <string name="listTotalAllContactsZeroGroup"><xliff:g id="name" example="Friends">%s</xliff:g> ਵਿੱਚ ਕੋਈ ਸੰਪਰਕ ਨਹੀਂ</string>
+    <string name="listAllContactsInAccount"><xliff:g id="name" example="abc@gmail.com">%s</xliff:g> ਵਿੱਚ ਸੰਪਰਕ</string>
+    <string name="listMaxContactsInAccount">"ਸੈਪਸ: <xliff:g id="COUNT">%d</xliff:g>"</string>
+    <string name="listSingleContact">ਸਿੰਗਲ ਸੰਪਰਕ</string>
+    <string name="listCustomView">ਕਸਟਮ ਦ੍ਰਿਸ਼ ਵਿੱਚ ਸੰਪਰਕ</string>
+    <string name="foundTooManyContacts"><xliff:g id="count">%d</xliff:g> ਤੋਂ ਵੱਧ ਮਿਲੇ।</string>
+    <string name="listFoundAllContactsZero">ਕੁਝ ਨਹੀਂ ਮਿਲਿਆ।</string>
+    <plurals name="searchFoundContacts">
+        <item quantity="one">1 ਮਿਲਿਆ</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> ਮਿਲੇ</item>
+    </plurals>
+    <string name="contactsFavoritesLabel">ਪਸੰਦੀਦਾ</string>
+    <string name="favoritesFrequentContacted">ਬਾਰੰਬਾਰਤਾ ਨਾਲ ਸੰਪਰਕ ਕੀਤਾ</string>
+    <string name="favoritesFrequentCalled">ਬਾਰੰਬਾਰਤਾ ਨਾਲ ਕਾਲ ਕੀਤੀ </string>
+    <string name="description_minus_button">ਘਟਾਓ</string>
+    <string name="description_view_contact_detail" msgid="2795575601596468581">ਸੰਪਰਕ ਦੇਖੋ</string>
+    <string name="no_sdcard_message" product="nosdcard">ਕੋਈ ਸਟੋਰੇਜ ਨਹੀਂ ਮਿਲੀ ਸੀ।</string>
+    <string name="no_sdcard_message" product="default">ਕੋਈ SD ਕਾਰਡ ਨਹੀਂ ਮਿਲਿਆ।</string>
+    <string name="import_from_sim">SIM ਕਾਰਡ ਵਿੱਚੋਂ ਇੰਪੋਰਟ ਕਰੋ</string>
+    <string name="import_from_sdcard" product="default">ਬਾਹਰੀ ਸਟੋਰੇਜ ਵਿੱਚੋਂ ਇੰਪੋਰਟ ਕਰੋ</string>
+    <string name="export_to_sdcard" product="default">ਬਾਹਰੀ ਸਟੋਰੇਜ ਵਿੱਚ ਐਕਸਪੋਰਟ ਕਰੋ</string>
+    <string name="import_from_phone">ਅੰਦਰੂਨੀ ਸਟੋਰੇਜ ਵਿੱਚੋਂ ਇੰਪੋਰਟ ਕਰੋ</string>
+    <string name="share_visible_contacts">ਦੇਖਣਯੋਗ ਸੰਪਰਕ ਸਾਂਝੇ ਕਰੋ</string>
+    <string name="import_one_vcard_string">ਇੱਕ vCard ਫਾਈਲ ਇੰਪੋਰਟ ਕਰੋ</string>
+    <string name="import_multiple_vcard_string">ਮਲਟੀਪਲ vCard ਫਾਈਲਾਂ ਇੰਪੋਰਟ ਕਰੋ</string>
+    <string name="import_all_vcard_string">ਸਾਰੀਆਂ vCard ਫਾਈਲਾਂ ਇੰਪੋਰਟ ਕਰੋ</string>
+    <string name="searching_vcard_message" product="nosdcard">ਸਟੋਰੇਜ ਵਿੱਚ vCard ਡੇਟੇ ਦੀ ਖੋਜ ਹੋ ਰਹੀ ਹੈ\u2026</string>
+    <string name="searching_vcard_message" product="default">ਸਟੋਰੇਜ ਵਿੱਚ vCard ਡੇਟੇ ਦੀ ਖੋਜ ਹੋ ਰਹੀ ਹੈ\u2026</string>
+    <string name="scanning_sdcard_failed_message" product="nosdcard">ਸਟੋਰੇਜ ਸਕੈਨ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ। (ਕਾਰਨ: \"<xliff:g id="fail_reason">%s</xliff:g>\")</string>
+    <string name="scanning_sdcard_failed_message" product="default">SD ਕਾਰਡ ਸਕੈਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ। (ਕਾਰਨ: \"<xliff:g id="fail_reason">%s</xliff:g>\")</string>
+    <string name="fail_reason_io_error">I/O ਅਸ਼ੁੱਧੀ</string>
+    <string name="fail_reason_low_memory_during_import">ਪੂਰੀ ਮੈਮਰੀ ਨਹੀਂ। ਫਾਈਲ ਬਹੁਤ ਜ਼ਿਆਦਾ ਵੱਡੀ ਹੋ ਸਕਦੀ ਹੈ। </string>
+    <string name="fail_reason_vcard_parse_error">ਇੱਕ ਅਸੰਭਾਵਿਤ ਵਿਅਕਤੀ ਲਈ vਕਾਰਡ ਦੀ ਪਦ ਵਿਆਖਿਆ ਨਹੀਂ ਹੋ ਸਕੀ।</string>
+    <string name="fail_reason_not_supported">ਫੌਰਮੈਟ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ।</string>
+    <string name="vcard_import_failed">vCard ਇੰਪੋਰਟ ਨਹੀਂ ਹੋ ਸਕਿਆ।</string>
+    <string name="import_failure_no_vcard_file" product="nosdcard">ਸਟੋਰੇਜ ਵਿੱਚ ਕੋਈ vCard ਫਾਈਲ ਨਹੀਂ ਮਿਲੀ।</string>
+    <string name="import_failure_no_vcard_file" product="default">SD ਕਾਰਡ ਤੇ ਕੋਈ vCard ਫਾਈਲ ਨਹੀਂ ਮਿਲੀ।</string>
+    <string name="fail_reason_failed_to_collect_vcard_meta_info">ਦਿੱਤੀ ਗਈ vCard ਫਾਈਲ (ਫਾਈਲਾਂ) ਦੀ ਮੇਟਾ ਜਾਣਕਾਰੀ ਨਹੀਂ ਲਈ ਜਾ ਸਕੀ।</string>
+    <string name="fail_reason_failed_to_read_files">ਇੱਕ ਜਾਂ ਵੱਧ ਫਾਈਲਾਂ ਇੰਪੋਰਟ ਨਹੀਂ ਕੀਤੀਆਂ ਜਾ ਸਕੀਆਂ(%s)।</string>
+    <string name="fail_reason_unknown">ਅਗਿਆਤ ਅਸ਼ੁੱਧੀ</string>
+    <string name="select_vcard_title">vCard ਫਾਈਲ ਚੁਣੋ</string>
+    <string name="caching_vcard_title">ਕੈਚ ਹੋ ਰਿਹਾ ਹੈ</string>
+    <string name="caching_vcard_message">ਸਥਾਨਕ ਅਸਥਾਈ ਸਟੋਰੇਜ ਵਿੱਚ vCard(s) ਕੈਚ ਹੋ ਰਿਹਾ ਹੈ। ਅਸਲੀ ਇੰਪੋਰਟ ਜਲਦੀ ਹੀ ਸ਼ੁਰੂ ਹੋਵੇਗਾ।</string>
+    <string name="progress_notifier_message"><xliff:g id="current_number">%s</xliff:g>/<xliff:g id="total_number">%s</xliff:g>: <xliff:g id="name" example="Joe Due">%s</xliff:g> ਨੂੰ ਇੰਪੋਰਟ ਕਰ ਰਿਹਾ ਹੈ</string>
+    <string name="importing_vcard_description"><xliff:g id="name" example="Joe Due">%s</xliff:g>ਨੂੰ ਇੰਪੋਰਟ ਕਰ ਰਿਹਾ ਹੈ</string>
+    <string name="reading_vcard_failed_title">vCard ਡੇਟਾ ਨਹੀਂ ਪੜ੍ਹ ਸਕਿਆ</string>
+    <string name="reading_vcard_canceled_title">vCard ਡੇਟੇ ਨੂੰ ਪੜ੍ਹਨਾ ਰੱਦ ਹੋ ਗਿਆ।</string>
+    <string name="reading_vcard_exception_title">vCard ਡੇਟਾ ਹਵਾਲੇ ਨੂੰ ਪੜ੍ਹਨਾ/ਲਿਖਣਾ </string>
+    <string name="sqlite_full">ਸੰਪਰਕ ਡੇਟਾਬੇਸ ਜਾਂ ਡਿਸਕ ਪੂਰੀ ਭਰੀ ਹੋਈ ਹੈ</string>
+    <string name="importing_vcard_finished_title">vCard <xliff:g id="filename" example="import.vcf">%s</xliff:g> ਨੂੰ ਇੰਪੋਰਟ ਕਰਨਾ ਪੂਰਾ ਹੋ ਗਿਆ</string>
+    <string name="importing_vcard_canceled_title"><xliff:g id="filename" example="import.vcf">%s</xliff:g>ਨੂੰ ਇੰਪੋਰਟ ਕਰਨਾ ਰੱਦ ਹੋ ਗਿਆ</string>
+    <string name="vcard_import_will_start_message"><xliff:g id="filename" example="import.vcf">%s</xliff:g> ਥੋੜ੍ਹੀ ਦੇਰ ਵਿੱਚ ਇੰਪੋਰਟ ਹੋ ਜਾਏਗਾ।</string>
+    <string name="vcard_import_will_start_message_with_default_name">ਫਾਈਲ ਥੋੜ੍ਹੀ ਦੇਰ ਵਿੱਚ ਇੰਪੋਰਟ ਹੋ ਜਾਏਗਾ।</string>
+    <string name="vcard_import_request_rejected_message">vCard ਐਕਸਪੋਰਟ ਬੇਨਤੀ ਅਸਵੀਕਾਰ ਹੋ ਗਈ ਸੀ। ਬਾਅਦ ਵਿੱਚ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="vcard_export_will_start_message"><xliff:g id="filename" example="import.vcf">%s</xliff:g> ਥੋੜ੍ਹੀ ਦੇਰ ਵਿੱਚ ਐਕਸਪੋਰਟ ਹੋ ਜਾਏਗਾ।</string>
+    <string name="vcard_export_request_rejected_message">vCard ਐਕਸਪੋਰਟ ਬੇਨਤੀ ਅਸਵੀਕਾਰ ਹੋ ਗਈ ਸੀ। ਬਾਅਦ ਵਿੱਚ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="vcard_unknown_filename">ਸੰਪਰਕ</string>
+    <string name="confirm_export_title">ਸੰਪਰਕ ਐਕਸਪੋਰਟ ਕਰੋ?</string>
+    <string name="confirm_export_message">ਤੁਹਾਡੀ ਸੰਪਰਕ ਸੂਚੀ ਇਸ ਫਾਈਲ ਵਿੱਚ ਐਕਸਪੋਰਟ ਕੀਤੀ ਜਾਏਗੀ: <xliff:g id="vcard_filename">%s</xliff:g>.</string>
+    <string name="exporting_contact_failed_title">ਐਕਸਪੋਰਟ ਨਹੀਂ ਹੋ ਸਕਿਆt</string>
+    <string name="exporting_contact_failed_message">ਸੰਪਰਕ ਡੇਟਾ ਐਕਸਪੋਰਟ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਸੀ। \nਕਾਰਨ: \"<xliff:g id="fail_reason">%s</xliff:g>\"</string>
+    <string name="fail_reason_no_exportable_contact">ਕੋਈ ਐਕਸਪੋਰਟ ਕਰਨ ਯੋਗ ਸੰਪਰਕ ਨਹੀਂ ਹੈ।</string>
+    <string name="fail_reason_too_many_vcard" product="nosdcard">ਸਟੋਰੇਜ ਵਿੱਚ ਬਹੁਤ ਸਾਰੀਆਂ vCard ਫਾਈਲਾਂ।</string>
+    <string name="fail_reason_too_many_vcard" product="default">SD ਕਾਰਡ ਤੇ ਬਹੁਤ ਸਾਰੀਆਂ vCard ਫਾਈਲਾਂ।</string>
+    <string name="fail_reason_too_long_filename">ਲੋੜੀਂਦਾ ਫਾਈਲ ਨਾਂ ਬਹੁਤ ਜ਼ਿਆਦਾ ਵੱਡਾ ਹੈ (\"<xliff:g id="filename">%s</xliff:g>\").</string>
+    <string name="exporting_vcard_finished_title"><xliff:g id="filename" example="export.vcf">%s</xliff:g> ਨੂੰ ਐਕਸਪੋਰਟ ਕਰਨਾ ਪੂਰਾ ਹੋ ਗਿਆ।</string>
+    <string name="exporting_vcard_canceled_title"><xliff:g id="filename" example="export.vcf">%s</xliff:g> ਨੂੰ ਐਕਸਪੋਰਟ ਕਰਨਾ ਰੱਦ ਹੋ ਗਿਆ।</string>
+    <string name="exporting_contact_list_title">ਸੰਪਰਕ ਡੇਟਾ ਐਕਸਪੋਰਟ ਹੋ ਰਿਹਾ ਹੈ</string>
+    <string name="exporting_contact_list_message">ਤੁਹਾਡਾ ਸੰਪਰਕ ਡੇਟਾ ਇਸਨੂੰ ਐਕਸਪੋਰਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ: <xliff:g id="file_name">%s</xliff:g>.</string>
+    <string name="fail_reason_could_not_initialize_exporter">ਐਕਸਪੋਰਟਰ ਚਾਲੂ ਨਹੀਂ ਹੋ ਸਕਿਆ: \"<xliff:g id="exact_reason">%s</xliff:g>\".</string>
+    <string name="fail_reason_error_occurred_during_export">ਐਕਸਪੋਰਟ ਦੇ ਦੌਰਾਨ ਇੱਕ ਅਸ਼ੁੱਧੀ ਵਾਪਰੀ ਸੀ: \"<xliff:g id="exact_reason">%s</xliff:g>\".</string>
+    <string name="composer_failed_to_get_database_infomation">ਡੇਟਾਬੇਸ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕੀ। </string>
+    <string name="composer_has_no_exportable_contact" product="tablet">ਕੋਈ ਐਕਸਪੋਰਟ ਕਰਨ ਯੋਗ ਸੰਪਰਕ ਨਹੀਂ ਹਨ। ਜੇਕਰ ਤੁਹਾਡੀ ਟੈਬਲੇਟ ਤੇ ਸੰਪਰਕ ਹਨ, ਤਾਂ ਹੋ ਸਕਦਾ ਹੈ ਕੁਝ ਡੇਟਾ ਪ੍ਰਦਾਤਾ ਟੈਬਲੇਟ ਵਿੱਚੋਂ ਸੰਪਰਕਾਂ ਨੂੰ ਐਕਸਪੋਰਟ ਕੀਤੇ ਜਾਣ ਦੀ ਅਨੁਮਤੀ ਨਾ ਦੇਣ।</string>
+    <string name="composer_has_no_exportable_contact" product="default">ਕੋਈ ਭੇਜਣਯੋਗ ਸੰਪਰਕ ਨਹੀਂ ਹਨ। ਜੇਕਰ ਤੁਹਾਡੇ ਫੋਨ ਤੇ ਸੰਪਰਕ ਹਨ, ਤਾਂ ਕੁਝ ਡਾਟਾ ਪ੍ਰੋਵਾਈਡਰ ਫੋਨ ਤੋਂ ਸੰਪਰਕ ਭੇਜਣ ਦੀ ਆਗਿਆ ਨਹੀਂ ਦੇ ਸਕਦੇ।</string>
+    <string name="composer_not_initialized">vCard ਕੰਪੋਜਰ ਸਹੀ ਢੰਗ ਨਾਲ ਚਾਲੂ ਨਹੀਂ ਹੋਇਆ।</string>
+    <string name="fail_reason_could_not_open_file">\"<xliff:g id="file_name">%s</xliff:g>\": <xliff:g id="exact_reason">%s</xliff:g>  ਨਹੀਂ ਖੁਲ੍ਹ ਸਕਿਆ।</string>
+    <string name="cancel_import_confirmation_message">ਕੀ <xliff:g id="filename" example="import.vcf">%s</xliff:g>ਇੰਪੋਰਟ ਕਰਨਾ ਰੱਦ ਕਰਨਾ ਹੈ?</string>
+    <string name="cancel_export_confirmation_message">ਕੀ <xliff:g id="filename" example="export.vcf">%s</xliff:g> ਨੂੰ ਐਕਸਪੋਰਟ ਕਰਨਾ ਰੱਦ ਕਰਨਾ ਹੈ?</string>
+    <string name="cancel_vcard_import_or_export_failed">vCard ਇੰਪੋਰਟ/ਐਕਸਪੋਰਟ ਰੱਦ ਨਹੀਂ ਹੋ ਸਕਿਆ</string>
+    <string name="missing_name">(ਕੋਈ ਨਾਂ ਨਹੀਂ)</string>
+    <string name="menu_accounts">ਖਾਤਾ: </string>
+    <string name="menu_contacts_filter">ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ ਸੰਪਰਕ</string>
+    <string name="menu_import_export">ਇੰਪੋਰਟ/ਐਕਸਪੋਰਟ</string>
+    <string name="dialog_import_export">ਸੰਪਰਕਾਂ ਨੂੰ ਇੰਪੋਰਟ/ਐਕਸਪੋਰਟ ਕਰੋ</string>
+    <string name="share_error">ਇਹ ਸੰਪਰਕ ਸਾਂਝਾ ਨਹੀਂ ਕੀਤਾ ਸਕਦਾ।</string>
+    <string name="nameLabelsGroup">ਨਾਂ</string>
+    <string name="nicknameLabelsGroup">ਉਪ ਨਾਂ</string>
+    <string name="organizationLabelsGroup">ਸੰਸਥਾ</string>
+    <string name="websiteLabelsGroup">ਵੈਬਸਾਈਟ</string>
+    <string name="eventLabelsGroup">ਘਟਨਾਵਾਂ</string>
+    <string name="relationLabelsGroup">ਰਿਸ਼ਤਾ</string>
+    <string name="groupsLabel">ਸਮੂਹ</string>
+    <string name="dialog_new_contact_account">ਖਾਤੇ ਦੇ ਅਧੀਨ ਸੰਪਰਕ ਬਣਾਓ</string>
+    <string name="menu_sync_remove">ਸਿੰਕ ਸਮੂਹ ਮਿਟਾਓ</string>
+    <string name="dialog_sync_add">ਸਿੰਕ ਸਮੂਹ ਜੋੜੋ</string>
+    <string name="display_more_groups">ਵੱਧ ਸਮੂਹ\u2026</string>
+    <string name="display_ungrouped">ਸਾਰੇ ਦੂਜੇ ਸੰਪਰਕ</string>
+    <string name="display_all_contacts">ਸਾਰੇ ਸੰਪਰਕ</string>
+    <string name="display_warn_remove_ungrouped">ਸਿੰਕ ਵਿੱਚੋਂ \"<xliff:g id="group" example="Starred">%s</xliff:g>\" ਨੂੰ ਮਿਟਾਉਣ ਨਾਲ ਸਿੰਕ ਵਿੱਚੋਂ ਸਮੂਹ ਵਿੱਚ ਨਾ ਹੋਣ ਵਾਲੇ ਕੋਈ ਵੀ ਸੰਪਰਕ ਵੀ ਮਿਟ ਜਾਣਗੇ।</string>
+    <string name="account_phone" product="tablet">ਟੈਬਲੇਟ-ਕੇਵਲ, ਅਣਸਿੰਕ ਕੀਤਾ</string>
+    <string name="account_phone" product="default">ਫੋਨ-ਕੇਵਲ, ਅਣਸਿੰਕਡ</string>
+    <string name="call_custom">\'ਕਾਲ <xliff:g id="custom">%s</xliff:g></string>
+    <string name="call_home">\'ਕਾਲ ਹੋਮ</string>
+    <string name="call_mobile">ਕਾਲ ਮੋਬਾਈਲ</string>
+    <string name="call_work">ਕਾਲ ਕਾਰਜਸਥਾਨ</string>
+    <string name="call_fax_work">ਕਾਲ ਕਾਰਜਸਥਾਨ ਫੈਕਸ</string>
+    <string name="call_fax_home">ਕਾਲ ਹੋਮ ਫੈਕਸ</string>
+    <string name="call_pager">ਕਾਲ ਪੇਜਰ</string>
+    <string name="call_other">ਕਾਲ</string>
+    <string name="call_callback">ਕਾਲਬੈਕ ਕਾਲ ਕਰੋ</string>
+    <string name="call_car">\'ਕਾਲ ਕਾਰ</string>
+    <string name="call_company_main">ਕਾਲ ਕੰਪਨੀ ਮੇਨ</string>
+    <string name="call_isdn">ਕਾਲ ISDN</string>
+    <string name="call_main">ਕਾਲ ਮੇਨ</string>
+    <string name="call_other_fax">ਕਾਲ ਫੈਕਸ</string>
+    <string name="call_radio">ਕਾਲ ਰੇਡੀਓ</string>
+    <string name="call_telex">ਕਾਲ ਟੈਲੈਕਸ</string>
+    <string name="call_tty_tdd">ਕਾਲ TTY/TDD</string>
+    <string name="call_work_mobile">\'ਕਾਲ ਕਾਰਜਸਥਾਨ ਮੋਬਾਈਲ</string>
+    <string name="call_work_pager">ਕਾਲ ਕਾਰਜਸਥਾਨ ਪੇਜਰ</string>
+    <string name="call_assistant">\'ਕਾਲ <xliff:g id="assistant">%s</xliff:g></string>
+    <string name="call_mms">ਕਾਲ MMS</string>
+    <string name="sms_custom">ਟੈਕਸਟ<xliff:g id="custom">%s</xliff:g></string>
+    <string name="sms_home">ਹੋਮ ਟੈਕਸਟ</string>
+    <string name="sms_mobile">ਮੋਬਾਈਲ ਟੈਕਸਟ</string>
+    <string name="sms_work">ਕਾਰਜ ਟੈਕਸਟ</string>
+    <string name="sms_fax_work">ਕਾਰਜ ਫੈਕਸ ਟੈਕਸਟ</string>
+    <string name="sms_fax_home">ਹੋਮ ਫੈਕਸ ਟੈਕਸਟ</string>
+    <string name="sms_pager">ਪੇਜਰ ਟੈਕਸਟ</string>
+    <string name="sms_other">ਟੈਕਸਟ</string>
+    <string name="sms_callback">ਕਾਲਬੈਕ ਟੈਕਸਟ</string>
+    <string name="sms_car">ਕਾਰ ਟੈਕਸਟ</string>
+    <string name="sms_company_main">ਕੰਪਨੀ ਮੇਨ ਟੈਕਸਟ</string>
+    <string name="sms_isdn">ISDN ਟੈਕਸਟ</string>
+    <string name="sms_main">ਮੇਨ ਟੈਕਸਟ</string>
+    <string name="sms_other_fax">ਫੈਕਸ ਟੈਕਸਟ</string>
+    <string name="sms_radio">ਰੇਡੀਓ ਟੈਕਸਟ</string>
+    <string name="sms_telex">ਟੈਲੈਕਸ ਟੈਕਸਟ</string>
+    <string name="sms_tty_tdd">TTY/TDD ਟੈਕਸਟ</string>
+    <string name="sms_work_mobile">ਕਾਰਜ ਮੋਬਾਈਲ ਟੈਕਸਟ</string>
+    <string name="sms_work_pager">ਕਾਰਜ ਪੇਜਰ ਟੈਕਸਟ</string>
+    <string name="sms_assistant">ਟੈਕਸਟ <xliff:g id="assistant">%s</xliff:g></string>
+    <string name="sms_mms">MMS ਟੈਕਸਟ</string>
+    <string name="sms">ਸੁਨੇਹਾ ਟੈਕਸਟ</string>
+    <string name="email_home">ਈਮੇਲ ਹੋਮ</string>
+    <string name="email_mobile">ਈਮੇਲ ਮੋਬਾਈਲ</string>
+    <string name="email_work">ਈਮੇਲ ਕਾਰਜਸਥਾਨ</string>
+    <string name="email_other">ਈਮੇਲ</string>
+    <string name="email_custom">ਈਮੇਲ<xliff:g id="custom">%s</xliff:g></string>
+    <string name="email">ਈਮੇਲ</string>
+    <string name="map_home">ਹੋਮ ਪਤਾ ਦੇਖੋ</string>
+    <string name="map_work">ਕਾਰਜ ਪਤਾ ਦੇਖੋ</string>
+    <string name="map_other">ਪਤਾ ਦੇਖੋ</string>
+    <string name="map_custom">ਪਤਾ <xliff:g id="custom">%s</xliff:g> ਦੇਖੋ</string>
+    <string name="chat_aim">AIM ਪ੍ਰਯੋਗ ਕਰਦੇ ਹੋਏ ਗੱਲਬਾਤ ਕਰੋ</string>
+    <string name="chat_msn">Windows Live ਪ੍ਰਯੋਗ ਕਰਦੇ ਹੋਏ ਗੱਲਬਾਤ ਕਰੋ</string>
+    <string name="chat_yahoo">Yahoo ਪ੍ਰਯੋਗ ਕਰਦੇ ਹੋਏ ਗੱਲਬਾਤ ਕਰੋ</string>
+    <string name="chat_skype">Skype ਪ੍ਰਯੋਗ ਕਰਦੇ ਹੋਏ ਗੱਲਬਾਤ ਕਰੋ</string>
+    <string name="chat_qq">QQ ਪ੍ਰਯੋਗ ਕਰਦੇ ਹੋਏ ਗੱਲਬਾਤ ਕਰੋ</string>
+    <string name="chat_gtalk">Google Talk ਪ੍ਰਯੋਗ ਕਰਦੇ ਹੋਏ ਗੱਲਬਾਤ ਕਰੋ </string>
+    <string name="chat_icq">ICQ ਪ੍ਰਯੋਗ ਕਰਦੇ ਹੋਏ ਗੱਲਬਾਤ ਕਰੋ</string>
+    <string name="chat_jabber">Jabber ਪ੍ਰਯੋਗ ਕਰਦੇ ਹੋਏ ਗੱਲਬਾਤ ਕਰੋ</string>
+    <string name="chat">ਗੱਲਬਾਤ ਕਰੋ</string>
+    <string name="postal_address">ਪਤਾ</string>
+    <string name="postal_street">ਗਲੀ</string>
+    <string name="postal_pobox">PO ਬੌਕਸ</string>
+    <string name="postal_neighborhood">ਗੁਆਂਢ</string>
+    <string name="postal_city">ਸ਼ਹਿਰ</string>
+    <string name="postal_region">ਰਾਜ</string>
+    <string name="postal_postcode">ਜ਼ਿਪ ਕੋਡ</string>
+    <string name="postal_country">ਦੇਸ਼</string>
+    <string name="full_name">ਨਾਂ</string>
+    <string name="name_given">ਦਿੱਤਾ ਗਿਆ ਨਾਂ </string>
+    <string name="name_family">ਪਰਿਵਾਰ ਦਾ ਨਾਂ</string>
+    <string name="name_prefix">ਨਾਂ ਅਗੇਤਰ</string>
+    <string name="name_middle">ਮੱਧ ਨਾਂ</string>
+    <string name="name_suffix">ਨਾਂ ਪਿਛੇਤਰ</string>
+    <string name="name_phonetic_given">ਧੁਨੀਆਤਮਕ ਦਿੱਤਾ ਗਿਆ ਨਾਂ</string>
+    <string name="name_phonetic_middle">ਧੁਨੀਆਤਮਕ ਮੱਧ ਨਾਂ</string>
+    <string name="name_phonetic_family">ਧੁਨੀਆਤਮਕ ਪਰਿਵਾਰ ਨਾਂ</string>
+    <string name="name_phonetic">ਧੁਨੀਆਤਮਕ ਨਾਂ</string>
+    <string name="no_contact_details">ਇਸ ਸੰਪਰਕ ਦੀ ਕੋਈ ਵਾਧੂ ਜਾਣਕਾਰੀ ਨਹੀਂ।</string>
+    <string name="search_results_searching">ਖੋਜ ਰਿਹਾ ਹੈ\u2026</string>
+    <string name="menu_select_all">"ਸਾਰੇ ਚੁਣੋ"</string>
+    <string name="menu_select_none">"ਸਾਰਿਆਂ ਨੂੰ ਅਣਸਲੈਕਟ ਕਰੋ"</string>
+    <string name="local_invisible_directory">ਦੂਜੇ</string>
+    <string name="directory_search_label">ਡਾਇਰੈਕਟਰੀ</string>
+    <string name="local_search_label">ਸਾਰੇ ਸੰਪਰਕ</string>
+    <string name="list_filter_all_accounts">ਸਾਰੇ ਸੰਪਰਕ</string>
+    <string name="list_filter_all_starred">ਸਟਾਰਡ</string>
+    <string name="list_filter_customize">ਅਨੁਕੂਲਿਤ</string>
+    <string name="list_filter_phones">ਫੋਨ ਨੰਬਰਾਂ ਵਾਲੇ ਸਾਰੇ ਸੰਪਰਕ</string>
+    <string name="list_filter_single">ਸੰਪਰਕ</string>
+    <string name="custom_list_filter">ਕਸਟਮ ਦ੍ਰਿਸ਼ ਨਿਰਧਾਰਿਤ ਕਰੋ </string>
+    <string name="activity_title_contacts_filter">ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ ਸੰਪਰਕ</string>
+    <string name="hint_findContacts">ਸੰਪਰਕ ਲੱਭੋ</string>
+    <string name="contacts_unavailable_add_account">ਇੱਕ ਖਾਤੇ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ</string>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="one"><xliff:g id="count">%1$d</xliff:g> ਵਿਅਕਤੀ</item>
+        <item quantity="other"><xliff:g id="count">%1$d</xliff:g> ਲੋਕ</item>
+    </plurals>
+    <string name="toast_text_copied">ਕਾਪੀ ਕੀਤਾ ਟੈਕਸਟ</string>
+    <string name="profile_display_name">ਮੇਰੀ ਪ੍ਰੋਫਾਈਲ ਸੈਟ ਅਪ ਕਰੋ</string>
+    <string name="view_updates_from_group">ਅਪਡੇਟਸ ਦੇਖੋ</string>
+    <string name="nfc_vcard_file_name">NFC ਤੇ ਪ੍ਰਾਪਤ ਸੰਪਰਕ</string>
+    <string name="status_available">ਉਪਲਬਧ</string>
+    <string name="status_away">ਦੂਰ</string>
+    <string name="status_busy">ਰੁੱਝਿਆ ਹੋਇਆ</string>
+    <string name="description_send_message"><xliff:g id="name">%1$s</xliff:g> ਨੂੰ ਸੁਨੇਹਾ ਭੇਜੋ</string>
+    <string name="description_dial_phone_number">ਫੋਨ<xliff:g id="name">%1$s</xliff:g> ਡਾਇਲ ਕਰੋ</string>
+    <string name="description_quick_contact_for"> <xliff:g id="name">%1$s</xliff:g> ਲਈ ਤਤਕਾਲ ਸੰਪਰਕ</string>
+    <string name="user_profile_contacts_list_header" msgid="9154761216179882405">ਮੈਂ</string>
+    <string name="label_phone">ਫੋਨ</string>
+    <string name="choose_sim_card">SIM ਕਾਰਡ ਚੁਣੋ</string>
+    <string name="toast_no_contact_selected">ਕੋਈ ਚੁਣਿਆ ਗਿਆ ਸੰਪਰਕ ਨਹੀਂ</string>
+    <string name="alert_delete_contact">ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ ਤੇ ਚੁਣੇ ਗਏ ਸੰਪਰਕਾਂ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="select_all_contacts">ਸਾਰੇ ਸਲੈਕਟ ਕਰੋ</string>
+    <string name="cancel_select_all_contacts">ਕੁਝ ਨਾ ਚੁਣੋ</string>
+    <string name="menu_save">ਸੁਰੱਖਿਅਤ ਕਰੋ</string>
+    <plurals name="searchMatchContacts">
+      <item quantity="one" msgid="4826918429708286628">"ਇੱਕ ਸੰਪਰਕ ਮੇਲ ਖਾਂਦਾ ਹੈ"</item>
+      <item quantity="other" msgid="7988132539476575389">" <xliff:g id="COUNT">%d</xliff:g>ਸੰਪਰਕ ਮੇਲ ਖਾਂਦਾ ਹੈ"</item>
+  </plurals>
+    <string name="no_vcard_found_in_internal_stor">"ਅੰਦਰੂਨੀ ਸਟੋਰੇਜ ਵਿੱਚ ਕੋਈ Vcard ਫਾਈਲ ਨਹੀਂ ਮਿਲੀ。"</string>
+    <string name="clearFrequentsConfirmation_title">"ਕੀ ਵਾਰ-ਵਾਰ ਸੰਪਰਕ ਕੀਤਾ?"</string>
+    <string name="clearFrequentsConfirmation">"ਤੁਸੀਂ ਲੋਕਾਂ ਅਤੇ ਫੋਨ ਅਨੁਪ੍ਰਯੋਗਾਂ ਵਿੱਚ ਵਾਰ-ਵਾਰ ਸੰਪਰਕ ਕੀਤੀ ਸੂਚੀ ਨੂੰ ਮਿਟਾਓਗੇ, ਅਤੇ ਈਮੇਲ ਅਨੁਪ੍ਰਯੋਗਾਂ ਨੂੰ ਸਕ੍ਰੈਚ ਤੋਂ ਆਪਣੇ ਪਸੰਦੀਦਾ ਪਤਿਆਂ ਬਾਰੇ ਜਾਣਨ ਲਈ ਜ਼ੋਰ ਦਿਓਗੇ।"</string>
+    <string name="clearFrequentsProgress_title">"ਵਾਰ-ਵਾਰ ਸੰਪਰਕ ਕੀਤੇ ਮਿਟਾ ਰਿਹਾ ਹੈ\u2026"</string>
+    <string name="expand_collapse_name_fields_description">"ਨਾਂ ਖੇਤਰਾਂ ਨੂੰ ਵਿਸਤਾਰ ਦਿਓ ਜਾਂ ਮਿਟਾਓ"</string>
+    <string name="percentage">"<xliff:g id="percentage" example="50">%s</xliff:g><xliff:g id="percentsign" example="%">%%</xliff:g>"</string>
+    <string name="dialog_import">"ਕਿਸੇ ਫਾਈਲ ਵਿੱਚੋਂ ਸੰਪਰਕ ਇੰਪੋਰਟ ਕਰੋ"</string>
+    <string name="menu_clear_frequents">"ਬਾਰੰਬਾਰਤਾਵਾਂ ਮਿਟਾਓ"</string>
+    <string name="select_card">"ਕਿਰਪਾ ਕਰਕੇ ਕਾਰਡ ਚੁਣੋ"</string>
+    <string name="fail_reason_empty">"ਖਾਲੀ ਸੰਪਰਕ ਡੇਟਾ"</string>
+    <string name="copy_to">"ਇਸ ਵਿੱਚ ਕਾਪੀ ਕਰੋ"</string>
+    <string name="export_to_phone">"ਅੰਦਰੂਨੀ ਸਟੋਰੇਜ ਨੂੰ ਐਕਸਪੋਰਟ ਕਰੋ"</string>
+    <string name="contacts_selection_for_mms_limit">"ਚੁਣੇ ਗਏ ਨੰਬਰ ਦੀ ਸੀਮਾ ਸੰਖਿਆ <xliff:g id="COUNT">%d</xliff:g> ਹੈ"</string>
+    <string name="contact_status_update_attribution">"<xliff:g id="source" example="Google Talk">%1$s</xliff:g> ਰਾਹੀਂ"</string>
+    <string name="contact_status_update_attribution_with_date">"<xliff:g id="date" example="3 hours ago">%1$s</xliff:g> via <xliff:g id="source" example="Google Talk">%2$s</xliff:g>"</string>
+    <string name="list_contact_phone">"ਫੋਨ ਨੰਬਰਾਂ ਵਾਲਾ ਸੰਪਰਕ"</string>
+</resources>

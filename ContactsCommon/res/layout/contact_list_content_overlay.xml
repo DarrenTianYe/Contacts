@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (C) 2008 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+
+<!--
+android:paddingTop is used instead of android:layout_marginTop. It looks
+android:layout_marginTop is ignored when used with <fragment></fragment>, which
+only happens in Tablet UI since we rely on ViewPager in Phone UI.
+Instead, android:layout_marginTop inside <fragment /> is effective.
+-->
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/pinned_header_list_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:focusable="true"
+        android:focusableInTouchMode="true" >
+
+        <!--
+         Shown only when an Account filter is set.
+         - paddingTop should be here to show "shade" effect correctly.
+        -->
+
+        <RelativeLayout
+            android:id="@+id/search_view_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="-1px"
+            android:background="@drawable/search_view_bg_sprd" >
+
+            <EditText
+                android:id="@+id/search_view"
+                style="@style/ContactLSearchStyleNewUI"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dip"
+                android:layout_marginRight="4dip"
+                android:layout_centerVertical="true"
+                android:hint="@string/menu_search"
+                android:inputType="textFilter"
+                android:imeOptions="actionNext"
+                android:maxLength="1024"
+                android:paddingLeft="40dip"
+                android:paddingRight="40dip"
+                android:textSize="@dimen/contact_searchview_text_size"
+                android:textColor="@color/contact_list_search_view_text_color" />
+
+            <ImageView
+                android:id="@+id/search_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/search_view"
+                android:paddingLeft="6dip"
+                android:layout_centerVertical="true"
+                android:src="@drawable/magnifying_glass_sprd" />
+
+            <ImageView
+                android:id="@+id/clear_all_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignRight="@+id/search_view"
+                android:paddingRight="8dip"
+                android:layout_centerVertical="true"
+                android:src="@drawable/ic_clear_all_sprd"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <ViewStub
+            android:id="@+id/select_contact_stub"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout="@layout/select_contact_panel_overlay" />
+
+        <View
+            android:id="@+id/divider"
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="#A9A9A9"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/list_container"
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <view
+                android:id="@android:id/list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                class="com.android.contacts.common.list.PinnedHeaderListView"
+                android:background="@drawable/list_background_holo"
+                android:fadingEdge="none"
+                android:scrollbars="none"/>
+     
+            <view
+                android:id="@+id/blade"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginStart="-17dip"
+                android.visibility="gone"
+                class="com.sprd.contacts.common.widget.BladeView"
+                android:paddingEnd="10dip" />
+
+        </LinearLayout>
+
+        <com.sprd.contacts.common.ContactListEmptyView
+            android:id="@android:id/empty"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/list_background_holo"
+            android:fadingEdge="none"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/emptyText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:lineSpacingMultiplier="0.92"
+                android:textColor="?android:attr/textColorSecondary"
+                android:textSize="20sp" />
+        </com.sprd.contacts.common.ContactListEmptyView>
+    </LinearLayout>

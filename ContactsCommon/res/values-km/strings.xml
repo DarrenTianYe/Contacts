@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="contactsList">"អ្នកទំនាក់ទំនង"</string>
+    <string name="contactPickerActivityTitle">"ជ្រើសរើសអ្នកទំនាក់ទំនងមួយ"</string>
+    <string name="menu_search">"ស្វែងរក"</string>
+    <string name="menu_done">"សំលាប់"</string>
+    <string name="menu_doNotSave">"បោះបង់"</string>
+    <string name="label_notes">"ឡូគូ"</string>
+    <string name="label_sip_address">"ហៅតាមអ៊ីនធើណែត"</string>
+    <string name="ghostData_company">"ក្រុមហ៊ុន"</string>
+    <string name="ghostData_title">"មុខងារ"</string>
+    <string name="phoneLabelsGroup">"ហៅ"</string>
+    <string name="emailLabelsGroup">"អ៊ីម៉ែល"</string>
+    <string name="imLabelsGroup">"IM"</string>
+    <string name="postalLabelsGroup">"អាស័យដ្ឋាន"</string>
+    <string name="noGroups">"គ្មានក្រុមទេ។"</string>
+    <string name="noAccounts">"ចង់បង្កើតក្រុម លោលត្រូវការគណនីមួយ។"</string>
+    <string name="savingDisplayGroups">"រក្សាទុកជំរើសបង្ហាញ\u2026"</string>
+    <string name="listTotalPhoneContactsZero">"គ្មានអ្នកទំនាក់ទំនងដែលមានលេខទូរស័ព្ទ"</string>
+    <plurals name="listTotalAllContacts">
+        <item quantity="one">"អ្នកទំនាក់ទំនង 1 រូប"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> អ្នកទំនាក់ទំនង"</item>
+    </plurals>
+    <string name="listTotalAllContactsZero">"គ្មានអ្នកទំនាក់ទំនងទេ។"</string>
+    <string name="listTotalAllContactsZeroCustom">"គ្មានអ្នកទំនាក់ទំនងដែលអាចមើលបាន។"</string>
+    <string name="listTotalAllContactsZeroStarred">"គ្មានថតចំណូលចិត្ត។"</string>
+    <string name="listTotalAllContactsZeroGroup">"គ្មានអ្នកទំនាក់ទំនងក្នុង <xliff:g id="name" example="Friends">%s</xliff:g>"</string>
+    <string name="listAllContactsInAccount">"អ្នកទំនាក់ទំនងក្នុង <xliff:g id="name" example="abc@gmail.com">%s</xliff:g>"</string>
+    <string name="listMaxContactsInAccount">"ទំហំ: <xliff:g id="COUNT">%d</xliff:g>"</string>
+    <string name="listSingleContact">"អ្នកទំនាក់ទំនងតែមួយ"</string>
+    <string name="listCustomView">"អ្នកទំនាក់ទំនងក្នុងរបៀបបង្ហាញដោយខ្លួនឯង"</string>
+    <string name="foundTooManyContacts">"ច្រើនជាង <xliff:g id="count">%d</xliff:g> ត្រូវរកឃើញ។"</string>
+    <string name="listFoundAllContactsZero">"គ្មានអ្វីត្រូវរកឃើញបាន។"</string>
+    <plurals name="searchFoundContacts">
+        <item quantity="one">"1 ត្រូវរកឃើញ។"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> ត្រូវរកឃើញ។"</item>
+    </plurals>
+    <string name="contactsFavoritesLabel">"ថតចំណូលចិត្ត"</string>
+    <string name="favoritesFrequentContacted">"តែងតែទាក់ទង"</string>
+    <string name="favoritesFrequentCalled">"តែងតែហៅ"</string>
+    <string name="description_minus_button">"ដក"</string>
+    <string name="description_view_contact_detail" msgid="2795575601596468581">"ពិនិត្យមើលអ្នកទាក់ទង"</string>
+    <string name="no_sdcard_message" product="nosdcard">"គ្មានអង្គចងចាំត្រូវរកឃើញទេ។"</string>
+    <string name="no_sdcard_message" product="default">"គ្មានកាត SD ត្រូវរកឃើញទេ។"</string>
+    <string name="import_from_sim">"នាំចូលពីកាត SIM"</string>
+    <string name="import_from_sdcard" product="default">"នាំចូលពីអង្គចងចាំខាងក្រៅ"</string>
+    <string name="export_to_sdcard" product="default">"នាំចូលទៅអង្គចងចាំខាងក្រៅ"</string>
+    <string name="import_from_phone">"នាំចូលពីអង្គចងចាំខាងក្នុង"</string>
+    <string name="share_visible_contacts">"ចែករំលែកអ្នកទំនាក់ទំនងដែលអាចមើលបាន"</string>
+    <string name="import_one_vcard_string">"នាំចូលឯកសារ vCard មួយ"</string>
+    <string name="import_multiple_vcard_string">"នាំចូលឯកសារ vCard មួយចំនួន"</string>
+    <string name="import_all_vcard_string">"នាំចូលឯកសារ vCard ទាំងអស់"</string>
+    <string name="searching_vcard_message" product="nosdcard">"កំពុងស្វែងរកទិន្នន័យ vCard ក្នុងអង្គចងចាំ\u2026"</string>
+    <string name="searching_vcard_message" product="default">"កំពុងស្វែងរកទិន្នន័យ vCard ក្នុងអង្គចងចាំ\u2026"</string>
+    <string name="scanning_sdcard_failed_message" product="nosdcard">"អង្គចងចាំនេះមិនអាចទទួលស្កែនទេ។ (មូលហេតុ: \"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+    <string name="scanning_sdcard_failed_message" product="default">"កាត SDនេះមិនអាចទទួលស្កែនទេ។ (មូលហេតុ: \"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+    <string name="fail_reason_io_error">"I/O មានកំហុស"</string>
+    <string name="fail_reason_low_memory_during_import">"អង្គចងចាំគ្មានទំហំគ្រប់គ្រាន់ទេ។ ឯកសារនេះប្រហែលធំពេក។"</string>
+    <string name="fail_reason_vcard_parse_error">"មិនអាចវិភាគ vCard ដោយសារមូលហេតុមិនដឹងច្បាស់។"</string>
+    <string name="fail_reason_not_supported">"ទម្រង់នេះមិនគាំទ្រទេ។"</string>
+    <string name="vcard_import_failed">"មិនអាចនាំចូល vCard ទេ។"</string>
+    <string name="import_failure_no_vcard_file" product="nosdcard">"គ្មានឯកសារ vCard ត្រូវរកឃើញក្នុងអង្គចងចាំទេ។"</string>
+    <string name="import_failure_no_vcard_file" product="default">"គ្មានឯកសារ vCard ត្រូវរកឃើញក្នុងកាត SD ទេ។"</string>
+    <string name="fail_reason_failed_to_collect_vcard_meta_info">"មិនអាចប្រមូលពត៌មាននៃឯកសារកំណត់ដោយ vCard ទេ។"</string>
+    <string name="fail_reason_failed_to_read_files">"ឯកសារមួយឬខ្លះមិនអាចនាំចូលទេ (%s)។"</string>
+    <string name="fail_reason_unknown">"កំហុសមិនស្គាល់"</string>
+    <string name="select_vcard_title">"ជ្រើសរើសឯកសារ vCard"</string>
+    <string name="caching_vcard_title">"កំពុងរក្សាទុក"</string>
+    <string name="caching_vcard_message">"កំពុងរក្សាទុក vCard(s) ទៅអង្គចងចាំជាបណ្តោះអាសន្ននៅតំបន់។ ការនាចូលជាក់ស្តែងនឹងចាប់ផ្តើមភ្លាម។"</string>
+    <string name="progress_notifier_message">"កំពុងនាំចូល <xliff:g id="current_number">%s</xliff:g>/<xliff:g id="total_number">%s</xliff:g>: <xliff:g id="name" example="Joe Due">%s</xliff:g>"</string>
+    <string name="importing_vcard_description">"កំពុងនាំចូល <xliff:g id="name" example="Joe Due">%s</xliff:g>"</string>
+    <string name="reading_vcard_failed_title">"មិនអាចអានទិន្នន័យ vCard បាន"</string>
+    <string name="reading_vcard_canceled_title">"ការអានទិន្នន័យ vCard ត្រូវលុបចោល"</string>
+    <string name="reading_vcard_exception_title">"អាន/សរសេរ ទិន្នន័យvCardមិនប្រក្រតី"</string>
+    <string name="sqlite_full">"ឃ្លាំងទិន្នន័យអ្នកទំនាក់ទំនងឬថាសពេញហើយ"</string>
+    <string name="importing_vcard_finished_title">"បញ្ចប់នាំចូល vCard <xliff:g id="filename" example="import.vcf">%s</xliff:g>"</string>
+    <string name="importing_vcard_canceled_title">"នាំចូល <xliff:g id="filename" example="import.vcf">%s</xliff:g> ត្រូវលុបចោល"</string>
+    <string name="vcard_import_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> នឹងនាំចូលភ្លាម។"</string>
+    <string name="vcard_import_will_start_message_with_default_name">"ឯកសារនឹងនាំចូលភ្លាម។"</string>
+    <string name="vcard_import_request_rejected_message">"ការស្នើសុំនាំចេញនៃ vCard ត្រូវបដិសេធ សូមចាំមួយភ្លែត សាកម្តងទៀត។"</string>
+    <string name="vcard_export_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> នឹងនាំចេញនៅពេលក្រោយបន្តិច។"</string>
+    <string name="vcard_export_request_rejected_message">"ការស្នើសុំនាំចេញនៃ vCard ត្រូវបដិសេធ សូមចាំមួយភ្លែត សាកម្តងទៀត។"</string>
+    <string name="vcard_unknown_filename">"អ្នកទំនាក់ទំនង"</string>
+    <string name="confirm_export_title">"នាំចេញអ្នកទំនាក់ទំនង"</string>
+    <string name="confirm_export_message">"បញ្ជីអ្នកទំនាក់ទំនងរបស់លោកនឹងនាំចេញទៅឯកសារ : <xliff:g id="vcard_filename">%s</xliff:g>។"</string>
+    <string name="exporting_contact_failed_title">"មិនអាចនាំចេញបាន"</string>
+    <string name="exporting_contact_failed_message">"ទិន្នន័យអ្នកទំនាក់ទំនងមិនទាន់នាំចេញទេ។\nមូលហេតុ : \"<xliff:g id="fail_reason">%s</xliff:g>\""</string>
+    <string name="fail_reason_no_exportable_contact">"គ្មានអ្នកទំនាក់ទំនងអាចនាំចេញទេ។"</string>
+    <string name="fail_reason_too_many_vcard" product="nosdcard">"មានឯកសារ vCard ច្រើនពេកក្នុងអង្គចងចាំ។"</string>
+    <string name="fail_reason_too_many_vcard" product="default">"មានឯកសារ vCard ច្រើនពេកក្នុងកាត SD ។"</string>
+    <string name="fail_reason_too_long_filename">"ឈ្មោះឯកសារដែលកំណត់វែងពេក(\"<xliff:g id="filename">%s</xliff:g>\")។"</string>
+    <string name="exporting_vcard_finished_title">"បញ្ចប់ការនាំចេញហើយ <xliff:g id="filename" example="export.vcf">%s</xliff:g>។"</string>
+    <string name="exporting_vcard_canceled_title">"ការនាំចេញ <xliff:g id="filename" example="export.vcf">%s</xliff:g> ត្រូវបដិសេធ។"</string>
+    <string name="exporting_contact_list_title">"កំពុងនាំចេញទិន្នន័យអ្នកទំនាក់ទំនង"</string>
+    <string name="exporting_contact_list_message">"ទិន្នន័យអ្នកទំនាក់ទំនងរបស់លោកនឹងនាំចេញទៅ : <xliff:g id="file_name">%s</xliff:g>។"</string>
+    <string name="fail_reason_could_not_initialize_exporter">"មិនអាចបើកកម្មវិធីនាំចេញទេ : \"<xliff:g id="exact_reason">%s</xliff:g>\"។"</string>
+    <string name="fail_reason_error_occurred_during_export">"នៅពេលនាំចេញ មានកំហុសមួយ: \"<xliff:g id="exact_reason">%s</xliff:g>\"។"</string>
+    <string name="composer_failed_to_get_database_infomation">"មិនអាចទទួលបានពត៌មាននៃឃ្លាំងទិន្នន័យ។"</string>
+    <string name="composer_has_no_exportable_contact" product="tablet">"គ្មានអ្នកទំនាក់ទំនងអាចនាំចេញបាន។ បើសិនលោកមានអ្នកទំនាក់ទំនងក្នុងtabletលោកជាប្រាកដ មានលទ្ធភាពអ្នកផ្តល់សេវាខ្លះមិនអនុញ្ញាតនាំចេញអ្នកទំនាក់ទំនងពីtabletនេះទេ។"</string>
+    <string name="composer_has_no_exportable_contact" product="default">"គ្មានអ្នកទំនាក់ទំនងអាចនាំចេញបាន។ បើសិនលោកមានអ្នកទំនាក់ទំនងក្នុងទូរស័ព្ទលោកជាប្រាកដ មានលទ្ធភាពអ្នកផ្តល់សេវាខ្លះមិនអនុញ្ញាតនាំចេញអ្នកទំនាក់ទំនងពីទូរស័ព្ទនេះទេ។"</string>
+    <string name="composer_not_initialized">"កម្មវិធីប្រតិបត្កិការនៃ vCard មិនទាន់បើកដោយត្រឹមត្រូវ។"</string>
+    <string name="fail_reason_could_not_open_file">"មិនអាចបើក \"<xliff:g id="file_name">%s</xliff:g>\": <xliff:g id="exact_reason">%s</xliff:g>."</string>
+    <string name="cancel_import_confirmation_message">"បដិសេធនាំចូលនៃ <xliff:g id="filename" example="import.vcf">%s</xliff:g>ទេ?"</string>
+    <string name="cancel_export_confirmation_message">"បដិសេធនាំចេញនៃ <xliff:g id="filename" example="export.vcf">%s</xliff:g>ទេ?"</string>
+    <string name="cancel_vcard_import_or_export_failed">"មិនអាចបដិសេធការនាំចូល/នាំចេញពី vCard"</string>
+    <string name="missing_name">"(គ្មាននាម)"</string>
+    <string name="menu_accounts">"គណនី: "</string>
+    <string name="menu_contacts_filter">"អ្នកទំនាក់ទំនងដែលចង់បង្ហាញ"</string>
+    <string name="menu_import_export">"នាំចូល/នាំចេញ"</string>
+    <string name="dialog_import_export">"នាំចូល/នាំចេញអ្នកទំនាក់ទំនង"</string>
+    <string name="share_error">"អ្នកទំនាក់ទំនងនេះមិនអាចចែករំលែកបាន៊"</string>
+    <string name="nameLabelsGroup">"ឈ្មោះ"</string>
+    <string name="nicknameLabelsGroup">"សម្មតិនាម"</string>
+    <string name="organizationLabelsGroup">"អង្គការ"</string>
+    <string name="websiteLabelsGroup">"វែបសាយ"</string>
+    <string name="eventLabelsGroup">"សកម្មភាព"</string>
+    <string name="relationLabelsGroup">"ទំនាក់ទំនង"</string>
+    <string name="groupsLabel">"ក្រុម"</string>
+    <string name="dialog_new_contact_account">"បង្កើតអ្នកទំនាក់ទំនងក្រោមគណនី"</string>
+    <string name="menu_sync_remove">"លុបចោលការធ្វើសមកាលកម្មក្រុម"</string>
+    <string name="dialog_sync_add">"បន្ថែមក្រុមសមកាលកម្ម"</string>
+    <string name="display_more_groups">"ក្រុមកាន់តែច្រើន \u2026"</string>
+    <string name="display_ungrouped">"អ្នកទំនាក់ទំនងផ្សេងទៀតទាំងអស់"</string>
+    <string name="display_all_contacts">"អ្នកទំនាក់ទំនងទាំងអស់"</string>
+    <string name="display_warn_remove_ungrouped">"លុបចោល \"<xliff:g id="group" example="Starred">%s</xliff:g>\" ពីការធ្វើសមកាលកម្ម នឹងលុបចោលអ្នកទំនាក់ទំនងដែលមិនទាន់ចែក្រុមពីការធ្វើសមកាលកម្ម។"</string>
+    <string name="account_phone" product="tablet">"សម្រាប់តែTablet មិនធ្វើសមកាលក​ម្ម"</string>
+    <string name="account_phone" product="default">"សម្រាប់តែទូរស័ព្ទ មិនធ្វើសមកាលកម្ម"</string>
+    <string name="call_custom">"ហៅ <xliff:g id="custom">%s</xliff:g>"</string>
+    <string name="call_home">"ហៅលេខផ្ទះ"</string>
+    <string name="call_mobile">"ហៅទូរស័ព្ទ"</string>
+    <string name="call_work">"ហៅលេខអង្គការធ្វើការ"</string>
+    <string name="call_fax_work">"ហៅទូរលេខក្នុងអង្គការធ្វើការ"</string>
+    <string name="call_fax_home">"ហៅទូរលេខក្នុងផ្ទះ"</string>
+    <string name="call_pager">"ហៅឧបករណ៍ហៅ"</string>
+    <string name="call_other">"ហៅ"</string>
+    <string name="call_callback">"ហៅលេខហៅមកវិញ"</string>
+    <string name="call_car">"ហៅទូរស័ព្ទក្នុងឡាន"</string>
+    <string name="call_company_main">"ហៅម៉ាស៊ីនកណ្តាលក្រុមហ៊ុន"</string>
+    <string name="call_isdn">"ហៅ ISDN"</string>
+    <string name="call_main">"ហៅម៉ាស៊ីនកណ្តាល"</string>
+    <string name="call_other_fax">"ហៅលេខហ្វាក់"</string>
+    <string name="call_radio">"ហៅវិទ្យុ"</string>
+    <string name="call_telex">"ហៅទូរលេខ"</string>
+    <string name="call_tty_tdd">"ហៅ TTY/TDD"</string>
+    <string name="call_work_mobile">"ហៅទូរស័ព្ទដៃនៃអង្គការធ្វើការ"</string>
+    <string name="call_work_pager">"ហៅឧបករណ៍ហៅនៃអង្គការធ្វើការ"</string>
+    <string name="call_assistant">"ហៅ <xliff:g id="assistant">%s</xliff:g>"</string>
+    <string name="call_mms">"ហៅ MMS"</string>
+    <string name="sms_custom">"ផ្ញើសារទៅ<xliff:g id="custom">%s</xliff:g>"</string>
+    <string name="sms_home">"ផ្ញើសារទៅទូរស័ព្ទផ្ទះ"</string>
+    <string name="sms_mobile">"ផ្ញើសារទៅទូរស័ព្ទដៃ"</string>
+    <string name="sms_work">"ផ្ញើសារទៅអង្គការធ្វើការ"</string>
+    <string name="sms_fax_work">"ផ្ញើសារទៅហ្វាក់ក្នុងអង្គការធ្វើការ"</string>
+    <string name="sms_fax_home">"ផ្ញើសារទៅហ្វាក់ក្នុងផ្ទះ"</string>
+    <string name="sms_pager">"ផ្ញើសារទៅឧបករណ៍ហៅ"</string>
+    <string name="sms_other">"ផ្ញើសារទៅ"</string>
+    <string name="sms_callback">"ផ្ញើសារទៅលេខហៅមកវិញ"</string>
+    <string name="sms_car">"ផ្ញើសារទៅទូរស័ព្ទក្នុងឡាន"</string>
+    <string name="sms_company_main">"ផ្ញើសារទៅម៉ាស៊ីនកណ្តាលក្រុមហ៊ុន"</string>
+    <string name="sms_isdn">"ផ្ញើសារទៅ ISDN"</string>
+    <string name="sms_main">"ផ្ញើសារទៅម៉ាស៊ីនកណ្តាល"</string>
+    <string name="sms_other_fax">"ផ្ញើសារទៅហ្វាក់"</string>
+    <string name="sms_radio">"ផ្ញើសារទៅវិទ្យុ"</string>
+    <string name="sms_telex">"ផ្ញើសារទៅទូរលេខ"</string>
+    <string name="sms_tty_tdd">"ផ្ញើសារទៅ TTY/TDD"</string>
+    <string name="sms_work_mobile">"ផ្ញើសារទៅទូរស័ព្ទដៃសម្រាប់ការងារ"</string>
+    <string name="sms_work_pager">"ផ្ញើសារទៅឧបករណ៍ហៅសម្រាប់ការងារ"</string>
+    <string name="sms_assistant">"ផ្ញើសារទៅ  <xliff:g id="assistant">%s</xliff:g>"</string>
+    <string name="sms_mms">"ផ្ញើសារទៅ MMS"</string>
+    <string name="sms">"សារ"</string>
+    <string name="email_home">"ផ្ញើអ៊ីមែលទៅប្រអប់ផ្ទះ"</string>
+    <string name="email_mobile">"ផ្ញើអ៊ីមែលទៅប្រអប់ទូរស័ព្ទ"</string>
+    <string name="email_work">"ផ្ញើអ៊ីមែលទៅប្រអប់ការងារ"</string>
+    <string name="email_other">"អ៊ីម៉ែល"</string>
+    <string name="email_custom">"អ៊ីម៉ែល<xliff:g id="custom">%s</xliff:g>"</string>
+    <string name="email">"អ៊ីម៉ែល"</string>
+    <string name="map_home">"មើលអាស័យដ្ឋានផ្ទះ"</string>
+    <string name="map_work">"មើលអាស័យដ្ឋានធ្វើការ"</string>
+    <string name="map_other">"មើលអាស័យដ្ឋាន"</string>
+    <string name="map_custom">"ពិនិត្យមើល <xliff:g id="custom">%s</xliff:g> អាស័យដ្ឋាន"</string>
+    <string name="chat_aim">"និយាយគ្នាតាម AIM"</string>
+    <string name="chat_msn">"និយាយគ្នាតាម Windows Live"</string>
+    <string name="chat_yahoo">"និយាយគ្នាតាម Yahoo"</string>
+    <string name="chat_skype">"និយាយគ្នាតាម Skype"</string>
+    <string name="chat_qq">"និយាយគ្នាតាម QQ"</string>
+    <string name="chat_gtalk">"និយាយគ្នាតាម Google Talk"</string>
+    <string name="chat_icq">"និយាយគ្នាតាម ICQ"</string>
+    <string name="chat_jabber">"និយាយគ្នាតាម Jabber"</string>
+    <string name="chat">"និយាយគ្នា"</string>
+    <string name="postal_address">"អាស័យដ្ឋាន"</string>
+    <string name="postal_street">"ផ្លូវ"</string>
+    <string name="postal_pobox">"ប្រអប់ PO"</string>
+    <string name="postal_neighborhood">"តំនប់ផ្លូវ"</string>
+    <string name="postal_city">"ទីក្រុង"</string>
+    <string name="postal_region">"រដ្ឋ"</string>
+    <string name="postal_postcode">"កូដ ZIP"</string>
+    <string name="postal_country">"ប្រទេស"</string>
+    <string name="full_name">"ឈ្មោះ"</string>
+    <string name="name_given">"នាមខ្លួន"</string>
+    <string name="name_family">"នាមត្រកូល"</string>
+    <string name="name_prefix">"បុព្វបទនាម"</string>
+    <string name="name_middle">"នាមកណ្តាល"</string>
+    <string name="name_suffix">"បច្ច័យនាម"</string>
+    <string name="name_phonetic_given">"ការសរសេរតាមសម្លេងនៃនាមខ្លួន"</string>
+    <string name="name_phonetic_middle">"ការសរសេរតាមសម្លេងនៃនាមត្រកូល"</string>
+    <string name="name_phonetic_family">"ការសរសេរតាមសម្លេងនៃនាមកណ្តាល"</string>
+    <string name="name_phonetic">"ការសរសេរតាមសម្លេងនៃនាម"</string>
+    <string name="no_contact_details">"គ្មានពត៌មានបន្ថែមចំពោះអ្នកទំនាក់ទំនងនេះទេ។"</string>
+    <string name="search_results_searching">"កំពុងស្វែងរក"</string>
+    <string name="menu_select_all">"ជ្រើសរើសទាំងអស់"</string>
+    <string name="menu_select_none">"បដិសេធទាំងអស់"</string>
+    <string name="local_invisible_directory">"ផ្សេងទៀត"</string>
+    <string name="directory_search_label">"មាតិកា"</string>
+    <string name="local_search_label">"អ្នកទំនាក់ទំនងទាំងអស់"</string>
+    <string name="list_filter_all_accounts">"អ្នកទំនាក់ទំនងទាំងអស់"</string>
+    <string name="list_filter_all_starred">"កំណត់សញ្ញាផ្កាយ"</string>
+    <string name="list_filter_customize">"កំណត់ដោយខ្លួនឯង"</string>
+    <string name="list_filter_phones">"អ្នកទំនាក់ទំនងដែលមានលេខទូរស័ព្ទ"</string>
+    <string name="list_filter_single">"អ្នកទំនាក់ទំនង"</string>
+    <string name="custom_list_filter">"កំណត់គំនូរបង្ហាញរបស់ខ្លួន"</string>
+    <string name="activity_title_contacts_filter">"អ្នកទំនាក់ទំនងដែលចង់បង្ហាញ"</string>
+    <string name="hint_findContacts">"ស្វែងរកអ្នកទំនាក់ទំនង"</string>
+    <string name="contacts_unavailable_add_account">"ចូលក្នុងគណនីមួយ"</string>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="one">"<xliff:g id="count">%1$d</xliff:g> គ្នា"</item>
+        <item quantity="other">"<xliff:g id="count">%1$d</xliff:g> គ្នា"</item>
+    </plurals>
+    <string name="toast_text_copied">"អក្សរបានចម្លងហើយ"</string>
+    <string name="profile_display_name">"កំណត់ឯកសាររបស់ខ្ញុំ"</string>
+    <string name="view_updates_from_group">"ពិនិត្យមើលការធ្វើឲ្យទាន់សម័យ។"</string>
+    <string name="nfc_vcard_file_name">"បានទទួលអ្នកទំនាក់ទំនងតាម NFC"</string>
+    <string name="status_available">"មានប្រសិទ្ធិភាព"</string>
+    <string name="status_away">"ចាកចេញ"</string>
+    <string name="status_busy">"ជាប់រវល់"</string>
+    <string name="description_send_message">"ផ្ញើសារទៅ <xliff:g id="name">%1$s</xliff:g>"</string>
+    <string name="description_dial_phone_number">"វាយទូរស័ព្ទ <xliff:g id="name">%1$s</xliff:g>"</string>
+    <string name="description_quick_contact_for">"អ្នកទំនាក់ទំនងរហ័សសម្រាប់ <xliff:g id="name">%1$s</xliff:g>"</string>
+    <string name="user_profile_contacts_list_header" msgid="9154761216179882405">"ខ្ញុំ"</string>
+    <string name="label_phone">"ហៅ"</string>
+    <string name="choose_sim_card">"ជ្រើសរើសកាត SIM"</string>
+    <string name="toast_no_contact_selected">"គ្មានអ្នកទំនាក់ទំនងត្រូវជ្រើសរើស"</string>
+    <string name="alert_delete_contact">"តើលោកសម្រេចចិត្តលុបចោលអ្នកទំនាក់ទំនងដែលជ្រើសរើសទេ?"</string>
+    <string name="select_all_contacts">"ជ្រើសរើសទាំងអស់"</string>
+    <string name="cancel_select_all_contacts">"មិនជ្រើសរើសអ្វីសោះ"</string>
+    <string name="menu_save">"រក្សាទុក"</string>
+    <plurals name="searchMatchContacts">
+      <item quantity="one" msgid="4826918429708286628">"អ្នកទំនាក់ទំនងមួយសមស្រប"</item>
+      <item quantity="other" msgid="7988132539476575389">" <xliff:g id="COUNT">%d</xliff:g>អ្នកទំនាក់ទំនងសមស្រប"</item>
+  </plurals>
+    <string name="no_vcard_found_in_internal_stor">"គ្មានឯកសារ Vcard អាចរកឃើញបានក្នុងអង្គចងចាំខាងក្នុងទេ ។"</string>
+    <string name="clearFrequentsConfirmation_title">" តើចង់លុបចោលទំនាក់ទំនងជាប្រចាំឬ?"</string>
+    <string name="clearFrequentsConfirmation">"ការធ្វើបែបនេះនឹងធ្វើអោយលោកអ្នកលុបចោលរាល់បញ្ជីអ្នកទាក់ទងដែលប្រើញឹកញាប់ដែលមានក្នុងបញ្ជីទំនាក់ទំនងនិងកម្មវិធីអាប្បទូរស័ព្ទរបស់លោកអ្នក ហើយនឹងបង្ខំអោយកម្មវិធីអាប្បសារអេឡិចត្រូនិចទទួលយកជាថ្មីនូវបញ្ជីទំនាក់ទំនងដែលប្រើញឹកញាប់ដែលត្រូវបានលុបចោល។ "</string>
+    <string name="clearFrequentsProgress_title">" កំពុងលុបអ្នកទំនាក់ទំនងញឹកញាប់ចោល... "</string>
+    <string name="expand_collapse_name_fields_description">"ពន្លាតឬបង្រួមប្រវែងឈ្មោះ "</string>
+    <string name="percentage">"<xliff:g id="percentage" example="50">%s</xliff:g><xliff:g id="percentsign" example="%">%%</xliff:g>"</string>
+    <string name="dialog_import">"នាំចូលអ្នកទំនាក់ទំនងពីឯកសារ"</string>
+    <string name="menu_clear_frequents">" លុបបញ្ជីទំនាក់ទំនងញឹកញាប់ចោល"</string>
+    <string name="select_card">"សូមជ្រើសរើសកាត"</string>
+    <string name="fail_reason_empty">"ទិន្នន័យអ្នកទំនាក់ទំនងទទេ"</string>
+    <string name="copy_to">"ចម្លងទៅ"</string>
+    <string name="export_to_phone">"បញ្ចេញទៅអង្គចងចាំខាងក្នុង"</string>
+    <string name="contacts_selection_for_mms_limit">"កំរិតចំនួនជ្រើសរើសលេខគឺ<xliff:g id="COUNT">%d</xliff:g>"</string>
+    <string name="contact_status_update_attribution">"តាមរយៈ <xliff:g id="source" example="Google Talk">%1$s</xliff:g>"</string>
+    <string name="contact_status_update_attribution_with_date">"<xliff:g id="date" example="3 hours ago">%1$s</xliff:g> តាមរយៈ<xliff:g id="source" example="Google Talk">%2$s</xliff:g>"</string>
+    <string name="list_contact_phone">"ទំនាក់ទំនងដែលមានលេខទូរស័ព្ទ"</string>
+</resources>

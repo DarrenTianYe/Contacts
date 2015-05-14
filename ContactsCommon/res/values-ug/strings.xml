@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="contactsList">ئالاقىلاشقۇچىلار</string>
+  <string name="menu_search">ئىزدەش</string>
+  <string name="menu_done">تامام</string>
+  <string name="menu_doNotSave">قايتۇرۇش</string>
+  <string name="label_notes">خاتىرىلەر</string>
+  <string name="ghostData_company">شىركەت</string>
+  <string name="ghostData_title">ئىسمى</string>
+  <string name="phoneLabelsGroup">تېلېفون</string>
+  <string name="emailLabelsGroup">Email</string>
+  <string name="postalLabelsGroup">پوچتا ئادىرىسى</string>
+  <string name="savingDisplayGroups">تاللانمىلارنى ساقلاۋاتىدۇ\u2026</string>
+  <string name="listTotalPhoneContactsZero">ئالاقىلاشقۇچى ھەمدە تېلفون نۇمۇرى يوق</string>
+  <string name="listTotalAllContactsZero">ئالاقىلاشقۇچى يوق</string>
+  <string name="listFoundAllContactsZero">ئالاقە تېپىلمىدى</string>
+  <string name="contactsFavoritesLabel">ساقلىغۇچى</string>
+  <string name="description_minus_button">مىنۇت</string>
+  <string name="import_from_sim">SIM كارتىدىن كىرگۈزۈش</string>
+  <string name="share_visible_contacts">كۆرگىلى بۇلىدىغان ئۇلىنىشتىن بەھرىمان بۇلۇش</string>
+  <string name="import_one_vcard_string">بىر vCard ھۆججىتىنى كىرگۈزۈش</string>
+  <string name="import_multiple_vcard_string">كۆپ ئىقتىدارلىق vCard ھۆججىتىنى كىرگۈزۈش</string>
+  <string name="import_all_vcard_string">بارلىق  vCard ھۆججىتىنى كىرگۈزۈش</string>
+  <string name="fail_reason_io_error">I/O خاتالىق بار</string>
+  <string name="fail_reason_vcard_parse_error">نامەلۇم سەۋەپ بىلەنvCardنى تونۇش مەغلۇپ بولدى</string>
+  <string name="fail_reason_failed_to_read_files">بىر ياكى كۆپ ھۆججەت كىرگۈزۈش مەغلۇپ بولدى(%s).</string>
+  <string name="fail_reason_unknown">بىلىنمىگەن خاتالىق</string>
+  <string name="select_vcard_title">كارتا vھۆججىتى تاللاش</string>
+  <string name="reading_vcard_failed_title">كارتا ئۇچۇرىنى ئوقۇش مەغلۇپ بولدى</string>
+  <string name="confirm_export_title">ئىكىسپورت قىلىشنى مۇقىملاش</string>
+  <string name="exporting_contact_failed_title">ئالاقىلاشقۇچىنىڭ ماتىرىيالىنى چىقىرىش مەغلۇپ بولدى</string>
+  <string name="fail_reason_no_exportable_contact">ئېكىسپورت قىلىدىغان نومۇر يوق</string>
+  <string name="exporting_contact_list_title">ئالاقىلاشقۇچىلارنىڭ مەلوماتىنى كىرگۈزۈش</string>
+  <string name="composer_failed_to_get_database_infomation">سانلىق مەلومات ئامبىرىدىكى ئۇچۇرلارغا ئىگە بولۇش مەغلۇپ بولدى</string>
+  <string name="composer_not_initialized">vCard لايھىلىگۈچى توغرا ئەسلىگە كەلتۈرۈلvCard لايھىلىگۈچى توغرا ئەسلىگە كەلتۈرۈلمىدىمىدى</string>
+  <string name="menu_accounts">ھېسابات</string>
+  <string name="menu_import_export">كىرگۈزۈش /چىقىرىش</string>
+  <string name="dialog_import_export">ئالاقىلاشقۇچىلارنى كىرگۈزۈش/ چىقىرىش</string>
+  <string name="share_error">بۇ نومۇرنى باشقىلارغا بېرىشكە بولمايدۇ.</string>
+  <string name="nameLabelsGroup">ئىسىم</string>
+  <string name="nicknameLabelsGroup">يالغان ئىسىم</string>
+  <string name="organizationLabelsGroup">قۇرۇلما</string>
+  <string name="websiteLabelsGroup">تور بەت</string>
+  <string name="eventLabelsGroup">ۋەقە</string>
+  <string name="dialog_new_contact_account">ساننىڭ ئاستىدا ئالاقە قۇرۇش</string>
+  <string name="menu_sync_remove">گۇرۇپپىنى ئۆچۇرۋېتىش</string>
+  <string name="dialog_sync_add">ماس قەدەملىك گۇرۇپپا قۇۇش</string>
+  <string name="display_more_groups">تېخىمۇ كۆپ گوروپپا \u2026</string>
+  <string name="display_ungrouped">بارلىق باشقا ئۇچىشىشلار</string>
+  <string name="display_all_contacts">ھەممە ئالاقلاشقۇچىلار</string>
+  <string name="call_home">ئۆيگە تىلفۇن قىلىش</string>
+  <string name="call_mobile">يان تېلفۇنىغا چاقىرىش</string>
+  <string name="call_work">چاقىرىشىنى خىزمىتى</string>
+  <string name="call_fax_work">چاقىرىشىنى خىزمىتى فاكىسى</string>
+  <string name="call_fax_home">ئۆيگە تىلفۇن فاكىس قىلىش</string>
+  <string name="call_pager">سۆزلىشىش چاقىرغۇسى</string>
+  <string name="call_other">چاقىرىش</string>
+  <string name="call_callback">چاقىرششنى تەڭشەش</string>
+  <string name="call_car">چاقىرىش ماشىنىسى</string>
+  <string name="call_company_main">چاقىرىش شىركىتى</string>
+  <string name="call_isdn">تېلفۇن ئۇنۋىرسال مۇلازىمىتى رەقەملىك تورى</string>
+  <string name="call_main">ئاساسلىق چاقىرىش</string>
+  <string name="call_other_fax">تىلفۇن فاكىس</string>
+  <string name="call_radio">تىلفۇن رادىئوسى
+</string>
+  <string name="call_telex">سۆزلىشىش تېلېگراممىسى</string>
+  <string name="call_tty_tdd">سۆزلىشىشTTY/TDD</string>
+  <string name="call_work_mobile">چاقىرىشىنى خىزمىتى يان تېلفۇنى</string>
+  <string name="call_work_pager">چاقىرىشىنى خىزمىتى چاقىرغۇسى</string>
+  <string name="call_mms">رەڭلىك ئۇچۇرMMS چاقىرىش</string>
+  <string name="sms_home">ئۆيگە خەت يېزىش</string>
+  <string name="sms_mobile">تېلفونغا ئۇچۇر يوللاش</string>
+  <string name="sms_work">خەت ئىشى</string>
+  <string name="sms_fax_work">خەت ئىشى فاكىس</string>
+  <string name="sms_fax_home">ئۆي فاكىسىغا خەت يوللاش</string>
+  <string name="sms_pager">خەتلىك چاقىرغۇ</string>
+  <string name="sms_other">تېكسىت</string>
+  <string name="sms_callback">خەت يېزىپ بىكار قىلماق</string>
+  <string name="sms_car">ماشىنىغا ئۇچۇر يېزىش</string>
+  <string name="sms_company_main">خەت شېركىتى مۇھىم</string>
+  <string name="sms_isdn">ISDN گە خەت يېزىش</string>
+  <string name="sms_main">ئاساسلىق مەزمۇن</string>
+  <string name="sms_other_fax">فاكىسقا خەت يوللاش</string>
+  <string name="sms_radio">خەتلىك رادىئو</string>
+  <string name="sms_telex">خەت تېلېكس</string>
+  <string name="sms_tty_tdd">خەت TTY/TDD</string>
+  <string name="sms_work_mobile">كۆچمە خەت ئىشى</string>
+  <string name="sms_work_pager">خەت ئىشى چاقىرغۇسى</string>
+  <string name="sms_mms">MMSخەتلىك رەڭلىك ئۇچۇر</string>
+  <string name="email_home">Email باش بېتى</string>
+  <string name="email_mobile">Email تېلىفۇن</string>
+  <string name="email_work">Email خىزمەت</string>
+  <string name="email_other">Email</string>
+  <string name="email">Email</string>
+  <string name="map_home">ئۆي ئادرىسىنى كۆرۈش</string>
+  <string name="map_work">خىزمەت ئادرىسىنى كۆرۈش</string>
+  <string name="map_other">كۆرۈش ئادرىسى</string>
+  <string name="chat_aim"> AIM ئارقىلىق پاراڭلىشىش</string>
+  <string name="chat_msn">Windows Live ئارقىلىق پاراڭلىشىش</string>
+  <string name="chat_yahoo">Yahoo ئارقىلىق پاراڭلىشىش</string>
+  <string name="chat_skype">Skype ئارقىلىق پاراڭلىشىش</string>
+  <string name="chat_qq">QQ ئارقىلىق پاراڭلىشىش</string>
+  <string name="chat_gtalk">Google Talk ئارقىلىق پاراڭلىشىش </string>
+  <string name="chat_icq">ICQ ئارقىلىق پاراڭلىشىش</string>
+  <string name="chat_jabber">Jabber ئارقىلىق پاراڭلىشىش</string>
+  <string name="chat">پاراڭ</string>
+  <string name="postal_street">كوچا</string>
+  <string name="postal_pobox">PO ساندۇقى</string>
+  <string name="postal_neighborhood">يېقىن ئەتراپتا</string>
+  <string name="postal_city">شەھەر</string>
+  <string name="postal_region">ھالىتى</string>
+  <string name="postal_postcode">پوچتا نومۇرى</string>
+  <string name="postal_country">دۆلەت</string>
+  <string name="name_given">ئىسمى</string>
+  <string name="name_family">فامىلىسى</string>
+  <string name="name_prefix">ئىسىمنىڭ ئالدى قوشۇلغۇچىسى</string>
+  <string name="name_middle">ئوتتۇرا ئىسىم</string>
+  <string name="name_suffix">ئىسىمنىڭ كەينى قوشۇلغۇچىسى</string>
+  <string name="name_phonetic_given">ئاۋازلىق نامى</string>
+  <string name="name_phonetic_middle">ئاۋازلىق ئوتتۇرا نامى</string>
+  <string name="name_phonetic_family">ئاۋازلىق ئائىلە نامى</string>
+  <string name="no_contact_details">بۇ ئالاقىلىشىشتا ئارتۇقچە ئۇچۇر مەۋجۇت ئەمەس</string>
+  <string name="search_results_searching">ئىزدەۋاتىدۇ</string>
+  <string name="label_sip_address">تور تىلفۇنى</string>
+  <string name="imLabelsGroup">مەن </string>
+  <string name="no_sdcard_message" product="nosdcard">USB ساقلىغۇچ قوغدىلىۋاتىدۇ</string>
+  <string name="no_sdcard_message" product="default">SD كارتا قوغدالمىغان</string>
+  <string name="import_from_sdcard" product="default">SD كارتىدىن كىرگۈزۈش</string>
+  <string name="export_to_sdcard" product="default">SD كارتىغا چىقىرىش.</string>
+  <string name="searching_vcard_message" product="nosdcard">USB ساقلىغۇچنىڭ ئىچىدىكى vCard نى ئىزدەۋاتىدۇ</string>
+  <string name="searching_vcard_message" product="default">SD كارتىنىڭ ئىچىدىكى vCard نى ئىزدەۋاتىدۇ</string>
+  <string name="scanning_sdcard_failed_message" product="nosdcard">USB ساقلىغۇچنى سىكاننىرلاش مەغلۇپ بولدى(سەۋەبى:\"<xliff:g id="مەغلۇب بولۇش_سەۋەب">%s</xliff:g>\") </string>
+  <string name="scanning_sdcard_failed_message" product="default">SD كارتىنى سىكاننىرلاش مەغلۇپ بولدى(سەۋەبى:\"<xliff:g id="fail_reason">%s</xliff:g>\") </string>
+  <string name="confirm_export_message">تىلفۇن خاتىرسىدىكى ئالاقىلاشقۇچىلار تىزىملىكنى راستىنلا چىقىرامسىز\"<xliff:g id="vcard_filename">%s</xliff:g>\"؟</string>
+  <string name="exporting_contact_failed_message"> ئالاقىلىشىش سانلىق-مەلۇماتىنى چىقىرىش مەغلۇپ بولدى .\n  مەغلۇپ بولۇشنىڭ سەۋەبى: \"<xliff:g id="fail_reason">%s</xliff:g>\"</string>
+  <string name="fail_reason_too_many_vcard" product="nosdcard">USB ئۈسكۈنىدىكى تىخىمۇ كۆپ ئىلىكتىرونلۇق كارتوچكا</string>
+  <string name="fail_reason_too_many_vcard" product="default">SD كارتىدىكى تىخىمۇ كۆپ ئىلىكتىرونلۇق كارتوچكا</string>
+  <string name="fail_reason_too_long_filename"> (\"<xliff:g id="filename">%s</xliff:g>\") زۆرۈر بولغان ھۆججەت ئىسمى بەك ئۇزۇن</string>
+  <string name="exporting_contact_list_message">ئالاقىلىشىش سانلىق-مەلۇماتىنى  \"<xliff:g id="file_name">%s</xliff:g>\" غا چىقىرىۋاتىدۇ</string>
+  <string name="fail_reason_could_not_initialize_exporter">چىقارغۇچىنى ئەسلىگە كەلتۈرەلمىدى : \"<xliff:g id="exact_reason">%s</xliff:g>\"</string>
+  <string name="fail_reason_error_occurred_during_export">چىقىرىش جەريانىدا خاتالىق يۈز بەردى: \"<xliff:g id="exact_reason">%s</xliff:g>\"</string>
+  <string name="fail_reason_could_not_open_file">ئاچالمىدى \"<xliff:g id="file_name">%1$s</xliff:g>\": <xliff:g id="exact_reason">%2$s</xliff:g></string>
+  <string name="display_warn_remove_ungrouped">ئۆچۈرۈش \'<xliff:g example="Starred" id="group">%s</xliff:g>\'ماس قادەملىك ئۆچۈرۈش.</string>
+  <string name="call_custom">چاقىرش <xliff:g id="custom">%s</xliff:g></string>
+  <string name="call_assistant">چاقىرش <xliff:g id="assistant">%s</xliff:g></string>
+  <string name="sms_custom">تىكىسىت <xliff:g id="custom">%s</xliff:g></string>
+  <string name="sms_assistant">تىكىست <xliff:g id="assistant">%s</xliff:g></string>
+  <string name="email_custom">ئىلخەت <xliff:g id="custom">%s</xliff:g></string>
+  <string name="map_custom">كۆرۈش <xliff:g id="custom">%s</xliff:g>  ئادىرىس</string>
+  <string name="contactPickerActivityTitle">ئالاقىلەشكۈچى تاللاش</string>
+  <string name="noGroups">ھېچىقانداق توپ گۇرپىسى يوق. </string>
+  <string name="noAccounts">توپ قۇرۇش ئۈچۈن بىر ئابونت قۇرۇش كېرەك.  </string>
+  <string name="listTotalAllContactsZeroCustom">ھېچقانداق ئالاقلاشقۇچى يوق.</string>
+  <string name="listTotalAllContactsZeroStarred">ساقلانغان تزىملىك يوق.</string>
+  <string name="listTotalAllContactsZeroGroup"><xliff:g id="NAME">%s</xliff:g> ئىچىدە ئالاقىلاشقۇچى يوق</string>
+  <string name="listAllContactsInAccount">"<xliff:g id="NAME">%s</xliff:g> ئالاقىلەشكۈچى</string>
+  <string name="listMaxContactsInAccount">ئومۇمىي سىغىمى: <xliff:g id="COUNT">%d</xliff:g></string>
+  <string name="listSingleContact">يەككە ئالاقلاشقۇچى</string>
+  <string name="listCustomView">سۈرەتتىكى ئالاقىلەشكۈچىگە ئۆزلۈكىدىن ئېنىقلىما بېرىش</string>
+  <string name="foundTooManyContacts">تېپىلغان ئالاقىلاشقۇچىلار <xliff:g id="COUNT">%d</xliff:g>  دىن ئېشىپ كەتتى. </string>
+  <string name="favoritesFrequentContacted">ئۇدا ئالاقىلىشىش</string>
+  <string name="favoritesFrequentCalled">دائىم چاقىرىدىغان ئالاقىلاشقۇچى</string>
+  <string name="description_view_contact_detail" msgid="2795575601596468581">تېلفون دەپتىرىنى كۆرۈش </string>
+  <string name="fail_reason_low_memory_during_import">ھۆججەت بەك چوڭ، ئىچكى ساقلىغۇچ بوشلۇقى يىتەرلىك ئەمەس.</string>
+  <string name="fail_reason_not_supported">بۇ ئەندىزە قوللىنىلمايدۇ.</string>
+  <string name="vcard_import_failed">vCard نى كىرگۈزگىلى بولمايدۇ.</string>
+  <string name="import_failure_no_vcard_file" product="nosdcard">ساقلىغۇچنىڭ Vcardھۆججىتى تېپىلمىدى.</string>
+  <string name="import_failure_no_vcard_file" product="default">SD كارتىسدىن Vcardھۆججىتى تېپىلمىدى.</string>
+  <string name="fail_reason_failed_to_collect_vcard_meta_info">بېكىتىلگەن vCard ھۆججىتىنىڭ ئۇچۇرىنى يىغقىلى بولمايدۇ.</string>
+  <string name="caching_vcard_title">ساقلاش</string>
+  <string name="caching_vcard_message">vCard نى ئۆز جايىنىڭ ۋاقىتلىق ساقلاش ئۈسكۈنىسىدە ۋاقتىنچە ساقلاۋاتىدۇ. ئەمەلىي كىرگۈزۈش باشلىنىش ئالدىدا.</string>
+  <string name="progress_notifier_message"><xliff:g id="CURRENT_NUMBER">%s</xliff:g> چىنى كىرگۈزۈۋاتىدۇ (جىمئىي <xliff:g id="TOTAL_NUMBER">%s</xliff:g>) ئالاقىلاشقۇچى:  <xliff:g id="NAME">%s</xliff:g></string>
+  <string name="importing_vcard_description"> كىرگۈزۈۋاتىدۇ<xliff:g id="NAME">%s</xliff:g> </string>
+  <string name="reading_vcard_canceled_title">vCard سانلىق مەلۇماتنى ئوقۇشنى ئەمەلدىن قالدۇرۇش</string>
+  <string name="reading_vcard_exception_title">vCard ئۇقۇپ يېزىلىشى نۇرمالىسىز</string>
+  <string name="sqlite_full">ئالاقىلەشكۈچى سانلىق مەلۇمات ئامبىرى ياكى ماگنېتلىق دېسكا توشۇق</string>
+  <string name="importing_vcard_finished_title">vCard <xliff:g id="FILENAME">%s</xliff:g> كىرگۈزۈش تاماملاندى </string>
+  <string name="importing_vcard_canceled_title"> كىرگۈزۈشنى بىكار قىلىش <xliff:g id="FILENAME">%s</xliff:g> </string>
+  <string name="vcard_import_will_start_message"><xliff:g id="FILENAME">%s</xliff:g> سەل تۇرۇپ كىرگۈزۈلىدۇ.</string>
+  <string name="vcard_import_will_start_message_with_default_name">سىستېما بىرئازدىن كېيىن نۆۋەتتىكى ھۆججەتنى كىرگۈزىدۇ.</string>
+  <string name="vcard_import_request_rejected_message">vCard نى كىرگۈزۈش رەت قىلىندى، سەل ساقلاپ تۇرۇڭ.  </string>
+  <string name="vcard_export_will_start_message"><xliff:g id="FILENAME">%s</xliff:g> سەل تۇرۇپ چىقىرىلىدۇ.</string>
+  <string name="vcard_export_request_rejected_message">vCard نى چىقىرىش رەت قىلىندى، سەل ساقلاپ تۇرۇڭ.  </string>
+  <string name="vcard_unknown_filename"> ئالاقە </string>
+  <string name="percentage">%s%%</string>
+  <string name="exporting_vcard_finished_title"><xliff:g id="FILENAME">%s</xliff:g> چىقىرىش تاماملاندى</string>
+  <string name="exporting_vcard_canceled_title"><xliff:g id="FILENAME">%s</xliff:g> نى چىقىرىش ئەمەلدىن قالدۇرۇلدى.</string>
+  <string name="composer_has_no_exportable_contact" product="tablet">چىقىرىدىغان ئالاقىلاشقۇچى يوق،ئەگەر تاختا كومپيۇتېر ھەقىقەتەن مەزكۇر ئالاقىلاشقۇچى ئۇچۇرى بولسا ،بەزى سانلىق مەلۇماتلار مۇلازىمەت بىلەن تەمىنلىگۇچى تەرىىپىدن چىقىرىشنى چەكلەنگەن بولىشى مۇمكىن.</string>
+  <string name="composer_has_no_exportable_contact" product="default">چىقىرىدىغان ئالاقىلاشقۇچى يوق،ئەگر يانفۇنىڭىزدا ھەقىقەتەن مەزكۇر ئالاقىلاشقۇچى ئۇچۇرى بولسا ،بەزى سانلىق مەلۇماتلار مۇلازىمەت بىلەن تەمىنلىگۇچى تەرىىپىدن چىقىرىشنى چەكلەنگەن بولىشى مۇمكىن.</string>
+  <string name="cancel_import_confirmation_message"><xliff:g id="FILENAME">%s</xliff:g> نى كىرگۈزۈشنى بىكار قىلامسىز؟</string>
+  <string name="cancel_export_confirmation_message"><xliff:g id="FILENAME">%s</xliff:g> نى چىقىرىشنى بىكار قىلامسىز؟</string>
+  <string name="cancel_vcard_import_or_export_failed">vCard  نى كىرگۈزۈزش / چقىرىشنى ئەمەلدىن قالدۇرغىلى بولمايدۇ</string>
+  <string name="missing_name">( نامسىز)</string>
+  <string name="menu_contacts_filter">كۆرسەتمەكچى بولغان ئالاقىلەشكۈچى</string>
+  <string name="relationLabelsGroup">مۇناسىۋەت</string>
+  <string name="groupsLabel">توپ گۇرۇپپىسى</string>
+  <string name="account_phone" product="tablet">تاختا كومپيۇتېر تەڭ قەدمدە بولمايدۇ</string>
+  <string name="account_phone" product="default">پەقەتلا تېلفۇن(ماس قەدەملەشتۈرۈلمىگەن)</string>
+  <string name="sms">خەتلىك ئۇچۇر</string>
+  <string name="postal_address">تور ئادرېسى</string>
+  <string name="full_name">ئىسم - فامىلە</string>
+  <string name="name_phonetic">ئىسىم ھەرپنى قۇراشتۇرۇش</string>
+  <string name="menu_select_all">ھەممىسى تاللاندى</string>
+  <string name="menu_select_none">ھەممىنى تاللاشنى بىكار قىلىش</string>
+  <string name="local_invisible_directory">باشقا </string>
+  <string name="local_search_label">ھەممە ئالاقلاشقۇچىلار</string>
+  <string name="list_filter_all_accounts">ھەممە ئالاقلاشقۇچىلار</string>
+  <string name="list_filter_all_starred">يۇلتۇز بەلگىسى قويۇلغان</string>
+  <string name="list_filter_customize">"ئۆزلىكىدىن ئېنىقلىما بېرىش"</string>
+  <string name="list_filter_phones">تېلېفون نومۇرى بولغان بارلىق ئالاقىلەشكۈچى</string>
+  <string name="list_filter_single"> ئالاقە </string>
+  <string name="custom_list_filter">ئۆزلىكىدىن ئىنىقلىما بېرىش سۈرىتىگە تەبىر بېرىش</string>
+  <string name="activity_title_contacts_filter">كۆرسەتمەكچى بولغان ئالاقىلەشكۈچى</string>
+  <string name="hint_findContacts">ئالاقىلاشقۇچىنى ئىزدەش</string>
+  <string name="contacts_unavailable_add_account">ئابۇنىت تىزىملاش</string>
+  <plurals name="group_list_num_contacts_in_group">
+        <item quantity="one"><xliff:g id="COUNT">%1$d</xliff:g> ئادەم</item>
+        <item quantity="other"><xliff:g id="COUNT">%1$d</xliff:g> ئادەم</item>
+    </plurals>
+  <string name="toast_text_copied">تېكىست نۇسخىلاش</string>
+  <string name="profile_display_name">شەخىس ماتېرىيالىنى تەڭشەش</string>
+  <string name="view_updates_from_group">يېڭىلىنىشىنى كۆرۈش </string>
+  <string name="nfc_vcard_file_name">NFC ئارقىلىق ئالاقىلەشكۈچى ئۇچۇرى قوبۇل قىلىندى</string>
+  <string name="status_available">ئىشلەتكىلى بولىدۇ</string>
+  <string name="status_away">ئايرىلىش</string>
+  <string name="status_busy">ئالدىراش</string>
+  <string name="description_send_message"><xliff:g id="NAME">%1$s</xliff:g> غا ئۇچۇر يوللاش</string>
+  <string name="description_dial_phone_number"><xliff:g id="NAME">%1$s</xliff:g> غا تېلېفون قىلىش</string>
+  <string name="description_quick_contact_for">"<xliff:g id="NAME">%1$s</xliff:g> نىڭ تېز سۈرئەتتە ئالاقىلىشش باش سۈرئىتى"</string>
+  <string name="user_profile_contacts_list_header" msgid="9154761216179882405">مەن</string>
+  <string name="label_phone">تېلېفون</string>
+  <string name="choose_sim_card">SIM كارتىسى تاللاش</string>
+  <string name="toast_no_contact_selected">ئالاقلاشقۇچى تاللانمىدى</string>
+  <plurals name="listTotalAllContacts">
+    <item quantity="one">1ئالاقىنى كۆرسىتىش</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g> ئالاقىلاشقۇچىلارنى كۆرسىتىپ بېرىش</item>
+  </plurals>
+  <plurals name="searchFoundContacts">
+    <item quantity="one">1 ئۇلاش</item>
+    <item quantity="other">ئالاقىلاشقۇچىلار <xliff:g id="count">%d</xliff:g> </item>
+  </plurals>
+  <string name="import_from_phone">ئىچكى ساقلاش ئۈسكۈنىسىدىن يېتەكلەپ چىقىرىش </string>
+  <string name="alert_delete_contact">تاللىغان ئالاقىلاشقۇچىنى مەڭگۈلۈك ئۆچۈرىۋىتەمسىز ؟</string>
+  <string name="select_all_contacts">ھەممىنى تاللاش</string>
+  <string name="cancel_select_all_contacts">ھەممىنى ئۆچۈرۈش</string>
+  <string name="menu_save">ساقلاش</string>
+  <plurals name="searchMatchContacts">
+      <item quantity="one" msgid="4826918429708286628">بىر ئالاقىلاشقۇچى ماس كىلىدىكەن </item>
+      <item quantity="other" msgid="7988132539476575389">"ماس كەلدى <xliff:g id="COUNT">%d</xliff:g>ئالاقىلاشقۇچى"</item>
+  </plurals>
+  <string name="no_vcard_found_in_internal_stor">ئىچكى ساقلىغۇچتا vCardھۆججىتى تىپىلدى.</string>
+    <string name="clearFrequentsConfirmation_title">"دائىملىق ئالاقىداشنى تازىلامدۇ؟"</string>
+    <string name="clearFrequentsConfirmation">"سىز ئالاقىلاشقۇچىلار ۋە تېلېفون ئەپلىرىدىن دائىمي ئالاقىلاشقۇچىلار تىزىملىكىنى قۇرۇقدىماقچى بولىۋاتىسىز، ھەمدە ئېلىخەت ئەپىنى سىزنىڭ  دائىمىي ئالاقە ئادرىسىڭىزنى قايتىدىن ئېرىشىشكە زورلاۋاتىسىز"</string>
+    <string name="clearFrequentsProgress_title">"دائىملىق ئالاقىداشنى تازىلاۋاتىدۇ\u2026"</string>
+    <string name="directory_search_label">"مۇندەرىجە"</string>
+    <string name="expand_collapse_name_fields_description">"سۆز بۆلىكىىنى كېڭەيتىش ۋە قاتلاش"</string>
+    <string name="dialog_import">"ھۆججەت ئىچىدىن ئالاقىلاشقۇچىنى كىرگۈزۈش"</string>
+    <string name="menu_clear_frequents">"دائىملىق ئالاقىداشنى تازىلاش"</string>
+    <string name="select_card">"كارتا تاللاڭ"</string>
+    <string name="fail_reason_empty">"بوش ئالاقىداش سانلىق مەلۇماتى"</string>
+    <string name="copy_to">"گە كۆپەيتىش"</string>
+    <string name="export_to_phone">"ئىچكى قىسىم ساقلىغۇچ ئۈسكىنىسىگە چىقىرىش"</string>
+    <string name="contacts_selection_for_mms_limit">"تاللاش يۇقىرى چېكى <xliff:g id="COUNT">%d</xliff:g>"</string>
+    <string name="contact_status_update_attribution">"ئارقىلىق<xliff:g id="source" example="Google Talk">%1$s</xliff:g>"</string>
+    <string name="contact_status_update_attribution_with_date">"<xliff:g id="date" example="3 hours ago">%1$s</xliff:g> via <xliff:g id="source" example="Google Talk">%2$s</xliff:g>"</string>
+    <string name="list_contact_phone">"تېلېفون نۇمۇرى بار ئالاقىلاشقۇچىلار"</string>
+</resources>

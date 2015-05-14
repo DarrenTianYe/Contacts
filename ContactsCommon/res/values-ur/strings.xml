@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="contactsList">رابطے</string>
+    <string name="contactPickerActivityTitle">ایک رابطہ منتخب کریں</string>
+    <string name="menu_search">تلاش</string>
+    <string name="menu_done">مکمل</string>
+    <string name="menu_doNotSave">منسوخ</string>
+    <string name="label_notes">نوٹس</string>
+    <string name="label_sip_address">انٹرنیٹ کال</string>
+    <string name="ghostData_company">کمپنی</string>
+    <string name="ghostData_title">عنوان</string>
+    <string name="phoneLabelsGroup">فون</string>
+    <string name="emailLabelsGroup">ای میل</string>
+    <string name="imLabelsGroup">میں</string>
+    <string name="postalLabelsGroup">مقام</string>
+    <string name="noGroups">کوئی گروہوں نہیں.</string>
+    <string name="noAccounts">گروپ تخلیق کرنے کے لئے آپ کو ایک اکاؤنٹ کی ضرورت ہے.</string>
+    <string name="savingDisplayGroups">   ڈسپلے کے اختیارات  محفوظ  \u2026</string>
+    <string name="listTotalPhoneContactsZero">فون نمبر کے ساتھ کوئی رابطہ نہیں</string>
+    <plurals name="listTotalAllContacts">
+        <item quantity="one">1 رابطہ</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> رابطے</item>
+    </plurals>
+    <string name="listTotalAllContactsZero">کوئی رابطہ نہیں ہے.</string>
+    <string name="listTotalAllContactsZeroCustom">دکھائی دینے والا رابطے نہیں.</string>
+    <string name="listTotalAllContactsZeroStarred"> پسندیدہ نہیں.</string>
+    <string name="listTotalAllContactsZeroGroup">کوئی رابطے نہیں  <xliff:g id="name" example="Friends">%s</xliff:g></string>
+    <string name="listAllContactsInAccount">میں رابطے <xliff:g id="name" example="abc@gmail.com">%s</xliff:g></string>
+    <string name="listMaxContactsInAccount">"جگھ: <xliff:g id="COUNT">%d</xliff:g>"</string>
+    <string name="listSingleContact">اکیلی رابطہ</string>
+    <string name="listCustomView">اپنی مرضی کے نقطہ نظر میں رابطے</string>
+    <string name="foundTooManyContacts">سے زیادہ <xliff:g id="count">%d</xliff:g> پایا.
+</string>
+    <string name="listFoundAllContactsZero">کوئی نہیں پایا.</string>
+    <plurals name="searchFoundContacts">
+        <item quantity="one">پایا 1</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> ملا</item>
+    </plurals>
+    <string name="contactsFavoritesLabel">پسنديدہ</string>
+    <string name="favoritesFrequentContacted">اکثر پوچھے جانے والے سے رابطہ</string>
+    <string name="favoritesFrequentCalled">اکثر کہا جاتا</string>
+    <string name="description_minus_button">منفی</string>
+    <string name="description_view_contact_detail" msgid="2795575601596468581">رابطے دیکھیں</string>
+    <string name="no_sdcard_message" product="nosdcard">نہیں اسٹوریج کو نہیں پایا گیا تھا.</string>
+    <string name="no_sdcard_message" product="default">ایسڈی کارڈ پایا گیا تھا.</string>
+    <string name="import_from_sim">سم کارڈ سے درآمد کریں</string>
+    <string name="import_from_sdcard" product="default">ذخیرہ سے درآمد</string>
+    <string name="export_to_sdcard" product="default">سٹوریج میں برآمد کریں</string>
+    <string name="share_visible_contacts">شیئر ظاہر رابطوں</string>
+    <string name="import_one_vcard_string">ایک وی کارڈ فائل درآمد کریں</string>
+    <string name="import_multiple_vcard_string">ایک سے زیادہ وی کارڈ فائلوں کو درآمد کریں</string>
+    <string name="import_all_vcard_string">تمام وی کارڈ کی فائلوں کو درآمد کریں</string>
+    <string name="searching_vcard_message" product="nosdcard">u2026\ اسٹوریج میں وی کارڈ کی معلومات کے لئے تلاش</string>
+    <string name="searching_vcard_message" product="default">ایسڈی کارڈ پر وی کارڈ کی معلومات کے لئے تلاش u2026\</string>
+    <string name="scanning_sdcard_failed_message" product="nosdcard">ذخیرہ کا سکین نہیں کیا جا سکتا.(وجہ: \"<xliff:g id="fail_reason">%s</xliff:g>\")</string>
+    <string name="scanning_sdcard_failed_message" product="default">ایسڈی کارڈ کو سکین نہیں کیا جا سکتا ہے.(وجہ: \"<xliff:g id="fail_reason">%s</xliff:g>\")</string>
+    <string name="fail_reason_io_error">ان پٹ آؤٹ پٹ کی خرابی</string>
+    <string name="fail_reason_low_memory_during_import">کافی میموری نہیں. فائل بہت بڑی ہو سکتی ہے.</string>
+    <string name="fail_reason_vcard_parse_error">ایک غیر متوقع طور پر کی وجہ سے وی کارڈ کا تجزیہ نہیں کیا جا سکا.</string>
+    <string name="fail_reason_not_supported">فارمیٹ کی حمایت نہیں  کی ہے.</string>
+    <string name="vcard_import_failed">وی کارڈ درآمد نہیں کیا جا سکا.</string>
+    <string name="import_failure_no_vcard_file" product="nosdcard">اسٹوریج میں پائے وی کارڈ فائل نہیں ہے.</string>
+    <string name="import_failure_no_vcard_file" product="default">ایسڈی کارڈ پر پائے وی کارڈ فائل نہیں ہے.</string>
+    <string name="fail_reason_failed_to_collect_vcard_meta_info">دی وی کارڈ فائل (فائلوں) کی میٹا کی معلومات کو اکٹھا نہیں کیا جا سکا.</string>
+    <string name="fail_reason_failed_to_read_files">ایک یا ایک سے زیادہ فائلوں (٪s) درآمد نہیں رکھا جائے سکتا ہے.</string>
+    <string name="fail_reason_unknown">نامعلوم غلطی</string>
+    <string name="select_vcard_title">وی کارڈ فائل منتخب کریں</string>
+    <string name="caching_vcard_title">کیشنگ</string>
+    <string name="caching_vcard_message">مقامی عارضی اسٹوریج وی کارڈ (ے) کیشنگ. اصل درآمد جلد ہی شروع ہو جائے گا.</string>
+    <string name="progress_notifier_message">درآمد کر رھا ھے<xliff:g id="current_number">%s</xliff:g>/<xliff:g id="total_number">%s</xliff:g>: <xliff:g id="name" example="Joe Due">%s</xliff:g></string>
+    <string name="importing_vcard_description">درآمد کر رھا ھے  <xliff:g id="name" example="Joe Due">%s</xliff:g></string>
+    <string name="reading_vcard_failed_title">وی کارڈ ڈیٹا کو پڑھنے کے نہیں کر سکا</string>
+    <string name="reading_vcard_canceled_title">پڑھنا وی کارڈ منسوخ ڈیٹا</string>
+    <string name="reading_vcard_exception_title">پڑھ یا لکھ وی کارڈ کے ڈیٹا استثناء</string>
+    <string name="sqlite_full">رابطہ ڈیٹا بیس یا ڈسک بھری ہے</string>
+    <string name="importing_vcard_finished_title">ختم درآمد وی کارڈ <xliff:g id="filename" example="import.vcf">%s</xliff:g></string>
+    <string name="importing_vcard_canceled_title">درآمد کر رھا ھے <xliff:g id="filename" example="import.vcf">%s</xliff:g> منسوخ</string>
+    <string name="vcard_import_will_start_message"><xliff:g id="filename" example="import.vcf">%s</xliff:g>جلد ہی درآمد کیا جائے گا.</string>
+    <string name="vcard_import_will_start_message_with_default_name">فائل کو جلد ہی درآمد کیا جائے گا.</string>
+    <string name="vcard_import_request_rejected_message">وی کارڈ درآمد کی درخواست کو مسترد کر دیا گیا تھا. کچھ دیر بعد دوبارہ کوشش کریں.</string>
+    <string name="vcard_export_will_start_message"><xliff:g id="filename" example="import.vcf">%s</xliff:g>جلد ہی برآمد کیا جائے گا .</string>
+    <string name="vcard_export_request_rejected_message">وی کارڈ برآمد کی درخواست کو مسترد کر دیا گیا تھا. کچھ دیر بعد دوبارہ کوشش کریں.</string>
+    <string name="vcard_unknown_filename">رابطہ کریں</string>
+    <string name="percentage">%s%%</string>
+    <string name="confirm_export_title">رابطے درآمد کریں؟</string>
+    <string name="confirm_export_message">آپ کے رابطہ کی فہرست فائل  پر برآمد: <xliff:g id="vcard_filename">%s</xliff:g>.</string>
+    <string name="exporting_contact_failed_title">نہیں برآمد کیا جا سکا</string>
+    <string name="exporting_contact_failed_message">رابطہ کا ڈیٹا برآمد نہیں کیا گیا تھا.\nوجہ: \"<xliff:g id="fail_reason">%s</xliff:g>\"</string>
+    <string name="fail_reason_no_exportable_contact">کوئی برآمد رابطہ نہیں ہے.</string>
+    <string name="fail_reason_too_many_vcard" product="nosdcard">بہت سارے وی کارڈ فائلوں کو اسٹوریج میں ہیں.</string>
+    <string name="fail_reason_too_many_vcard" product="default">بہت سارے وی کارڈ فائلوں ایسڈی کارڈ پر ہیں.</string>
+    <string name="fail_reason_too_long_filename">مطلوبہ فائل کا نام بہت لمبا ہے   (\"<xliff:g id="filename">%s</xliff:g>\").
+</string>
+    <string name="exporting_vcard_finished_title">برآمد ختم <xliff:g id="filename" example="export.vcf">%s</xliff:g>.</string>
+    <string name="exporting_vcard_canceled_title">برآمد کیا <xliff:g id="filename" example="export.vcf">%s</xliff:g> منسوخ.</string>
+    <string name="exporting_contact_list_title">برآمد رابطہ کی معلومات</string>
+    <string name="exporting_contact_list_message">آپ کے رابطے کی معلومات برآمد کی جا رہی ہے : <xliff:g id="file_name">%s</xliff:g>.</string>
+    <string name="fail_reason_could_not_initialize_exporter">برآمدکنندہ کو شروع نہیں کیا جا سکا: \"<xliff:g id="exact_reason">%s</xliff:g>\".</string>
+    <string name="fail_reason_error_occurred_during_export">برآمد کے دوران ایک خرابی واقع ہوئی ہے: \"<xliff:g id="exact_reason">%s</xliff:g>\".</string>
+    <string name="composer_failed_to_get_database_infomation">ڈیٹا بیس کی معلومات حاصل نہیں کیا جا سکا.</string>
+    <string name="composer_has_no_exportable_contact" product="tablet">کوئی برآمد رابطے نہیں  ہیں. اگر آپ کو آپ کےٹیبلیٹ  پر رابطے ہیں، کچھ اعداد و شمار فراہم کرنےوالوں کو فون سے رابطے برآمد کرنے کی اجازت نہیں دے سکتے ہیں.</string>
+    <string name="composer_has_no_exportable_contact" product="default">کوئی برآمد رابطے نہیں  ہیں. اگر آپ کو آپ کے فون پر رابطے ہیں، کچھ اعداد و شمار فراہم کرنے والوں کو فون سے رابطے برآمد کرنے کی اجازت نہیں دے سکتے ہیں.</string>
+    <string name="composer_not_initialized">وی کارڈ کمپوزر مناسب طریقے سے شروع نہیں کیا.</string>
+    <string name="fail_reason_could_not_open_file">نہیں کھول سکتے ہیں \"<xliff:g id="file_name">%s</xliff:g>\": <xliff:g id="exact_reason">%s</xliff:g>.</string>
+    <string name="cancel_import_confirmation_message">کی درآمد منسوخ کریں <xliff:g id="filename" example="import.vcf">%s</xliff:g>؟</string>
+    <string name="cancel_export_confirmation_message">کی برآمد منسوخ کریں <xliff:g id="filename" example="export.vcf">%s</xliff:g>؟</string>
+    <string name="cancel_vcard_import_or_export_failed">وی کارڈ درآمد / برآمد کو منسوخ نہیں کیا جا سکا</string>
+    <string name="missing_name">(کوئی نام نہیں)</string>
+    <string name="menu_accounts">اکاؤنٹس</string>
+    <string name="menu_contacts_filter">ظاہر کرنے کے لئے رابطے</string>
+    <string name="menu_import_export">درآمد / برآمد</string>
+    <string name="dialog_import_export">درآمد / برآمد کے رابطے</string>
+    <string name="share_error">اس رابطے کا اشتراک نہیں کیا جا سکتا ہے.</string>
+    <string name="nameLabelsGroup">نام</string>
+    <string name="nicknameLabelsGroup">یوزر کا نام</string>
+    <string name="organizationLabelsGroup">تنظیم</string>
+    <string name="websiteLabelsGroup">ویب سائٹ</string>
+    <string name="eventLabelsGroup">واقعات</string>
+    <string name="relationLabelsGroup">رشتہ</string>
+    <string name="groupsLabel">گروپ</string>
+    <string name="dialog_new_contact_account">اکاؤنٹ کے تحت رابطہ تخلیق </string>
+    <string name="menu_sync_remove">مطابقت پذیری گروپ کو ہٹا دیں</string>
+    <string name="dialog_sync_add">مطابقت پذیری کا گروپ شامل کریں</string>
+    <string name="display_more_groups">مزید گروپوں \u2026</string>
+    <string name="display_ungrouped">تمام دیگر رابطے</string>
+    <string name="display_all_contacts">تمام روابط</string>
+    <string name="display_warn_remove_ungrouped">اتارنے  \"<xliff:g id="group" example="Starred">%s</xliff:g>\"  ہم آہنگی سے ہم آہنگی سے  گروپ رابطےنہیں نکال دیا جائے گا.</string>
+    <string name="account_phone" product="tablet">صرف ٹیبلٹ   مطابقت نہیں  رکھتا ہے</string>
+    <string name="account_phone" product="default">فون صرف (غیر سنک)</string>
+    <string name="call_custom">کال <xliff:g id="custom">%s</xliff:g></string>
+    <string name="call_home">گھر پر فون</string>
+    <string name="call_mobile">کال موبائل</string>
+    <string name="call_work">کام کال</string>
+    <string name="call_fax_work">فیکس کام کال</string>
+    <string name="call_fax_home">ہوم فیکس کو کال کریں</string>
+    <string name="call_pager">پیجر کال</string>
+    <string name="call_other">کال کریں</string>
+    <string name="call_callback">واپسی کال کال</string>
+    <string name="call_car">گاڑی کال</string>
+    <string name="call_company_main">کمپنی کے اہم کال</string>
+    <string name="call_isdn">ائ  ایس  ڈی   این   کال</string>
+    <string name="call_main">کال اہم</string>
+    <string name="call_other_fax">کال فیکس</string>
+    <string name="call_radio">ریڈیو کال</string>
+    <string name="call_telex">ٹیلیکس کال</string>
+    <string name="call_tty_tdd">TTY / TDD  کال</string>
+    <string name="call_work_mobile">کام موبائل کال</string>
+    <string name="call_work_pager">پیجر کام کال</string>
+    <string name="call_assistant">کال <xliff:g id="assistant">%s</xliff:g></string>
+    <string name="call_mms"> ایم   ایم  ایس کال</string>
+    <string name="sms_custom">متن <xliff:g id="type" example="mobile">%s</xliff:g></string>
+    <string name="sms_home">ٹیکسٹ گھر</string>
+    <string name="sms_mobile">موبائل ٹیکسٹ</string>
+    <string name="sms_work">ٹیکسٹ کا کام</string>
+    <string name="sms_fax_work">ٹیکسٹ کام فیکس</string>
+    <string name="sms_fax_home">ٹیکسٹ گھر فیکس</string>
+    <string name="sms_pager">ٹیکسٹ پیجر</string>
+    <string name="sms_other">عبارت</string>
+    <string name="sms_callback">عبارت جوابی کال</string>
+    <string name="sms_car">عبارت کی کار</string>
+    <string name="sms_company_main">عبارت اہم کمپنی </string>
+    <string name="sms_isdn">ٹیکسٹ  آئ-ایس-ڈی- این </string>
+    <string name="sms_main">بنیادی ٹیکسٹ</string>
+    <string name="sms_other_fax">ٹیکسٹ فیکس</string>
+    <string name="sms_radio">ٹیکسٹ ریڈیو</string>
+    <string name="sms_telex">ٹیکسٹ ٹیلیکس</string>
+    <string name="sms_tty_tdd">ٹیکسٹ  ٹی  ٹی وائ/ ٹی ڈی ڈی</string>
+    <string name="sms_work_mobile"> ٹیکسٹ کام موبائل</string>
+    <string name="sms_work_pager">ٹیکسٹ کام فیکس</string>
+    <string name="sms_assistant">متن <xliff:g id="custom">%s</xliff:g></string>
+    <string name="sms_mms">ٹیکسٹ ایم-ایم-ایس</string>
+    <string name="sms">ٹیکسٹ پیغام</string>
+    <string name="email_home">ای میل گھر</string>
+    <string name="email_mobile">ای میل موبائل</string>
+    <string name="email_work">ای میل کا کام</string>
+    <string name="email_other">ای میل</string>
+    <string name="email_custom">ای میل <xliff:g id="custom">%s</xliff:g></string>
+    <string name="email">ای میل</string>
+    <string name="map_home"> گھر کے پتے دیکھیں</string>
+    <string name="map_work">کام کا پتہ دیکھیں</string>
+    <string name="map_other">پتے دیکھیں</string>
+    <string name="map_custom">دیکھیں  <xliff:g id="custom">%s</xliff:g> ایڈریس
+</string>
+    <string name="chat_aim">اے  ائ ایم     کا استعمال کرتے ہوئے چیٹ کریں</string>
+    <string name="chat_msn">ونڈوز لائیو کا استعمال کرتے ہوئے چیٹ کریں</string>
+    <string name="chat_yahoo">یاہو کا استعمال کرتے ہوئے چیٹ کریں</string>
+    <string name="chat_skype">اسکائپ استعمال کرتے ہوئے چیٹ کریں</string>
+    <string name="chat_qq">کیو کیو کا استعمال کرتے ہوئے چیٹ کریں</string>
+    <string name="chat_gtalk">گوگل ٹاک کا استعمال کرتے ہوئے چیٹ کریں</string>
+    <string name="chat_icq">ائ سی کیو کا استعمال کرتے ہوئے چیٹ کریں</string>
+    <string name="chat_jabber">جیبر کا استعمال کرتے ہوئے چیٹ کریں</string>
+    <string name="chat">چیٹ کریں</string>
+    <string name="postal_address">مقام</string>
+    <string name="postal_street">سٹریٹ</string>
+    <string name="postal_pobox">پی  او باکس</string>
+    <string name="postal_neighborhood">پڑوس</string>
+    <string name="postal_city"> شہر </string>
+    <string name="postal_region">حالت٬ </string>
+    <string name="postal_postcode">زپ کوڈ</string>
+    <string name="postal_country">گاوں</string>
+    <string name="full_name">نام</string>
+    <string name="name_given"> نام دیا </string>
+    <string name="name_family">خاندان کا نام</string>
+    <string name="name_prefix">نام سے قبل</string>
+    <string name="name_middle">درمیانی نام</string>
+    <string name="name_suffix">نام لاحقہ</string>
+    <string name="name_phonetic_given">فون کی بنیاد پر دی کے نام</string>
+    <string name="name_phonetic_middle">فون کی بنیاد پر مڈل نام</string>
+    <string name="name_phonetic_family">فون کی بنیادپرخاندان کا نام</string>
+    <string name="name_phonetic">صوتیاتی نام</string>
+    <string name="no_contact_details">اس رابطے کے لئے اضافی معلومات نہیں.</string>
+    <string name="search_results_searching">\u2026 تلاش</string>
+    <string name="menu_select_all">تمام منتخب کریں سیٹ میں ناکام</string>
+    <string name="menu_select_none">غیر فعال کریں تمام</string>
+    <string name="local_invisible_directory">دیگر</string>
+    <string name="directory_search_label">ڈائرکٹری</string>
+    <string name="local_search_label">تمام روابط</string>
+    <string name="list_filter_all_accounts">تمام روابط</string>
+    <string name="list_filter_all_starred">ستارہ نما شکلوں سے بھرا ۔ </string>
+    <string name="list_filter_customize">مرضی کے مطابق بنائیں</string>
+    <string name="list_filter_phones">فون نمبر کے ساتھ تمام رابطے</string>
+    <string name="list_filter_single">رابطہ کریں</string>
+    <string name="custom_list_filter">اپنی مرضی کے نقطہ نظر کی وضاحت</string>
+    <string name="activity_title_contacts_filter">ظاہر کرنے کے لئے رابطے</string>
+    <string name="hint_findContacts">رابطے تلاش کریں</string>
+    <string name="contacts_unavailable_add_account">ایک اکاؤنٹ میں سائن ان کریں</string>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="one"><xliff:g id="count">%1$d</xliff:g>انسان</item>
+        <item quantity="other"><xliff:g id="count">%1$d</xliff:g> لوگ</item>
+    </plurals>
+    <string name="toast_text_copied">متن کاپی</string>
+    <string name="profile_display_name">میرے پروفائل میں تشکیل</string>
+    <string name="view_updates_from_group">اپ ڈیٹس دیکھیں</string>
+    <string name="nfc_vcard_file_name">رابطہ این ایف سی سے زائد موصول ہونے والی</string>
+    <string name="status_available">دستیاب</string>
+    <string name="status_away">دور</string>
+    <string name="status_busy">مصروف</string>
+    <string name="description_send_message">پیغام ارسال کریں <xliff:g id="name">%1$s</xliff:g></string>
+    <string name="description_dial_phone_number">ڈائل فون<xliff:g id="name">%1$s</xliff:g></string>
+    <string name="description_quick_contact_for">فوری رابطہ کے لئے <xliff:g id="name">%1$s</xliff:g></string>
+    <string name="user_profile_contacts_list_header" msgid="9154761216179882405">مجھے</string>
+    <string name="label_phone">فون</string>
+    <string name="choose_sim_card">سم کارڈ کا انتخاب کریں</string>
+    <string name="toast_no_contact_selected">منتخب رابطہ نہ کریں</string>
+    <string name="import_from_phone">اندرونی ذخیرہ سے درآمد کریں</string>
+    <string name="alert_delete_contact">کیا آپ کو یقین ہے کہ آپ منتخب روابط حذف کرنا چاہتے ہیں؟</string>
+    <string name="select_all_contacts">تمام منتخب کریں</string>
+    <string name="cancel_select_all_contacts">کچھ منتخب نہ کریں</string>
+    <string name="menu_save">محفوظ</string>
+    <plurals name="searchMatchContacts">
+      <item quantity="one" msgid="4826918429708286628">"ایک رابطہ مماثل تھا"</item>
+      <item quantity="other" msgid="7988132539476575389">" <xliff:g id="COUNT">%d</xliff:g>رابطہ مماثلت"</item>
+  </plurals>
+    <string name="no_vcard_found_in_internal_stor">"اندرونی ذخیرہ میں کوئی Vکارڈ فائل نہیں ملی。"</string>
+    <string name="clearFrequentsConfirmation_title">"اکثر رابطہ کردہ کو صاف کریں؟"</string>
+    <string name="clearFrequentsConfirmation">"آپ لوگوں اور فون ایپلی کیشن میں بار بار رابطہ کی فہرست کو صاف کریں گے، اور ای میل ایپلی کیشن کو شروع سے آپ کی پسندیدہ ایڈریسنگ سیکھنے پر مجبور کریں گے "</string>
+    <string name="clearFrequentsProgress_title">"کثرت سے رابطہ کردہ کو صاف کر رہا ہے\u2026"</string>
+    <string name="expand_collapse_name_fields_description">"نام قطعات وسیع یا منہدم کریں"</string>
+    <string name="dialog_import">"ایک فائل سے رابطے درآمد کریں"</string>
+    <string name="menu_clear_frequents">"کثرت کو صاف کریں"</string>
+    <string name="select_card">"براہ مہربانی کارڈ منتخب کریں"</string>
+    <string name="fail_reason_empty">"رابطہ کوائف خالی کریں"</string>
+    <string name="copy_to">"کاپی کرنے کے لئے"</string>
+    <string name="export_to_phone">"اندرونی سٹوریج برآمد کریں"</string>
+    <string name="contacts_selection_for_mms_limit">"منتخب شدہ نمبر کا حد نمبر <xliff:g id="COUNT">%d</xliff:g> ہے"</string>
+    <string name="contact_status_update_attribution">" براستہ <xliff:g id="source" example="Google Talk">%1$s</xliff:g>"</string>
+    <string name="contact_status_update_attribution_with_date">"۔<xliff:g id="date" example="3 hours ago">%1$s</xliff:g> براستہ <xliff:g id="source" example="Google Talk">%2$s</xliff:g>""</string>
+    <string name="list_contact_phone">"فون نمبر کے ساتھ رابطہ کریں"</string>
+</resources>

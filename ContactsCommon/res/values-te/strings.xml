@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2006 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="contactsList">పరిచయాలు</string>
+  <string name="contactPickerActivityTitle">ఒక పరిచయం ఎంచుకోండి</string>
+  <string name="menu_search">వెతుకు</string>
+  <string name="menu_done">జరిగినది</string>
+  <string name="menu_doNotSave">రద్దు</string>
+  <string name="label_notes">పేరు</string>
+  <string name="label_sip_address">ఇంటర్నెట్ కాల్</string>
+  <string name="ghostData_company">కంపెనీ</string>
+  <string name="ghostData_title">శీర్షిక</string>
+  <string name="phoneLabelsGroup">ఫోన్</string>
+  <string name="emailLabelsGroup">ఇమెయిల్</string>
+  <string name="imLabelsGroup">IM</string>
+  <string name="postalLabelsGroup">స్థానం</string>
+  <string name="noGroups">గ్రూపులు లేవు.</string>
+  <string name="noAccounts">గ్రూపులను సృష్టించడానికి మీరొక ఖాతాను సృష్టించాల్సి ఉంది.   </string>
+  <string name="savingDisplayGroups">ప్రదర్శన ఐచ్ఛికాలను సేవ్ చేస్తోంది\u2026</string>
+  <string name="listTotalPhoneContactsZero">ఏ పరిచయాలూ లేవు</string>
+  <string name="listTotalAllContactsZero">ఏ పరిచయాలూ లేవు</string>
+  <string name="listTotalAllContactsZeroCustom">ప్రత్యక్ష పరిచయాలేవీ లేవు. </string>
+  <string name="listTotalAllContactsZeroStarred">ఇష్టాంశాలు లేవు.</string>
+  <string name="listTotalAllContactsZeroGroup">లో ఏ పరిచయాలూ లేవు <xliff:g example="Friends" id="name">%s</xliff:g></string>
+  <string name="listAllContactsInAccount">లో పరిచయాలు<xliff:g example="abc@gmail.com" id="NAME">%s</xliff:g></string>
+  <string name="listSingleContact">ఏకైక పరిచయం</string>
+  <string name="listCustomView">సంప్రదాయ వీక్షణలో పరిచయాలు  </string>
+  <string name="foundTooManyContacts">దాని కంటే <xliff:g id="count">%d</xliff:g> కనుగొనబడ్డాయి.</string>
+  <string name="listFoundAllContactsZero">ఏ పరిచయాలూ లేవు</string>
+  <string name="contactsFavoritesLabel">ఇష్టమైన విషయాలు</string>
+  <string name="clearFrequentsConfirmation_title">తరుచుగా కాంటాక్ట్ చేసినవాటిని రద్దు చేయాలా?</string>
+  <string name="clearFrequentsConfirmation">మీరు ప్రజల మరియు ఫోను అప్లికేషన్లలో తరుచుగా సంప్రదించిన జాబితాని రద్దు చేస్తారు, మరియు ఇమెయిల్ అప్లికేషన్లను మీరు నిర్వహించదలిచిన ప్రాధాన్యతలను మొదటి నుంచీ నేర్చుకునేలా ఒత్తిడి చేస్తారు   </string>
+  <string name="clearFrequentsProgress_title">తరుచుగా కాంటాక్ట్ చేసినవి రద్దు చేయబడుతున్నాయి\u2026</string>
+  <string name="favoritesFrequentContacted">తరచుగా కాంటాక్ట్ చేసిన</string>
+  <string name="favoritesFrequentCalled">తరచుగా కాల్ చేసిన</string>
+  <string name="description_minus_button">తీసివేత గుర్తు</string>
+  <string name="description_view_contact_detail" msgid="2795575601596468581">పరిచయాన్ని  వీక్షించు </string>
+  <string name="no_sdcard_message" product="nosdcard">నిల్వ కనుగొనబడలేదు.</string>
+  <string name="no_sdcard_message" product="default">ఏ SD కార్డూ కనబడడం లేదు.</string>
+  <string name="import_from_sim">అంతర్గత నిల్వ నుంచి దిగుమతి చేసుకో</string>
+  <string name="import_from_sdcard" product="default">అంతర్గత నిల్వ నుంచి దిగుమతి చేసుకో</string>
+  <string name="export_to_sdcard" product="default">బాహ్య నిల్వకి ఎగుమతి చేయి</string>
+  <string name="import_from_phone">అంతర్గత నిల్వ నుంచి దిగుమతి చేసుకో</string>
+  <string name="share_visible_contacts">ప్రత్యక్ష పరిచయాలు పంచు</string>
+  <string name="import_one_vcard_string">ఒక vCard ఫైల్ దిగుమతి</string>
+  <string name="import_multiple_vcard_string">బహుళ వీకార్డు ఫైళ్లు దిగుమతి చేసుకో</string>
+  <string name="import_all_vcard_string">అన్ని వీకార్డు ఫైళ్లనీ దిగుమతి చేసుకో</string>
+  <string name="searching_vcard_message" product="nosdcard">నిల్వలో వీకార్డు కోసం వెతుకుతోంది\u2026</string>
+  <string name="searching_vcard_message" product="default">నిల్వలో వీకార్డు కోసం వెతుకుతోంది\u2026</string>
+  <string name="scanning_sdcard_failed_message" product="nosdcard">నిల్వ స్కాన్ చేయబడదు (కారణం: \"<xliff:g id="fail_reason">%s</xliff:g>\")</string>
+  <string name="scanning_sdcard_failed_message" product="default">SD కార్డు స్కాన్ చేయబడదు (కారణం: \"<xliff:g id="fail_reason">%s</xliff:g>\")</string>
+  <string name="fail_reason_io_error">I/Oదోషం</string>
+  <string name="fail_reason_empty">ఖాళీ పరిచయ డేటా</string>
+  <string name="fail_reason_low_memory_during_import">మెమరీ తగినంతగా లేదు. ఈ ఫైల్ బహుశా చాలా పెద్దది.  </string>
+  <string name="fail_reason_vcard_parse_error">అనుకోని కారణాల వల్ల వీకార్డు విధులు వివరించలేము.</string>
+  <string name="fail_reason_not_supported">ఈ ఫార్మాట్ మద్దతునివ్వదు.</string>
+  <string name="vcard_import_failed">వీకార్డు దిగుమతి చేయలేము.  </string>
+  <string name="import_failure_no_vcard_file" product="nosdcard">నిల్వలో ఏ వీకార్డు ఫైలూ కనుగొనబడలేదు. </string>
+  <string name="import_failure_no_vcard_file" product="default">నిల్వలో ఏ వీకార్డు ఫైలూ కనుగొనబడలేదు. </string>
+  <string name="fail_reason_failed_to_collect_vcard_meta_info">ఇవ్వబడిన వీకార్డు ఫైల్(ల్స్) లోని మెటా సమాచారం సేకరించలేము.</string>
+  <string name="fail_reason_failed_to_read_files">ఒకటి లేదా ఎక్కువ ఫైళ్లు దిగుమతి చేసుకోబడలేదు(%s).</string>
+  <string name="fail_reason_unknown">తెలియని లోపం</string>
+  <string name="select_vcard_title">వీకార్డు ఫైల్ ఎంచుకోండి </string>
+  <string name="caching_vcard_title">పట్టుకుంటోంది</string>
+  <string name="caching_vcard_message">వీ కార్డు (లు) స్థానిక తాత్కాలిక నిల్వకి పట్టుకుంటోంది. అసలైన దిగుమతి త్వరలో ప్రారంభమవుతుంది.</string>
+  <string name="progress_notifier_message">దిగుమతి చేసుకోబడుతోంది <xliff:g id="current_number">%s</xliff:g>/<xliff:g id="total_number">%s</xliff:g>:<xliff:g example="Joe Due" id="NAME">%s</xliff:g></string>
+  <string name="importing_vcard_description">దిగుమతి చేసుకోబడింది <xliff:g example="Joe Due" id="NAME">%s</xliff:g></string>
+  <string name="reading_vcard_failed_title">వీకార్డు డేటా చదవలేము</string>
+  <string name="reading_vcard_canceled_title">వీకార్డు డేటా చదవడం రద్దు అయింది.  </string>
+  <string name="importing_vcard_finished_title">వీకార్డు దిగుమతి  పూర్తి అయింది <xliff:g example="import.vcf" id="filename">%s</xliff:g></string>
+  <string name="importing_vcard_canceled_title">దిగుమతి చేసుకోబడింది <xliff:g example="import.vcf" id="filename">%s</xliff:g> రద్దు చేయబడింది</string>
+  <string name="vcard_import_will_start_message"><xliff:g example="import.vcf" id="filename">%s</xliff:g> త్వరలో ఎగుమతి చేయబడుతుంది.</string>
+  <string name="vcard_import_will_start_message_with_default_name">ఫైల్ త్వరలో దిగుమతి చేసుకోబడుతుంది.</string>
+  <string name="vcard_import_request_rejected_message">వీకార్డు ఎగుమతి అభ్యర్థన తిరస్కరించబడింది. తిరిగి మళ్లీ ప్రయత్నించండి.  </string>
+  <string name="vcard_export_will_start_message"><xliff:g example="import.vcf" id="filename">%s</xliff:g>త్వరలో ఎగుమతి చేయబడుతుంది</string>
+  <string name="vcard_export_request_rejected_message">వీకార్డు ఎగుమతి అభ్యర్థన తిరస్కరించబడింది. తిరిగి మళ్లీ ప్రయత్నించండి.  </string>
+  <string name="vcard_unknown_filename">కనెక్షన్లు</string>
+  <string name="percentage"><xliff:g example="50" id="percentage">%s</xliff:g><xliff:g example="%" id="percentsign">%%</xliff:g></string>
+  <string name="confirm_export_title">పరిచయాలు ఎగుమతి చేయాలా?</string>
+  <string name="confirm_export_message">మీ పరిచయ జాబితా ఫైల్ కి ఎగుమతి చేయబడుతుంది : <xliff:g id="vcard_filename">%s</xliff:g>.</string>
+  <string name="exporting_contact_failed_title">ఎగుమతి చేయలేము  </string>
+  <string name="exporting_contact_failed_message">పరిచయం డేటా ఎగుమతి చేయబడదు.\nతర్కం: \"<xliff:g id="fail_reason">%s</xliff:g>\"</string>
+  <string name="fail_reason_no_exportable_contact">ఎగుమతి చేయదగిన పరిచయాలేవీ లేవు.</string>
+  <string name="fail_reason_too_many_vcard" product="nosdcard">నిల్వలో చాలా ఎక్కువ వీకార్డు ఫైళ్లు ఉన్నాయి.</string>
+  <string name="fail_reason_too_many_vcard" product="default">SD కార్డుపై చాలా ఎక్కువ వీకార్డు ఫైళ్లు ఉన్నాయి.</string>
+  <string name="fail_reason_too_long_filename">కావలసిన ఫైల్ పేరు చాలా పొడవు ఉంది (\"<xliff:g id="filename">%s</xliff:g>\").</string>
+  <string name="exporting_vcard_finished_title">ఎగుమతి పూర్తి అయింది<xliff:g example="export.vcf" id="filename">%s</xliff:g>.</string>
+  <string name="exporting_vcard_canceled_title">ఎగుమతి చేస్తోంది <xliff:g example="export.vcf" id="filename">%s</xliff:g> రద్దు చేయబడింది</string>
+  <string name="exporting_contact_list_title">పరిచయం డేటా ఎగుమతి చేస్తోంది</string>
+  <string name="exporting_contact_list_message">మీ పరిచయ జాబితా ఫైల్ కి ఎగుమతి చేయబడుతోంది : <xliff:g id="file_name">%s</xliff:g>.</string>
+  <string name="fail_reason_could_not_initialize_exporter">ఎక్స్పోరర్ ని ప్రారంభించలేము:  \"<xliff:g id="exact_reason">%s</xliff:g>\".</string>
+  <string name="fail_reason_error_occurred_during_export">ఎగుమతి సమయంలో ఒక తప్పు సంభవించింది:  \"<xliff:g id="exact_reason">%s</xliff:g>\".</string>
+  <string name="composer_failed_to_get_database_infomation">డాటాబేస్ సమాచారం పొందలేము </string>
+  <string name="composer_has_no_exportable_contact" product="tablet">ఎగుమతి చేయదగిన పరిచయాలేవీ లేవు. మీ టాబ్లెట్లో ఏవైనా పరిచయాలు ఉన్నట్లయితే, కొంతమంది డేటా ప్రొవైడర్లు  టాబ్లెట్ నుండి ఎగుమతి పరిచయాలను చేయబడడానికి అనుమతించరు.  </string>
+  <string name="composer_has_no_exportable_contact" product="default">ఎగుమతి చేయదగిన పరిచయాలేవీ లేవు. మీ ఫోను లో ఏవైనా పరిచయాలు ఉన్నట్లయితే, కొంతమంది డేటా ప్రొవైడర్లు ఫోను నుండి  పరిచయాలను ఎగుమతి చేయబడడానికి అనుమతించరు.  </string>
+  <string name="composer_not_initialized">వీకార్డు కంపోజర్ సరిగా మొదలు కాలేదు. </string>
+  <string name="fail_reason_could_not_open_file">ఓపెన్ చేయలేము \<xliff:g id="file_name">%s</xliff:g>\": <xliff:g id="exact_reason">%s</xliff:g>.</string>
+  <string name="cancel_import_confirmation_message"><xliff:g example="import.vcf" id="filename">%s</xliff:g>దిగుమతి రద్దుచేయాలా?</string>
+  <string name="cancel_export_confirmation_message"><xliff:g example="export.vcf" id="filename">%s</xliff:g>ఎగుమతి రద్దుచేయాలా?</string>
+  <string name="cancel_vcard_import_or_export_failed">వీకార్డు దిగుమతి/ఎగుమతి కేన్సిల్ చేయలేము </string>
+  <string name="missing_name">(పేరు లేదు)</string>
+  <string name="menu_accounts">అకౌంట్:</string>
+  <string name="menu_clear_frequents">తరుచుగా ఉన్నవాటిని రద్దు చేయి</string>
+  <string name="menu_contacts_filter">ప్రదర్శించడానికి పరిచయాలు </string>
+  <string name="menu_import_export">దిగుమతి/ఎగుమతి</string>
+  <string name="dialog_import_export">దిగుమతి/ఎగుమతి పరిచయాలు</string>
+  <string name="dialog_import">పరిచయాలను దిగుమతి చేసుకో</string>
+  <string name="share_error">ఈ పరిచయాన్ని పంచడం సాధ్యం కాదు.</string>
+  <string name="nameLabelsGroup">పేరు</string>
+  <string name="nicknameLabelsGroup">మారుపేరు</string>
+  <string name="organizationLabelsGroup">సంస్థ</string>
+  <string name="websiteLabelsGroup">వెబ్ సైట్</string>
+  <string name="eventLabelsGroup">సంఘటనలు</string>
+  <string name="relationLabelsGroup">సంబంధం</string>
+  <string name="groupsLabel">గ్రూపులు</string>
+  <string name="dialog_new_contact_account">ఖాతాలో పరిచయం సృష్టించు</string>
+  <string name="menu_sync_remove">సమకాలీకరించిన గ్రూపుని తొలగించు</string>
+  <string name="dialog_sync_add">సింక్ గ్రూపు చేర్చు</string>
+  <string name="display_more_groups">మరిన్ని గ్రూపులు\u2026</string>
+  <string name="display_ungrouped">అన్ని ఇతర పరిచయాలు</string>
+  <string name="display_all_contacts">అన్ని పరిచయాలు</string>
+  <string name="display_warn_remove_ungrouped">సమకాలీకరణ నుంచి తొలగించబడుతోంది \"<xliff:g example="Starred" id="group">%s</xliff:g>\" గ్రూపు చేయబడకుండా ఉన్న పరిచయాలు ఉంటే కూడా సమకాలీకరణ నుంచి కూడా తొలగించబడతాయి.</string>
+  <string name="account_phone" product="tablet">టాబ్లెట్-మాత్రమే, సమకాలీకరించబడదు</string>
+  <string name="account_phone" product="default">ఫోన్ మాత్రమే, సమకాలీకరించిన లేదు</string>
+  <string name="call_custom">కాల్ <xliff:g id="custom">%s</xliff:g></string>
+  <string name="call_home">హోం కాల్  చేయి</string>
+  <string name="call_mobile">మొబైల్ కాల్ </string>
+  <string name="call_work">వర్క్ కాల్  </string>
+  <string name="call_fax_work">వర్క్ ఫాక్స్ కాల్  </string>
+  <string name="call_fax_home">హోం ఫాక్స్ కాల్  చేయి</string>
+  <string name="call_pager">పేజర్ కాల్  </string>
+  <string name="call_other">కాల్</string>
+  <string name="call_callback">కాల్ బాక్ కాల్  చేయి</string>
+  <string name="call_car">కారుని కాల్  చేయి</string>
+  <string name="call_company_main">కంపెనీ మెయిన్ ని కాల్  చేయి</string>
+  <string name="call_isdn">ISDN కాల్  చేయి</string>
+  <string name="call_main">మెయిన్ కాల్ </string>
+  <string name="call_other_fax">ఫాక్స్ కాల్  చేయి</string>
+  <string name="call_radio">రేడియో కాల్ </string>
+  <string name="call_telex">టెలెక్స్ కాల్ </string>
+  <string name="call_tty_tdd">కాల్ టీటీవై/టీడీడీ</string>
+  <string name="call_work_mobile">వర్క్ మొబైల్ కాల్  </string>
+  <string name="call_work_pager">వర్క్ పేజర్ కాల్ </string>
+  <string name="call_assistant">కాల్ <xliff:g id="assistant">%s</xliff:g></string>
+  <string name="call_mms">ఎంఎంఎస్ కాల్ </string>
+  <string name="sms_custom">టెక్స్ట్ <xliff:g id="custom">%s</xliff:g></string>
+  <string name="sms_home">హోం టెక్స్ట్</string>
+  <string name="sms_mobile">మొబైల్ టెక్స్ట్</string>
+  <string name="sms_work">టెక్స్ట్ పని</string>
+  <string name="sms_fax_work">పని ఫ్యాక్స్ టెక్స్ట్</string>
+  <string name="sms_fax_home">హోం ఫాక్స్ టెక్స్ట్</string>
+  <string name="sms_pager">పేజర్ టెక్స్ట్</string>
+  <string name="sms_other">టెక్స్ట్</string>
+  <string name="sms_callback">కాల్ బాక్ టెక్స్ట్</string>
+  <string name="sms_car">కార్ టెక్స్ట్</string>
+  <string name="sms_company_main">కంపెనీ ప్రధాన టెక్స్ట్  </string>
+  <string name="sms_isdn">ISDN టెక్స్ట్</string>
+  <string name="sms_main">ప్రధాన టెక్స్ట్ </string>
+  <string name="sms_other_fax">ఫాక్స్ టెక్స్ట్</string>
+  <string name="sms_radio">రేడియో టెక్స్ట్</string>
+  <string name="sms_telex">టెలెక్స్ టెక్స్ట్</string>
+  <string name="sms_tty_tdd">TTY/TDD టెక్స్ట్</string>
+  <string name="sms_work_mobile">పని మొబైల్ టెక్స్ట్</string>
+  <string name="sms_work_pager">వర్క్ పేజర్ టెక్స్ట్</string>
+  <string name="sms_assistant">టెక్స్ట్ <xliff:g id="assistant">%s</xliff:g></string>
+  <string name="sms_mms">ఎంఎంఎస్ టెక్స్ట్</string>
+  <string name="sms">టెక్స్ట్ సందేశం </string>
+  <string name="email_home">ఇమెయిల్ హోమ్</string>
+  <string name="email_mobile">ఇమెయిల్ మొబైల్</string>
+  <string name="email_work">ఇమెయిల్ పని</string>
+  <string name="email_other">ఇమెయిల్</string>
+  <string name="email_custom">ఇమెయిల్ <xliff:g id="custom">%s</xliff:g></string>
+  <string name="email">ఇమెయిల్</string>
+  <string name="map_home">ఇంటి చిరునామా  వీక్షించు</string>
+  <string name="map_work">పని చిరునామా  వీక్షించు</string>
+  <string name="map_other">చిరునామా వీక్షించు</string>
+  <string name="map_custom">వీక్షించు<xliff:g id="custom">%s</xliff:g> అడ్రస్</string>
+  <string name="chat_aim">AIM ఉపయోగించి చాట్</string>
+  <string name="chat_msn">విండోస్ లైవ్ ఉపయోగించి చాట్</string>
+  <string name="chat_yahoo">యాహూ ఉపయోగించి చాట్</string>
+  <string name="chat_skype">స్కైపే ఉపయోగించి చాట్</string>
+  <string name="chat_qq">QQ ఉపయోగించి చాట్</string>
+  <string name="chat_gtalk">గూగుల్ టాక్ ఉపయోగించి చాట్</string>
+  <string name="chat_icq">ICQ ఉపయోగించి చాట్</string>
+  <string name="chat_jabber">జాబర్ ఉపయోగించి చాట్</string>
+  <string name="chat">చాట్</string>
+  <string name="postal_address">స్థానం</string>
+  <string name="postal_street">వీథి</string>
+  <string name="postal_pobox">PO బాక్స్</string>
+  <string name="postal_neighborhood">ఇరుగు పొరుగు</string>
+  <string name="postal_city">నగరం</string>
+  <string name="postal_region">రాష్ట్రం</string>
+  <string name="postal_postcode">ZIP కోడ్</string>
+  <string name="postal_country">కంట్రీ</string>
+  <string name="full_name">పేరు</string>
+  <string name="name_given">ఇవ్వబడిన పేరు</string>
+  <string name="name_family">కుటుంబం పేరు</string>
+  <string name="name_prefix">పేరు ముందు ఉపసర్గ చేర్చు</string>
+  <string name="name_middle">మధ్య పేరు</string>
+  <string name="name_suffix">పేరు ముందు ఉపసర్గ చేర్చు</string>
+  <string name="name_phonetic_given">ధ్వని సంబంధంగా ఇవ్వబడిన పేరు</string>
+  <string name="name_phonetic_middle">ధ్వని సంబంధిత మధ్య పేరు</string>
+  <string name="name_phonetic_family">ధ్వని సంబంధిత కుటుంబం పేరు </string>
+  <string name="name_phonetic">ధ్వని సంబంధమైన పేరు</string>
+  <string name="no_contact_details">ఈ పరిచయం కోసం అదనపు సమాచారమేమీ లేదు. </string>
+  <string name="search_results_searching">వెతుకుతోంది\u2026</string>
+  <string name="menu_select_all">"అన్ని ఎంచుకోండి "</string>
+  <string name="menu_select_none">"ఎంచుకోబడలేదు"</string>
+  <string name="local_invisible_directory">ఇతరాలు</string>
+  <string name="directory_search_label">డైరెక్టరీ</string>
+  <string name="local_search_label">అన్ని పరిచయాలు</string>
+  <string name="list_filter_all_accounts">అన్ని పరిచయాలు</string>
+  <string name="list_filter_all_starred">నక్షత్రం గుర్తు పెట్టబడినవి</string>
+  <string name="list_filter_customize">అనుకూలీకరించు</string>
+  <string name="list_filter_phones">ఫోను నెంబర్లతో సహా అన్ని పరిచయాలు </string>
+  <string name="list_filter_single">కనెక్షన్లు</string>
+  <string name="custom_list_filter">అనుకూల వీక్షణను నిర్వచించండి</string>
+  <string name="activity_title_contacts_filter">ప్రదర్శించడానికి పరిచయాలు </string>
+  <string name="hint_findContacts">పరిచయాలను కనుగొనండి</string>
+  <string name="contacts_unavailable_add_account">ఒక ఖాతాకి సంతకం చేయండి</string>
+  <string name="toast_text_copied">టెక్స్ట్ కాపీ చేయబడింది</string>
+  <string name="profile_display_name">నా ప్రొఫైల్ ని సెటప్ చేయి.</string>
+  <string name="view_updates_from_group">నవీకరణలను  వీక్షించు</string>
+  <string name="nfc_vcard_file_name">NFCపై పరిచయం స్వీకరించబడింది</string>
+  <string name="status_available">అందుబాటులో</string>
+  <string name="status_away">దూరం</string>
+  <string name="status_busy">పేలడం</string>
+  <string name="description_send_message"><xliff:g id="name">%1$s</xliff:g> కు సందేశాలను పంపు</string>
+  <string name="description_dial_phone_number">డయల్ ఫోను <xliff:g id="NAME">%1$s</xliff:g></string>
+  <string name="description_quick_contact_for">కోసం త్వరిత పరిచయం <xliff:g id="name">%1$s</xliff:g></string>
+  <string name="user_profile_contacts_list_header" msgid="9154761216179882405">నాకు</string>
+  <string name="choose_sim_card">SIM కార్డుని ఎంచుకోండి</string>
+  <string name="toast_no_contact_selected">ఏ పరిచయమూ ఎంపిక చేయబడలేదు.</string>
+  <string name="alert_delete_contact">మీరు ఖచ్చితంగా ఎంపిక చేసిన పరిచయాలను తొలగించాలని నిర్ధారించుకున్నారా?</string>
+  <string name="label_phone">ఫోన్</string>
+  <string name="listMaxContactsInAccount">"స్థలం: <xliff:g id="COUNT">%d</xliff:g>"</string>
+  <string name="reading_vcard_exception_title">వీకార్డు డేటా చదవడం/రాయడం మినహాయింపు </string>
+  <string name="sqlite_full">పరిచయం డేటా బేస్ లేదా డిస్క్ నిండినది</string>
+  <string name="select_card">దయచేసి కార్డు ఎంచుకోండి</string>
+  <string name="select_all_contacts">అన్నీ ఎంచుకోండి </string>
+  <string name="menu_save">సేవ్ చేయి</string>
+  <string name="cancel_select_all_contacts">అన్ని రద్దు చేయి.</string>
+  <string name="no_match_contact">పరిచయాలలో ఎక్కడా పోలిక లేదు.</string>
+  <string name="no_vcard_found_in_internal_stor">అంతర్గత నిల్వలో ఏ వీకార్డు ఫైలూ కనుగొనబడలేదు. </string>
+  <string name="sdcard_storage_not_enough">SD కార్డు నిల్వ సరిపోదు!</string>
+  <string name="not_select_vCard">ఏ వీకార్డూ ఎంచుకోలేదు</string>
+  <plurals name="listTotalAllContacts">
+        <item quantity="one">"1 పరిచయం"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> పరిచయాలు"</item>
+    </plurals>
+  <plurals name="searchFoundContacts">
+        <item quantity="one">"1కనుగొనబడింది"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g>కనుగొనబడింది"</item>
+    </plurals>
+  <plurals name="group_list_num_contacts_in_group">
+        <item quantity="one">"<xliff:g id="count">%1$d</xliff:g> వ్యక్తి"</item>
+        <item quantity="other">"<xliff:g id="count">%1$d</xliff:g> ప్రజలు"</item>
+    </plurals>
+  <plurals name="searchMatchContacts">
+        <item quantity="one" msgid="4826918429708286628">"ఒక పరిచయం సరిపోయింది"</item>
+        <item quantity="other" msgid="7988132539476575389">" <xliff:g id="COUNT">%d</xliff:g>సరిపోయేదాన్ని సంప్రదించు"</item>
+    </plurals>
+    <string name="expand_collapse_name_fields_description">"నేమ్ ఫీల్డ్స్ ను ఎక్స్పాండ్ లేదా కొలాప్స్ చేయండి"</string>
+    <string name="copy_to">"కు కాపీ చేయి"</string>
+    <string name="export_to_phone">"ఇంటర్నల్ స్టోరేజ్ కు ఎక్స్పోర్ట్ చేయండి"</string>
+    <string name="contacts_selection_for_mms_limit">"ఎంపిక చేయబడిన నంబర్ యొక్క లిమిట్ నంబర్  <xliff:g id="COUNT">%d</xliff:g> గా ఉన్నది."</string>
+    <string name="contact_status_update_attribution">"<xliff:g id="source" example="Google Talk">%1$s</xliff:g> గుండా"</string>
+    <string name="contact_status_update_attribution_with_date">"<xliff:g id="date" example="3 hours ago">%1$s</xliff:g> via <xliff:g id="source" example="Google Talk">%2$s</xliff:g>"</string>
+    <string name="list_contact_phone">"ఫోన్ నంబర్ల తో కాంటాక్ట్ చేయండి"</string>
+</resources>

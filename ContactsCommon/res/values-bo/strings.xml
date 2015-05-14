@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="contactsList">འཕྲིན་སྐྱེལ་ཟིན་ཐོ།</string>
+  <string name="menu_search">འཚོལ་བཤེར།</string>
+  <string name="menu_done">ལེགས་གྲུབ།</string>
+  <string name="menu_doNotSave">སོར་ཆུད།</string>
+  <string name="label_notes">ཟུར་མཆན།</string>
+  <string name="label_sip_address">དྲ་རྒྱའི་ཁ་པར།</string>
+  <string name="ghostData_company">ཀུང་སི།</string>
+  <string name="ghostData_title">ལས་གནས།</string>
+  <string name="phoneLabelsGroup">ཁ་པར།</string>
+  <string name="emailLabelsGroup">སྦྲགས་ཡིག</string>
+  <string name="imLabelsGroup">དུས་ཐོག་གསར་འགྱུར།</string>
+  <string name="postalLabelsGroup">འཕྲིན་གཏོང་ས་གནས།</string>
+  <string name="savingDisplayGroups">མངོན་པའི་གདམ་ཚན་ཉར་ཚགས་བྱེད་བཞིན་པ།...</string>
+  <string name="listTotalPhoneContactsZero">མངོན་པའི་འབྲེལ་གཏུག་པ་ཚང་མར་ཨང་གྲངས་མི་འདུག</string>
+  <string name="listTotalAllContactsZero">འབྲེལ་གཏུག་པ་གང་ཡང་མི་མངོན།</string>
+  <string name="listFoundAllContactsZero">འབྲེལ་གཏུག་པ་མ་རྙེད།</string>
+  <string name="contactsFavoritesLabel">བསྡུ་ཉར།</string>
+  <string name="description_minus_button">སུབ་པ།</string>
+  <string name="no_sdcard_message" product="nosdcard">བཤེར་འཇལ་མི་ཐུབ་པའི་USBཉར་གསོག་སྒྲིག་ཆས།</string>
+  <string name="no_sdcard_message" product="default">བཤེར་འཇལ་མི་ཐུབ་པའི་SDཁཱ།</string>
+  <string name="import_from_sim">SIMཁཱ་ནས་ནང་འདྲེན།</string>
+  <string name="import_from_sdcard" product="default">SDཁཱ་ནས་ནང་འདྲེན།</string>
+  <string name="export_to_sdcard" product="default">SDཁཱ་རུ་ཕྱིར་འདྲེན།</string>
+  <string name="share_visible_contacts">མཐོང་རུང་བའི་འབྲེལ་གཏུག་པ་མཉམ་སྤྱོད།</string>
+  <string name="import_one_vcard_string">vCard ཡིག་ཆ་གཅིག་ནང་འདྲེན།</string>
+  <string name="import_multiple_vcard_string">vCard ཡིག་ཆ་མང་པོ་ནང་འདྲེན།</string>
+  <string name="import_all_vcard_string">vCard ཡིག་ཆ་ང་མ་ནང་འདྲེན།</string>
+  <string name="searching_vcard_message" product="nosdcard">USBཉར་གསོག་སྒྲིག་ཆས་ནང་vCard ཡིག་ཆ་འཚོ་བཤེར་བྱེད་བཞིན་པ།</string>
+  <string name="searching_vcard_message" product="default">SDཁཱ་ནང་vCard ཡིག་ཆ་འཚོ་བཤེར་བྱེད་བཞིན་པ།</string>
+  <string name="scanning_sdcard_failed_message" product="nosdcard">USBཉར་གསོག་སྒྲིག་ཆས་བཤར་འབེབས་སྐབས་ཕམ་པ།（རྒྱུ་མཚན། “<xliff:g id="FAIL_REASON">%s</xliff:g>”）</string>
+  <string name="scanning_sdcard_failed_message" product="default">SDཁཱ་བཤར་འབེབས་སྐབས་ཕམ་པ།（རྒྱུ་མཚན། “<xliff:g id="FAIL_REASON">%s</xliff:g>”）</string>
+  <string name="fail_reason_io_error">I/O ནོར་འཁྲུལ།</string>
+  <string name="fail_reason_vcard_parse_error">བསམ་ཡུལ་འདས་པའི་རྒྱུ་རྐྱེན་གྱིས་vCardདབྱེ་ཞིབ་མི་ཐུབ།</string>
+  <string name="fail_reason_failed_to_read_files">ཡིག་ཆ་གཅིག་གམ་མང་པོ་ནང་འདྲེན་ཕམ་པ།(%s)</string>
+  <string name="fail_reason_unknown">མི་ཤེས་པའི་ནོར་བ།</string>
+  <string name="select_vcard_title">vcardཡིག་ཆ་འདེམས་རྒྱུ།</string>
+  <string name="reading_vcard_failed_title">vCardགཞི་གྲངས་ཀློག་ལེན་ཕམ་པ།</string>
+  <string name="confirm_export_title">ཕྱིར་འདྲེན་གཏན་འཁེལ།</string>
+  <string name="confirm_export_message">ཁྱེད་ཀྱི་འབྲེལ་གཏུག་པའི་གསལ་ཐོ་“<xliff:g id="VCARD_FILENAME">%s</xliff:g>”ནང་ཕྱིར་འདྲེན་ནམ།</string>
+  <string name="exporting_contact_failed_title">འབྲེལ་གཏུག་པའི་གཞི་གྲངས་ཕྱིར་འདྲེན་ཕམ་པ།</string>
+  <string name="exporting_contact_failed_message">འབྲེལ་གཏུག་པའི་གཞི་གྲངས་ཕྱིར་འདྲེན་ཕམ་པ། "\n"ཕམ་པའི་རྒྱུ་རྐྱེན། “<xliff:g id="FAIL_REASON">%s</xliff:g>”</string>
+  <string name="fail_reason_no_exportable_contact">ནང་འདྲེན་བྱེད་ཐུབ་པའི་འབྲེལ་གཏུག་པ་མི་འདུག</string>
+  <string name="fail_reason_too_many_vcard" product="nosdcard">USBཉར་གསོག་སྒྲིག་ཆས་ནང་vCardཡིག་ཆ་མང་དྲགས་འདུག</string>
+  <string name="fail_reason_too_many_vcard" product="default">SDཁཱ་ནང་vCardཡིག་ཆ་མང་དྲགས་འདུག</string>
+  <string name="fail_reason_too_long_filename">དགོས་པའི་ཡིག་ཆའི་མིང་རིང་དྲགས་འདུག（“<xliff:g id="FILENAME">%s</xliff:g>”）</string>
+  <string name="exporting_contact_list_title">འབྲེལ་གཏུག་པའི་གཞི་གྲངས་ཕྱིར་འདྲེན་བྱེད་བཞིན་པ།</string>
+  <string name="exporting_contact_list_message">“<xliff:g id="FILE_NAME">%s</xliff:g>”ལ་འབྲེལ་གཏུག་པའི་གཞི་གྲངས་ཕྱིར་འདྲེན་བྱེད་བཞིན་པ།</string>
+  <string name="fail_reason_could_not_initialize_exporter">ཕྱིར་འདྲེན་བྱ་རིམ་འགོ་སྒྲིག་མི་ཐུབ།“<xliff:g id="EXACT_REASON">%s</xliff:g>”</string>
+  <string name="fail_reason_error_occurred_during_export">ཕྱིར་འདྲེན་སྐབས་ནོར་འཁྲུལ་འདོན་པ།：“<xliff:g id="EXACT_REASON">%s</xliff:g>”</string>
+  <string name="composer_failed_to_get_database_infomation">ཆ་འཕྲིན་མཛོད་ཀྱི་གཞི་གྲངས་ལེན་པ་ཕམ་པ།</string>
+  <string name="composer_not_initialized">vCardབཟོ་སྐྲུན་བྱ་རིམ་ཡང་དག་པའི་འགོ་སྒྲིག་མེད།</string>
+  <string name="fail_reason_could_not_open_file">“<xliff:g id="FILE_NAME">%1$s</xliff:g>”ཁ་ཕྱེ་མི་ཐུབ།：<xliff:g id="EXACT_REASON">%2$s</xliff:g></string>
+  <string name="menu_accounts">བཀོལ་མིང་།</string>
+  <string name="menu_import_export">ནང་འདྲེན་ཕྱིར་འདྲེན།</string>
+  <string name="dialog_import_export">འབྲེལ་གཏུག་པ་ནང་འདྲེན་/ཕྱིར་འདྲེན།</string>
+  <string name="share_error">འབྲེལ་གཏུག་པ་འདི་མཉམ་སྤྱོད་མི་ཐུབ།</string>
+  <string name="nameLabelsGroup">རུས་མིང་།</string>
+  <string name="nicknameLabelsGroup">མིང་གཞན།</string>
+  <string name="organizationLabelsGroup">སྒྲིག་འཛུགས།</string>
+  <string name="websiteLabelsGroup">དྲ་ཚིགས།</string>
+  <string name="eventLabelsGroup">བྱེད་སྒོ།</string>
+  <string name="dialog_new_contact_account">བཀོལ་མིང་དེའི་འོག་འབྲེལ་གཏུག་པ་གསར་འཛུགས།</string>
+  <string name="menu_sync_remove">མཉམ་བགྲོད་ཚོགས་ཆུང་སུབ་པ།</string>
+  <string name="dialog_sync_add">མཉམ་བགྲོད་ཚོགས་ཆུང་ཁ་སྣོན།</string>
+  <string name="display_more_groups">ཚོགས་ཆུང་གང་ལས་མང་བ།...</string>
+  <string name="display_ungrouped">དེ་མིན་འབྲེལ་གཏུག་པ་ཡོད་ཚད།</string>
+  <string name="display_all_contacts">འབྲེལ་གཏུག་པ་ཡོད་ཚད།</string>
+  <string name="display_warn_remove_ungrouped">གལ་ཏེ་མཉམ་བགྲོད་ནས་ཚོགས་ཆུང་“<xliff:g id="GROUP">%s</xliff:g>”སུབ་ན། དེའི་ནང་ཚོགས་ཆུང་བགོས་མེད་པའི་འབྲེལ་གཏུག་པ་ཡང་སུབ་ཀྱི་རེད།</string>
+  <string name="call_custom"><xliff:g id="CUSTOM">%s</xliff:g>སྐད་འབོད།</string>
+  <string name="call_home">སྡོད་ཁྱིམ་ཁ་པར་སྐད་འབོད།</string>
+  <string name="call_mobile">ཁ་པར་སྐད་འབོད།</string>
+  <string name="call_work">ལས་ཁུངས་ཁ་པར།</string>
+  <string name="call_fax_work">ལས་ཁུངས་བརྙན་སྐྱེལ་སྐད་འབོད།</string>
+  <string name="call_fax_home">སྡོད་ཁྱིམ་བརྙན་སྐྱེལ་སྐད་འབོད།</string>
+  <string name="call_pager">འཚོལ་འབོད་སྐད་འབོད།</string>
+  <string name="call_other">དེ་མིན་ཨང་གྲངས་སྐད་འབོད།</string>
+  <string name="call_callback">ཕྱིར་ལན་ཨང་གྲངས་སྐད་འབོད།</string>
+  <string name="call_car">འཁོར་ཐེག་ཁ་པར་སྐད་འབོད།</string>
+  <string name="call_company_main">ཀུང་སའི་ལྟེ་བའི་ཁ་པར་སྐད་འབོད།</string>
+  <string name="call_isdn">ISDNསྐད་འབོད།</string>
+  <string name="call_main">ལྟེ་བའི་ཁ་པར་སྐད་འབོད།</string>
+  <string name="call_other_fax">བརྙན་སྐྱེལ་ཨང་གྲངས་སྐད་འབོད།</string>
+  <string name="call_radio">སྐུད་མེད་སྒྲིག་ཆས་སྐད་འབོད།</string>
+  <string name="call_telex">ཏར་འཕྲིན་སྐད་འབོད།</string>
+  <string name="call_tty_tdd">TTY/TDDསྐད་འབོད།</string>
+  <string name="call_work_mobile">ལས་ཁུངས་ཁ་པར་སྐད་འབོད།</string>
+  <string name="call_work_pager">ལུས་ཁུངས་འཚོལ་འབོད་ཁ་པར་སྐད་འབོད།</string>
+  <string name="call_assistant"><xliff:g id="ASSISTANT">%s</xliff:g>སྐད་འབོད།</string>
+  <string name="call_mms">ཚོན་འཕྲིན་ཨང་གྲངས་སྐད་འབོད།</string>
+  <string name="sms_custom"><xliff:g id="CUSTOM">%s</xliff:g>ལ་འཕྲིན་ཐུང་བསྐུར་བ།</string>
+  <string name="sms_home">སྡོད་ཁྱིམ་ཁ་པར་ལ་འཕྲིན་ཐུང་བསྐུར་བ།</string>
+  <string name="sms_mobile">ཁ་པར་ལ་འཕྲིན་ཐུང་བསྐུར་བ།</string>
+  <string name="sms_work">ལས་ཁུངས་ཁ་པར་ལ་འཕྲིན་ཐུང་བསྐུར་བ།</string>
+  <string name="sms_fax_work">ལས་ཁུས་བརྙན་སྐྱེལ་ཆས་ལ་འཕྲིན་ཐུང་བསྐུར་བ།</string>
+  <string name="sms_fax_home">སྡོད་ཁྱིམ་བརྙན་སྐྱེལ་ཆས་ལ་འཕྲིན་ཐུང་བསྐུར་བ།</string>
+  <string name="sms_pager">འཚོ་འབོད་ཁ་པར་ལ་ཡི་གེའི་བརྡ་འཕྲིན་བསྐུར་བ།</string>
+  <string name="sms_other">ཡིག་སྨར།</string>
+  <string name="sms_callback">ཕྱིར་ལན་ཨང་གྲངས་ལ་འཕྲིན་ཐུང་བསྐུར་བ།</string>
+  <string name="sms_car">འཁོར་ཐེག་ཁ་པར་ལ་འཕྲིན་ཐུང་བསྐུར་བ།</string>
+  <string name="sms_company_main">ཀུང་སའི་ལྟེ་བའི་ཁ་པར་ལ་འཕྲིན་ཐུང་བསྐུར་བ།</string>
+  <string name="sms_isdn">ISDNའཕྲིན་ཐུང་བསྐུར་བ།</string>
+  <string name="sms_main">ལྟེ་བའི་ཁ་པར་ལ་འཕྲིན་ཐུང་བསྐུར་བ།</string>
+  <string name="sms_other_fax">བརྙན་སྐྱེལ་ཨང་གྲངས་ལ་འཕྲིན་ཐུང་བསྐུར་བ།</string>
+  <string name="sms_radio">སྐུད་མེད་སྒྲིག་ཆས་ལ་འཕྲིན་ཐུང་བསྐུར་བ།</string>
+  <string name="sms_telex">ཏར་འཕྲིན་ལ་འཕྲིན་ཐུང་བསྐུར་བ།</string>
+  <string name="sms_tty_tdd">TTY/TDDལ་འཕྲིན་ཐུང་བསྐུར་བ།</string>
+  <string name="sms_work_mobile">ལས་ཁུངས་ཁ་པར་ལ་འཕྲིན་ཐུང་བསྐུར་བ།</string>
+  <string name="sms_work_pager">ལས་ཁུངས་འཚོལ་འབོད་ཁ་པར་ལ་འཕྲིན་ཐུང་བསྐུར་བ།</string>
+  <string name="sms_assistant"><xliff:g id="ASSISTANT">%s</xliff:g>ལ་འཕྲིན་ཐུང་བསྐུར་བ།</string>
+  <string name="sms_mms">ཚོན་འཕྲིན་ཨང་གྲངས་ལ་འཕྲིན་ཐུང་བསྐུར་བ།</string>
+  <string name="email_home">སྡོད་ཁྱི་མ་གློག་རྡུལ་སྦྲགས་ཡིག་བསྐུར་བ།</string>
+  <string name="email_mobile">ཁ་པར་ལ་གློག་རྡུལ་སྦྲགས་ཡིག་བསྐུར་བ།</string>
+  <string name="email_work">ལས་ཁུངས་ལ་གློག་རྡུལ་སྦྲགས་ཡིག་བསྐུར་བ།</string>
+  <string name="email_other">སྦྲགས་ཡིག</string>
+  <string name="email_custom"><xliff:g id="CUSTOM">%s</xliff:g>ལ་གློག་རྡུལ་སྦྲགས་ཡིག་བསྐུར་བ།</string>
+  <string name="email">སྦྲགས་ཡིག</string>
+  <string name="map_home">སྡོད་ཁྱིམ་ས་གནས་ལྟ་ཞིབ།</string>
+  <string name="map_work">ལས་ཁུངས་ས་གནས་ལྟ་བཤེར།</string>
+  <string name="map_other">ས་གནས་ལྟ་བཤེར།</string>
+  <string name="map_custom"><xliff:g id="CUSTOM">%s</xliff:g>ས་གནས་ལྟ་བཤེར།</string>
+  <string name="chat_aim">AIMསྤྱོད་ནས་ཁ་བརྡ།</string>
+  <string name="chat_msn">Windows Liveསྤྱོད་ནས་ཁ་བརྡ།</string>
+  <string name="chat_yahoo">ཡཱ་ཧུ་མཉེན་ཆས་སྤྱོད་ནས་ཁ་བརྡ།</string>
+  <string name="chat_skype">Skypeསྤྱོད་ནས་ཁ་བརྡ།</string>
+  <string name="chat_qq">QQསྤྱོད་ནས་ཁ་བརྡ།</string>
+  <string name="chat_gtalk">Google Talkསྤྱོད་ནས་ཁ་བརྡ།</string>
+  <string name="chat_icq">ICQསྤྱོད་ནས་ཁ་བརྡ།</string>
+  <string name="chat_jabber">Jabberསྤྱོད་ནས་ཁ་བརྡ།</string>
+  <string name="chat">ཁ་བརྡ།</string>
+  <string name="postal_street">སྲང་ལམ།</string>
+  <string name="postal_pobox">ཡིག་སྒམ།</string>
+  <string name="postal_neighborhood">ལམ་ཁུལ།</string>
+  <string name="postal_city">གྲོང་ཁྱེར།</string>
+  <string name="postal_region">ཞིང་ཆེན།/ཐད་སྐྱོང་གྲོང་ཁྱེར།/རང་སྐྱོང་ལྗོངས།</string>
+  <string name="postal_postcode">སྦྲགས་སྲིད་ཨང་གྲངས།</string>
+  <string name="postal_country">རྒྱལ་ཁབ།/ས་ཁུལ།</string>
+  <string name="name_given">མིང་།</string>
+  <string name="name_family">རུས་མིང་།</string>
+  <string name="name_prefix">མིང་གི་སྔོན་བཏགས།</string>
+  <string name="name_middle">དབུས་མིང་།</string>
+  <string name="name_suffix">མིང་གི་རྗེས་བཏགས།</string>
+  <string name="name_phonetic_given">མིང་གི་སྒྲ་སྦྱོར།</string>
+  <string name="name_phonetic_middle">དབུས་མིང་སྒྲ་སྦྱོར།</string>
+  <string name="name_phonetic_family">རུས་མིང་སྒྲ་སྦྱོར།</string>
+  <string name="no_contact_details">འབྲེལ་གཏུག་པ་འདིའི་དེ་མིན་གྱི་ཆ་འཕྲིན་མི་འདུག</string>
+  <string name="search_results_searching">འཚོལ་བཤེར་བྱེད་བཞིན་པ།...</string>
+  <plurals name="listTotalAllContacts">
+    <item quantity="one">འབྲེལ་གཏུག་པ་1མངོན་པ།</item>
+    <item quantity="other">འབྲེལ་གཏུག་པ་<xliff:g id="COUNT">%d</xliff:g>མངོན་པ།</item>
+  </plurals>
+  <plurals name="searchFoundContacts">
+    <item quantity="one">འབྲེལ་གཏུག་པ་1</item>
+    <item quantity="other">འབྲེལ་གཏུག་པ་<xliff:g id="COUNT">%d</xliff:g></item>
+  </plurals>
+  <string name="contactPickerActivityTitle">འབྲེལ་གཏུག་མི་སྣ་འདམ།</string>
+  <string name="noGroups">ཁྱུ་ཚོགས་གང་ཡང་མེད།</string>
+  <string name="noAccounts">ཁྱུ་ཚོགས་འཛུགས་པར་རྩིས་ཐོ་དགོས།</string>
+  <string name="listTotalAllContactsZeroCustom">འབྲེལ་གཏུག་མི་སྣ་གང་ཡང་མ་རྙེད།</string>
+  <string name="listTotalAllContactsZeroStarred">འབྲེལ་གཏུག་མི་སྣ་གང་ཡང་ཉར་ཚགས་བྱས་མེད།</string>
+  <string name="listTotalAllContactsZeroGroup">"“<xliff:g id="NAME">%s</xliff:g>”ནང་དུ་འབྲེལ་གཏུག་མི་སྣ་མི་འདུག"</string>
+  <string name="listAllContactsInAccount">"<xliff:g id="NAME">%s</xliff:g> ཡི་འབྲེལ་གཏུག་མི་སྣ"</string>
+  <string name="listMaxContactsInAccount">སྤྱིའི་ཤོང་ཚད<xliff:g id="COUNT">%d</xliff:g>"</string>
+  <string name="listSingleContact">འབྲེལ་གཏུག་མི་སྣ་གཅིག་རྐྱང་།</string>
+  <string name="listCustomView">རང་འཇོག་བརྙན་རིས་ནང་གི་འབྲེལ་གཏུག་མི་སྣ།</string>
+  <string name="foundTooManyContacts">འབྲེལ་གཏུག་མི་སྣ <xliff:g id="COUNT">%d</xliff:g> ལས་བརྒལ་བ་རྙེད།</string>
+  <string name="favoritesFrequentContacted">Frequently contacted</string>
+  <string name="favoritesFrequentCalled">རྒྱུན་པར་འབོད་བརྡ་གཏོང་བའི་འབྲེལ་གཏུག་མི་སྣ།</string>
+  <string name="description_view_contact_detail" msgid="2795575601596468581">འབྲེལ་གཏུག་པར་ལྟ་ཞིབ།</string>
+  <string name="import_from_phone">ནང་རོལ་གསོག་ཉར་སྒྲིག་ཆས་ནས་ནང་འདྲེན་བྱས།</string>
+  <string name="fail_reason_low_memory_during_import">ནོང་རོལ་གསོག་ཆས་མི་འདང་། ཡིག་ཆ་དེ་ཆེ་དྲགས་པ་ཡིན་སྲིད།</string>
+  <string name="fail_reason_not_supported">རྣམ་བཞག་དེར་རྒྱབ་སྐྱོར་མི་བྱེད།</string>
+  <string name="vcard_import_failed">vCard ནང་དུ་འདྲེན་ཐབས་མི་འདུག</string>
+  <string name="import_failure_no_vcard_file" product="nosdcard">གསོག་ཉར་སྒྲིག་ཆས་སྟེང vCard མ་རྙེད།</string>
+  <string name="import_failure_no_vcard_file" product="default">SD བྱང་བའི་དེའི་སྟེང་དུ་ vCard མ་རྙེད།</string>
+  <string name="fail_reason_failed_to_collect_vcard_meta_info">གཏན་འཁེལ་གྱི་ vCard ཡིག་ཆའི་རྒྱུ་ཆ་འཕྲིན་སྡུད་གསོག་བྱེད་ཐབས་མི་འདུག</string>
+  <string name="caching_vcard_title">ཤོང་གསོག་བྱེད་བཞིན་འདུག</string>
+  <string name="caching_vcard_message">vCard དེ་རང་གནས་ཀྱི་གནས་སྐབས་གསོག་ཉར་སྒྲིག་ཆས་སུ་ཤོང་འཇོག་བྱེད་བཞིན་འདུག དངོས་ཐོག་གི་ནང་འདྲེན་སྒྲིག་བཀོལ་མགོ་རྩོལ་ལ་ཉེ།</string>
+  <string name="progress_notifier_message">Importing <xliff:g id="current_number">%s</xliff:g>/<xliff:g id="total_number">%s</xliff:g>: <xliff:g example="Joe Due" id="name">%s</xliff:g></string>
+  <string name="importing_vcard_description"><xliff:g id="NAME">%s</xliff:g>ནང་དུ་འདྲེན་བཞིན་འདུག</string>
+  <string name="reading_vcard_canceled_title">vCard དན་གྲངས་ཀློག་འབྲི་དོར་ཟིན།</string>
+  <string name="reading_vcard_exception_title">vCard ཡི་དན་གྲངས་ཀློག་འབྲི་རྒྱུན་ལྡན་མ་བྱུང་།</string>
+  <string name="sqlite_full">འབྲེལ་གཏུག་མི་སྣའི་དན་གྲངས་མཛོད་དམ་སྡུད་སྡེར་ཁེངས་ཟིན།</string>
+  <string name="importing_vcard_finished_title"> vCard <xliff:g id="FILENAME">%s</xliff:g>ཡི་ནང་འདྲེན་ལེགས་འགྲུབ་བྱུང་། </string>
+  <string name="importing_vcard_canceled_title"><xliff:g id="FILENAME">%s</xliff:g>ཡི་ནང་འདྲེན་དོར་ཟིན།</string>
+  <string name="vcard_import_will_start_message"><xliff:g id="FILENAME">%s</xliff:g>ཨེན་གྱི་རྗེས་སུ་ནང་དུ་འདྲེན་ངེས།</string>
+  <string name="vcard_import_will_start_message_with_default_name">རྒྱུད་ཁོངས་ཀྱིས་ཨེན་ཙམ་གྱི་རྗེས་སུ་ཡིག་ཆ་དེ་ནང་དུ་འདྲེན་ངེས།</string>
+  <string name="vcard_import_request_rejected_message">vCard ཕྱིར་འདྲེན་རེ་འདུན་དང་ལེན་མ་བྱས། ཨེན་ཙམ་སྒུག་ནས་ཚོད་ལྟ་བྱེད་རོགས།</string>
+  <string name="vcard_export_will_start_message">"<xliff:g id="FILENAME">%s</xliff:g> ཨེན་ཙམ་གྱི་རྗེས་སུ་ཕྱིར་འདྲེན་རོགས།"</string>
+  <string name="vcard_export_request_rejected_message">vCard ཕྱིར་འདྲེན་རེ་འདུན་དང་ལེན་མ་བྱས། ཨེན་ཙམ་སྒུག་ནས་ཚོད་ལྟ་བྱེད་རོགས།</string>
+  <string name="vcard_unknown_filename">འབྲེལ་གཏུག་རྣམ་པ།</string>
+  <string name="exporting_vcard_finished_title"> <xliff:g id="FILENAME">%s</xliff:g> ཕྱིར་འདྲེན་ལེགས་འགྲུབ་བྱུང་།</string>
+  <string name="exporting_vcard_canceled_title">ཕྱིར་འདྲེན་<xliff:g id="FILENAME">%s</xliff:g>དོར་ཟིན།</string>
+  <string name="composer_has_no_exportable_contact" product="tablet">ཕྱིར་འདྲེན་ཐུབ་པའི་འབྲེལ་གཏུག་མི་སྣ་མི་འདུག གལ་ཏེ་ཁྱེད་ཀྱི་སྙོམས་ལེབ་གློག་ཀླད་སྟེང་དུ་འབྲེལ་གཏུག་མི་སྣའི་ཆ་འཕྲིན་ཡོད་ན། དན་གྲངས་ཞབས་ཞུ་འདོན་སྤྲོད་ཁེ་ལས་འགའ་ཤས་ཀྱིས་ཁ་པར་ནས་འབྲེལ་གཏུག་མི་སྣ་ཕྱིར་འདྲེན་དུ་མི་འཇུག་ཀྱང་སྲིད།</string>
+  <string name="composer_has_no_exportable_contact" product="default">ཕྱིར་འདྲེན་ཆོག་པའི་འབྲེལ་གཏུག་མི་སྣ་མི་འདུག གལ་ཏེ་ཁྱེད་ཀྱི་ཁ་པར་དུ་འབྲེལ་གཏུག་མི་སྣའི་ཆ་འཕྲིན་ཡོད་ན། དན་གྲངས་ཞབས་ཞུ་འདོན་སྤྲོད་ཁེ་ལས་འགའ་ཤས་ཀྱིས་ཁ་པར་ནས་འབྲེལ་གཏུག་མི་སྣ་ཕྱིར་འདྲེན་དུ་མི་འཇུག་ཀྱང་སྲིད།</string>
+  <string name="cancel_import_confirmation_message"> <xliff:g example="import.vcf" id="filename">%s</xliff:g> ནང་དུ་འདྲེན་པ་འདོར་རྒྱུ་ཡིན་ནམ།</string>
+  <string name="cancel_export_confirmation_message"><xliff:g example="export.vcf" id="filename">%s</xliff:g>ཕྱིར་འདྲེན་རྒྱུ་ཡིན་ནམ།</string>
+  <string name="cancel_vcard_import_or_export_failed">vCard ནང་དུ་འདྲེན་པ/ཕྱིར་འདྲེན་པ་འདོར་ཐབ་མི་འདུག</string>
+  <string name="missing_name">（རུས་མིང་མེད།）</string>
+  <string name="menu_contacts_filter">འབྲེལ་གཏུག་མི་སྣ་འཆར་དགོས།</string>
+  <string name="relationLabelsGroup">འབྲེལ་བ།</string>
+  <string name="groupsLabel">ཁྱུ་ཚོགས།</string>
+  <string name="account_phone" product="tablet">སྙོམས་ལེབ་གློག་ཀླད་དུ་ལུས་པ་ལས་འགྲོས་བསྟུན་དུ་མི་གཏོང་།</string>
+  <string name="account_phone" product="default">ཁ་པར་དུ་ཉར་བ་ཁོ་ན་ལས་འགྲོས་བསྟུན་དུ་མི་གཏོང་།</string>
+  <string name="sms">འཕྲིན་ཐུང་།</string>
+  <string name="postal_address">ས་གནས། </string>
+  <string name="full_name">རུས་མིང་།</string>
+  <string name="name_phonetic">སྒྲ་སྦྱོར་མིང་།</string>
+  <string name="menu_select_all">ཡོངས་སུ་འདེམས།</string>
+  <string name="menu_select_none">ཡོངས་སུ་བདམས་པ་འདོར།</string>
+  <string name="local_invisible_directory">གཞན། </string>
+  <string name="directory_search_label">དཀར་ཆག</string>
+  <string name="local_search_label">འབྲེལ་གཏུག་པ་ཡོད་ཚད།</string>
+  <string name="list_filter_all_accounts">འབྲེལ་གཏུག་པ་ཡོད་ཚད།</string>
+  <string name="list_filter_all_starred">སྐར་རྟགས་སྣོན་ཟིན།</string>
+  <string name="list_filter_customize">རང་འཇོག</string>
+  <string name="list_filter_phones">ཁ་པར་ཨང་གྲངས་ཡོད་པའི་འབྲེལ་གཏུག་མི་སྣ་ཡོད་དགུ།</string>
+  <string name="list_filter_single">འབྲེལ་གཏུག་རྣམ་པ།</string>
+  <string name="custom_list_filter">རང་འཇོག་བརྙན་རིས་ལ་ཚད་བཅད་གནང་།</string>
+  <string name="activity_title_contacts_filter">འབྲེལ་གཏུག་མི་སྣ་འཆར་དགོས།</string>
+  <string name="hint_findContacts">འབྲེལ་གཏུག་མི་སྣ་འཚོལ།</string>
+  <string name="contacts_unavailable_add_account">རྩི་ཐོ་ཐོ་འཇུག་བྱེད།</string>
+  <plurals name="group_list_num_contacts_in_group">
+        <item quantity="one">མི<xliff:g id="count">%1$d</xliff:g></item>
+        <item quantity="other">\'མི<xliff:g id="count">%1$d</xliff:g> </item>
+    </plurals>
+  <string name="toast_text_copied">ཡིག་གཞིར་འདྲ་བཤུས་བརྒྱབས།</string>
+  <string name="profile_display_name">རང་སྒེར་གྱི་ཡིག་ཆར་སྒྲིག་འགོད་གནང་།</string>
+  <string name="view_updates_from_group">རིམ་སྤར་ལ་ལྟ།</string>
+  <string name="nfc_vcard_file_name">NFC བརྒྱུད་ནས་འབྲེལ་གཏུག་མི་སྣའི་ཆ་འཕྲིན་འཐོབ།</string>
+  <string name="status_available">སྤྱོད་རུང་བའི་བར་སྟོང་།</string>
+  <string name="status_away">བྲལ་ཟིན།</string>
+  <string name="status_busy">བྲེལ་ཚུབ།</string>
+  <string name="description_send_message"> <xliff:g id="name">%1$s</xliff:g>ལ་འཕྲིན་ཐུང་སྐུར།</string>
+  <string name="description_dial_phone_number"> ཨང་གྲངས<xliff:g id="name">%1$s</xliff:g>འབོད་བརྡ་གཏོང་།</string>
+  <string name="description_quick_contact_for"> <xliff:g id="name">%1$s</xliff:g> ཡི་མགྱོགས་མྱུར་འབྲེལ་གཏུག་མགོ་བརྙན།</string>
+  <string name="user_profile_contacts_list_header" msgid="9154761216179882405">ང་།</string>
+  <string name="label_phone">ཁ་པར།</string>
+  <string name="choose_sim_card">SIM བྱང་བུ་འདམ།</string>
+  <string name="toast_no_contact_selected">འབྲེལ་གཏུག་མི་སྣ་བདམས་མེད།</string>
+  <string name="alert_delete_contact">ཁྱེད་ཀྱིས་བདམས་པའི་འབྲེལ་གཏུག་མི་སྣ་སུབ་རྒྱུ་ནམ།</string>
+  <string name="select_all_contacts">ཡོངས་འདེམས།</string>
+  <string name="cancel_select_all_contacts">ཡོད་ཚད་འདོར།</string>
+  <string name="menu_save">ཉར་ཚགས།</string>
+  <plurals name="searchMatchContacts">
+      <item quantity="one" msgid="4826918429708286628">"འབྲེལ་གཏུག་མི་སྣ 1 ལ་ཟླ་སྒྲིག"</item>
+      <item quantity="other" msgid="7988132539476575389">" འབྲེལ་གཏུག་མ་སྣ<xliff:g id="COUNT">%d</xliff:g>་ལ་ཟླ་སྒྲིག"</item>
+  </plurals>
+  <string name="no_vcard_found_in_internal_stor">"ནང་རོལ་གསོག་ཉར་སྒྲིག་ཆས་སུ་ Vcard ཡིག་ཆ་མ་རྙེད།"</string>
+    <string name="clearFrequentsConfirmation_title">"རྒྱུན་མཁོའི་འབྲེལ་གཏུགས་མི་སྣ་སུབ་བམ།"</string>
+    <string name="clearFrequentsConfirmation">"ཁྱེད་ཀྱིས་རྟག་པར་འབྲེལ་གཏུག་བྱེད་པའི་མི་དང་ཁ་པར་ཉེར་སྤྱོད་མིང་བྱང་གསུབ་ངེས་ཡིན་ཞིང་། བཙན་ཚུགས་ཀྱི་གློག་རྡུལ་སྦྲག་ཡིག་ཉེར་སྤྱོད་སླར་ཁྱེད་ཀྱིས་རྟག་པར་སྤྱོད་པའི་འབྲེལ་གཏུག་གནས་ས་ལེན་ངེས་ཡིན།"</string>
+    <string name="clearFrequentsProgress_title">"རྒྱུན་མཁོའི་འབྲེལ་གཏུག་མི་སྣ་སུབ་ཞིན་པ།\u2026"</string>
+    <string name="expand_collapse_name_fields_description">"མིང་གི་ཡིག་ཆ་འགྲེམ་པའམ་ལྟེབ།"</string>
+    <string name="percentage">"<xliff:g id="percentage" example="50">%s</xliff:g><xliff:g id="percentsign" example="%">%%</xliff:g>"</string>
+    <string name="dialog_import">"ཡིག་ཆ་ནས་འབྲེལ་གཏུག་མི་སྣ་ནང་དུ་འདྲེན"</string>
+    <string name="menu_clear_frequents">"རྒྱུན་མཁོའི་འབྲེལ་གཏུགས་མི་སྣ་སུབ་པ།"</string>
+    <string name="select_card">"བྱང་བུ་འདམ་རོགས།"</string>
+    <string name="fail_reason_empty">"འབྲེལ་གཏུག་མི་སྣ་སྟོང་པ་རེད།"</string>
+    <string name="copy_to">"རྩིས་ཐོ་རུ་འདྲ་བཤུས་རྒྱག"</string>
+    <string name="export_to_phone">"0"</string>
+    <string name="contacts_selection_for_mms_limit">"བདམས་པའི་གྲངས་འབོར་མང་མཐའ་ནི་<xliff:g id="COUNT">%d</xliff:g>ཡིན།"</string>
+    <string name="contact_status_update_attribution">" <xliff:g id="source" example="Google Talk">%1$s</xliff:g>བརྒྱུད།"</string>
+    <string name="contact_status_update_attribution_with_date">"<xliff:g id="date" example="3 hours ago">%1$s</xliff:g> via <xliff:g id="source" example="Google Talk">%2$s</xliff:g>"</string>
+    <string name="list_contact_phone">"ཨང་གྲངས་ཡོད་པའི་འབྲེལ་གཏུག"</string>
+</resources>

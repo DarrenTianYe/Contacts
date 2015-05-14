@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="contactsList">အဆက္အသြယ္မ်ား</string>
+  <string name="contactPickerActivityTitle">ဆက္သြယ္သူကိုေရြးရန္</string>
+  <string name="menu_search">႐ွာေဖြခ်က္</string>
+  <string name="menu_done">ျပီးျပီ</string>
+  <string name="menu_doNotSave">မလုပ္ပါ</string>
+  <string name="label_notes">သတိေပးပါ</string>
+  <string name="label_sip_address">အင္တာနက္ဖုန္းလိုင္း</string>
+  <string name="ghostData_company">ကုမၸဏီ</string>
+  <string name="ghostData_title">ေခါင္းစဥ္</string>
+  <string name="phoneLabelsGroup">ဖုန္း</string>
+  <string name="emailLabelsGroup">အီးေမးလ္</string>
+  <string name="imLabelsGroup">IM</string>
+  <string name="postalLabelsGroup">လိပ္စာ</string>
+  <string name="noGroups">အဖြဲ႕မ်ားမရွိပါ</string>
+  <string name="noAccounts">အေကာင့္တစ္ခုရွိမွသာ အဖြဲ႕ဖိုင္ အား ဖန္တီးႏိုင္မည္။</string>
+  <string name="savingDisplayGroups">္ေရြးစရာစာမ်ားကို သိမ္းေနသည္ \ ယူ၂၀၂၆</string>
+  <string name="listTotalPhoneContactsZero">မဆက္သြယ္သူ၏ဖုန္းနံပါတ္</string>
+  <string name="listTotalAllContactsZero">မဆက္သြယ္သူ</string>
+  <string name="listTotalAllContactsZeroCustom">ဆက္ သြယ္လာသူမ်ားမျမင္ပါ</string>
+  <string name="listTotalAllContactsZeroStarred">ႏွစ္သက္ဖိုင္မ်ားမရွိပါ</string>
+  <string name="listTotalAllContactsZeroGroup">မဆက္သြယ္သူမ်ား၏ <xliff:g id="name" example="Friends">%s</xliff:g></string>
+  <string name="listAllContactsInAccount">ဆက္သြယ္သူ <xliff:g id="name" example="abc@gmail.com">%s</xliff:g></string>
+  <string name="listSingleContact">တစ္ဦးတည္း ဆက္သြယ္သူ</string>
+  <string name="listCustomView"> ျမင္ကြင္း ရွိဆက္သြယ္သူ</string>
+  <string name="foundTooManyContacts">ပို၍ <xliff:g id="count">%d</xliff:g> found.</string>
+  <string name="listFoundAllContactsZero">မဆက္သြယ္သူ၏ဖုန္းနံပါတ္</string>
+  <string name="contactsFavoritesLabel">ႏွစ္သက္ဖိုင္မ်ား</string>
+  <string name="clearFrequentsConfirmation_title">မၾကာခဏဆက္သြယ္သူအားပယ္လိုက္မလား</string>
+  <string name="clearFrequentsConfirmation">မၾကာခဏဆက္သြယ္လာသူအမည္နွင့္ဖုန္းနံပါတ္မ်ားကိုမာတိကာ စာရင္း မွပယ္ဖ်က္၍ အီးေမး(လ္) ဖိုင္ရွိလိပ္စာဖိုင္တြင္  အသစ္ျပန ္ဖြင့္ပါ။</string>
+  <string name="clearFrequentsProgress_title">မၾကာခဏဆက္သြယ္သူအားပယ္လိုက္ပါ\ယူ၂၀၂၆</string>
+  <string name="favoritesFrequentContacted">မၾကာခဏဆက္သြယ္သူ</string>
+  <string name="favoritesFrequentCalled">မၾကာခဏဖုန္းဆက္သြယ္သူ</string>
+  <string name="description_minus_button">ပယ္ဖ်က္သည္</string>
+  <string name="description_view_contact_detail" msgid="2795575601596468581">ဆက္သြယ္သူကိုရွာရန္္ျမင္ကြင္း</string>
+  <string name="no_sdcard_message" product="nosdcard">စတိုဂိုေဒါင္မေတြ႕ပါ</string>
+  <string name="no_sdcard_message" product="default">SDအက္စ္ဒီကတ္မေတြ႕ပါ</string>
+  <string name="import_from_sim">SIM ကတ္မွသြင္းၿပီး</string>
+  <string name="import_from_sdcard" product="default">အျပင္စတိုဂိုေေဒါင္မွသြင္းၿပီး</string>
+  <string name="export_to_sdcard" product="default">ျပင္ပစတိုဂိုေဒါင္သို႕ပို႕ရန္</string>
+  <string name="import_from_phone">အတြင္းစတိုဂိုေေဒါင္မွသြင္းၿပီး</string>
+  <string name="share_visible_contacts">ျမင္ရသည့္ဆက္သြယ္သူကိုေ၀ပါ</string>
+  <string name="import_one_vcard_string">ကတ္တစ္ကတ္မွဖိုင္သြင္းၿပီး</string>
+  <string name="import_multiple_vcard_string">ကတ္မ်ားမွဖိုင္မ်ား သြင္းၿပီး</string>
+  <string name="import_all_vcard_string">ဗီကတ္ဖိုင္အားလံုးသြင္းပါ</string>
+  <string name="searching_vcard_message" product="nosdcard">စတိုဂိုေဒါင္မွတ္ဥာဏ္ရွိ ဗီကတ္ ္ေဒတာ အခ်က္အလက္ ကို ရွာေနသည္။ \ ယူ၂၀၂၆</string>
+  <string name="searching_vcard_message" product="default">စတိုဂိုေဒါင္မွတ္ဥာဏ္ရွိ ဗီကတ္ ္ေဒတာ အခ်က္အလက္ ကို ရွာေနသည္။ \ ယူ၂၀၂၆</string>
+  <string name="scanning_sdcard_failed_message" product="nosdcard">စတိုဂိုေဒါင္မွတ္ဥာဏ္ကိုစကင္ဖတ္မရပါ။ (Reason: \"<xliff:g id="fail_reason">%s</xliff:g>\")</string>
+  <string name="scanning_sdcard_failed_message" product="default">SD ကတ္ကိုစကင္ဖတ္မရပါ။ (Reason: \"<xliff:g id="fail_reason">%s</xliff:g>\")</string>
+  <string name="fail_reason_io_error">I/Oအယ္ရာအမွား</string>
+  <string name="fail_reason_empty">ဆက္သြယ္သူေဒတာဗလာ</string>
+  <string name="fail_reason_low_memory_during_import">မွတ္ဥာဏ္ေနရာမလံုေလာက္ပါ။ ဖိုင္ဆိုဒ္အလြန္ႀကီးသည္</string>
+  <string name="fail_reason_vcard_parse_error">မထင္မွတ္သည့္ကိစၥေၾကာင့္ ဗီကတ္ရွိအခ်က္မ်ားအားခ်ဲ႕မရပါ</string>
+  <string name="fail_reason_not_supported">ေဖာမက္ခ်ျခင္းကို မေထာက္ခံပါ။</string>
+  <string name="vcard_import_failed">ဗီကတ္အားသြင္းလို႕မရႏိုင္ပါ။</string>
+  <string name="import_failure_no_vcard_file" product="nosdcard">ဗီကတ္ဖိုင္အားစတိုတြင္မေတြ႕ပါ</string>
+  <string name="import_failure_no_vcard_file" product="default">ဗီကတ္ဖိုင္အားစတိုတြင္မေတြ႕ပါ</string>
+  <string name="fail_reason_failed_to_collect_vcard_meta_info">ေပးထားသည့္ဗီကတ္ဖိုင္မွ အခ်က္အလက္အား တိုင္းထြာ စုစည္း၍မရႏိုင္ပါ။</string>
+  <string name="fail_reason_failed_to_read_files">ဖိုင္တစ္ခုႏွင့္ အထက္ပို႕၍ မရပါ (%s).</string>
+  <string name="fail_reason_unknown">အမှားေနရာမသိ</string>
+  <string name="select_vcard_title">ဗီကတ္ဖိုင္ကိုေရြးပါ</string>
+  <string name="caching_vcard_title">ဖတ္သိမ္းေနသည္</string>
+  <string name="caching_vcard_message">ဗီကဒ္အားမူလယာယီ စတိုဂိုေဒါင္တြင္ သိမ္းေနသည္။ မၾကာမီ အမွန္တကယ္ အင္ပြတ္ သြင္းျခင္း စလိမ့္မည္။</string>
+  <string name="progress_notifier_message">သြင္းေနသည္ <xliff:g id="current_number">%s</xliff:g>/<xliff:g id="total_number">%s</xliff:g>: <xliff:g id="name" example="Joe Due">%s</xliff:g></string>
+  <string name="importing_vcard_description">သြင္းေနသည္<xliff:g id="name" example="Joe Due">%s</xliff:g></string>
+  <string name="reading_vcard_failed_title">ဗီကတ္ရွိအခ်က္မ်ားအား ဖတ္၍မရပါ</string>
+  <string name="reading_vcard_canceled_title">ဗီကတ္ေဒတာ ဖတ္ျခင္းကို  ိုပယ္ဖ်က္ၿပီးၿပီ</string>
+  <string name="importing_vcard_finished_title">ပို႕ျခင္းျပီးေျမာက္ျပီ <xliff:g id="filename" example="export.vcf">%s</xliff:g>.</string>
+  <string name="importing_vcard_canceled_title">သြင္းေနသည္ <xliff:g id="filename" example="import.vcf">%s</xliff:g> canceled</string>
+  <string name="vcard_import_will_start_message"><xliff:g id="filename" example="import.vcf">%s</xliff:g> မၾကာမွီပို႕မည္.</string>
+  <string name="vcard_import_will_start_message_with_default_name">မၾကာမီ ဖိုင္အားပို႕ျပီးလိမ့္မည္။</string>
+  <string name="vcard_import_request_rejected_message">ဗီကဒ္သြင္းရန္ျငင္းပယ္သည္၊ ထပ္ႀကိဳးစားပါ</string>
+  <string name="vcard_export_will_start_message"><xliff:g id="filename" example="import.vcf">%s</xliff:g> မၾကာမွီပို႕မည္.</string>
+  <string name="vcard_export_request_rejected_message">ဗီကဒ္ထုတ္ရန္ျငင္းပယ္သည္၊ ထပ္ႀကိဳးစားပါ</string>
+  <string name="vcard_unknown_filename">ဆက္သြယ္သူ</string>
+  <string name="percentage"><xliff:g id="percentage" example="50">%s</xliff:g><xliff:g id="percentsign" example="%">%%</xliff:g></string>
+  <string name="confirm_export_title">ဆက္သြယ္သူထံပို႕ရန္</string>
+  <string name="confirm_export_message">သင္၏ဆက္သြယ္မွဳအခ်က္ ပို႔ေနသည္ : <xliff:g id="file_name">%s</xliff:g>.</string>
+  <string name="exporting_contact_failed_title">ပို႕၍မရႏိုင္ပါ။</string>
+  <string name="exporting_contact_failed_message">ဆက္သြယ္သူ ေဒတာအခ်က္အလက္အား ပို႕မရပါ \nReason: \"<xliff:g id="fail_reason">%s</xliff:g>\"</string>
+  <string name="fail_reason_no_exportable_contact">ပို႕ရန္ဆက္သြယ္ရမည့္သူ ဖိုင္ ရွာမ ေတြ႕ပါ။</string>
+  <string name="fail_reason_too_many_vcard" product="nosdcard">ဂိုေဒါင္တြင္ ဗီကဒ္ဖိုင္ အလြန္မ်ားေနၿပီ</string>
+  <string name="fail_reason_too_many_vcard" product="default">ဂိုေဒါင္တြင္ ဗီကဒ္ဖိုင္ အလြန္မ်ားေနၿပီ</string>
+  <string name="fail_reason_too_long_filename">လိုအပ္သည့္ ဖိုင္အမည္ အလြန္ရွည္သည္ (\"<xliff:g id="filename">%s</xliff:g>\").</string>
+  <string name="exporting_vcard_finished_title">ပို႕ျခင္းျပီးေျမာက္ျပီ <xliff:g id="filename" example="export.vcf">%s</xliff:g>.</string>
+  <string name="exporting_vcard_canceled_title">ပို႕ျခင္း <xliff:g id="filename" example="export.vcf">%s</xliff:g> canceled.</string>
+  <string name="exporting_contact_list_title">ဆက္သြယ္သူေဒတာအခ်က္အားပို႕ေနသည္</string>
+  <string name="exporting_contact_list_message">သင္၏ဆက္သြယ္မွဳအခ်က္ ပို႔ေနသည္ : <xliff:g id="file_name">%s</xliff:g>.</string>
+  <string name="fail_reason_could_not_initialize_exporter">ပို႕ျခင္းအားမစတင္ႏိုင္ပါ : \"<xliff:g id="exact_reason">%s</xliff:g>\".</string>
+  <string name="fail_reason_error_occurred_during_export">ပို႕ခ်ိန္မွာအမွားအယ္ရာရွိသည္: \"<xliff:g id="exact_reason">%s</xliff:g>\".</string>
+  <string name="composer_failed_to_get_database_infomation">အေျခခံသတင္းအခ်က္ ေဒတာေဘ့စ္အားမရႏိုင္ပါ။</string>
+  <string name="composer_has_no_exportable_contact" product="tablet">ပို႕ရန္ဆက္သြယ္ရမည့္သူ ဖိုင္ ရွာမ ေတြ႕ပါ။ သင့္ တက္ပလက္ ေက်ာက္သင္ပုန္း တြင္ ဆက္သြယ္သူ ဖိုင္ သိမ္းထားခဲ့လွ်င္ ေဒတာ ပရိုဗိုက္တာ တစ္ခ်ိဳ႕ေၾကာင့္ ဖုန္းမွ ဆက္သြယ္သ ူစာရင္းအား မေထာက္ပံ့ႏိုင္ျခင္းျဖစ္လိမ့္မည္။</string>
+  <string name="composer_has_no_exportable_contact" product="default">ပို႕ရန္ဆက္သြယ္ရမည့္သူ ဖိုင္ရွာမေတြ႕ပါ။ သင့္ဖုန္းတြင္ ဆက္သြယ္သူ ဖိုင္သိမ္းထားခဲ့လွ်င္ ေဒတာပရိုဗိုက္တာတစ္ခ်ိဳ႕ေၾကာင့္ ဖုန္းမွ ဆက္သြယ္သ ူစာရင္းအား မေထာက္ပံ့ႏိုင္ျခင္းျဖစ္လိမ့္မည္။</string>
+  <string name="composer_not_initialized">ဗီကတ္သည္အဆင္ေျပစြာ မစတင္ ႏိုင္ပါ။ </string>
+  <string name="fail_reason_could_not_open_file">ဖြင့္မရပါ \"<xliff:g id="file_name">%s</xliff:g>\": <xliff:g id="exact_reason">%s</xliff:g>.</string>
+  <string name="cancel_import_confirmation_message">ဆက္သြယ္လာသူကိုမိတၱဴသြင္းျခင္း
+ <xliff:g id="filename" example="import.vcf">%s</xliff:g>?</string>
+  <string name="cancel_export_confirmation_message">ပို႕ရန္ပယ္ဖ်က္ျခင္း<xliff:g id="filename" example="export.vcf">%s</xliff:g>?</string>
+  <string name="cancel_vcard_import_or_export_failed">ဗီကတ္အား သြင္း/ထုတ္ ပယ္ဖ်က္လို႕မရပါ</string>
+  <string name="missing_name">↔ အမည္မရွိ↔</string>
+  <string name="menu_accounts">အင်တာနက်စာရင်းကိုင်</string>
+  <string name="menu_clear_frequents">မၾကာခဏဆက္သြယ္သူအားပယ္လိုက္ပါ</string>
+  <string name="menu_contacts_filter">ေဖၚျပရန္ဆက္သြယ္သူမ်ား</string>
+  <string name="menu_import_export">သြင္းျခင္း/ပို႕ျခင္း</string>
+  <string name="dialog_import_export">ဆက္သြယ္သူအားသြင္းျခင္း/ပို႕ျခင္း</string>
+  <string name="dialog_import">ဆက္သြယ္သူအားသြင္းပါ</string>
+  <string name="share_error">ဤဆက္သြယ္သူအား ေ၀ခြင့္မျပဳႏိုင္ပါ။ </string>
+  <string name="nameLabelsGroup">အမည္</string>
+  <string name="nicknameLabelsGroup">အမည္တု</string>
+  <string name="organizationLabelsGroup">အဖြဲ႕အစည္း</string>
+  <string name="websiteLabelsGroup">၀က္(ဘ္)</string>
+  <string name="eventLabelsGroup">အျဖစ္အပ်က္မ်ား</string>
+  <string name="relationLabelsGroup">ဆက္ႏြယ္မႈ </string>
+  <string name="groupsLabel">အဖြဲ႕မ်ား</string>
+  <string name="dialog_new_contact_account">အေကာင့္ျဖင့္ ဆက္သြယ္သူ အားဖန္တီးသည္။</string>
+  <string name="menu_sync_remove">sync အက္စ္၀ိုင္အန္စီအဖြဲ႕ကို ပယ္ဖ်က္ပါ။</string>
+  <string name="dialog_sync_add">အက္စ္၀ိုင္အန္စီအဖြဲ႕ကိုထည့္ပါ</string>
+  <string name="display_more_groups">အဖြဲ႕မ်ား\ယူ၂၀၂၆</string>
+  <string name="display_ungrouped">တျခားဆက္သြယ္သူအားလံုး</string>
+  <string name="display_all_contacts">ဆက္သြယ္သူအားလံုး</string>
+  <string name="display_warn_remove_ungrouped">ပယ္ဖ်က္ျခင္း\"<xliff:g id="group" example="Starred">%s</xliff:g>\" sync မွ အဖြဲ႕မခြဲထားသည့္ ဆက္သြယ္လာသူမ်ားကိုလည္း sync မွ ပယ္ဖ်က္လိမ့္မည္။</string>
+  <string name="account_phone" product="tablet">တက္ပလက္ေက်ာက္သင္ပုန္းသာ၊တစ္ထပ္တည္းမရွိပါ။</string>
+  <string name="account_phone" product="default">ဖုန္းတြင္းသိမ္းမည္။ တစ္ထပ္တည္းမရွိပါ။</string>
+  <string name="call_custom">ေခၚသည္<xliff:g id="custom">%s</xliff:g></string>
+  <string name="call_home">အိမ္ဟုန္းရွိဖုန္းနံပါတ္မွေခၚရန္</string>
+  <string name="call_mobile">မိုဘိုင္းကိုိုေခၚရန္</string>
+  <string name="call_work">္ေ၀ါ့လ္ခ္္ေခၚရန္</string>
+  <string name="call_fax_work">ဖက္စ္ေ၀ါ့လ္ခ္္ေခၚရန္</string>
+  <string name="call_fax_home">အိမ္ဟုန္းရွိဖက္စ္နံပါတ္မွေခၚရန္</string>
+  <string name="call_pager">ဖုန္းေပဂ်ာ</string>
+  <string name="call_other">ေချဆျု</string>
+  <string name="call_callback">ဖုန္းျပန္ေခၚရန္ေခၚရမည့္နံပါတ္</string>
+  <string name="call_car">ကားဖုန္းကိုေခၚရန္</string>
+  <string name="call_company_main">ကုမၸဏီ၏မိန္းဖုန္းကိုေခၚရန္</string>
+  <string name="call_isdn">အိုင္အက္စ္ဒီအန္ကိုေခၚရန္</string>
+  <string name="call_main">မိန္းကိုေခၚရန္</string>
+  <string name="call_other_fax">ဖက္စ္ေခၚရန္</string>
+  <string name="call_radio">ဖုန္းေရဒီယို</string>
+  <string name="call_telex">ေၾကးနန္းေခၚရန္</string>
+  <string name="call_tty_tdd">ေခၚရန္TTY/TDD</string>
+  <string name="call_work_mobile">မိုဘိုင္းေ၀ါ့လ္ခ္ေခၚရန္</string>
+  <string name="call_work_pager">ေပဂ်ာေ၀ါ့လ္ခ္ေခၚရန္</string>
+  <string name="call_assistant">ေခၚသည္<xliff:g id="assistant">%s</xliff:g></string>
+  <string name="call_mms">အမ္အမ္အက္စ္ကိုေခၚရန္</string>
+  <string name="sms_custom">စာတို<xliff:g id="custom">%s</xliff:g></string>
+  <string name="sms_home">အိမ္ဖုန္းသို႕ မက္ေဆ့ခ်္ပို႕ပါ</string>
+  <string name="sms_mobile">မိုဘိုင္းသို႕ မက္ေဆ့ခ်္ပို႕ပါ</string>
+  <string name="sms_work">လုပ္ငန္းရွိဖုန္းသို႕မက္ေဆ့ခ်္ပို႕ပါ</string>
+  <string name="sms_fax_work">လုပ္ငန္းရွိဖက္စ္ဖုန္းသို႕ မက္ေဆ့ခ်္ပို႕ပါ</string>
+  <string name="sms_fax_home">အိမ္ဖက္စ္သို႕ မက္ေဆ့ခ်္ပို႕ပါ</string>
+  <string name="sms_pager">မက္ေဆ့ခ်္ပို႕ရန္စာတိုစာမ်က္ႏွာ</string>
+  <string name="sms_other">စာတို</string>
+  <string name="sms_callback">ဖုန္းျပန္ေခၚရန္နံပါတ္သို႕ မက္ေဆ့ခ်္ပို႕ပါ။</string>
+  <string name="sms_car">ကားေခၚရန္ မက္ေဆ့ခ်္ပို႕ပါ။</string>
+  <string name="sms_company_main">ကုမၸဏီ၏မိန္းဖုန္းကို မက္ေဆ့ခ်္ ပို႔ပါ။</string>
+  <string name="sms_isdn">ISDN သို႕ မက္ေဆ့ခ်္ပို႕ပါ</string>
+  <string name="sms_main">မိန္းဖုန္း သို႕ မက္ေဆ့ခ်္ပို႕ပါ</string>
+  <string name="sms_other_fax">ဖက္စ္နံပါတ္သို႕ မက္ေဆ့ခ်္ပို႕ပါ</string>
+  <string name="sms_radio">ေရဒီယိုလိုင္းျဖင့္ မက္ေဆ့ခ်္ပို႔ျခင္း</string>
+  <string name="sms_telex">ေၾကးနန္းသို႕ မက္ေဆ့ခ်္ပို႔ပါ</string>
+  <string name="sms_tty_tdd"> TTY/TDD သို႕မက္ေဆ့ခ်္ပို႕ပါ</string>
+  <string name="sms_work_mobile">လုပ္ငန္းရွိမိုဘိုင္းဖုန္းသို႕ မက္ေဆ့ခ်္ပို႕ပါ</string>
+  <string name="sms_work_pager">လုပ္ငန္းရွိေပဂ်ာသို႕ မက္ေဆ့ခ်္ပို႕ပါ</string>
+  <string name="sms_assistant"> စာတို <xliff:g id="assistant">%s</xliff:g></string>
+  <string name="sms_mms">MMSသို႕ မက္ေဆ့ခ်္ပို႕ပါ</string>
+  <string name="sms"> မက္ေဆ့ခ်္စာတို</string>
+  <string name="email_home">အိမ္ဟုန္းသို႕အီးေမးလ္ပို႕ျခင္း</string>
+  <string name="email_mobile">မိုဘိုင္းသို႕အီးေမးလ္ပို႕ျခင္း</string>
+  <string name="email_work">ေ၀ါ့ခ္သို႕အီးေမးလ္ပို႕ျခင္း</string>
+  <string name="email_other">အီးေမးလ္</string>
+  <string name="email_custom">အီးေမးလ္<xliff:g id="custom">%s</xliff:g></string>
+  <string name="email">အီးေမးလ္</string>
+  <string name="map_home">အိမ္လိပ္စာကိုရွာရန္္ျမင္ကြင္း</string>
+  <string name="map_work">အလုပ္လိပ္စာအားရွာရန္္ျမင္ကြင္း</string>
+  <string name="map_other">လိပ္စာကိုရွာရန္ျမင္ကြင္း</string>
+  <string name="map_custom">ျမင္ကြင္း <xliff:g id="custom">%s</xliff:g> address</string>
+  <string name="chat_aim">ေအအိုင္အမ္သံုး၍ခ်က္တင္းလုပ္ရန္</string>
+  <string name="chat_msn">ဂူးဂဲလ္ေတာ့ခ္ကိုသံုး၍ခ်က္တင္းလုပ္ရန္</string>
+  <string name="chat_yahoo">ဂူးဂဲလ္ေတာ့ခ္ကိုသံုး၍ခ်က္တင္းလုပ္ရန္</string>
+  <string name="chat_skype">ဂူးဂဲလ္ေတာ့ခ္ကိုသံုး၍ခ်က္တင္းလုပ္ရန္</string>
+  <string name="chat_qq">ဂူးဂဲလ္ေတာ့ခ္ကိုသံုး၍ခ်က္တင္းလုပ္ရန္</string>
+  <string name="chat_gtalk">ဂူးဂဲလ္ေတာ့ခ္ကိုသံုး၍ခ်က္တင္းလုပ္ရန္</string>
+  <string name="chat_icq">ဂူးဂဲလ္ေတာ့ခ္ကိုသံုး၍ခ်က္တင္းလုပ္ရန္</string>
+  <string name="chat_jabber">ဂူးဂဲလ္ေတာ့ခ္ကိုသံုး၍ခ်က္တင္းလုပ္ရန္</string>
+  <string name="chat">စကား စျမည္ေျပာသည္။ ခ်က္တင္းလုပ္သည္။</string>
+  <string name="postal_address">လိပ္စာ</string>
+  <string name="postal_street">လမ္း</string>
+  <string name="postal_pobox">အီးေမးလ္ေသတၱာ</string>
+  <string name="postal_neighborhood">အိမ္နီးခ်င္း</string>
+  <string name="postal_city">ၿမိဳ႕ေတာ္</string>
+  <string name="postal_region">ျပည္နယ္</string>
+  <string name="postal_postcode">ZIP ကုဒ္</string>
+  <string name="postal_country">ႏိုင္ငံ</string>
+  <string name="full_name">အမည္</string>
+  <string name="name_given">ေပးထားသည့္အမည္</string>
+  <string name="name_family">မိသားစုမ်ိဳးႏြယ္အမည္</string>
+  <string name="name_prefix">အမည္၏အစ</string>
+  <string name="name_middle">အလယ္အမည္</string>
+  <string name="name_suffix">အမည္၏ေနာက္ဆက္</string>
+  <string name="name_phonetic_given">ေပးထားသည့္အမည္၏အသံထြက္ သေကၤတ</string>
+  <string name="name_phonetic_middle">အလယ္အမည္၏အသံထြက္ သေကၤတ</string>
+  <string name="name_phonetic_family">မိသားစုမ်ိဳးႏြယ္အမည္ ၏ အသံထြက္ သေကၤတ</string>
+  <string name="name_phonetic">အမည္၏အသံထြက္ သေကၤတ</string>
+  <string name="no_contact_details">ဒီဆက္သြယ္သူ၏ တျခားသတင္း အခ်က္ မရွိေတာ့ပါ </string>
+  <string name="search_results_searching">ရှာေဖွ...</string>
+  <string name="menu_select_all">↔အားလံုးကိုေရြးပါ↔</string>
+  <string name="menu_select_none">↔အားလံုးမေရြးပါ↔</string>
+  <string name="local_invisible_directory">အျခား</string>
+  <string name="directory_search_label">လမ္းညႊန္</string>
+  <string name="local_search_label">ဆက္သြယ္သူအားလံုး</string>
+  <string name="list_filter_all_accounts">ဆက္သြယ္သူအားလံုး</string>
+  <string name="list_filter_all_starred">ၾကယ္ပြင့္ျပျပီး</string>
+  <string name="list_filter_customize">ထံုးစံအတိုင္းသတ္မွတ္ခ်က္</string>
+  <string name="list_filter_phones">ဆက္သြယ္သူအားလံုး၏ဖုန္းနံပါတ္မ်ား</string>
+  <string name="list_filter_single">ဆက္သြယ္သူ</string>
+  <string name="custom_list_filter">သတ္မွတ္ထားသည့္  ျမင္ကြင္း ကိုေဖၚျပပါ</string>
+  <string name="activity_title_contacts_filter">ေဖၚျပရန္ဆက္သြယ္သူမ်ား</string>
+  <string name="hint_findContacts">ဆက္သြယ္သူအားရွာပါ</string>
+  <string name="contacts_unavailable_add_account">အေကာင့္ကို လက္မွတ္ထိုးပါ</string>
+  <string name="toast_text_copied">မက္ေဆ့ခ်္ေရးသားခ်က္ လုပ္ေဆာင္ခ်က္မ်ား</string>
+  <string name="profile_display_name">ကိုယ္ပိုင္ပရိုဖိုင္း ဖန္တီးပါ</string>
+  <string name="view_updates_from_group">အသစ္အပ္ဒိတ္ကိုရွာရန္္ျမင္ကြင္း</string>
+  <string name="nfc_vcard_file_name"> NFCကို ျဖတ္ ္၍ ဆက္သြယ္သူ၏ အတင္းအခ်က္အား လက္ခံ ရရွိသည္</string>
+  <string name="status_available">ရႏိုင္သည္</string>
+  <string name="status_away">အေ၀းသို႔</string>
+  <string name="status_busy">မအားပါ</string>
+  <string name="description_send_message">မက္ေဆ့ခ်္ပို႕ရန္ <xliff:g id="name">%1$s</xliff:g></string>
+  <string name="description_dial_phone_number">ဖုန္းေခၚ <xliff:g id="name">%1$s</xliff:g></string>
+  <string name="description_quick_contact_for">အျမန္ဆက္သြယ္ရန္အတြက္<xliff:g id="name">%1$s</xliff:g></string>
+  <string name="user_profile_contacts_list_header" msgid="9154761216179882405">မိမိ</string>
+  <string name="choose_sim_card"> SIM ကတ္ကိုေရြးပါ</string>
+  <string name="toast_no_contact_selected">ဆက္သြယ္သူအားမေရြးခ်ယ္ရေသးပါ</string>
+  <string name="alert_delete_contact">ေရြးခ်ယ္ထားသည့္ ဆက္သြယ္သူအား  ပယ္ဖ်က္မွာ ေသခ်ာလား</string>
+  <string name="label_phone">ဖုန္း</string>
+  <string name="listMaxContactsInAccount">"ေနရာလပ္: <xliff:g id="COUNT">%d</xliff:g>"</string>
+  <string name="reading_vcard_exception_title">ဗီကတ္ေဒတာ၏ခၽြင္းခ်က္ကို ဖတ္ျခင္း/ေရးျခင္းလုပ္သည္</string>
+  <string name="sqlite_full">ဆက္သြယ္သည့္ ေဒတာအခ်က္အလက္အေျခခံ database  (သို႔)  ဒတ္စ္ disk ျပည့္ေနသည္</string>
+  <string name="select_card">ေက်းဇူးျပဳ၍ ကတ္ကိုေရြးခ်ယ္ပါ။</string>
+  <string name="select_all_contacts">အားလုံးကိုေရွးချယ်</string>
+  <string name="menu_save">စုထားသည်</string>
+  <string name="cancel_select_all_contacts">အားလံုးကို ပယ္ဖ်က္ပါ</string>
+  <string name="no_match_contact">ဆက္သြယ္သူမ်ားမလိုက္ဖက္ပါ</string>
+  <string name="no_vcard_found_in_internal_stor">ဗီကတ္ အားအတြင္း စတိုတြင္မေတြ႕ပါ</string>
+  <string name="sdcard_storage_not_enough">SD အက္စ္ဒီကတ္ စတိုဂိုေဒါင္မွတ္ဥာဏ္ ေနရာမလံုေလာက္ပါ။</string>
+  <string name="not_select_vCard">မည္သည့္ဗီကတ္ကိုမွ မေရြးထားပါ</string>
+  <plurals name="listTotalAllContacts">
+        <item quantity="one">"လိပ္စာ 1 ခု"</item>
+        <item quantity="other">"လိပ္စာ <xliff:g id="count">%d</xliff:g> ခု"</item>
+    </plurals>
+  <plurals name="searchFoundContacts">
+        <item quantity="one">"1 ခုေတြ႔႐ွိ"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> ေတြ႔႐ွိ"</item>
+    </plurals>
+  <plurals name="group_list_num_contacts_in_group">
+        <item quantity="one">"<xliff:g id="count">%1$d</xliff:g> ဦး"</item>
+        <item quantity="other">"<xliff:g id="count">%1$d</xliff:g> ဦး"</item>
+    </plurals>
+  <plurals name="searchMatchContacts">
+      <item quantity="one" msgid="4826918429708286628">"ဆက္သြယ္သူ ၁ဦး တြဲမိသည္။"</item>
+      <item quantity="other" msgid="7988132539476575389">" <xliff:g id="COUNT">%d</xliff:g>ဆက္သြယ္သူ တြဲသည္။"</item>
+  </plurals>
+    <string name="expand_collapse_name_fields_description">"ခ်ဲ႕ပါ (သို႕)  အမည္စက္ကြင္းကိုေလ်ာ့ခ်ပါ"</string>
+    <string name="copy_to">သို႔ ကူးယူပါ</string>
+    <string name="export_to_phone">အတြင္း စတိုမွတ္ဥာဏ္သို႕ ေပးပို႕ပါ။</string>
+    <string name="contacts_selection_for_mms_limit">"ေရြးခ်ယ္နံပါတ္သတ္မွတ္နံပါတ္ျဖစ္ <xliff:g id="COUNT">%d</xliff:g>"</string>
+    <string name="contact_status_update_attribution"><xliff:g id="source" example="Google Talk">%1$s</xliff:g> မွတစ္ဆင့္</string>
+    <string name="contact_status_update_attribution_with_date"><xliff:g id="date" example="3 hours ago">%1$s</xliff:g> မွတစ္ဆင့္ <xliff:g id="source" example="Google Talk">%2$s</xliff:g></string>
+    <string name="list_contact_phone">"ဖုန္းနံပါတ္ရွိဆက္သြယ္သူ"</string>
+</resources>

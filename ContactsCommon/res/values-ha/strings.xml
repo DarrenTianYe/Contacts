@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="contactsList">Matuntuba</string>
+    <string name="contactPickerActivityTitle">Zabi matuntuba</string>
+    <string name="menu_search">Bincike</string>
+    <string name="menu_done">An gama</string>
+    <string name="menu_doNotSave">Soke</string>
+    <string name="label_notes">Matanin rubutu</string>
+    <string name="label_sip_address">Kiran intanet</string>
+    <string name="ghostData_company">Kampani</string>
+    <string name="ghostData_title">Take</string>
+    <string name="phoneLabelsGroup">Waya</string>
+    <string name="emailLabelsGroup">Emel</string>
+    <string name="imLabelsGroup">IM</string>
+    <string name="postalLabelsGroup">Adireshi</string>
+    <string name="noGroups">Babu rukunoni.</string>
+    <string name="noAccounts">Don kirkirar rukunai kana bukatar asusu.</string>
+    <string name="savingDisplayGroups">Ana ajiye zabin fitar bayanai\u2026</string>
+    <string name="listTotalPhoneContactsZero">Babu abokan sadarwa masu lambobin waya.</string>
+    <plurals name="listTotalAllContacts">
+        <item quantity="one">Matuntuba 1</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> matuntubai</item>
+    </plurals>
+    <string name="listTotalAllContactsZero">Babu abokan sadarwa.</string>
+    <string name="listTotalAllContactsZeroCustom">Babu abokan sadarwa da za a iya gani</string>
+    <string name="listTotalAllContactsZeroStarred">Babu abubuwan da aka fi so.</string>
+    <string name="listTotalAllContactsZeroGroup">Babu matuntubai a cikin <xliff:g id="name" example="Friends">%s</xliff:g></string>
+    <string name="listAllContactsInAccount">Matuntubai a cikin <xliff:g id="name" example="abc@gmail.com">%s</xliff:g></string>
+    <string name="listMaxContactsInAccount">"Sarari: <xliff:g id="COUNT">%d</xliff:g></string>
+    <string name="listSingleContact">Matuntuba daya</string>
+    <string name="listCustomView">Matuntubai a duban dauwamarwa</string>
+    <string name="foundTooManyContacts">Fiye da <xliff:g id="count">%d</xliff:g> an samu.</string>
+    <string name="listFoundAllContactsZero">Babu wanda aka samu.</string>
+    <plurals name="searchFoundContacts">
+        <item quantity="one">An sami 1</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> an samu</item>
+    </plurals>
+    <string name="contactsFavoritesLabel">Abinda aka fi so</string>
+    <string name="favoritesFrequentContacted">Tuntuba kullayaumin</string>
+    <string name="favoritesFrequentCalled">Wanda ake yawan kira</string>
+    <string name="description_minus_button">debewa</string>
+    <string name="description_view_contact_detail" msgid="2795575601596468581">Duba matuntuba</string>
+    <string name="no_sdcard_message" product="nosdcard">Ba a sami ma\'adana ba.</string>
+    <string name="no_sdcard_message" product="default">Ba a sami wani katin SD ba.</string>
+    <string name="import_from_sim">Dauko ka shigo daga SIM card</string>
+    <string name="import_from_sdcard" product="default">Shigo daga ma\'adana</string>
+    <string name="export_to_sdcard" product="default">Fitar zuwa ma\'adana</string>
+    <string name="share_visible_contacts">Raba matuntuba ta zarihi</string>
+    <string name="import_one_vcard_string">Shigo da vCard fayil daya</string>
+    <string name="import_multiple_vcard_string">Shigo da fayil din vCard da yawa</string>
+    <string name="import_all_vcard_string">Shigo da du fayil na vCard</string>
+    <string name="searching_vcard_message" product="nosdcard">Searching for vCard data in storage\u2026</string>
+    <string name="searching_vcard_message" product="default">Ana binciken vCard a kan SD card\u2026</string>
+    <string name="scanning_sdcard_failed_message" product="nosdcard">An kasa yin taciyar ma\'adana. (Dalili: \"<xliff:g id="fail_reason">%s</xliff:g>\")</string>
+    <string name="scanning_sdcard_failed_message" product="default">An kasa yin taciyar katin SD. (Dalili: \"<xliff:g id="fail_reason">%s</xliff:g>\")</string>
+    <string name="fail_reason_io_error">Matsalar I/O</string>
+    <string name="fail_reason_low_memory_during_import">Ba isasshen memore ba ne. Watakila fayil din ya yi girma da yawa.</string>
+    <string name="fail_reason_vcard_parse_error">An kasa nazarin vCard saboda dalilin da ba a yi tsammani ba.</string>
+    <string name="fail_reason_not_supported">Wannan zubin bai dace ba.</string>
+    <string name="vcard_import_failed">An kasa shigo da vCard.</string>
+    <string name="import_failure_no_vcard_file" product="nosdcard">Ba a sami fayil din vCard a cikin ma\'adana ba.</string>
+    <string name="import_failure_no_vcard_file" product="default">Ba a sami vCard a kan SD card ba</string>
+    <string name="fail_reason_failed_to_collect_vcard_meta_info">An kasa tattara bayanin ciki na wani fayil din vCard.</string>
+    <string name="fail_reason_failed_to_read_files">An kasa shigo da fayil daya ko fiye (%s).</string>
+    <string name="fail_reason_unknown">Bakuwar matsala</string>
+    <string name="select_vcard_title">Zabi fayil din vCard</string>
+    <string name="caching_vcard_title">Taskacewa</string>
+    <string name="caching_vcard_message">Kama vCard zuwa ma’adanar gida ta wucin-gadi. Babu dadewa ainihin shigowar za ta fara aiki.</string>
+    <string name="progress_notifier_message">Ana shigo da <xliff:g id="current_number">%s</xliff:g>/<xliff:g id="total_number">%s</xliff:g>: <xliff:g id="name" example="Joe Due">%s</xliff:g></string>
+    <string name="importing_vcard_description">Ana shigo da <xliff:g id="name" example="Joe Due">%s</xliff:g></string>
+    <string name="reading_vcard_failed_title">An kasa karanta bayanan vCard</string>
+    <string name="reading_vcard_canceled_title">An soke karanta bayanan vCard</string>
+    <string name="reading_vcard_exception_title">Bambancin karanta/rubuta bayanan vCard</string>
+    <string name="sqlite_full">Rumbun bayanan matuntuba ko faifan bayanai a cike ya ke</string>
+    <string name="importing_vcard_finished_title">An kare shigo da vCard <xliff:g id="filename" example="import.vcf">%s</xliff:g></string>
+    <string name="importing_vcard_canceled_title">Ana shigo da <xliff:g id="filename" example="import.vcf">%s</xliff:g> an soke</string>
+    <string name="vcard_import_will_start_message"><xliff:g id="filename" example="import.vcf">%s</xliff:g> za a shigo da shi nan da dan lokaci.</string>
+    <string name="vcard_import_will_start_message_with_default_name">Za a shigo da fayil din ba da dadewa ba.</string>
+    <string name="vcard_import_request_rejected_message">an ki karbar bukatar karbar shigo da vCard. Sake gwadawa wni lokaci.</string>
+    <string name="vcard_export_will_start_message"><xliff:g id="filename" example="import.vcf">%s</xliff:g> za a fitar da shi nan da dan lokaci.</string>
+    <string name="vcard_export_request_rejected_message">an ki karbar bukatar karbar fitar da vCard. Sake gwadawa wni lokaci.</string>
+    <string name="vcard_unknown_filename">Mai hulda</string>
+    <string name="percentage">%s%%</string>
+    <string name="confirm_export_title">Fitar da matuntubai?</string>
+    <string name="confirm_export_message">Za a fitar da jerin matuntubanka zuwa fayil: <xliff:g id="vcard_filename">%s</xliff:g>.</string>
+    <string name="exporting_contact_failed_title">An kasa fitarwa</string>
+    <string name="exporting_contact_failed_message">Ba a fitar da bayanan matuntuba ba. \nDalili: \"<xliff:g id="fail_reason">%s</xliff:g>\"</string>
+    <string name="fail_reason_no_exportable_contact">Babu wata matuntuba da za a iya fitarwa</string>
+    <string name="fail_reason_too_many_vcard" product="nosdcard">Fayilolin vCard sun yi yawa a cikin ma\'adana.</string>
+    <string name="fail_reason_too_many_vcard" product="default">Fayilolin vCard sun yi yawa a kan katin SD.</string>
+    <string name="fail_reason_too_long_filename">Sunan fayil da ake bukata ya yi tsawo da yawa (\"<xliff:g id="filename">%s</xliff:g>\")</string>
+    <string name="exporting_vcard_finished_title">An kare fitar da <xliff:g id="filename" example="export.vcf">%s</xliff:g>.</string>
+    <string name="exporting_vcard_canceled_title">Fitarwa <xliff:g id="filename" example="export.vcf">%s</xliff:g> an soke.</string>
+    <string name="exporting_contact_list_title">Kai bayanin hulda waje</string>
+    <string name="exporting_contact_list_message">Ana fitar da bayanan tuntubarka: <xliff:g id="file_name">%s</xliff:g>.</string>
+    <string name="fail_reason_could_not_initialize_exporter">An kasa kunna mai fitarwa: \"<xliff:g id="exact_reason">%s</xliff:g>\".</string>
+    <string name="fail_reason_error_occurred_during_export">Matsala ta auku yayin da ake fitarwa: \"<xliff:g id="exact_reason">%s</xliff:g>\".</string>
+    <string name="composer_failed_to_get_database_infomation">An kasa samun bayanin rumbun bayanai.</string>
+    <string name="composer_has_no_exportable_contact" product="tablet">Babu wasu matuntubai da za a fitar. Idan kana da matuntubai a tablet din ka, wasu kamfanonin samar da bayanai ba za su bada damar a fitar da matuntuban daga cikin tablet din ba.</string>
+    <string name="composer_has_no_exportable_contact" product="default">Babu wasu matuntubai da za a fitar. Idan kana da matuntubai a wayarka, wasu kamfanonin samar da bayanai ba za su bada damar a fitar da matuntuban daga cikin wayar  ba.</string>
+    <string name="composer_not_initialized">Mai shirya vCard ba ta kama ba sosai.</string>
+    <string name="fail_reason_could_not_open_file">An kasa bude \"<xliff:g id="file_name">%s</xliff:g>\": <xliff:g id="exact_reason">%s</xliff:g>.</string>
+    <string name="cancel_import_confirmation_message">A soke shigo da <xliff:g id="filename" example="import.vcf">%s</xliff:g>?</string>
+    <string name="cancel_export_confirmation_message">A soke fitar da <xliff:g id="filename" example="export.vcf">%s</xliff:g>?</string>
+    <string name="cancel_vcard_import_or_export_failed">An kasa soke shigo da/fitar da vCard</string>
+    <string name="missing_name">(Babu suna)</string>
+    <string name="menu_accounts">Asusu</string>
+    <string name="menu_contacts_filter">Matuntubai da za a bijirar</string>
+    <string name="menu_import_export">Shigo/Fitar da</string>
+    <string name="dialog_import_export">Shigo/Fitar da abokan tuntuba </string>
+    <string name="share_error">Ba za a iya rarraba wannan matuntuba ba.</string>
+    <string name="nameLabelsGroup">Suna</string>
+    <string name="nicknameLabelsGroup">Sunan lakani</string>
+    <string name="organizationLabelsGroup">ShiryawaTafiyarwa</string>
+    <string name="websiteLabelsGroup">Shafin intanet</string>
+    <string name="eventLabelsGroup">Sha\'anoni</string>
+    <string name="relationLabelsGroup">Dangantaka</string>
+    <string name="groupsLabel">Rukunai</string>
+    <string name="dialog_new_contact_account">Halicci hulda karkashin asusu</string>
+    <string name="menu_sync_remove">Cire rukunin majonai</string>
+    <string name="dialog_sync_add">Kara hadaddiyar gungu</string>
+    <string name="display_more_groups">Karin rukunai\u2026</string>
+    <string name="display_ungrouped">Duk sauran masu hulda</string>
+    <string name="display_all_contacts">Matuntuba dukka</string>
+    <string name="display_warn_remove_ungrouped">Cirewa \'<xliff:g id="group" example="Starred">%s</xliff:g>\' daga daidaitawa, zai kuma cire rukunin lambin da ba a daidaita su ba.</string>
+    <string name="account_phone" product="tablet">Tablet-kadai, cire joni</string>
+    <string name="account_phone" product="default">Waya-kadai (ba a jona ba)</string>
+    <string name="call_custom">Kira <xliff:g id="custom">%s</xliff:g></string>
+    <string name="call_home">Kira gida</string>
+    <string name="call_mobile">Kira salula</string>
+    <string name="call_work">Kira aiki</string>
+    <string name="call_fax_work">Kira fax na aiki</string>
+    <string name="call_fax_home">Kira fax na gida</string>
+    <string name="call_pager">Kira pager</string>
+    <string name="call_other">Kira</string>
+    <string name="call_callback">Kira sake-kira</string>
+    <string name="call_car">Kiran mota</string>
+    <string name="call_company_main">Kira manya kampani</string>
+    <string name="call_isdn">Kira ISDN</string>
+    <string name="call_main">Manya kira</string>
+    <string name="call_other_fax">Kira fax</string>
+    <string name="call_radio">Kira rediyo</string>
+    <string name="call_telex">Kira telex</string>
+    <string name="call_tty_tdd">Kira TTY/TDD</string>
+    <string name="call_work_mobile">Kira salula na aiki</string>
+    <string name="call_work_pager">Kira pager na aiki</string>
+    <string name="call_assistant">Kira <xliff:g id="assistant">%s</xliff:g></string>
+    <string name="call_mms">Kira MMS</string>
+    <string name="sms_custom">Rubutu <xliff:g id="custom">%s</xliff:g></string>
+    <string name="sms_home">Rubuta gida</string>
+    <string name="sms_mobile">Rubuta tafi-da-gidanka</string>
+    <string name="sms_work">Rubuta aiki</string>
+    <string name="sms_fax_work">Rubuta fax din aiki</string>
+    <string name="sms_fax_home">Rubuta fax na gida</string>
+    <string name="sms_pager">Rubuta pager</string>
+    <string name="sms_other">Rubutu</string>
+    <string name="sms_callback">Amsa sakon rubutu</string>
+    <string name="sms_car">Rubuta mota</string>
+    <string name="sms_company_main">Rubuta adireshin kamfani</string>
+    <string name="sms_isdn">Rubuta ISDN</string>
+    <string name="sms_main">Rubuta adireshi</string>
+    <string name="sms_other_fax">Rubuta fax</string>
+    <string name="sms_radio">Rubuta rediyo</string>
+    <string name="sms_telex">Rubuta telex</string>
+    <string name="sms_tty_tdd">Rubuta TTY/TTD</string>
+    <string name="sms_work_mobile">Aikin tafi-da-gidanka na rubutu</string>
+    <string name="sms_work_pager">Pager aiki ta rubutu</string>
+    <string name="sms_assistant">Rubutu <xliff:g id="assistant">%s</xliff:g></string>
+    <string name="sms_mms">Rubuta MMS</string>
+    <string name="sms">Rubuta sako</string>
+    <string name="email_home">Emel gida</string>
+    <string name="email_mobile">Emel salula</string>
+    <string name="email_work">Emel aiki</string>
+    <string name="email_other">Emel</string>
+    <string name="email_custom">Imel <xliff:g id="custom">%s</xliff:g></string>
+    <string name="email">Emel</string>
+    <string name="map_home">Duba adireshin babban shafi</string>
+    <string name="map_work">Duba adireshin aiki</string>
+    <string name="map_other">Duba adireshi</string>
+    <string name="map_custom">Duba <xliff:g id="custom">%s</xliff:g> adireshi</string>
+    <string name="chat_aim">Yi tadi amfani da AIM</string>
+    <string name="chat_msn">Yi tadi amfani da windows Live</string>
+    <string name="chat_yahoo">Yi tadi amfani da Yahoo</string>
+    <string name="chat_skype">Yi tadi amfani da Skype</string>
+    <string name="chat_qq">Yi tadi amfani da QQ</string>
+    <string name="chat_gtalk">Yi tadi ta amfani da  Google Talk</string>
+    <string name="chat_icq">Yi tadi amafani da ICQ</string>
+    <string name="chat_jabber">Yi tadi amfani da Jabber</string>
+    <string name="chat">Hira</string>
+    <string name="postal_address">Adireshi</string>
+    <string name="postal_street">Titi</string>
+    <string name="postal_pobox">Akwatin Gidan waya</string>
+    <string name="postal_neighborhood">Yankin makwabtaka</string>
+    <string name="postal_city">Birni</string>
+    <string name="postal_region">Yanayin bu</string>
+    <string name="postal_postcode">Lambar sirri ta ZIP</string>
+    <string name="postal_country">Kasa</string>
+    <string name="full_name">Suna</string>
+    <string name="name_given">Bada suna</string>
+    <string name="name_family">Sunan iyali</string>
+    <string name="name_prefix">Dafin kafin Suna</string>
+    <string name="name_middle">Suna na tsakiya</string>
+    <string name="name_suffix">Dafin bayan Suna</string>
+    <string name="name_phonetic_given">Sunan da a ka baiwa alamun furuci</string>
+    <string name="name_phonetic_middle">Sunan alamun furuci na tsakiya</string>
+    <string name="name_phonetic_family">Sunan dangin alamun furuci</string>
+    <string name="name_phonetic">Sunan alamun furuci</string>
+    <string name="no_contact_details">Babu karin bayani ga wannan matuntuba.</string>
+    <string name="search_results_searching">Ana bincika...</string>
+    <string name="menu_select_all">Zabi duk</string>
+    <string name="menu_select_none">Cire zaben duk</string>
+    <string name="local_invisible_directory">Wani</string>
+    <string name="directory_search_label">Fallen bayanai</string>
+    <string name="local_search_label">Matuntuba dukka</string>
+    <string name="list_filter_all_accounts">Matuntuba dukka</string>
+    <string name="list_filter_all_starred">Mai tauraro</string>
+    <string name="list_filter_customize">Dauwamar</string>
+    <string name="list_filter_phones">Duk matuntubai masu lambobin waya</string>
+    <string name="list_filter_single">Mai hulda</string>
+    <string name="custom_list_filter">Fasalta duban dauwamarwa</string>
+    <string name="activity_title_contacts_filter">Matuntubai da za a bijirar</string>
+    <string name="hint_findContacts">Sami matuntubai</string>
+    <string name="contacts_unavailable_add_account">Shiga cikin asusu</string>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="one"><xliff:g id="count">%1$d</xliff:g> mutum</item>
+        <item quantity="other"><xliff:g id="count">%1$d</xliff:g> mutane</item>
+    </plurals>
+    <string name="toast_text_copied">An kwafe rubutu</string>
+    <string name="profile_display_name">Kafa bayanan kaina</string>
+    <string name="view_updates_from_group">Duba abubuwan sabuntawa</string>
+    <string name="nfc_vcard_file_name">Matuntuba da aka karba ta kan NFC</string>
+    <string name="status_available">Samamme</string>
+    <string name="status_away">Daga nan</string>
+    <string name="status_busy">Na aiki</string>
+    <string name="description_send_message">Aika sako zuwa <xliff:g id="name">%1$s</xliff:g></string>
+    <string name="description_dial_phone_number">Wayar bugawa <xliff:g id="name">%1$s</xliff:g></string>
+    <string name="description_quick_contact_for">Matuntubar sauri don <xliff:g id="name">%1$s</xliff:g></string>
+    <string name="user_profile_contacts_list_header" msgid="9154761216179882405">Ni</string>
+    <string name="label_phone">Waya</string>
+    <string name="choose_sim_card">Zabi katin SIM</string>
+    <string name="toast_no_contact_selected">Babu matuntuba da aka zaba</string>
+    <string name="import_from_phone">Shigo daga ma\'adanar ciki</string>
+    <string name="alert_delete_contact">Ka tabbata kana son share zababbun matuntubai?</string>
+    <string name="select_all_contacts">Zabi duk</string>
+    <string name="cancel_select_all_contacts">Kar ka zabi komai</string>
+    <string name="menu_save">Ajiye</string>
+    <plurals name="searchMatchContacts">
+      <item quantity="one" msgid="4826918429708286628">\'\'Daidaiton matuntuba daya\'\'</item>
+      <item quantity="other" msgid="7988132539476575389">" <xliff:g id="COUNT">%d</xliff:g>daidaiton matuntuba"</item>
+  </plurals>
+    <string name="no_vcard_found_in_internal_stor">\'\'Ba sami wani fayil din Vcard a ma\'adanar ciki ba.\'\'</string>
+    <string name="clearFrequentsConfirmation_title">Goge wanda ba a kai a kai ake tuntuba ba?</string>
+    <string name="clearFrequentsConfirmation">"Za ka share lambobin da ake yawan kira kuma masarrafai na waya da na i-mel za su koyi adiresoshin da ka fi hulda da su tun daga fari. "</string>
+    <string name="clearFrequentsProgress_title">Goge wanda ba kasafai ake tuntuba ba\u2026</string>
+    <string name="expand_collapse_name_fields_description">"Fadada ko rusa wurin sunaye"</string>
+    <string name="dialog_import">Shigo da matuntubai</string>
+    <string name="menu_clear_frequents">Goge ba kasafai ba</string>
+    <string name="select_card">Ka zabi kati</string>
+    <string name="fail_reason_empty">Goge duk bayanan rajistar lambobi</string>
+    <string name="copy_to">Kwafe zuwa</string>
+    <string name="export_to_phone">Fitar zuwa ma\'adanar ciki</string>
+    <string name="contacts_selection_for_mms_limit">"Makurar yawan lambobin da aka zaba shi ne <xliff:g id="COUNT">%d</xliff:g>"</string>
+    <string name="contact_status_update_attribution">ta cikin <xliff:g id="source" example="Google Talk">%1$s</xliff:g></string>
+    <string name="contact_status_update_attribution_with_date"><xliff:g id="date" example="3 hours ago">%1$s</xliff:g> ta cikin <xliff:g id="source" example="Google Talk">%2$s</xliff:g></string>
+    <string name="list_contact_phone">"Kira da lambobin waya"</string>
+</resources>

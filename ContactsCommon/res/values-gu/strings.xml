@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="toast_text_copied">"ટેક્સ્ટ કોપી થઇ ગઇ છે."</string>
+<string name="call_custom">"<xliff:g id="custom">%s</xliff:g>કોલ કરો "</string>
+<string name="call_home">"“ઘરે ફોન કરો”"</string>
+<string name="call_mobile">"“મોબાઇલ પર ફોન કરો”"</string>
+<string name="call_work">"“કામના સ્થળે કોલ કરો”"</string>
+<string name="call_fax_work">"“કાર્યના સ્થળે ફેક્સ કોલ કરો”"</string>
+<string name="call_fax_home">"“ઘરે ફેક્સ પર કોલ કરો”"</string>
+<string name="call_pager">"“પેજર પર કોલ કરો”"</string>
+<string name="call_other">"કોલ"</string>
+<string name="call_callback">"“કોલબેક કોલ કરો”"</string>
+<string name="call_car">"“કાર માટે કોલ કરો”"</string>
+<string name="call_company_main">"“મુખ્ય કંપનીમાં કોલ કરો”"</string>
+<string name="call_isdn">"“ISDN કોલ કરો”"</string>
+<string name="call_main">"“મુખ્ય કોલ કરો”"</string>
+<string name="call_other_fax">"“ફેક્સ કોલ કરો”"</string>
+<string name="call_radio">"“રેડીયોમાં કોલ કરો”"</string>
+<string name="call_telex">"“ટેલેક્સમાં કોલ કરો”"</string>
+<string name="call_tty_tdd">"“TTY/TDD કોલ કરો”"</string>
+<string name="call_work_mobile">"“કાર્યનો મોબાઇલ કરો”"</string>
+<string name="call_work_pager">"“કાર્યના પેજર પર કોલ કરો”"</string>
+<string name="call_assistant">"<xliff:g id="assistant">%s</xliff:g> કોલ કરો "</string>
+<string name="call_mms">"“MMS કોલ કરો”"</string>
+<string name="sms_custom">"ટેક્સ્ટ <xliff:g id="custom">%s</xliff:g> "</string>
+<string name="sms_home">"“ટેક્સ્ટ ઘર”"</string>
+<string name="sms_mobile">"“ટેક્સ્ટ મોબાઇલ”"</string>
+<string name="sms_work">"“ટેક્સ્ટ કામ”"</string>
+<string name="sms_fax_work">"“ટેક્ટ્સ કાર્ય ફેક્સ”"</string>
+<string name="sms_fax_home">"“ટેક્સ્ટ હોમ ફેક્સ”"</string>
+<string name="sms_pager">"“ટેક્સ્ટ પેજર”"</string>
+<string name="sms_other">"“ટેક્સ્ટ”"</string>
+<string name="sms_callback">"“ટેક્સ્ટ કોલબેક”"</string>
+<string name="sms_car">"“ટેક્સ્ટ કાર”"</string>
+<string name="sms_company_main">"“ટેક્સ્ટ કંપની મુખ્ય”"</string>
+<string name="sms_isdn">"“ટેક્સ્ટ ISDN”"</string>
+<string name="sms_main">"“ટેક્સ્ટ મુખ્ય”"</string>
+<string name="sms_other_fax">"“ટેક્સ્ટ ફેક્સ”"</string>
+<string name="sms_radio">"“ટેક્સ્ટ રેડીયો”"</string>
+<string name="sms_telex">"“ટેક્સ્ટ ટેલેક્સ”"</string>
+<string name="sms_tty_tdd">"“ટેક્સ્ટ TTY/TDD”"</string>
+<string name="sms_work_mobile">"“ટેક્સ્ટ કાર્ય મોબાઇલ”"</string>
+<string name="sms_work_pager">"“ટેક્સ્ટ કાર્ય પેજર”"</string>
+<string name="sms_assistant">"ટેક્સ્ટ <xliff:g id="assistant">%s</xliff:g> "</string>
+<string name="sms_mms">"ટેક્સ્ટ MMS"</string>
+<string name="clearFrequentsConfirmation_title">"વારંવારના સંપર્કો ક્લિયર કરવા છે?"</string>
+<string name="clearFrequentsConfirmation">"“તમે લોકો અને ફોન એપ્લીકેશનોમાં વારંવાર સંપર્ક કરેલાઓને ક્લિયર કશો અન ઇમેઇલ એપ્લીકેશનને સ્ક્રેચ પરથી તમારી ધ્યાન આપવાની અગ્રિમતાઓને શીખવાનું દબાણ કરશો.”"</string>
+<string name="clearFrequentsProgress_title">"“વારંવાર સંપર્ક કરેલાઓને ક્લિયર કરે છે\u2026”"</string>
+<string name="status_available">"ઉપલબ્ધ"</string>
+<string name="status_away">"“દૂર”"</string>
+<string name="status_busy">"વ્યસ્ત"</string>
+<string name="contactsList">"સંપર્કો"</string>
+<string name="local_invisible_directory">"અન્ય"</string>
+<string name="directory_search_label">"“ડાયરેક્ટરી”"</string>
+<string name="local_search_label">"તમામ સંપર્કો"</string>
+<string name="user_profile_contacts_list_header">"મને"</string>
+<string name="search_results_searching">"શોધ\u2026"</string>
+<string name="foundTooManyContacts">" <xliff:g id="count">%d</xliff:g> કરતા વધુ મળ્યા."</string>
+<string name="listFoundAllContactsZero">"સંપર્કો નથી"</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">"1 મળ્યો"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> મળી આવ્યો છે "</item>
+</plurals>
+<string name="description_quick_contact_for">"<xliff:g id="name">%1$s</xliff:g>ના માટે ઝડપી સંપર્ક"</string>
+<string name="missing_name">"(નામ નથી)"</string>
+<string name="favoritesFrequentCalled">"વારંવાર કોલ કરેલ "</string>
+<string name="favoritesFrequentContacted">"વારંવાર સંપર્ક કરેલ "</string>
+<string name="description_view_contact_detail">"સંપર્કો જુઓ"</string>
+<string name="list_filter_phones">"ફો નંબર્સ સાથેના દરેક સંપર્કો"</string>
+<string name="view_updates_from_group">"અપડેટ્સ જુઓ"</string>
+<string name="account_phone" product="tablet">"ફક્ત ટેબ્લેટ, અનસિંક્ડ"</string>
+<string name="account_phone" product="default">"ફક્ત ફોન, અનસિંક્ડ "</string>
+<string name="nameLabelsGroup">"નામ"</string>
+<string name="nicknameLabelsGroup">"હૂલામણું નામ"</string>
+<string name="full_name">"નામ"</string>
+<string name="name_given">"આપવામાં આવેલ નામ"</string>
+<string name="name_family">"પરિવાર નામ"</string>
+<string name="name_prefix">"નામની આગળનો ઉપસર્ગ"</string>
+<string name="name_middle">"મધ્યસ્થ નામ"</string>
+<string name="name_suffix">"નામના અંતે લાગતો પ્રત્યય"</string>
+<string name="name_phonetic">"ફોનેટિક નામ"</string>
+<string name="name_phonetic_given">"આપવામાં આવેલું ફોનેટિક નામ "</string>
+<string name="name_phonetic_middle">"ફોનેટિક મધ્યસ્થ નામ "</string>
+<string name="name_phonetic_family">"ફોનેટિક પરિવારનું નામ"</string>
+<string name="phoneLabelsGroup">"ફોનીક્સ"</string>
+<string name="emailLabelsGroup">"ઇમેઇલ"</string>
+<string name="postalLabelsGroup">"સરનામુ"</string>
+<string name="imLabelsGroup">"IM"</string>
+<string name="organizationLabelsGroup">"સંસ્થા"</string>
+<string name="relationLabelsGroup">"સંબંધ"</string>
+<string name="eventLabelsGroup">"ખાસ તારીખો"</string>
+<string name="sms">"પાઠ્ય સંદેશ"</string>
+<string name="postal_address">"સરનામુ"</string>
+<string name="ghostData_company">"કંપની"</string>
+<string name="ghostData_title">"શિર્ષક"</string>
+<string name="label_notes">"નોંધો"</string>
+<string name="label_sip_address">"ઇન્ટરનેટ કોલ"</string>
+<string name="websiteLabelsGroup">"વેબસાઇટ"</string>
+<string name="groupsLabel">"જૂથો"</string>
+<string name="email_home">"ઇમેઇલ હોમ "</string>
+<string name="email_mobile">"ઇમેઇલ મોબાઇલ"</string>
+<string name="email_work">"ઇમેઇલ કાર્ય"</string>
+<string name="email_other">"ઇમેઇલ"</string>
+<string name="email_custom">"ઇમેઇલ <xliff:g id="custom">%s</xliff:g>"</string>
+<string name="email">"ઇમેઇલ"</string>
+<string name="postal_street">"શેરી"</string>
+<string name="postal_pobox">"PO બોક્સ"</string>
+<string name="postal_neighborhood">"પડોશીપણુ"</string>
+<string name="postal_city">"શહેર"</string>
+<string name="postal_region">"રાજ્ય"</string>
+<string name="postal_postcode">"ZIP કોડ"</string>
+<string name="postal_country">"દેશ"</string>
+<string name="map_home">"હોમ એડ્રેસ જુઓ"</string>
+<string name="map_work">"કામનું એડ્રેસ જુઓ"</string>
+<string name="map_other">"એડ્રેસ જુઓ"</string>
+<string name="map_custom">"<xliff:g id="custom">%s</xliff:g> સરનામુ જુઓ"</string>
+<string name="chat_aim">"AIMનો ઉપયોગ કરીને ચેટ કરો"</string>
+<string name="chat_msn">"વિન્ડોઝ લાઇવન ઉપયોગ કરીને ચેટ કરો"</string>
+<string name="chat_yahoo">"યાહૂનો ઉપયોગ કરીને ચેટ કરો"</string>
+<string name="chat_skype">"સ્કાયપેનો ઉપયોગ કરીને ચેટ કરો"</string>
+<string name="chat_qq">"QQનો ઉપયોગ કરીને ચેટ કરો"</string>
+<string name="chat_gtalk">"ગૂગલ ટોકનો ઉપયોગ કરીને ચેટ કરો"</string>
+<string name="chat_icq">"ICQનો ઉપયોગ કરીને ચેટ કરો"</string>
+<string name="chat_jabber">"જાબરનો ઉપયોગ કરીને ચેટ કરો"</string>
+<string name="chat">"ચેટ"</string>
+<string name="description_minus_button">"કાઢી નાંખવું"</string>
+<string name="expand_collapse_name_fields_description">"નામ ફિલ્ડઝને વિસ્તારો કે તોડી નાખો "</string>
+<string name="list_filter_all_accounts">"તમામ સંપર્કો"</string>
+<string name="list_filter_all_starred">"ચોક્કસ"</string>
+<string name="list_filter_customize">"કસ્ટમાઇઝ"</string>
+<string name="list_filter_single">"સંપર્ક"</string>
+<string name="display_ungrouped">"અન્ય દરેક સંપર્કો"</string>
+<string name="display_all_contacts">"તમામ સંપર્કો"</string>
+<string name="menu_sync_remove">"સિંક જૂથ દૂર કરો "</string>
+<string name="dialog_sync_add">"સિંક જૂથ ઉમેરો"</string>
+<string name="display_more_groups">"વધુ જૂથો \u2026"</string>
+<string name="display_warn_remove_ungrouped">"સિંકમાંથી પણ દૂર કરતા \"<xliff:g id="group" example="Starred">%s</xliff:g>\"જૂથમાં ન હોય તેવા સંપર્કોને પણ દૂર કરશે."</string>
+<string name="savingDisplayGroups">"ડિસ્પ્લે વિકલ્પો સેવ કરે છે \u2026"</string>
+<string name="menu_done">"ડન"</string>
+<string name="menu_doNotSave">"રદ્દ કરવું"</string>
+<string name="listAllContactsInAccount">"<xliff:g id="name" example="abc@gmail.com">%s</xliff:g>માં રહેલા સંપર્કો"</string>
+<string name="listCustomView">"કસ્ટમ વ્યૂમાં રહેલા સંપર્કો "</string>
+<string name="listSingleContact">"એકમાત્ર સંપર્ક"</string>
+<string name="dialog_new_contact_account">"એકાઉન્ટ હેઠળ સંપર્કનું સર્જન કરો"</string>
+<string name="import_from_sim">"SIM કાર્ડમાંથી આયાત કરો"</string>
+<string name="import_from_sdcard" product="default">"બાહ્ય સ્ટોરેજમાંથી આયાત કરો"</string>
+<string name="cancel_import_confirmation_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g>ની આયાત રદ કરો?"</string>
+<string name="cancel_export_confirmation_message">" <xliff:g id="filename" example="export.vcf">%s</xliff:g>ની નિકાસ રદ કરો?"</string>
+<string name="cancel_vcard_import_or_export_failed">"વીકાર્ડ આયાત/નિકાસ રદ કરી શકેલ નથી"</string>
+<string name="fail_reason_unknown">"અજ્ઞાત ત્રુટિ"</string>
+<string name="fail_reason_could_not_open_file">" \"<xliff:g id="file_name">%s</xliff:g>\": <xliff:g id="exact_reason">%s</xliff:g>.ખોલ શકેલ નથી"</string>
+<string name="fail_reason_could_not_initialize_exporter">"નિકાસકર્તાને શરૂ કરી શકેલ નથી: \"<xliff:g id="exact_reason">%s</xliff:g>\"."</string>
+<string name="fail_reason_no_exportable_contact">"નિકાયોગ્ય સંપર્ક કોઇ સંપર્ક નથી."</string>
+<string name="fail_reason_error_occurred_during_export">"નિકાસ કરતી વખતે ભૂલ થઇ હતી: \"<xliff:g id="exact_reason">%s</xliff:g>\"."</string>
+<string name="fail_reason_too_long_filename">"માગેલ ફાઇલ નામ ઘણું લાંબુ છે(\"<xliff:g id="filename">%s</xliff:g>\")."</string>
+<string name="fail_reason_too_many_vcard" product="nosdcard">"સ્ટોરેજમાં ઘણી વીકાર્ડ ફાઇલો છે."</string>
+<string name="fail_reason_too_many_vcard" product="default">"SD કાર્ડ પર ઘણી વીકાર્ડ ફાઇલો છે."</string>
+<string name="fail_reason_io_error">"I/O ભૂલ"</string>
+<string name="fail_reason_low_memory_during_import">"પૂરતી મેમરી નથી. ફાઇલ કદાચ ઘણી મોટી હોઇ શકે છે."</string>
+<string name="fail_reason_vcard_parse_error">"અણધાર્યા કારણ માટે વીકાર્ડને પદચ્છેદ કરી શકેલ નથી."</string>
+<string name="fail_reason_not_supported">"ફોરમેટ સમર્થિત નથી."</string>
+<string name="fail_reason_failed_to_collect_vcard_meta_info">"આપેલા વીકાર્ડ ફાઇલ (લો)ની માહિતી એકત્ર કરી શકેલ નથી.."</string>
+<string name="fail_reason_failed_to_read_files">"એક અથવા બે ફાઇલો આયાત થઇ શકી નથી (%s)."</string>
+<string name="exporting_vcard_finished_title">"નિકાસ કરવાનું સમાપ્ત <xliff:g id="filename" example="export.vcf">%s</xliff:g>."</string>
+<string name="exporting_vcard_canceled_title">"<xliff:g id="filename" example="export.vcf">%s</xliff:g> નિકાસ રદ થઇ છે. "</string>
+<string name="exporting_contact_list_title">"સંપર્ક ડેટા નિકાસ કરે છે"</string>
+<string name="exporting_contact_list_message">"તમારો સંપર્ક ડેટા: <xliff:g id="file_name">%s</xliff:g>.માં નિકાસ થઇ રહ્યો છે."</string>
+<string name="composer_failed_to_get_database_infomation">"ડેટાબેઝ માહિતી મેળવી શકાઇ નથી.."</string>
+<string name="composer_has_no_exportable_contact" product="tablet">"નિકાસયોગ્ય કોઇ સંપર્કો નથી. જો તમારી પાસે તમારા ટેબ્લેટ પર સંપર્કો હોય તો, કેટલાક ડેટા પ્રોવાઇડર્સ ટેબ્લેટમાંથી નિકાસ કરેલા સંપર્કોને મંજૂરી ન આપે તેવું બની શકે."</string>
+<string name="composer_has_no_exportable_contact" product="default">"નિકાસયોગ્ય કોઇ સંપર્કો નથી. જો તમારી પાસે તમારા ફોન પર સંપર્કો હોય તો, કેટલાક ડેટા પ્રોવાઇડર્સ ફોનમાંથી નિકાસ કરેલા સંપર્કોને મંજૂરી ન આપે તેવું બની શકે."</string>
+<string name="composer_not_initialized">"વીકાર્ડ કંપોઝર યોગ્ય રીતે શરૂ થઇ શક્યુ નથી."</string>
+<string name="exporting_contact_failed_title">"નિકાસ કરી શકેલ નથી"</string>
+<string name="exporting_contact_failed_message">"સંપર્ક ડેટાની નિકાસ થઇ શકી નથી.\nકારણ: \"<xliff:g id="fail_reason">%s</xliff:g>\""</string>
+<string name="no_sdcard_message" product="nosdcard">"કોઇ સ્ટોરેજ મળ્યો નથી."</string>
+<string name="no_sdcard_message" product="default">"કોઇ SD કાર્ડ મળ્યુ નથી."</string>
+<string name="confirm_export_message">"તમારી સંપર્ક યાદી ફાઇલમાં નિકાસ કરાશે: <xliff:g id="vcard_filename">%s</xliff:g>."</string>
+<string name="importing_vcard_description">"આયાત કરે છે <xliff:g id="name" example="Joe Due">%s</xliff:g>"</string>
+<string name="reading_vcard_failed_title">"વીકાર્ડ ડેટા વાંચી શકાયો નથી "</string>
+<string name="reading_vcard_canceled_title">"વીકાર્ડ ડેટા વાંચવાનું રદ થઇ ગયું"</string>
+<string name="importing_vcard_finished_title">"વીકાર્ડ આયાત કરવાનું સમાપ્ત <xliff:g id="filename" example="import.vcf">%s</xliff:g>"</string>
+<string name="importing_vcard_canceled_title">" <xliff:g id="filename" example="import.vcf">%s</xliff:g> આયાત કરવાનું રદ થઇ ગયું"</string>
+<string name="vcard_import_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> ટૂંક સમયમાં આયાત કરાશે."</string>
+<string name="vcard_import_will_start_message_with_default_name">"ફાઇલ નામ ટૂંક સમયમાં આયાત કરાશે."</string>
+<string name="vcard_import_request_rejected_message">"વીકાર્ડ આયાત કરવાની વિનંતી ફગાવી દેવાઇ છે. બાદમાં પુનઃપ્રયાસ કરો."</string>
+<string name="vcard_export_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g>ટૂંક સમયમાં નિકાસ કરાશે."</string>
+<string name="vcard_export_request_rejected_message">"વીકાર્ડ નિકાસની વિનંતી ફગાવી દેવાઇ હતી. બાદમાં પુનઃપ્રયાસ કરો."</string>
+<string name="vcard_unknown_filename">"સંપર્ક"</string>
+<string name="caching_vcard_message">"સ્થાનિક હંગામી સ્ટોરેજમાં વીકાર્ડ(સ) કેચ કરે છે. ખરેખર આયાત ટૂંક સમયમાં નક્કી થશે."</string>
+<string name="percentage">"<xliff:g id="percentage" example="50">%s</xliff:g><xliff:g id="percentsign" example="%">%%</xliff:g>"</string>
+<string name="vcard_import_failed">"વીકાર્ડ આયાત કરી શકાયું નથી."</string>
+<string name="import_failure_no_vcard_file" product="nosdcard">"સ્ટોરેજમાં કોઇ વીકાડ ફાઇલ મળી નથી."</string>
+<string name="import_failure_no_vcard_file" product="default">"SD કાર્ડમાં વીકાર્ડ ફાઇલ નળી નથી."</string>
+<string name="nfc_vcard_file_name">"NFC પર સંપર્કો મળી ગયા છે"</string>
+<string name="confirm_export_title">"સંપર્કો નિકાસ કરવા છે?"</string>
+<string name="select_vcard_title">"વાકાર્ડ ફાઇલ પસંદ કરો"</string>
+<string name="import_one_vcard_string">"વીકાર્ડ ફાઇલ આયાત કરો"</string>
+<string name="import_multiple_vcard_string">"એક કરતા વધુ વીકાર્ડ ફાઇલ્સ આયાત કરો"</string>
+<string name="import_all_vcard_string">"દરેક વીકાર્ડ ફાઇલો આયાત કરો"</string>
+<string name="searching_vcard_message" product="nosdcard">"સ્ટોરેજમાં વીકાર્ડ ડેટા માટે શોધ કરે છે \u2026"</string>
+<string name="searching_vcard_message" product="default">"સ્ટોરેજમાં વીકાર્ડ ડેટા માટે શોધ કરે છે "</string>
+<string name="caching_vcard_title">"કેચીંગ"</string>
+<string name="scanning_sdcard_failed_message" product="nosdcard">"સ્ટોરેજનું સ્કેન થઇ શક્યું નથી. (કારણ: \"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+<string name="scanning_sdcard_failed_message" product="default">"SD કાર્ડ સ્કેન થઇ શક્યું નથી. (કારણ: \"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+<string name="progress_notifier_message">"આયાત કરે છે <xliff:g id="current_number">%s</xliff:g>/<xliff:g id="total_number">%s</xliff:g>: <xliff:g id="name" example="Joe Due">%s</xliff:g>"</string>
+<string name="export_to_sdcard" product="default">"બાહ્ય સ્ટોરેજમાં નિકાસ કરો"</string>
+<string name="share_visible_contacts">"દેખાય તેવા સંપર્કોની વહેંચણી કરો"</string>
+<string name="dialog_import_export">"સંપર્કો આયાત/નિકાસ કરો"</string>
+<string name="dialog_import">"સંપર્કો યાત કરો"</string>
+<string name="share_error">"આ સંપર્કની વહેંચણી થઇ શકે તેમ નથી."</string>
+<string name="menu_search">"શોધો"</string>
+<string name="menu_contacts_filter">"ડિસ્પ્લે કરવાના સંપર્કો"</string>
+<string name="activity_title_contacts_filter">"ડિસ્પ્લે કરવાના સંપર્કો"</string>
+<string name="custom_list_filter">"કસ્ટમ વ્યૂ નિર્ધારિત કરો"</string>
+<string name="hint_findContacts">"સંપર્કો શોધો"</string>
+<string name="contactsFavoritesLabel">"પસંદગીઓ"</string>
+<string name="listTotalAllContactsZero">"કોઇ સંપર્કો નથી."</string>
+<string name="listTotalAllContactsZeroCustom">"દેખાય તેવા કોઇ સંપર્કો નથી."</string>
+<string name="listTotalAllContactsZeroStarred">"“ખાસ નથી”"</string>
+<string name="listTotalAllContactsZeroGroup">" <xliff:g id="name" example="Friends">%s</xliff:g>માં કોઇ સંપર્કો નથી"</string>
+<string name="menu_clear_frequents">"ફ્રિક્વન્ટસ ક્લિયર કરો"</string>
+<string name="menu_accounts">"ખાતા"</string>
+<string name="menu_import_export">"આયાત/નિકાસ"</string>
+<string name="description_send_message">" <xliff:g id="name">%1$s</xliff:g>ને સંદેશો મોકલો"</string>
+<string name="description_dial_phone_number">"ફોન ડાયલ કરો <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="select_all_contacts">"તમામ પસંદ કરો"</string>
+<string name="select_card">"કૃપા કરીને કાર્ડ સિલેક્ટ કરો"</string>
+<string name="choose_sim_card">"SIM કાર્ડ પસંદ કરો"</string>
+<string name="fail_reason_empty">""ખાલી સંપર્ક ડેટા”"</string>
+<string name="import_from_phone">"આંતરિક સ્ટોરેજમાંથી આયાત કરો"</string>
+<string name="label_phone">"ફોનીક્સ"</string>
+<string name="listTotalPhoneContactsZero">"સંપર્કો નથી"</string>
+<string name="cancel_select_all_contacts">"બધા અનસિલેક્ટ કરો"</string>
+<string name="copy_to">"મા કોપી કરો"</string>
+<string name="export_to_phone">"આંતરક સ્ટોરેજમાં નિકાસ કરો "</string>
+<string name="contacts_selection_for_mms_limit">"પસંદ કરેલી સંખ્યાની મર્યાદા છે <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="contact_status_update_attribution">"વાયા  <xliff:g id="source" example="Google Talk">%1$s</xliff:g>"</string>
+<string name="contact_status_update_attribution_with_date">"<xliff:g id="date" example="3 hours ago">%1$s</xliff:g> મારફતે <xliff:g id="source" example="Google Talk">%2$s</xliff:g>"</string>
+<string name="list_contact_phone">"ફોન નંબરો સાથેનો સંપર્ક "</string>
+</resources>

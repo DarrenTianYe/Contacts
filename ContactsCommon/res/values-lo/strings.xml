@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="toast_text_copied">"ຂໍ້​ຄວາມໄດ້​ກອ໊ບ​ປີແລ້ວ"</string>
+<string name="call_custom">"ໂທ <xliff:g id="custom">%s</xliff:g> "</string>
+<string name="call_home">"ໂທ​ຫາ​ເບີ​ບ້ານ"</string>
+<string name="call_mobile">"​ໂທ​ຫາ​ມື​ຖື"</string>
+<string name="call_work">"ໂທ​ຫາ​ບ່ອນ​ເຮັດ​ວຽກ"</string>
+<string name="call_fax_work">"ໂທ​ແຟັກ​ບ່ອນ​ເຮັດ​ວຽກ"</string>
+<string name="call_fax_home">"​ໂທ​ແຟັກ​ບ້ານ"</string>
+<string name="call_pager">"ໂທ​ເພ​ຈ​ເຈີ​ຣ໌"</string>
+<string name="call_other">"ໂທ"</string>
+<string name="call_callback">"ໂທ ໝາຍ​ເລກ​ໂທ​ກັບ"</string>
+<string name="call_car">"​ໂທໂທ​ລະ​ສັບ​​ລົດ"</string>
+<string name="call_company_main">"ໂ​ທ​ໂທ​ລະ​ສັບ​ບໍ​ລິ​ສັດ"</string>
+<string name="call_isdn">"​ໂທ ISDN"</string>
+<string name="call_main">"ໂທ​ເຄື່ອງ​ຫລັກ"</string>
+<string name="call_other_fax">"​ໂທ​ໝາຍ​ເລກ​ແຟັກ"</string>
+<string name="call_radio">"ໂທອຸປະກອນໄຮ້ສາຍ"</string>
+<string name="call_telex">"ໂທເທເລັກ"</string>
+<string name="call_tty_tdd">"ໂທTTY/TDD"</string>
+<string name="call_work_mobile">"ໂທ​ມື​ຖືເຮັດ​ວຽກ"</string>
+<string name="call_work_pager">"​ໂທ​ເພ​ຈ​ເຈີ​ຣ໌ເຮັດ​ວຽກ"</string>
+<string name="call_assistant">"ໂທ <xliff:g id="assistant">%s</xliff:g> "</string>
+<string name="call_mms">"ໂທຂໍ້​ຄວາ​ມ​ມັ​ລ​ຕິ​ມິ​ເດຍ"</string>
+<string name="sms_custom">"ສົ່ງ​ຂໍ້​ຄວາມ <xliff:g id="custom">%s</xliff:g> "</string>
+<string name="sms_home">"ສົ່ງ​ຂໍ້​ຄວາມ​ຫາ​ໂທ​ລະ​ສັບ​ບ້ານ"</string>
+<string name="sms_mobile">"ສົ່ງ​ຂໍ້​ຄວາມ​ຫາ​ມື​ຖື"</string>
+<string name="sms_work">"ສົ່ງ​ຂໍ້​ຄວາມ​ຫາ​ໂທ​ລະ​ສັບ​ເຮັດ​ວຽກ"</string>
+<string name="sms_fax_work">"ສົ່ງ​ຂໍ້​ຄວາມ​ຫາ​ເຄື່ອງ​ແຟັກ​ເຮັດ​ວຽກ"</string>
+<string name="sms_fax_home">"ສົ່ງ​ຂໍ້​ຄວາມ​ຫາ​ເຄື່ອງ​ແຟັກ​ບ້ານ"</string>
+<string name="sms_pager">"ສົ່ງ​ຂໍ້​ຄວາມ​ຫາເພ​ຈ​ເຈີ​ຣ໌"</string>
+<string name="sms_other">"ຂໍ້ຄວາມ"</string>
+<string name="sms_callback">"ສົ່ງ​ຂໍ້​ຄວາມ​ຫາ​ໝາຍ​ເລກ​ໂທ​ກັບ"</string>
+<string name="sms_car">"ສົ່ງ​ຂໍ້​ຄວາມ​ຫາ​ໂທ​ລະ​ສັບ​ທີ່​ຢູ່​ໃນ​ລົດ"</string>
+<string name="sms_company_main">"ສົ່ງ​ຂໍ້​ຄວາມ​ຫາ​ໂທ​ລະ​ສັບ​ບໍ​ລິ​ສັດ"</string>
+<string name="sms_isdn">"ສົ່ງ​ຂໍ້​ຄວາມ​ຫາISDN"</string>
+<string name="sms_main">"ສົ່ງ​ຂໍ້​ຄວາມ​ຫາ​ເຄື່ອງ​ຫລັກ"</string>
+<string name="sms_other_fax">"ສົ່ງ​ຂໍິ້​ຄວາມ​ຫາ​ໝາຍ​ເລກ​ແຟັກ"</string>
+<string name="sms_radio">"ສົ່ງ​ຂໍ້​ຄວາມ​ຫາ​ອຸ​ປະ​ກອນ​ໄຮ້​ສາຍ"</string>
+<string name="sms_telex">"ສົ່ງ​ຂໍ້​ຄວາມ​ຫາເທເລັກ"</string>
+<string name="sms_tty_tdd">"ສົ່​ງຂໍ້​ຄວາມ​ຫາTTY/TDD"</string>
+<string name="sms_work_mobile">"​ສົ່ງ​ຂໍ້​ຄວາມ​ຫາ​ມື​ຖື​ເຮັດ​ວຽກ"</string>
+<string name="sms_work_pager">"ສົ່ງ​ຂໍ້​ຄວາມ​ຫາເພ​ຈ​ເຈີ​ຣ໌"</string>
+<string name="sms_assistant">"ສົ່ງ​ຂໍ້​ຄວາມ <xliff:g id="assistant">%s</xliff:g> "</string>
+<string name="sms_mms">"​ສົ່ງ​ຂໍ້​ຄວາມ​ຫາຂໍ້​ຄວາ​ມ​ມັ​ລ​ຕິ​ມິ​ເດຍ"</string>
+<string name="clearFrequentsConfirmation_title">"ລຶບ​ຜູ້​ຕິດ​ຕໍ່​ເປັນ​ປະ​ຈຳ​ຫຼືບໍ່?"</string>
+<string name="clearFrequentsConfirmation">"ການ​ດຳ​ເນິນ​ການ​ນີ້​ຈະ​ລຶບ​ຜູ້​ຕິດ​ຕໍ່​ແລະ​ລາຍ​ຊື່​ຜູ້​ຕິດ​ຕໍ່​ທີ່​ມັກ​ໂທ​ຢູ່​ໃນ​ໂປ​ຣ​ແກ​ຣມ​ການ​ໂທ,ແລະ​ບັງ​ຄັບ​ໃຫ້​ໂປ​ຣ​ແກ​ຣມ​ອີ​ເມວ​ຮັບ​ເອົາ​​ທີ່​ຢູ່​ຜູ້​ຕິດ​ຕໍ່​ທີ່​ທ່ານ​ມັກ​ໂທ​ອີກ​ຄັ້ງ. "</string>
+<string name="clearFrequentsProgress_title">"ກຳ​ລັງ​ລຶບ​ຜູ້​ຕິດ​ຕໍ່​​ທີ່ມັກຕິດ​ຕໍ່\u2026"</string>
+<string name="status_available">"ສາມາດໃຊ້ໄດ້"</string>
+<string name="status_away">"ບໍ​ຢູ່"</string>
+<string name="status_busy">"ບໍ່ຫວ່າງ"</string>
+<string name="contactsList">"ລາຍຊື່ຜູ່ຕິດຕໍ່"</string>
+<string name="local_invisible_directory">"ອື່ນໆ"</string>
+<string name="directory_search_label">"ປື້ມໂທລະສັບ"</string>
+<string name="local_search_label">"ລາຍຊື່ຜູ່ຕິດຕໍ່ທັງໝົດ"</string>
+<string name="user_profile_contacts_list_header">"ຂ້ອຍ"</string>
+<string name="search_results_searching">"ກຳລັງຊອກຫາ..."</string>
+<string name="foundTooManyContacts">"​ຜູ້​ຕິດ​ຕໍ່​ທີ່​ຊອກ​ພົບ​ຫລາຍ​ກ່​ວາ <xliff:g id="count">%d</xliff:g>ທ່ານ"</string>
+<string name="listFoundAllContactsZero">"ບໍ່​ມີ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">"ຊອກ​ພົບ​ຜູ້​ຕິດ​ຕໍ່​1​ທ່ານ"</item>
+<item quantity="other">"ຄົ້ນ​ພົບ​<xliff:g id="count">%d</xliff:g>ຜູ້​ຕິດ​ຕໍ່"</item>
+</plurals>
+<string name="description_quick_contact_for">"ຕິດ​ຕໍ່​ດ່ວນ<xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="missing_name">"(ບໍ່​ມີ​ຊື່)"</string>
+<string name="favoritesFrequentCalled">"ຜູ້​ຕິດ​ຕໍ່​ທີ່​ມັກ​ໂທ​ຫາ"</string>
+<string name="favoritesFrequentContacted">"ຜູ້​ທີ່​ມັກ​ຕິດ​ຕໍ່"</string>
+<string name="description_view_contact_detail">"ເບິ່ງລາຍຊື່ຜູ່ຕິດຕໍ່"</string>
+<string name="list_filter_phones">"​ຜູ້​ຕິດ​ຕໍ່​ທີ່​ມີ​ໝາຍ​ເລກ​ໂທ​ລະ​ສັບ​ທັ້ງ​ມົດ"</string>
+<string name="view_updates_from_group">"ກວດ​ເບິ່ງ​ການ​ອັບ​ເດດ"</string>
+<string name="account_phone" product="tablet">"​ສະ​ເພາະ​ພຽງ​ໃນ​ແທັ້ບ​ເດດ, ບໍ່ເກີດຂຶ້ນພ້ອມກັນ"</string>
+<string name="account_phone" product="default">"ບັນ​ທຶດກ​ໄວ້​ສະ​ເພາະ​ໃນ​ມື​ຖື, ບໍ່ເກີດຂຶ້ນພ້ອມກັນ"</string>
+<string name="nameLabelsGroup">"ຊື່"</string>
+<string name="nicknameLabelsGroup">"ຊື່ຫຼິ້ນ"</string>
+<string name="full_name">"ຊື່"</string>
+<string name="name_given">"​ຊື່"</string>
+<string name="name_family">"ນາມ​ສະ​ກຸນ"</string>
+<string name="name_prefix">"ຄໍານໍາຫນ້າຊື່"</string>
+<string name="name_middle">"ຊື່ກາງ"</string>
+<string name="name_suffix">"ຄຳ​ນຳ​ຫລັງ​ຊື່"</string>
+<string name="name_phonetic">"ສະ​ກົດ​ສຍງ​ຊື່"</string>
+<string name="name_phonetic_given">"ສະ​ກົດ​ສຽງ​ຊື່"</string>
+<string name="name_phonetic_middle">"​ສະ​ກົດ​ສຽງ​ຊື່​ກາງ"</string>
+<string name="name_phonetic_family">"ສະ​ກົດ​ສຽງ​ນາມ​ສະ​ກຸນ"</string>
+<string name="phoneLabelsGroup">"ໂທລະສັບ"</string>
+<string name="emailLabelsGroup">"ອີເມວ"</string>
+<string name="postalLabelsGroup">"​ທີ່​ຢູ່"</string>
+<string name="imLabelsGroup">"IM"</string>
+<string name="organizationLabelsGroup">"ອົງ​ກອນ"</string>
+<string name="relationLabelsGroup">"ຄວາມສໍາພັນ"</string>
+<string name="eventLabelsGroup">"ວັນທີພິເສດ"</string>
+<string name="sms">"ຂໍ້ຄວາມ"</string>
+<string name="postal_address">"​ທີ່​ຢູ່"</string>
+<string name="ghostData_company">"ບໍ​ລິ​ສັດ"</string>
+<string name="ghostData_title">"ຊື່"</string>
+<string name="label_notes">"ໝາຍ​ເຫດ"</string>
+<string name="label_sip_address">"ການ​ໂທ​ອິນ​ເຕີ​ເນັດ"</string>
+<string name="websiteLabelsGroup">"​ເວັບ​ໄຊ​ທ໌"</string>
+<string name="groupsLabel">"ກຸ່ມ"</string>
+<string name="email_home">"​ສົ່ງ​ອີ​ເມວ​ຫາ​ອີ​ເມວ​ບ້ານ"</string>
+<string name="email_mobile">"ສົ່ງ​ອີ​ເມວ​ຫາ​ໂທ​ລະ​ສັບ"</string>
+<string name="email_work">"ສົ່ງ​ອີ​ເມວ​ຫາ​ບ່ອນ​ເຮັດ​ວຍກ"</string>
+<string name="email_other">"ອີເມວ"</string>
+<string name="email_custom">"ສົ່ງ​ອີ​ເມວ​ຫາ <xliff:g id="custom">%s</xliff:g>"</string>
+<string name="email">"ອີເມວ"</string>
+<string name="postal_street">"​ຖະ​ໜົນ"</string>
+<string name="postal_pobox">"ຕູ້​ໄປ​ສະ​ນີ"</string>
+<string name="postal_neighborhood">"ໄກ້ຄຽງ"</string>
+<string name="postal_city">"ເມືອງ"</string>
+<string name="postal_region">"ລັດ"</string>
+<string name="postal_postcode">"ລະຫັດ ZIP"</string>
+<string name="postal_country">"ປະ​ເທດ"</string>
+<string name="map_home">"ກວດ​ເບິ່ງ​ທີ່​ຢູ່​ບ້ານ"</string>
+<string name="map_work">"ກວດ​ເບິ່ງ​ທີ່​ຢູ່​ບ່ອ​ເຮັດ​ວຽກ"</string>
+<string name="map_other">"ກວດ​ເບິ່ງ​ທີ່​ຢູ່"</string>
+<string name="map_custom">"ກວດ​ເບິ່ງ​ທີ່​ຢູ່ <xliff:g id="custom">%s</xliff:g> "</string>
+<string name="chat_aim">"ໃຊ້AIMລົມ​ກັນ"</string>
+<string name="chat_msn">"​ໃຊ້Windows Liveລົມ​ກັນ"</string>
+<string name="chat_yahoo">"​ໃຊ້Yahooລົມ​ກັນ"</string>
+<string name="chat_skype">"​ໃຊ້ Skypeລົມ​ກັນ"</string>
+<string name="chat_qq">"​ໃຊ້QQລົມ​ກັນ"</string>
+<string name="chat_gtalk">"​ໃຊ້ Google Talkລົມ​ກັນ"</string>
+<string name="chat_icq">"​ໃຊ້ ICQລົມ​ກັນ"</string>
+<string name="chat_jabber">"​ໃຊ້Jabberລົມ​ກັນ"</string>
+<string name="chat">"​ລົມ​ກັນ"</string>
+<string name="description_minus_button">"ລຶບ"</string>
+<string name="expand_collapse_name_fields_description">"ຂະ​ຫ​ຍາຍ ຫຼືຍຸບຟີ​ລ​ດ໌​ຊື່"</string>
+<string name="list_filter_all_accounts">"ລາຍຊື່ຜູ່ຕິດຕໍ່ທັງໝົດ"</string>
+<string name="list_filter_all_starred">"ໝາຍດາວແລ້ວ"</string>
+<string name="list_filter_customize">"​ກຳ​ນົດ​ເອງ"</string>
+<string name="list_filter_single">"ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="display_ungrouped">"ຜູ້​ຕິດ​ຕໍ່​ອື່ນໆ​ທັ້ງ​ໝົດ"</string>
+<string name="display_all_contacts">"ລາຍຊື່ຜູ່ຕິດຕໍ່ທັງໝົດ"</string>
+<string name="menu_sync_remove">"ລຶບ​ກຸ່ມການເຮັດໃຫ້ເກີດຂຶ້ນພ້ອມກັນ"</string>
+<string name="dialog_sync_add">"ເພີ່ມ​ກຸ່ມການເຮັດໃຫ້ເກີດຂຶ້ນພ້ອມກັນ"</string>
+<string name="display_more_groups">"ກຸ່ມ​ອື່ນໆ\u2026"</string>
+<string name="display_warn_remove_ungrouped">"ຖ້າ​ຫາກ​ທ່ານ​ຍົກ​ເລີກ​ການ​ຊິງ​ຄ໌ \"<xliff:g id="group" example="Starred">%s</xliff:g>\"​ໃນ​ຂະ​ນະ​ດຽວ​ກັນ​ຈະ​ຍົກ​ເລີກ​ການ​ຊິງ​ຄ໌​ຜູ້​ຕິດ​ຕໍ່​ທັ້ງ​ໝົດ​ທີ່ບໍ່​ໄດ້​ຈັດກຸ່ມ."</string>
+<string name="savingDisplayGroups">"ກຳ​ລັງ​ບັນ​ທຶກ​ທາງ​ເລືອກ​ການ​ສະ​ແດງ\u2026"</string>
+<string name="menu_done">"ແລ້ວໆ"</string>
+<string name="menu_doNotSave">"ຍົກເລີກ"</string>
+<string name="listAllContactsInAccount">"ຜູ້​ຕິດ​ຕໍ່​ໃນ<xliff:g id="name" example="abc@gmail.com">%s</xliff:g>"</string>
+<string name="listCustomView">"ຜູ້​ຕິດ​ຕໍ່​ໃນມຸມມອງ​ທີ່​ກຳ​ນົດ​ເອງ"</string>
+<string name="listSingleContact">"ຜູ້​ຕິດ​ຕໍ່​ດ່ຽວ"</string>
+<string name="dialog_new_contact_account">"ສ້າງ​ຜູ້​ຕິດ​ຕໍ່​ຢູ່​ລຸ່ມ​ບັນ​ຊີ"</string>
+<string name="import_from_sim">"​ນຳ​ເຂົ້າ​ຈາກSIM"</string>
+<string name="import_from_sdcard" product="default">"ນຳ​ເຂົ້າ​ຈາກ​ອຸ​ປະ​ກອນ​ນ່ວຍ​ຄວາມ​ຈຳພາຍນອກ"</string>
+<string name="cancel_import_confirmation_message">"ຕ້ອງ​ການ​ຍົກ​ເລີກ​ການ​ນຳ​ເຂົ້າ <xliff:g id="filename" example="import.vcf">%s</xliff:g>ບໍ່?"</string>
+<string name="cancel_export_confirmation_message">"ຕ້ອງ​ການ​ຍົກ​ເລີກ​ການ​ສົ່ງ​ອອກ <xliff:g id="filename" example="export.vcf">%s</xliff:g>ບໍ່?"</string>
+<string name="cancel_vcard_import_or_export_failed">"ບໍ່​ສາ​ມາດ​ຍົກ​ເລີກ​ການ​ນຳ​ເຂົ້າ​/ສົ່ງ​ອອກvCard"</string>
+<string name="fail_reason_unknown">"ບໍ່​ຮູ້​ຂໍ້​ຜິດ​ພາດ"</string>
+<string name="fail_reason_could_not_open_file">"ບໍ່​ສາ​ມາດ​ເປິດ\<xliff:g id="file_name">%s</xliff:g>\: <xliff:g id="exact_reason">%s</xliff:g>."</string>
+<string name="fail_reason_could_not_initialize_exporter">"ບໍ່ສາມາດເລີ່ມຕົ້ນການສົ່ງອອກ:\<xliff:g id="exact_reason">%s</xliff:g>\."</string>
+<string name="fail_reason_no_exportable_contact">"ບໍ່​ມີ​ຜູ້​ຕິດ​ຕໍ່​ທີ່​ສາ​ມາດ​ສົ່ງ​ອອກ​ໄດ້."</string>
+<string name="fail_reason_error_occurred_during_export">"ຜິດ​ພາດ​ເມື່ອ​ສົ່ງ​ອອກ: \<xliff:g id="exact_reason">%s</xliff:g>\."</string>
+<string name="fail_reason_too_long_filename">"ຊື່​ໄຟ​ລ໌​ທີ່​ກຳ​ນົດ​ຍາວ​ເກິນ​ໄປ (\<xliff:g id="filename">%s</xliff:g>\)."</string>
+<string name="fail_reason_too_many_vcard" product="nosdcard">"ໄຟ​ລ໌vCardໃນ​ອຸ​ປະ​ກອນ​ໜ່ວຍ​ຄວາມ​ຈຳຫລາຍ​ເກີນ​ໄປ"</string>
+<string name="fail_reason_too_many_vcard" product="default">"ໄຟ​ລ໌vCardໃນ​ບັດSDຫລາຍ​ເກີນ​ໄປ"</string>
+<string name="fail_reason_io_error">"I/Oຜິດ​ພາດ"</string>
+<string name="fail_reason_low_memory_during_import">"​ໜ່ວຍ​ຄວາມ​ຈຳ​ບໍ່​ພຽງ​ພໍ.ໄຟ​ລ໌​ນີ້​ອາດ​ໃຫ​ຍ່​ເກິນ​ໄປ"</string>
+<string name="fail_reason_vcard_parse_error">"​ເນື່ອງ​ຈາກ​ສາ​ເຫດ​ໂດຍ​ບັງ​ເອີນ ເຮັດ​ໃຫ້​ບໍ່​ສາ​ມາດ​ແຍກວິ​ເຄາະ vCard ໄດ້"</string>
+<string name="fail_reason_not_supported">"​ຮູບ​ແບບ​ນີ້ບໍ່​ໄດ້​ຮັບ​ການ​ສະ​ໜັບ​ສະ​ໜຸນ"</string>
+<string name="fail_reason_failed_to_collect_vcard_meta_info">"ບໍ່​ສາ​ມາດ​ເກັບ​ກຳ​ຂໍ້​ມູນເມ​ຕາ​ຂອງ​ໄຟ​ລ໌vCard​ທີ່​ກຳ​ນົດ​ໄດ້."</string>
+<string name="fail_reason_failed_to_read_files">"ໄຟ​ລ໌​ຫລາຍ​ອັນ ຫຼື​ອັນ​ໜື່ງບໍ່​ສາ​ມາດ​ນຳ​ເຂົ້າ(%s)."</string>
+<string name="exporting_vcard_finished_title">"ສຳ​ເລັດ​ການ​ສົ່ງ​ອອກ <xliff:g id="filename" example="export.vcf">%s</xliff:g>."</string>
+<string name="exporting_vcard_canceled_title">"ໄດ້​ຍົກ​ເລີກ​ການ​ສົ່ງ​ອອກ <xliff:g id="filename" example="export.vcf">%s</xliff:g>​ແລ້ວ ."</string>
+<string name="exporting_contact_list_title">"​ຂໍ້​ມູ​ນ​ຜູ້​ຕິດ​ຕໍ່ກຳ​ລັງ​ສົ່ງອອກ​"</string>
+<string name="exporting_contact_list_message">"​ກຳ​ລັງ​ນຳ​ເອົາ​ຂໍ້​ມູນ​ຜູ້​ຕິດ​ຕໍ່​ຂອງ​ທ່ານ​ນຳ​ອອກ​ໄປ​ທີ່: <xliff:g id="file_name">%s</xliff:g>."</string>
+<string name="composer_failed_to_get_database_infomation">"ບໍ່​ສາ​ມາດ​ຮັບ​ເອົາບໍ່ສາມາດໄດ້ຮັບຂໍ້ມູນຂ່າວສານຖານຂໍ້ມູນ"</string>
+<string name="composer_has_no_exportable_contact" product="tablet">"ບໍ່​ມີ​ຜູ້​ຕິດ​ຕໍ່​ທີ່​ສາ​ມາດ​ສົ່ງ​ອອກ​ໄດ້.ຫາກ​ທ່ານ​ມີ​ຂໍ້​ມູນ​ຜູ້​ຕິດ​ຕໍ່​​ທີ່​ບັນ​ທຶກ​ໃນແທັບ​ເລັດ​ຂອງ​ທ່ານ ອາດ​ຈະ​ມີ​​ຜູ້​ຈັດ​ຫາ ​ການ​ບໍ​ລິ​ການ​ຂໍ້​ມູນ​ບາງ​ຢ່າງບໍ່​ອະ​ນຸ​ຍາດ​ໃຫ້​ສົ່ງ​ອອກ​ຜູ້​ຕິດ​ຕໍ່​ຈາກ​ແທັບ​ເດດ."</string>
+<string name="composer_has_no_exportable_contact" product="default">"ບໍ່​ມີ​ຜູ້​ຕິດ​ຕໍ່​ທີ່​ສາ​ມາດ​ສົ່ງ​ອອກ​ໄດ້.ຫາກ​ທ່ານ​ມີ​ຂໍ້​ມູນ​ຜູ້​ຕິດ​ຕໍ່​​ທີ່​ບັນ​ທຶກ​ໃນ​ມື​ຖື​ຂອງ​ທ່ານ ອາດ​ຈະ​ມີ​​ຜູ້​ຈັດ​ຫາ ​ການ​ບໍ​ລິ​ການ​ຂໍ້​ມູນ​ບາງ​ຢ່າງບໍ່​ອະ​ນຸ​ຍາດ​ໃຫ້​ສົ່ງ​ອອກ​ຜູ້​ຕິດ​ຕໍ່​ຈາກ​ມື​ຖື"</string>
+<string name="composer_not_initialized">"ນັກ​ແຕ່ງvCard ບໍ່​ໄດ້​ເລີ່ມ​ຕົ້ນ​ຢ່າງ​ຖືກ​ຕ້ອງ."</string>
+<string name="exporting_contact_failed_title">"ບໍ່​ສາ​ມາດ​ສົ່ງ​ອອກ"</string>
+<string name="exporting_contact_failed_message">"ບໍ່​ມີ​ການ​ສົ່ງ​ອອກ​ຂໍ້​ມູນ​ຂອງ​ຜູ້​ຕິດ​ຕໍ່.\nສາ​ເຫດ: \<xliff:g id="fail_reason">%s</xliff:g>\"</string>
+<string name="no_sdcard_message" product="nosdcard">"ຊອກບໍ່​ພົບ​ອຸ​ປະ​ກອນ​ໜ່ວຍ​ຄວາມ​ຈຳ​ໃດໆ"</string>
+<string name="no_sdcard_message" product="default">"ຊອກບໍ່​ພົບ ບັດSD"</string>
+<string name="confirm_export_message">"ລາຍ​ຊື່​ຜູ້​ຕິດ​ຕໍ່​ຂອງ​ທ່ານ​ຈະຖືກ​ສົ່ງ​ອອກ​ໄປ​ຍັງ​ໄຟ​ລ໌: <xliff:g id="vcard_filename">%s</xliff:g>."</string>
+<string name="importing_vcard_description">"ກຳ​ລັງ​ນຳ​ເຂົ້າ <xliff:g id="name" example="Joe Due">%s</xliff:g>"</string>
+<string name="reading_vcard_failed_title">"​ບໍ່​ສາ​ມາດ​ອ່ານ​ຂໍ້​ມູນvCard"</string>
+<string name="reading_vcard_canceled_title">"ໄດ້​ຍົກ​ເລີກ​ການ​ອ່ານ​ຂໍ້​ມູນvCard"</string>
+<string name="importing_vcard_finished_title">"ສຳ​ເລັດ​ການ​ນຳ​ເຂົ້າ vCard <xliff:g id="filename" example="import.vcf">%s</xliff:g>"</string>
+<string name="importing_vcard_canceled_title">"ໄດ້​ຍົກ​ເລີກ​ການ​ນຳ​ເຂົ້າ <xliff:g id="filename" example="import.vcf">%s</xliff:g> ​ແລ້ວ"</string>
+<string name="vcard_import_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> ແປັບ​ໜື່ງ​ຈະ​ນຳ​ເຂົ້າ."</string>
+<string name="vcard_import_will_start_message_with_default_name">"ລະ​ບົບ​ແປັບ​ໜື່ງ​ຈະ​ນຳ​ເຂົ້າ​ໄຟ​ລ໌​ນີ້."</string>
+<string name="vcard_import_request_rejected_message">"vCardການ​ຮຽກ​ຮ້ອງ​ການ​ນຳ​ເຂົ້າ​ໄດ້​ຖູກ​ປະ​ຕິ​ເສດ ກະ​ລຸ​ນາ​ລອງ​ໃໝ່​ໃນ​ພາຍ​ຫລັງ."</string>
+<string name="vcard_export_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> ແປັບ​ໜື່ງ​ຈະ​ນຳ​ອອກ."</string>
+<string name="vcard_export_request_rejected_message">"vCardການ​ຮຽກ​ຮ້ອງ​ການ​ສົ່ງ​ໄດ້​ຖູກ​ປະ​ຕິ​ເສດ ກະ​ລຸ​ນາ​ລອງ​ໃໝ່​ໃນ​ພາຍ​ຫລັງ."</string>
+<string name="vcard_unknown_filename">"ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="caching_vcard_message">"​ກຳ​ລັງ​ນຳ​ເອົາvCardຮັກ​ສາ​ໄວ້​ທີ່​ໜ່ວຍ​ຄວາມ​ຈຳ​ທ້ອງຖິ່ນຊົ່ວ​ຄາວ, ການ​ດຳ​ເນິນ​ການ​ຕົວ​ຈີງ​ຈະ​ເລີ່ມ​ຂື້ນ​ໃນ​ຕອນ​ນີ້."</string>
+<string name="percentage">"<xliff:g id="percentage" example="50">%s</xliff:g><xliff:g id="percentsign" example="%">%%</xliff:g>"</string>
+<string name="vcard_import_failed">"ບໍ່​ສາ​ມາດ​ນຳ​ເຂົ້າ vCard."</string>
+<string name="import_failure_no_vcard_file" product="nosdcard">"ບໍ່​ຄົ້ນ​ພົບ​ໄຟ​ລ໌ vCardໃນ​ອຸ​ປະ​ກອນ​ໜ່ວຍ​ຄວາມ​ຈຳ​ນີ້"</string>
+<string name="import_failure_no_vcard_file" product="default">"ບໍ່​ຄົ້ນ​ພົບ​ໄຟ​ລ໌ vCardໃນ​ບັດSDນີ້"</string>
+<string name="nfc_vcard_file_name">"ໄດ້​ຮັບ​ຂໍ້​ມູນ​ຜູ້​ຕິດ​ຕໍ່​ໂດຍ​ຜ່ານ NFC"</string>
+<string name="confirm_export_title">"ຕ້ອງ​ການນໍາອອກຜູ້​ຕິດ​ຕໍ່​ບໍ່?"</string>
+<string name="select_vcard_title">"ເລືອກ​ໄຟ​ລ໌vCard"</string>
+<string name="import_one_vcard_string">"ນຳ​ເຂົ້າ​ໄຟ​ລ໌vCardໜຶ່ງ"</string>
+<string name="import_multiple_vcard_string">"ນຳ​ເຂົ້າ​ໄຟ​ລ໌vCardຫລາຍ​ອັນ"</string>
+<string name="import_all_vcard_string">"ນຳ​ເຂົ້າ​ໄຟ​ລ໌vCardທັ້ງ​ມົດ"</string>
+<string name="searching_vcard_message" product="nosdcard">"​ກຳ​ລັງ​ຄົ້ນ​ຫາ​ຂໍ້​ມູນໃນ​ອຸ​ປະ​ກອນ​ໜ່ວຍ​ຄວາມ​ຈຳ\u2026"</string>
+<string name="searching_vcard_message" product="default">"ກຳ​ລັງ​ຄົ້ນ​ຫາ​ຂໍ້​ມູນ vCard ໃນ​ໜ່ວຍ​ຄວາມ​ຈຳ"</string>
+<string name="caching_vcard_title">"ກຳ​ລັງເກັບ​ຂໍ້​ມູນ"</string>
+<string name="scanning_sdcard_failed_message" product="nosdcard">"​ບໍ່​ສາ​ມາດ​ສະ​ແກນໜ່ວຍ​ຄວາມ​ຈຳ​ນີ້.(ສາ​ເຫດ: \<xliff:g id="fail_reason">%s</xliff:g>\)"</string>
+<string name="scanning_sdcard_failed_message" product="default">"​ບໍ່​ສາ​ມາດ​ສະ​ແກນບັດSDນີ້.(ສາ​ເຫດ: \<xliff:g id="fail_reason">%s</xliff:g>\)"</string>
+<string name="progress_notifier_message">"ກຳ​ລັງ​ນຳ​ເຂົ້າ <xliff:g id="current_number">%s</xliff:g>/<xliff:g id="total_number">%s</xliff:g>: <xliff:g id="name" example="Joe Due">%s</xliff:g>"</string>
+<string name="export_to_sdcard" product="default">"ສົ່ງ​ອອກ​ໄປ​ຍັງ​ອຸ​ປະ​ກອນ​ໜ່ວຍ​ຄວາມ​ຈຳ​ພາຍນອກ"</string>
+<string name="share_visible_contacts">"ແຊ​ຣ໌​ຜູ້​ຕິດ​ຕໍ່​ທີ່​ສາ​ມາດເຫັນ​ນີ້"</string>
+<string name="dialog_import_export">"ນຳ​ເຂົ້າ​/ສົ່ງ​ອອກຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="dialog_import">"ນຳ​ເຂົ້າຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="share_error">"ຜູ້​ຕິດ​ຕໍ່​ນີ້ບໍ່​ສາ​ມາດ​ແຊ​ຣ໌."</string>
+<string name="menu_search">"ຊອກຫາ"</string>
+<string name="menu_contacts_filter">"ຜູ້​ຕິດ​ຕໍ່​ທີ່​ຕ້ອງ​ການ​ສະ​ແດງ​ໃຫ້​ເຫັນ"</string>
+<string name="activity_title_contacts_filter">"ຜູ້​ຕິດ​ຕໍ່​ທີ່​ຕ້ອງ​ການ​ສະ​ແດງ​ໃຫ້​ເຫັນ"</string>
+<string name="custom_list_filter">"ກຳ​ໜົດ​ມຸມມອງ​ທີ່​ກຳ​ນົດ​ເອງ"</string>
+<string name="hint_findContacts">"ຊອກ​ຫາ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="contactsFavoritesLabel">"​ເກັບ​ຮັກ​ສາ"</string>
+<string name="listTotalAllContactsZero">"ບໍ່​ມີ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="listTotalAllContactsZeroCustom">"​ບໍ່​ພົບ​ຜູ້​ຕິດ​ຕໍ່​ໃດໆ"</string>
+<string name="listTotalAllContactsZeroStarred">"ບໍ່​ມີ​ສິ່ງ​ທີ່​ມັກ​ທີ່​ສຸດ."</string>
+<string name="listTotalAllContactsZeroGroup">"ບໍ່​ມີ​ຜູ້​ຕິດ​ຕໍ່​ໃນ <xliff:g id="name" example="Friends">%s</xliff:g>"</string>
+<string name="menu_clear_frequents">"ລຶບຜູ້​ຕິດ​ຕໍ່​ເປັນ​ປະ​ຈຳ"</string>
+<string name="menu_accounts">"ບັນຊີ"</string>
+<string name="menu_import_export">"ນຳ​ເຂົ້າ​/ສົ່ງ​ອອກ"</string>
+<string name="description_send_message">"​ສົ່ງ​ຂໍ້​ຄວາມ​ຫາ <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="description_dial_phone_number">"ໂທ​ຫາ​ໂທ​ລະ​ສັບ​ຂອງ<xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="select_all_contacts">"ເລືອກທັງຫມົດ"</string>
+<string name="select_card">"ກະ​ລຸ​ນາ​ເລືອກ​ບັດ"</string>
+<string name="choose_sim_card">"ເລືອກ SIM "</string>
+<string name="fail_reason_empty">"ຂໍ້​ມູນ​ຜູ້​ຕິດ​ຕໍ່​ວ່າງ​ເປົ່າ"</string>
+<string name="import_from_phone">"ນຳ​ເຂົ້າ​ຈາກ​ຄວາມ​ຈຳ​ພາຍ​ໃນ"</string>
+<string name="label_phone">"ໂທລະສັບ"</string>
+<string name="listTotalPhoneContactsZero">"ບໍ່​ມີ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="cancel_select_all_contacts">"ຍົກ​ເລີກ​ທັ້ງ​ໝົດ"</string>
+<string name="copy_to">"ກ໊ອບ​ປີ​ໄປ​ຍັງ"</string>
+<string name="export_to_phone">"ສົ່ງ​ອອກ​ໄປ​ທີ່​ໜ່ວຍ​ຄວາມ​ຈຳ​ພາຍ​ໃນ"</string>
+<string name="contacts_selection_for_mms_limit">"ການ​ດຳ​ເນີນ​ການ​ເທື່ອ​ນີ້ ທ່ານ​ສາ​ມາ​ມາດ​ເລືອກ​ໄດ້​ພຽງ <xliff:g id="COUNT">%d</xliff:g>​ໝາຍ​ເລກ"</string>
+<string name="contact_status_update_attribution">"ມາ​ຈາກ<xliff:g id="source" example="Google Talk">%1$s</xliff:g>"</string>
+<string name="contact_status_update_attribution_with_date">"<xliff:g id="date" example="3 hours ago">%1$s</xliff:g> via <xliff:g id="source" example="Google Talk">%2$s</xliff:g>"</string>
+<string name="list_contact_phone">"ຜູ້​ຕິດ​ຕໍ່​ທີ່​ມີ​ໝາຍ​ເລກ​ໂທ​ລະ​ສັບ"</string>
+</resources>
